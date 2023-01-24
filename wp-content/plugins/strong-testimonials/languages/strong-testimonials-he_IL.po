@@ -1,0 +1,188 @@
+# Copyright (C) 2014 Strong Testimonials
+# This file is distributed under the same license as the Strong Testimonials package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Strong Testimonials 1.13\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/strong-testimonials\n"
+"POT-Creation-Date: 2018-08-02 15:23-0400\n"
+"PO-Revision-Date: 2018-08-02 15:24-0400\n"
+"Last-Translator: Chris Dillon <chris@strongplugins.com>\n"
+"Language-Team: he_IL <LL@li.org>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#~ msgid "You do not have sufficient permissions to access this page."
+#~ msgstr "﻿אין לך הרשאות מספיקות כדי לגשת לדף זה."
+
+#~ msgid "Fields saved."
+#~ msgstr "שדות שמורים"
+
+#~ msgid "Fields"
+#~ msgstr "﻿שדות"
+
+#~ msgid "Fields will appear in this order on the form."
+#~ msgstr "﻿שדות יופיעו לפי סדר בטופס."
+
+#~ msgid "Sort by grabbing the %s icon."
+#~ msgstr "﻿מיין על ידי לחיצה על %s."
+
+#~ msgid "Restore Defaults"
+#~ msgstr "שחזר ברירת מחדל"
+
+#~ msgid "Category"
+#~ msgstr "קטגוריה"
+
+#~ msgid "Testimonial Title"
+#~ msgstr "כותרת עדות"
+
+#~ msgid "Testimonial Content"
+#~ msgstr "תוכן העדות"
+
+#~ msgid "Featured Image"
+#~ msgstr "תמונת לקוח"
+
+#~ msgid "Full Name"
+#~ msgstr "שם מלא"
+
+#~ msgid "Email"
+#~ msgstr "אי מייל"
+
+#~ msgid "Company Name"
+#~ msgstr "שם החברה"
+
+#~ msgid "Testimonial"
+#~ msgstr "עדות"
+
+#~ msgid "Default:"
+#~ msgstr "ברירת מחדל:"
+
+#~ msgid "All categories"
+#~ msgstr "כל הקטגוריות"
+
+#~ msgid "Categories"
+#~ msgstr "קטגוריות"
+
+#~ msgid "categories"
+#~ msgstr "קטגוריות"
+
+#~ msgid "Getting Started"
+#~ msgstr "התחל מכאן"
+
+#~ msgid "Simple"
+#~ msgstr "בסיסי"
+
+#~ msgid "Advanced"
+#~ msgstr "מתקדם"
+
+#~ msgid "Notes"
+#~ msgstr "הערות"
+
+#~ msgid "Slideshow"
+#~ msgstr "מצגת"
+
+#~ msgid "Read More"
+#~ msgstr "﻿קרא עוד"
+
+#~ msgid "Examples"
+#~ msgstr "דוגמאות"
+
+#~ msgid "Show All"
+#~ msgstr "הצג הכל"
+
+#~ msgid "Settings"
+#~ msgstr "הגדרות"
+
+#~ msgctxt "noun"
+#~ msgid "Guide"
+#~ msgstr "מדריך"
+
+#~ msgctxt "noun"
+#~ msgid "%s Guide"
+#~ msgstr "‏%s מדריך"
+
+#~ msgid "Testimonial Settings"
+#~ msgstr "הגדרות עדויות"
+
+#~ msgid "Settings saved."
+#~ msgstr "הגדרות נשמרו"
+
+#~ msgctxt "link"
+#~ msgid "Read more"
+#~ msgstr "קרא עוד"
+
+#~ msgctxt "widget title"
+#~ msgid "Testimonials"
+#~ msgstr "עדויות"
+
+#~ msgctxt "widget setting"
+#~ msgid "Title"
+#~ msgstr "כותרת"
+
+#~ msgid "Title"
+#~ msgstr "כותרת"
+
+#~ msgctxt "post type general name"
+#~ msgid "Testimonials"
+#~ msgstr "עדויות"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Testimonial"
+#~ msgstr "עדות"
+
+#~ msgctxt "post type"
+#~ msgid "Add New"
+#~ msgstr "הוסף חדש"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "הוסף עדות חדשה"
+
+#~ msgid "Edit Testimonial"
+#~ msgstr "ערוך עדות"
+
+#~ msgid "New Testimonial"
+#~ msgstr "עדות חדשה"
+
+#~ msgid "All Testimonials"
+#~ msgstr "כל העדויות"
+
+#~ msgid "View Testimonial"
+#~ msgstr "הצג עדות"
+
+#~ msgid "Search Testimonials"
+#~ msgstr "חפש עדויות"
+
+#~ msgctxt "post type singular label"
+#~ msgid "testimonial"
+#~ msgstr "עדות"
+
+#~ msgctxt "slug"
+#~ msgid "testimonial"
+#~ msgstr "עדות"
+
+#~ msgid "All Categories"
+#~ msgstr "כל הקטגוריות"
+
+#~ msgid "Add New Category"
+#~ msgstr "הוסף קטגוריה חדשה"
+
+#~ msgid "Edit Category"
+#~ msgstr "ערוך קטגוריה"
+
+#~ msgid "New Category"
+#~ msgstr "קטגוריה חדשה"
+
+#~ msgid "View Category"
+#~ msgstr "הצג קטגוריה"
+
+#~ msgid "Search Category"
+#~ msgstr "חפש קטגוריה"
+
+#~ msgid "Strong Testimonials"
+#~ msgstr "עדויות - סטרונג"

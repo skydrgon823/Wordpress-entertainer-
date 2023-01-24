@@ -1,0 +1,88 @@
+/* -------------------------------------------------
+    Misc.
+   ------------------------------------------------- */
+
+#wpmtst-views-form input[type="submit"] {
+  margin-right: 10px;
+}
+
+td.column-name strong {
+  display: block;
+  margin-bottom: .2em;
+  font-size: 14px;
+}
+
+td.rowspan {
+  border-left: 1px solid #DDD;
+}
+
+.subgroup {
+  background: #f8f8f8;
+  border: 1px solid #f1f1f1;
+  padding: 0.25em 1em;
+  margin-right: 1em;
+}
+
+.subgroup-heading {
+  font-weight: 600;
+}
+
+.subgroup .subgroup-heading + .row-inner {
+  margin-top: 5px;
+}
+
+.subgroup .row-inner {
+  margin-bottom: 10px;
+}
+
+.min-width-1 {
+  min-width: 152px;
+}
+
+.label-not-adjacent {
+  margin-right: 0.3em;
+}
+
+.is-below {
+  margin-top: 10px;
+}
+
+/* -------------------------------------------------
+   Restore Default Breakpoints button
+   ------------------------------------------------- */
+
+#restore-default-breakpoints {
+}
+
+#restored-message {
+  opacity: 0;
+  line-height: 26px;
+  height: 26px;
+  padding: 0 10px;
+  margin: 1px 1em;
+  display: inline-block;
+  background: #00A4F3;
+  color: #FFF;
+  border-radius: 3px;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+  position: relative;
+  top: -1px;
+}
+
+#restored-message.copied {
+  opacity: 0;
+  will-change: opacity;
+  animation: showcopied 2s ease;
+}
+
+@keyframes showcopied {
+  0% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

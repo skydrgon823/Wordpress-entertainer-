@@ -1,0 +1,31 @@
+.strong-view.wpmtst-unstyled.disabled {
+    display:none !important;
+}
+
+.wpmslider-controls.disabled {
+    display: block !important;
+}
+
+/*  Compatibility with metaslider pro layers display
+----------------------------------------------------*/
+
+.msHtmlOverlay .layer .disabled {
+    display: block !important;
+}
+
+
+.strong-view.wpmtst-unstyled .wpmtst-testimonial-inner {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Pagination
+-----------------------------------------------*/
+
+.strong-view ul.simplePagerNav li {
+    display: inline;
+    list-style: none;
+    margin: 0;
+    padding: 5px;
+  }

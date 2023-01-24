@@ -1,0 +1,76 @@
+/*
+ * UnderConstructionPage
+ * Puzzles theme CSS
+ * (c) WebFactory Ltd, 2015 - 2021
+ */
+
+
+html {
+   height: 100%;
+   padding: 0;
+   margin: 0;
+}
+
+body {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 120%;
+  color: #414042;
+  background: #fcb10d; /* Old browsers */
+  background: -moz-linear-gradient(0deg, #fcb10d 0%, #fcb10d 44%, rgba(252, 177, 13, 0.75) 80%, rgba(252, 177, 13, 0.70) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(0deg, #fcb10d 0%, #fcb10d 44%, rgba(252, 177, 13, 0.75) 80%, rgba(252, 177, 13, 0.70) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(0deg, #fcb10d 0%, #fcb10d 44%, rgba(252, 177, 13, 0.75) 80%, rgba(252, 177, 13, 0.70) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#hero-image {
+  text-align: center;
+  margin: 0 auto 30px auto;
+}
+
+#hero-image img {
+  max-width: 80%;
+}
+
+h1 {
+  font-size: 34px;
+  color: #414042;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  margin: 25px 0 45px 0;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+#social {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#social a i {
+  color: #414042;
+  margin: 10px;
+  box-sizing: content-box;
+}
+
+#social a:hover i {
+  color: #ffffff;
+}
+
+@media(max-width:767px) {
+  h1 {
+     font-size: 28px;
+     margin: 10px 0 30px 0;
+  }
+  #hero-image img {
+    max-width: 95%;
+  }
+}

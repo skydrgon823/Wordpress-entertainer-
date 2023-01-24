@@ -1,0 +1,1 @@
+jQuery(document).ready(function(t){"use strict";t(".mobmenu-settings-panel-wrap table.form-table").filter(function(){return 0===t(this).find("tbody tr").length}).remove()});

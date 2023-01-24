@@ -1,0 +1,78 @@
+/*
+ * UnderConstructionPage
+ * Cyber Chick Dark theme CSS
+ * (c) WebFactory Ltd, 2015 - 2021
+ */
+
+
+html {
+   height: 100%;
+   padding: 0;
+   margin: 0;
+}
+
+body {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 120%;
+  color: #ffffff;
+  background: #1b2b3a;
+  padding: 0;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#hero-image {
+  text-align: center;
+  margin: 0 auto 10px auto;
+}
+
+#hero-image img {
+  max-width: 80%;
+}
+
+h1 {
+  font-size: 34px;
+  color: #e2e2e2;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  margin: 20px 0 30px 0;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+#social {
+  text-align: center;
+  margin: 30px 0;
+}
+
+#social a i {
+  color: #bdbec0;
+  margin: 10px;
+  box-sizing: content-box;
+}
+
+#social a:hover i {
+  color: #cc6633;
+}
+
+@media (max-width:767px){
+  h1 {
+     font-size: 30px;
+     margin: 10px 0 30px 0;
+  }
+  #hero-image img {
+    max-width: 95%;
+  }
+}
+
+@media screen and (min-width:1200px){
+  #hero-image img {
+    max-width: 80vh;
+  }
+}

@@ -1,0 +1,17 @@
+
+.strong-view.#{$template}.rtl {
+	.wpmtst-testimonial,
+	.wpmtst-testimonial-inner,
+	.wpmtst-testimonial-heading {
+		text-align: right;
+	}
+
+	.wpmtst-testimonial-image {
+		float: right;
+		margin-left: 1em;
+	}
+
+	.wpmtst-testimonial-field {
+		text-align: left;
+	}
+}

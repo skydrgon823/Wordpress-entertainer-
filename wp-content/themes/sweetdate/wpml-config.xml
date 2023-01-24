@@ -1,0 +1,39 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">kleo-testimonials</custom-type>
+    </custom-types>
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#ffffff</key>
+            <key name="font-current-hover">#0296C0</key>
+            <key name="background-current-normal">#000000</key>
+            <key name="background-current-hover">#000000</key>
+            <key name="font-other-normal">#ffffff</key>
+            <key name="font-other-hover">#0296C0</key>
+            <key name="background-other-normal">#000000</key>
+            <key name="background-other-hover">#171717</key>
+            <key name="border">transparent</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#777777</key>
+            <key name="font-current-hover">#0296C0</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">transparent</key>
+            <key name="background">transparent</key>
+        </key>    
+        <key name="icl_language_switcher_sidebar">0</key>
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">1</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">0</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+    </language-switcher-settings>
+</wpml-config>

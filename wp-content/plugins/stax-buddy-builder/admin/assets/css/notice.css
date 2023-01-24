@@ -1,0 +1,27 @@
+.bpb-notice-box.bpb-notice-info {
+  border-left-color: #03a9f4;
+  background: #f4fcff; }
+
+.bpb-notice-box .bpb-notice-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center; }
+  .bpb-notice-box .bpb-notice-container .bpb-notice-icon {
+    width: 40px;
+    margin-right: 14px; }
+  .bpb-notice-box .bpb-notice-container .bpb-notice-content .button {
+    color: #2f3565;
+    border-color: #e0e0e0;
+    background: #ffffff; }
+    .bpb-notice-box .bpb-notice-container .bpb-notice-content .button:hover {
+      background: #e0e0e0;
+      border-color: #c3c3c3; }
+    .bpb-notice-box .bpb-notice-container .bpb-notice-content .button.button-primary {
+      color: #fff;
+      background: #2f3565;
+      border-color: #2f3565; }
+      .bpb-notice-box .bpb-notice-container .bpb-notice-content .button.button-primary:hover {
+        background: #03a9f4;
+        border-color: #03a9f4; }
+
+/*# sourceMappingURL=notice.css.map */

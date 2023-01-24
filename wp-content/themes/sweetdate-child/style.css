@@ -1,0 +1,454 @@
+/**
+* Theme Name: Sweetdate Child
+* Description: This is a child theme of Sweetdate.
+* Author: <a href="http://themeforest.net/user/SeventhQueen">SeventhQueen</a>
+* Template: sweetdate
+* Version: 3.5.0
+*/
+
+
+
+.top-links{display:none;}
+
+.row {
+	width: 1150px;}
+
+.small-logo img {
+    width: 25px;
+}
+
+.sticky.fixed{
+	
+	background: rgba(0, 0, 0, 0.6);
+}
+
+label{
+	font-size:12px;
+}
+
+.form-search.custom div.custom.dropdown a.current, .form-search.custom input[type="text"], .form-search.custom input[type="password"], .form-search.custom select{
+	background:#0296c0!important;
+}
+
+.column, .columns{
+	padding:0px 8px;
+}
+
+.form-footer{background:transparent;border-color:transparent}
+
+.btn-red{background-color: rgb(218, 41, 28)!important;}
+
+.my-blog-profile {text-align:center;background:transparent;border:0px;}
+
+table.my-blog-profile tbody tr:nth-child(even){
+	background:transparent;text-align:center;
+}
+
+table.my-blog-profile tbody tr td{text-align:center;color:#fff;}
+
+table.my-blog-profile tbody tr td img{
+	border-radius:120px;border:5px solid #fff;
+}
+
+.kleo-clear-radio{color:#fff}
+
+#header a:not(.button){color:#000}
+
+.rowalt {
+    clear: both;
+    margin: 15px 0px;
+}
+.checkalt{clear:both;}
+
+ul.button-nav li{
+	background: #ccc;
+	border-radius:0px!important;
+	margin:0px!important;
+	padding:10px 20px!important;
+}
+
+ul.button-nav li.current{
+	background:#5c2d88!important;
+	color:#fff!important;
+}
+
+ul.button-nav li.current a{
+	color:#fff!important;
+}
+
+.bps-locator-icon{height:28px!important}
+
+.form-wrapper{margin-top:0px}
+
+.bp-field-id-17 {
+    display: none;
+}
+
+
+.search-header{
+   	margin: 0;
+    font-weight: 700;
+    line-height: 1;
+    cursor: pointer;
+    outline: none;
+	
+	
+}
+
+.search-content{
+	padding: 0px 20px;
+}
+
+.no-padding-left{
+	padding-left:0px!important;
+}
+
+.loadingmodal {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .8 ) 
+                url('http://vendorflock.com/wp-content/uploads/2020/11/loading.gif') 
+                50% 50% 
+                no-repeat;
+}
+
+/* When the body has the loading class, we turn
+   the scrollbar off with overflow:hidden */
+body.loading .loadingmodal {
+    overflow: hidden;   
+}
+
+/* Anytime the body has the loading class, our
+   modal element will be visible */
+body.loading .loadingmodal {
+    display: block;
+}
+
+.bps_filters{display:none;}
+.dir-form .item-list-tabs{display:none}
+
+.pmpro_bp_show_level_on_bp_profile { display: none;  height: 0px;  width: 0px;  opacity: 0; visibility: hidden;}
+.item-options{display:none;}
+#members-list li{margin:10px 0px}
+
+ul.item-list{margin:0px!important}
+
+
+.elementor-text-editor h1{margin-bottom:15px;}
+
+.elementor-text-editor ul li{font-size:16px;line-height:22px;padding:10px 0px;border-bottom:1px solid #000;}
+
+.elementor-text-editor ul li:last-child{
+	border-bottom:0px;
+}
+
+.elementor-text-editor ul {list-style-type:none}
+
+body, p, div{
+	font: normal 15px 'Open Sans';
+}
+
+.addtoany_shortcode,#a2a_follow_widget-3{display:inline-block}
+
+#members-list .article-content p {
+    font-size: 15px;
+    line-height: 20px;
+    font-family: 'AllRoundGothicW01-Book';
+	letter-spacing: 1px;
+	  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: pre;
+}
+
+.article-content p b{color:#000}
+.article-content p strong{color:#000}
+
+#support{display:none}
+.article-title {
+  margin-top: 80px !important;
+}
+
+.dl-horizontal dd{min-height:35px;line-height: 28px;}
+
+.dl-horizontal p{line-height:28px!important}
+.dl-horizontal dt{height: 30px;}
+
+
+/*********************/
+.login-buttons {padding-top: 20px;}
+.top-bar {padding-top: 20px;}
+.top-bar ul{float:right;}
+.top-bar ul li{float:left; padding:0px 10px!important; list-style:none;}
+.top-bar ul li a{font-family: 'AllRoundGothicW01-Book'!important; font-size:18px!important;font-weight: 800 !important;letter-spacing: 1px;padding: 0px 10px !important;}
+.bannertxt h3, h4{font-family: 'AllRoundGothicW01-Book'!important;font-weight: 700 !important;letter-spacing: 1px;}
+.bannertxt a{font-family: 'AllRoundGothicW01-Book'!important;font-weight: 700 !important;letter-spacing: 1px;}
+
+.bannerbg1 h1{font-family: "Edwardian Script ITC"!important;}
+.bannerbg1 h2{font-family: "Edwardian Script ITC"!important;}
+.bannerbg1 p{font-family: 'AllRoundGothicW01-Book'!important;font-weight: 700 !important;}
+
+@import url(//db.onlinewebfonts.com/c/dd266e8a31d9cbae26395f9d100e4e4b?family=AllRoundGothicW01-Book);
+@font-face {font-family: "AllRoundGothicW01-Book"; src: url("//db.onlinewebfonts.com/t/dd266e8a31d9cbae26395f9d100e4e4b.eot"); src: url("//db.onlinewebfonts.com/t/dd266e8a31d9cbae26395f9d100e4e4b.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/dd266e8a31d9cbae26395f9d100e4e4b.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/dd266e8a31d9cbae26395f9d100e4e4b.woff") format("woff"), url("//db.onlinewebfonts.com/t/dd266e8a31d9cbae26395f9d100e4e4b.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/dd266e8a31d9cbae26395f9d100e4e4b.svg#AllRoundGothicW01-Book") format("svg"); }
+
+@import url(//db.onlinewebfonts.com/c/ca6f91c0cad2fe33614026d17117601d?family=Edwardian+Script+ITC);
+
+@font-face {font-family: "Edwardian Script ITC"; src: url("//db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.eot"); src: url("//db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.woff") format("woff"), url("//db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.svg#Edwardian Script ITC") format("svg"); } 
+
+#wpforms-1623 {
+  width: 50%;
+}
+#wpforms-1623-field_1-container{padding-right:0% !important;}
+#wpforms-1623-field_1{
+	border:none !important;
+	padding: 25px 20px;
+	border-radius: 30px 0px 0px 30px;
+}
+#wpforms-submit-1623{
+padding: 16px 15px;
+margin-left: -20px;
+border-radius: 30px;
+background-color: #2771cb;
+color: #fff;
+}
+.elementor-widget:not(:last-child) {margin-bottom: 0px !important;}
+#menu-footer-menu {
+  display: inline-flex;
+}
+.elementor-1520 .elementor-element.elementor-element-e5685e3 .elementor-testimonial-wrapper .elementor-testimonial-image img {
+  width: 270px;
+	height: 220px;}
+.inline-menu #menu-footer-menu {
+    margin: 0 auto;
+    text-align: center;
+}
+.inline-menu #menu-footer-menu li {
+    display: inline-block;
+    margin: 0 4%;
+}
+.testimonials .strong-view.wpmtst-default .wpmtst-testimonial-image img {
+    background: none;
+    border-radius: 50%;
+    padding: 0!important;
+    border: 20px solid#dcdcdc;
+    max-width: 200px!important;
+}
+
+.testimonials .strong-view.wpmtst-default .wpmtst-testimonial-image img{background:none;border-radius:50%;padding:0!important;}
+.testimonials .wpmtst-testimonial-image.testimonial-image{border-radius: 50%;
+border: 20px solid #ededed; margin-top:-30px!important;}
+.testimonials .wpmtst-testimonial-heading.testimonial-heading {
+ text-transform: uppercase;
+  font-size: 20px;
+	font-weight: 600;}
+.testimonials .testimonial-heading h3{text-transform:uppercase;font-size:30px}
+.testimonials h2{text-transform:uppercase;font-size:40px}
+.strong-view.wpmtst-default .wpmtst-testimonial{border:0px!important;}
+.strong-view.wpmtst-default .wpmtst-testimonial-inner{border:0px!important;}
+.strong-view.wpmtst-default .wpmtst-testimonial-inner{padding-top:40px!important;}
+.testimonialset h2{color:#8cbcbf!important;text-transform:capitalize;}
+.testimonialset .wpmtst-testimonial-field.testimonial-field.testimonial-name{font-weight: 100;
+font-size: 24px;}
+.testimonialset .wpmtst-testimonial-field.testimonial-field.testimonial-company{font-style:italic; font-weight:600;}
+.newsbtn button{margin-left: 0px;
+padding: 15.4px 16px!important;
+margin-top: 0px;}
+
+.testimonialset h3{font-family:'Edwardian Script ITC'!important; font-size:70px; font-weight:700;}
+.testimonialset .testimonial-name{text-align:left!important;font-family:'AllRoundGothicW01-Book'!important;letter-spacing: 1px;color: #000;font-weight: 700 !important;
+text-transform: uppercase;padding-top:15px;}
+.testimonialset p{font-family: 'AllRoundGothicW01-Book'!important;line-height: 35px;font-size:16px;font-weight: 700 !important;letter-spacing: 1px;}
+
+.strong-view.wpmtst-default .wpmtst-testimonial-image img{border: 10px solid #fff;
+border-radius: 51%;
+padding: 0px!important;
+margin: 0 auto;}
+#footer{display:none;}
+.wpmtst-testimonial-inner{background-image:url('http://vendorflock.com/wp-content/uploads/2022/04/testimonialsbg.png');background-repeat:no-repeat;background-size: auto;
+background-position: left bottom;}
+.wpmtst-testimonial-heading {
+  margin-left: 51%;
+}.strong-view.wpmtst-default .wpmtst-testimonial-image{margin-left:15%;margin-right: 8%;}
+.strong-view.wpmtst-default.slider-container.slider-adaptive:not(.slider-mode-horizontal) .wpmslider-viewport{border:0px;}
+
+.elementor-widget-postslist .elementor-column, .elementor-column-wrap{display:block;text-align: center;margin: 0px 10px;}
+.date-time{padding:10px 20px; margin:0px 45px; background:#2771cb; color:#fff;margin-top: -25px;
+position: absolute;}
+.elementor-widget-postslist  h3{margin-top:35px;}
+.elementor-widget-postslist .post-content{font-family: 'AllRoundGothicW01-Book'!important;line-height: 30px;font-size:17px;margin-bottom: 20px;font-weight: 700!important;letter-spacing: 1px;}
+.read-more a {color:#2871cc;
+  border: 2px solid#2871cc;
+  border-radius: 35px;
+  padding: 10px 20px;
+  margin-top: 20px;
+	text-transform:uppercase;
+}
+.read-more a:hover{background:#2871cc; color:#fff!important;}
+.wpmslider-pager-link::before {
+  background: #2871cc !important;
+}
+.header-bg {
+  background: none;
+  position: absolute;
+  z-index: 999;
+  width: 100%;
+}
+
+.header-login-button a {
+font-size: 16px !important;
+background: none !important;
+border: 0px !important;
+padding: 7px 16px !important;
+margin-right:10px;
+letter-spacing:1px;
+font-family: 'AllRoundGothicW01-Book'!important;
+}
+.header-login-button a:hover{background:#2871cc!important;color: #fff !important;border-radius: 20px !important; font-family: 'AllRoundGothicW01-Book'!important;
+ font-size: 16px !important;font-weight: 700 !important;letter-spacing:1px;}
+.header-login-button a:hover .icon-signin{color: #fff !important;}
+.header-login-button .icon-signin{color:#2871cc;}
+.header-register-button a {
+border-radius:50px!important;
+background: #2871cc !important;
+padding: 7px 16px !important;
+ font-family: 'AllRoundGothicW01-Book'!important;
+ font-size: 16px !important;
+font-weight: 700 !important;
+letter-spacing:1px;
+}
+.header-register-button a:hover{background:#fff!important; color:#2871cc!important;}
+.header-login-button .icon-signin{color:#2871cc;}
+
+
+.btn-profile .radius{
+font-size: 16px !important;
+border: 0px !important;
+padding: 7px 16px !important;
+font-family: 'AllRoundGothicW01-Book'!important;
+font-weight: 700 !important;
+margin-right:10px;
+}
+.btn-profile a:hover{background:#2871cc!important;color: #fff !important;}
+.btn-profile a:hover .icon-signin{color: #fff !important;}
+.btn-profile .icon-signin{color:#2871cc;}
+
+.btn-profile .secondary { margin-right: 8px;}
+.userlogout a {
+border-radius:50px!important;
+background: #2871cc !important;
+padding: 7px 16px !important;
+ font-family: 'AllRoundGothicW01-Book'!important;
+ font-size: 16px !important;
+font-weight: 700 !important;
+
+}
+.userlogout a:hover{background:#fff!important; color:#2871cc!important;}
+.userlogout .icon-signin{color:#2871cc;}
+
+.btn-profile .button.dropdown.split > span {
+  box-shadow: none;
+  background: #2871cc !important;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  color: #fff !important;
+}
+
+
+.wpcontactus h1{color:#2871cc!important;}
+.wpcontactus button{background: #2871cc !important;
+color: #fff !important;
+padding: 10px 30px !important;
+font-size: 16px !important;
+letter-spacing: 2px !important;
+border: 1px solid #000 !important;}
+.relative.btn-profile .secondary {
+  border: 0px !important;
+  background: #2871cc !important;
+  color: #fff !important;
+  border-radius: 50px !important;
+  
+}
+#galleryimg h4{background-color: rgb(8, 10, 9, 0.5); padding:10px 15px;margin: 0px 25px;}
+#header .btn-profile .kleo-notifications a {color: #000 !important;}
+#members-dir-list h5 a{color:#2871cc!important;}
+.search-item .search-meta p{color:#777;}
+.btn-profile .button.dropdown.split > span {color:#fff!important;}
+.with-top-border{background:#F0EBDF; padding:50px;}
+.with-top-border .menu-vendormenu-container ul {width: 100%;margin: 0 auto;text-align: center;padding: 15px 0px 30px;}
+.with-top-border .menu-vendormenu-container ul li{display: inline-block;padding: 0px 20px;border-right: 1px solid;line-height: 13px;height: 13px;font-family: 'AllRoundGothicW01-Book';}
+.with-top-border .menu-vendormenu-container ul li a {font-size: 14px; letter-spacing: 1px;}
+.with-top-border .menu-vendormenu-container ul li:last-child {  border: 0px;}
+.with-top-border ul li svg { width: 20px !important; height: 20px !important;}
+.with-top-border h2{font-family:'Edwardian Script ITC'!important;color:#2871cc;}
+.article-content h2 { padding-top: 70px;font-family: 'AllRoundGothicW01-Book'!important;}
+.footcopyright { border-top: 1px solid #d7d2c7; padding: 10px 0px;font-family: 'AllRoundGothicW01-Book'!important;color: #000;letter-spacing: 1px;}
+.no-padding-left{padding-top:150px;}
+.article-content #buddypress { margin-top: 70px;}
+#buddypress .form-header {background: #2871cc;}
+#buddypress #bps_widgetform_1141 { background: #2871cc;}
+#btnreset {border: 1px solid; margin-bottom: 10px;}
+#main-content .twelve h2 {  padding-top: 50px;  text-align: center;  font-weight: 900;font-family: 'AllRoundGothicW01-Book'!important;font-size: 40px;color: #2871cc;}
+.mobilemenu{display:none;}
+.desktopmenu{display:block;}
+div#profile{padding:140px 0px 40px;}
+#header .top-bar ul > li:hover:not(.name) a{background:#2871cc;}
+#bps_widget-2 h5 {color: #fff; text-align: center; background: #2871cc;  margin: 0; padding: 20px;  border-bottom: 1px solid #fff;}
+.field_17_contains .four{margin-top:15px;}
+.field_17_contains .eight{margin-top:15px;}
+.custom.form-search.form-memberss .editfield { border-bottom: 1px solid #276cc3;}
+#buddypress .submit { margin-top: 32px;}
+.field_type_bds_location input.bps-location-input { margin-bottom: 0;}
+.field_type_bds_location small { color: #fff; margin-bottom: 20px; display: block;}
+.user-nicename{float:left;}
+#profile .activity{float:left;}
+
+@media(max-width:767px)
+{
+.mobilemenu{display:block!important;float: right;margin:30px 15px 15px 0px;}
+.mobilemenu ul li a{padding:5px 10px!important;}
+.btn-profile .radius{font-size:14px!important;}
+.userlogout a{font-size:14px!important;}
+.header-register-button a{font-size:14px!important;}
+.column:last-child, .columns:last-child{float:left;}
+#header .column, .columns{width:100%!important;}
+.desktopmenu{display:none!important;}
+.read-more { margin-bottom: 50px;}
+.testimonialset h3{font-size:40px;}
+.wpmtst-testimonial-inner{background:none;}
+.wpmtst-testimonial-heading {  margin-left: 0;}
+.top-bar ul.left, .top-bar ul.right{float: left;}
+.top-bar > ul .name h1 a{font-size:16px!important;}
+.top-bar { padding-top: 0px;}
+.with-top-border{padding:50px 0px;}
+.testimonialset h3 { font-size: 42px!important;}
+.with-top-border h2{font-size:35px!important;}
+#wpforms-1623 { width: 70%;}
+#wpforms-1623-field_1 {border-radius: 30px 30px 30px 30px;}
+#wpforms-submit-1623 { margin-left: 0px;}
+}
+@media(max-width:979px)
+{
+.elementor-widget-postslist .elementor-column, .elementor-column-wrap{margin:0px;}	
+.top-bar{padding-top:0px;}
+.mobilemenu{display:block!important;float: right;margin:30px 15px 15px 0px;}
+.mobilemenu ul li a{padding:5px 10px!important;}
+#header .nine{width:100%!important;}
+.top-bar ul.left, .top-bar ul.right{float:left;}
+.btn-profile .radius{font-size:14px!important;}
+.userlogout a{font-size:14px!important;}
+.header-register-button a{font-size:14px!important;}
+.column:last-child, .columns:last-child{float:left;}
+.desktopmenu{display:none!important;}
+.strong-view.wpmtst-default .wpmtst-testimonial-image{margin-left: 12%;
+margin-right: 0%;}
+.testimonialset h3 { font-size: 58px;}
+}
+.input-options.checkbox-options {display: flex;}
+label.option-label { display: inline-flex; margin: 5px;}
+label.option-label span.custom.checkbox { margin-right: 5px;}
+.xprofile_field .custom.dropdown {width: 100% !important;}
+div.field_food-type, div.field_specialty, div.field_musical, div.field_variety-entertainment, div.field_equipment-personel, div.field_art, div.field_crafts {display: none;}

@@ -1,0 +1,40 @@
+@media #{$large-up} {
+
+	.mfp-content {
+		.rtm-lightbox-container {
+			display: flex;
+
+			// Fixed issue in Firefox and Opera
+			table-layout: fixed;
+			width: 100%;
+			min-height: 473px;
+		}
+
+		.rtm-mfp-close {
+			background: transparent;
+		}
+
+		.rtm-single-media {
+			display: flex;
+			width: 66.6667%;
+			align-items: center;
+		}
+
+		.rtm-single-meta {
+			display: block;
+			width: 33.3333%;
+			padding: 20px;
+
+			.rtmedia-scroll {
+				height: 100%;
+				overflow-X: hidden;
+			}
+		}
+
+		.rtmedia-item-comments {
+			/* max-height: 330px;
+			overflow-x: hidden;
+			overflow-y: auto; */
+		}
+	}
+}

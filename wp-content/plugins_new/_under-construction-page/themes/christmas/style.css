@@ -1,0 +1,90 @@
+/*
+ * UnderConstructionPage
+ * Christmas theme CSS
+ * (c) WebFactory Ltd, 2015 - 2021
+ */
+
+
+html {
+   height: 100%;
+   padding: 0;
+   margin: 0;
+}
+
+body {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 120%;
+  color: #3f3e40;
+  background: #90d479;
+  padding: 0;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #fff;
+}
+
+#hero-image {
+  text-align: center;
+  margin: 0 auto 0 auto;
+  padding: 40px 0 0 0;
+  background-color: #41d1fd;
+  background-image: url(snow.png);
+}
+
+#hero-image img {
+  max-width: 35%;
+  margin: 0 0 -35px 0;
+}
+
+#snow-bottom {
+  height: 27px;
+  background-image: url(snow-bottom.png);
+  background-repeat: no-repeat;
+}
+.container-wrap {
+  background-color: #fff;
+  padding: 20px 0;
+}
+
+h1 {
+  font-size: 34px;
+  color: #ff7041;
+  font-family: 'Mountains of Christmas', cursive;
+  font-weight: 700;
+  margin: 30px 0 30px 0;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+#social {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#social a i {
+  color: #3f3e40;
+  margin: 10px;
+  box-sizing: content-box;
+}
+
+#social a:hover i {
+  color: #ff7041;
+}
+
+@media(max-width:767px){
+  h1 {
+     font-size: 30px;
+     margin: 10px 0 30px 0;
+  }
+  #hero-image img {
+    max-width: 95%;
+  }
+  #hero-image {
+    padding: 20px 0 0 0;
+  }
+}

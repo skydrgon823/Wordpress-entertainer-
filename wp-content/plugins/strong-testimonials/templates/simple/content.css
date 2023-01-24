@@ -1,0 +1,272 @@
+/**
+ * Strong Testimonials Simple template
+ */
+/* Clears
+-----------------------------------------------*/
+.clear {
+  clear: both;
+}
+
+/**
+Minimum paragraph width means no short words in skinny space next to image
+in columns or small screens.
+
+This workaround is needed until we can use flexbox properly
+or CSS offers container queries.
+
+Thanks https://css-tricks.com/minimum-paragraph-widths/
+*/
+.maybe-clear {
+  content: "";
+  /* this value seems to work well in both responsive and Masonry */
+  width: 6em;
+  display: block;
+  overflow: hidden;
+}
+
+/* Base
+-----------------------------------------------*/
+.strong-view.wpmtst-simple {
+  display: block;
+  width: 100%;
+}
+.strong-view.wpmtst-simple div {
+  box-sizing: border-box;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial {
+  max-height: none;
+  max-width: none;
+  padding: 0;
+  width: 100%;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial.t-slide {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-inner {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-image {
+  max-width: 100%;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-field-before {
+  margin-right: 0.5em;
+}
+.strong-view.wpmtst-simple a.readmore,
+.strong-view.wpmtst-simple a.readmore-toggle {
+  white-space: nowrap;
+  z-index: 100;
+}
+.strong-view.wpmtst-simple a.readmore-toggle:hover {
+  cursor: pointer;
+}
+
+.strong-view.slider-container {
+  opacity: 1;
+}
+.strong-view .screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+}
+
+/* Template
+-----------------------------------------------*/
+.strong-view.wpmtst-simple .strong-content {
+  margin: 1em auto;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial {
+  margin: 1em auto;
+  text-align: left;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial:first-child {
+  margin-top: 0;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial:last-child {
+  margin-bottom: 0;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-inner {
+  padding: 1em;
+  text-align: left;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-inner > *:not(:nth-last-child(2)):not(:last-child) {
+	margin-bottom: 5px;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-heading {
+  margin-top: 0;
+  margin-bottom: 1em;
+  text-align: left;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-content p:first-of-type {
+  margin-top: 0;
+  padding-top: 0;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-content p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-image {
+  float: left;
+  margin-top: .25em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-image img {
+  background: none;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-image a {
+  text-decoration: none;
+  box-shadow: none;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-image .initials {
+  background: none;
+  text-align: center;
+  font-size: 42px;
+  font-weight: bold;
+  display: table-cell;
+  vertical-align: middle;
+}
+.strong-view.wpmtst-simple .wpmtst-testimonial-field {
+  clear: both;
+}
+.strong-view.wpmtst-simple .readmore {
+  margin-top: 1em;
+}
+.strong-view.wpmtst-simple .readmore-page {
+  padding: 1em;
+  text-align: center;
+}
+
+/* Pagination
+-----------------------------------------------*/
+/* Simple pagination
+-----------------------------------------------*/
+.strong-view.wpmtst-simple.strong-pager {
+  display: none;
+}
+
+.simplePagerList {
+  /* match .strong-content container */
+  margin: 20px auto;
+  text-align: center;
+}
+
+.strong-view ul.simplePagerNav {
+  margin: 0 auto;
+  padding: 0;
+  display: inline-block;
+}
+.strong-view ul.simplePagerNav li {
+  display: inline;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.strong-view ul.simplePagerNav li a {
+  margin: 0 0.2em;
+  padding: 0.1em 0.3em;
+  outline: none;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+.strong-view ul.simplePagerNav li a:hover {
+  background: #BBB;
+  color: #FFF;
+}
+.strong-view ul.simplePagerNav li.currentPage a {
+  text-decoration: none;
+  background: #999;
+  color: #FFF;
+}
+
+.strong-view.rtl ul.simplePagerNav li {
+  float: right;
+}
+
+/* Standard pagination
+-----------------------------------------------*/
+.strong-view .nav-links {
+  margin: 20px auto;
+  text-align: center;
+}
+.strong-view .nav-links a, .strong-view .nav-links span {
+  display: inline-block;
+  line-height: 1.5;
+  margin: 0 0.2em;
+  padding: 0.1em 0.3em;
+  transition: background 0.2s ease;
+}
+.strong-view .nav-links a.current, .strong-view .nav-links span.current {
+  background: #999;
+  color: #FFF;
+}
+.strong-view .nav-links a {
+  outline: none;
+  text-decoration: none;
+}
+.strong-view .nav-links a:hover,
+.strong-view .nav-links a.prev:hover,
+.strong-view .nav-links a.next:hover,
+.strong-view .nav-links span:hover {
+  background: #BBB;
+  color: #FFF;
+}
+
+/* Slideshow
+-----------------------------------------------*/
+.strong-view.wpmtst-simple.slider-container .strong-content {
+  margin: 0 auto;
+}
+.strong-view.wpmtst-simple.slider-container .wpmtst-testimonial:not(:first-child) {
+  display: none;
+}
+.strong-view.wpmtst-simple.nav-position-inside .wpmtst-testimonial-inner {
+  padding-bottom: 48px;
+}
+.strong-view.wpmtst-simple.controls-type-sides .wpmtst-testimonial-inner {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* Responsive
+-----------------------------------------------*/
+@media only screen and (max-width: 320px) {
+  .strong-view.wpmtst-simple .wpmtst-testimonial-image {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+/* RTL
+-----------------------------------------------*/
+.strong-view.wpmtst-simple.rtl .wpmtst-testimonial,
+.strong-view.wpmtst-simple.rtl .wpmtst-testimonial-inner,
+.strong-view.wpmtst-simple.rtl .wpmtst-testimonial-heading {
+  text-align: right;
+}
+.strong-view.wpmtst-simple.rtl .wpmtst-testimonial-image {
+  float: right;
+  margin-left: 1em;
+}
+.strong-view.wpmtst-simple.rtl .wpmtst-testimonial-field {
+  text-align: left;
+}
+.strong-view.wpmtst-simple .disabled {
+  display : none!important;
+}
+
+.wpmslider-controls.disabled {
+    display: block !important;
+}
+
+/*  Compatibility with metaslider pro layers display
+----------------------------------------------------*/
+
+.msHtmlOverlay .layer .disabled {
+    display: block !important;
+}

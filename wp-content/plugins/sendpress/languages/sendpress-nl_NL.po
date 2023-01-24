@@ -1,0 +1,3282 @@
+# Copyright (C) 2017 SendPress Newsletters
+# This file is distributed under the same license as the SendPress Newsletters package.
+# Translators:
+# Gerard Frerix <gfrerix@gfrerix.com>, 2017
+# J. van den Hout <j.vanden.hout@hccnet.nl>, 2014
+# Martijn Beurze <martijn@echoes.nl>, 2013
+# Thom, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: SendPress\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sendpress\n"
+"POT-Creation-Date: 2017-11-06 00:13:46+00:00\n"
+"PO-Revision-Date: 2017-11-06 00:15+0000\n"
+"Last-Translator: Josh Lyford <josh@brewlabs.us>\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/wp-translations/sendpress/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: classes/class-sendpress-ajax-loader.php:212
+msgid "User was not subscribed to the list."
+msgstr "Gebruiker was niet geabonneerd op de lijst."
+
+#: classes/class-sendpress-api.php:202
+msgid "You must specify both a token and API key!"
+msgstr "Een token en API sleutel moeten worden opgegeven!"
+
+#: classes/class-sendpress-api.php:210
+msgid "Your request could not be authenticated!"
+msgstr "Het verzoek kon niet worden geauthenticeerd."
+
+#: classes/class-sendpress-api.php:218
+msgid "Invalid API key!"
+msgstr "Ongeldige API-sleutel!"
+
+#: classes/class-sendpress-api.php:345
+msgid "Invalid query!"
+msgstr "Ongeldige query!"
+
+#: classes/class-sendpress-autoresponder-table.php:104
+msgid "Content"
+msgstr "Inhoud"
+
+#: classes/class-sendpress-autoresponder-table.php:138
+#: classes/class-sendpress-email-local-table.php:158
+#: classes/class-sendpress-email-templates-table.php:102
+#: classes/class-sendpress-email-templates-table.php:139
+#: classes/class-sendpress-emails-table.php:104
+#: classes/class-sendpress-emails-table.php:139
+#: classes/class-sendpress-lists-table.php:101
+#: classes/class-sendpress-lists-table.php:147
+#: classes/class-sendpress-settings-forms-table.php:92
+#: classes/class-sendpress-settings-forms-table.php:123
+#: classes/class-sendpress-subscribers-all-table.php:94
+#: classes/class-sendpress-system-email-table.php:101
+#: classes/class-sendpress-system-email-table.php:135
+#: classes/views/class-sendpress-view-emails-send.php:93 sendpress.php:1158
+msgid "Edit"
+msgstr "Bewerken"
+
+#: classes/class-sendpress-autoresponder-table.php:139
+#: classes/class-sendpress-autoresponder-table.php:248
+#: classes/class-sendpress-email-local-table.php:159
+#: classes/class-sendpress-email-templates-table.php:140
+#: classes/class-sendpress-email-templates-table.php:249
+#: classes/class-sendpress-emails-table.php:140
+#: classes/class-sendpress-emails-table.php:249
+#: classes/class-sendpress-lists-table.php:279
+#: classes/class-sendpress-reports-tests-table.php:395
+#: classes/class-sendpress-settings-forms-table.php:92
+#: classes/class-sendpress-settings-forms-table.php:124
+#: classes/class-sendpress-subscribers-all-table.php:231
+#: classes/class-sendpress-system-email-table.php:136
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: classes/class-sendpress-autoresponder-table.php:187
+#: classes/class-sendpress-emails-table.php:188
+#: classes/class-sendpress-queue-all-table.php:217
+#: classes/class-sendpress-reports-table.php:336
+#: classes/class-sendpress-reports-tests-table.php:332
+#: classes/class-sendpress-system-email-table.php:184
+#: classes/views/class-sendpress-view-emails-autoedit.php:93
+#: classes/views/class-sendpress-view-emails-create.php:99
+#: classes/views/class-sendpress-view-emails-create.php:101
+#: classes/views/class-sendpress-view-emails-createauto.php:95
+#: classes/views/class-sendpress-view-emails-createauto.php:97
+#: classes/views/class-sendpress-view-emails-edit.php:133
+#: classes/views/class-sendpress-view-emails-send-cancel.php:46
+#: classes/views/class-sendpress-view-emails-send-confirm.php:102
+#: classes/views/class-sendpress-view-emails-send.php:107
+#: classes/views/class-sendpress-view-emails-systememailcreate.php:108
+#: classes/views/class-sendpress-view-emails-systememailcreate.php:110
+#: classes/views/class-sendpress-view-emails-systememailedit.php:99
+#: classes/views/class-sendpress-view-settings-activation.php:176
+#: inc/forms/email-style.2.0.php:206
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: classes/class-sendpress-autoresponder-table.php:188
+#: classes/class-sendpress-email-templates-table.php:189
+#: classes/class-sendpress-emails-table.php:189
+#: classes/class-sendpress-system-email-table.php:185
+msgid "Created"
+msgstr "Aangemaakt"
+
+#: classes/class-sendpress-autoresponder-table.php:189
+#: classes/class-sendpress-emails-table.php:190
+#: classes/class-sendpress-lists-table.php:228
+msgid "Last Send"
+msgstr "Laatst verzonden"
+
+#: classes/class-sendpress-cron.php:171
+msgid "Once every minutes"
+msgstr "Om de minuut"
+
+#: classes/class-sendpress-cron.php:175
+msgid "Once every two minutes"
+msgstr "Om de 2 minuten"
+
+#: classes/class-sendpress-cron.php:179
+msgid "Once every five minutes"
+msgstr "Om de vijf minuten"
+
+#: classes/class-sendpress-cron.php:183
+msgid "Once every ten minutes"
+msgstr "Om de tien minuten"
+
+#: classes/class-sendpress-cron.php:187
+msgid "Once every fifteen minutes"
+msgstr "Om de vijftien minuten"
+
+#: classes/class-sendpress-cron.php:191
+msgid "Once every thirty minutes"
+msgstr "Om de dertig minuten"
+
+#: classes/class-sendpress-cron.php:195
+msgid "Once every two hours"
+msgstr "Om de twee uur"
+
+#: classes/class-sendpress-cron.php:199
+msgid "Once a week"
+msgstr "Om de week"
+
+#: classes/class-sendpress-cron.php:203
+msgid "Once every 28 days"
+msgstr "Om de 28 dagen"
+
+#: classes/class-sendpress-cron.php:207
+msgid "Once Monthly"
+msgstr "Om de maand"
+
+#: classes/class-sendpress-email-customizer.php:68
+#: classes/class-sendpress-posts.php:239
+msgid "SendPress Templates"
+msgstr "SendPress sjabloon"
+
+#: classes/class-sendpress-email-customizer.php:69
+msgid ""
+"Within the Email Templates customizer you can change how your WordPress "
+"Emails looks. It's fully compatible with WooCommerce and Easy Digital "
+"Downloads html emails"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:75
+#: classes/views/class-sendpress-view-emails-send.php:202
+#: classes/views/class-sendpress-view-queue-all.php:79
+#: classes/views/class-sendpress-view-queue-stuck.php:130
+#: classes/views/class-sendpress-view-queue-stuck.php:204
+#: classes/views/class-sendpress-view-queue.php:185
+#: classes/views/class-sendpress-view-queue.php:240
+#: classes/views/class-sendpress-view-settings-access.php:132
+#: classes/views/class-sendpress-view-settings.php:31 sendpress.php:1295
+#: sendpress.php:1346
+msgid "Settings"
+msgstr "Instellingen"
+
+#: classes/class-sendpress-email-customizer.php:79
+#: classes/views/class-sendpress-view-emails-createauto.php:105
+#: classes/views/class-sendpress-view-emails-edit.php:215
+#: classes/views/class-sendpress-view-emails-systememailcreate.php:118
+#: classes/views/class-sendpress-view-emails-systememailedit.php:181
+msgid "Template"
+msgstr "Sjabloon"
+
+#: classes/class-sendpress-email-customizer.php:83
+msgid "Email Header"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:87
+msgid "Email Body"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:91
+#: classes/views/class-sendpress-view-emails-edit.php:145
+#: classes/views/class-sendpress-view-emails-systememailedit.php:111
+msgid "Footer"
+msgstr "Footer"
+
+#: classes/class-sendpress-email-customizer.php:95
+msgid "Send test email"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:207
+msgid "From name"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:211
+#: classes/class-sendpress-email-customizer.php:229
+msgid "Default: "
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:225
+#: classes/views/class-sendpress-view-settings-account.php:98
+#: classes/views/class-sendpress-view-settings-account.php:127
+msgid "From Email"
+msgstr "Van e-mail"
+
+#: classes/class-sendpress-email-customizer.php:256
+msgid "Choose one"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:278
+msgid "Email body size"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:281
+msgid "Choose boxed size"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:295
+#: classes/class-sendpress-email-customizer.php:386
+#: classes/class-sendpress-email-customizer.php:450
+#: classes/class-sendpress-email-customizer.php:559
+msgid "Background Color"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:298
+msgid "Choose email background color"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:324
+#: classes/class-sendpress-email-customizer.php:343
+msgid "Logo"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:328
+msgid "Add an image to use in header. Leave empty to use text instead"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:347
+msgid "Add text to your mail header"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:361
+#: classes/class-sendpress-email-customizer.php:534
+msgid "Aligment"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:371
+msgid "Choose alignment for header"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:389
+msgid "Choose header background color"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:403
+#: classes/class-sendpress-email-customizer.php:467
+#: classes/class-sendpress-email-customizer.php:576
+msgid "Text size"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:407
+#: classes/class-sendpress-email-customizer.php:471
+#: classes/class-sendpress-email-customizer.php:580
+msgid "Slide to change text size"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:422
+#: classes/class-sendpress-email-customizer.php:486
+#: classes/class-sendpress-email-customizer.php:594
+msgid "Text Color"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:425
+msgid "Choose header text color"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:453
+msgid "Choose email body background color"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:489
+msgid "Choose body text color"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:515
+msgid "Footer text"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:519
+msgid "Change the email footer here"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:544
+msgid "Choose alignment for footer"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:562
+msgid "Choose footer background color"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:597
+msgid "Choose footer text color"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:612
+msgid "Powered by"
+msgstr ""
+
+#: classes/class-sendpress-email-customizer.php:620
+msgid "Display a tiny link to the plugin page"
+msgstr ""
+
+#: classes/class-sendpress-email.php:259
+#: classes/class-sendpress-template.php:261
+#: classes/class-sendpress-template.php:477 inc/forms/email-style.2.0.php:281
+msgid "Not interested anymore?"
+msgstr "Niet meer geïnteresseerd?"
+
+#: classes/class-sendpress-email.php:260 classes/class-sendpress-email.php:282
+#: classes/class-sendpress-template.php:262
+#: classes/class-sendpress-template.php:478
+#: classes/sc/class-sendpress-sc-unsubscribe-form.php:24
+#: inc/forms/email-style.2.0.php:282
+msgid "Unsubscribe"
+msgstr "Afmelden"
+
+#: classes/class-sendpress-email.php:261
+#: classes/class-sendpress-template.php:263
+#: classes/class-sendpress-template.php:479 inc/forms/email-style.2.0.php:283
+msgid "Instantly"
+msgstr "Onmiddelijk"
+
+#: classes/class-sendpress-email.php:283
+#: classes/class-sendpress-template.php:264
+#: classes/class-sendpress-template.php:480 inc/forms/email-style.2.0.php:371
+msgid "Manage Subscription"
+msgstr "Beheer abonnement"
+
+#: classes/class-sendpress-emails-table.php:98
+#: classes/class-sendpress-lists-table.php:101
+msgid "View"
+msgstr "Bekijk"
+
+#: classes/class-sendpress-emails-table.php:107
+#: classes/views/class-sendpress-view-emails-edit.php:124
+#: classes/views/class-sendpress-view-emails-send.php:94
+#: classes/views/class-sendpress-view-emails-style.php:144
+#: classes/views/class-sendpress-view-settings-access.php:179
+#: sendpress.php:1145 sendpress.php:1153 sendpress.php:1161
+msgid "Send"
+msgstr "Verzenden"
+
+#: classes/class-sendpress-lists-table.php:82
+#: classes/class-sendpress-lists-table.php:96
+#: classes/class-sendpress-lists-table.php:105
+msgid "Sync"
+msgstr "Synchronisatie"
+
+#: classes/class-sendpress-lists-table.php:108
+msgid "Import"
+msgstr "Importeren"
+
+#: classes/class-sendpress-lists-table.php:111
+msgid "Add"
+msgstr "Toevoegen"
+
+#: classes/class-sendpress-lists-table.php:112
+msgid "Export"
+msgstr "Exporteren"
+
+#: classes/class-sendpress-lists-table.php:114
+#: classes/views/class-sendpress-view-settings-widgets.php:201
+msgid "Form"
+msgstr "Formulier"
+
+#: classes/class-sendpress-lists-table.php:161
+msgid "Test List"
+msgstr "Test lijst"
+
+#: classes/class-sendpress-lists-table.php:226
+#: classes/class-sendpress-settings-forms-table.php:165
+msgid "Name"
+msgstr "Naam"
+
+#: classes/class-sendpress-lists-table.php:227
+msgctxt "Count subscribers"
+msgid "Active"
+msgstr "Actief"
+
+#: classes/class-sendpress-lists-table.php:230
+#: classes/views/class-sendpress-view-overview.php:39
+#: classes/views/class-sendpress-view-settings-access.php:131
+#: classes/views/class-sendpress-view-subscribers-all.php:79
+#: classes/views/class-sendpress-view-subscribers-subscribers.php:57
+#: classes/views/class-sendpress-view-subscribers.php:59 sendpress.php:1281
+#: sendpress.php:1338
+msgid "Subscribers"
+msgstr "Abonnees"
+
+#: classes/class-sendpress-logging.php:156
+msgid "SPNL Logs"
+msgstr "SPNL logs"
+
+#: classes/class-sendpress-manager.php:191
+msgid "This is text only alternative body."
+msgstr "Dit is het platte tekst alternatief."
+
+#: classes/class-sendpress-manager.php:192
+msgid "A Test Email from SendPress."
+msgstr "Een test e-mail van SendPress"
+
+#: classes/class-sendpress-manager.php:193
+msgid "SendPress test email :)."
+msgstr "SendPress test e-mail :)."
+
+#: classes/class-sendpress-manager.php:548
+#: classes/class-sendpress-sender-gmail.php:170
+msgid "The result was: "
+msgstr "Het resultaat was:"
+
+#: classes/class-sendpress-manager.php:549
+#: classes/class-sendpress-sender-gmail.php:171
+msgid "The mailer error info: "
+msgstr "Foutinformatie van de verzender:"
+
+#: classes/class-sendpress-manager.php:551
+#: classes/class-sendpress-sender-gmail.php:173
+msgid "The SMTP debugging output is shown below:\n"
+msgstr "De SMTP debugging uitvoer staat hieronder:\n"
+
+#: classes/class-sendpress-posts.php:174
+msgctxt "sendpress"
+msgid "Standard"
+msgstr "Standaard"
+
+#: classes/class-sendpress-posts.php:179
+msgid "Standard <span class=\"count\">(%s)</span>"
+msgid_plural "Standard <span class=\"count\">(%s)</span>"
+msgstr[0] "Standaard <span class=\"count\">(%s)</span>"
+msgstr[1] "Standaard <span class=\"count\">(%s)</span>"
+
+#: classes/class-sendpress-posts.php:184
+msgctxt "sendpress"
+msgid "Custom Template"
+msgstr "Aangepast sjabloon"
+
+#: classes/class-sendpress-posts.php:189
+msgid "Custom Templates <span class=\"count\">(%s)</span>"
+msgid_plural "Custom Templates <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-sendpress-posts.php:193
+msgctxt "sendpress"
+msgid "Form"
+msgstr "Formulier"
+
+#: classes/class-sendpress-posts.php:198
+msgid "Form Setting <span class=\"count\">(%s)</span>"
+msgid_plural "Forms Settings <span class=\"count\">(%s)</span>"
+msgstr[0] "Formulierinstellingen <span class=\"count\">(%s)</span>"
+msgstr[1] "Formulierinstellingen <span class=\"count\">(%s)</span>"
+
+#: classes/class-sendpress-posts.php:202
+msgctxt "sendpress"
+msgid "Autoresponder"
+msgstr "Automatische afzender"
+
+#: classes/class-sendpress-posts.php:207
+msgid "Autoresponder Setting <span class=\"count\">(%s)</span>"
+msgid_plural "Autoresponder Settings <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-sendpress-posts.php:211
+msgctxt "sendpress"
+msgid "System Email"
+msgstr "Systeem email"
+
+#: classes/class-sendpress-posts.php:216
+msgid "System Email Setting <span class=\"count\">(%s)</span>"
+msgid_plural "System Email Settings <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-sendpress-posts.php:222
+msgid "SendPress Internal Container"
+msgstr "SendPress interne container"
+
+#: classes/class-sendpress-posts.php:254
+msgid "SendPress Settings"
+msgstr "SendPress instellingen"
+
+#: classes/class-sendpress-posts.php:275
+#: classes/views/class-sendpress-view-subscribers-listcreate.php:60
+#: classes/views/class-sendpress-view-subscribers-listedit.php:71
+msgid "SendPress List"
+msgstr "SendPress lijst"
+
+#: classes/class-sendpress-posts.php:294
+msgid "SendPress Jobs"
+msgstr "SendPress taken"
+
+#: classes/class-sendpress-posts.php:318
+msgid "Sendpress Pages"
+msgstr "SendPress pagina's"
+
+#: classes/class-sendpress-posts.php:319
+msgid "SendPress Page"
+msgstr "SendPress pagina"
+
+#: classes/class-sendpress-pro-manager.php:273
+msgid "Alert"
+msgstr "Alarm"
+
+#: classes/class-sendpress-pro-manager.php:275
+msgid ""
+"Your API key is either invalid or in use on another site. Need help? Visit "
+"login to <a href=\"http://sendpress.com/your-account/\">SendPress "
+"Support</a>"
+msgstr ""
+
+#: classes/class-sendpress-pro-manager.php:281
+msgid ""
+"There was a problem deactivating your API key.  Try again in a few minutes "
+"or visit <a href=\"http://sendpress.com/your-account/\">SendPress "
+"Support</a>"
+msgstr ""
+
+#: classes/class-sendpress-pro-manager.php:287
+msgid ""
+"There was a problem activating your API key.  Try again in a few minutes or "
+"visit <a href=\"http://sendpress.com/your-account/\">SendPress Support</a>"
+msgstr ""
+
+#: classes/class-sendpress-queue-all-table.php:214
+#: classes/class-sendpress-queue-table.php:204
+#: classes/class-sendpress-subscribers-all-table.php:167
+#: classes/sc/class-sendpress-sc-forms.php:116
+#: classes/sc/class-sendpress-sc-unsubscribe-form.php:23
+#: classes/views/class-sendpress-view-emails-edit.php:375
+#: classes/views/class-sendpress-view-emails-systememailedit.php:339
+#: classes/views/class-sendpress-view-overview.php:213
+#: classes/views/class-sendpress-view-subscribers-add.php:69
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:101
+#: classes/views/class-sendpress-view-subscribers-subscriber.php:143
+msgid "Email"
+msgstr "E-mail"
+
+#: classes/class-sendpress-queue-all-table.php:215
+#: classes/class-sendpress-queue-table.php:205
+#: classes/class-sendpress-shortcode-manage.php:33
+#: classes/sc/class-sendpress-sc-forms.php:149
+#: classes/views/class-sendpress-view-overview.php:212
+msgid "List"
+msgstr "Lijst"
+
+#: classes/class-sendpress-queue-all-table.php:220
+msgid "Sent"
+msgstr "Verzenden"
+
+#: classes/class-sendpress-queue-all-table.php:285
+#: classes/class-sendpress-queue-errors-table.php:279
+#: classes/class-sendpress-queue-stuck-table.php:275
+#: classes/class-sendpress-queue-table.php:275
+msgid "All Lists"
+msgstr "Alle lijsten"
+
+#: classes/class-sendpress-queue-all-table.php:330
+#: classes/class-sendpress-queue-stuck-table.php:320
+#: classes/class-sendpress-queue-table.php:320
+#: classes/class-sendpress-subscribers-all-table.php:299
+#: classes/class-sendpress-subscribers-table.php:293
+msgid "Filter"
+msgstr "Filter"
+
+#: classes/class-sendpress-queue-table.php:208
+msgid "Max&nbsp;Attempts"
+msgstr "Max aantal pogingen"
+
+#: classes/class-sendpress-queue-table.php:209
+msgid "Attempted"
+msgstr "Poging"
+
+#: classes/class-sendpress-queue-table.php:210
+msgid "Last&nbsp;Attempt"
+msgstr "Laatste poging"
+
+#: classes/class-sendpress-queue-table.php:211
+#: classes/class-sendpress-subscribers-all-table.php:175
+msgid "Actions"
+msgstr "Acties"
+
+#: classes/class-sendpress-reports-table.php:337
+#: classes/class-sendpress-reports-tests-table.php:333
+msgid "Date Sent"
+msgstr "Verzenddatum"
+
+#: classes/class-sendpress-reports-table.php:338
+#: classes/class-sendpress-reports-tests-table.php:334
+msgid "Info"
+msgstr "Info"
+
+#: classes/class-sendpress-reports-table.php:340
+#: classes/class-sendpress-reports-tests-table.php:336
+#: classes/class-sendpress-subscribers-all-table.php:170
+#: classes/views/class-sendpress-view-emails-send-confirm.php:115
+#: classes/views/class-sendpress-view-emails-send.php:170
+#: classes/views/class-sendpress-view-subscribers.php:64
+#: classes/views/class-sendpress-view-subscribers.php:112
+msgid "Lists"
+msgstr "Lijsten"
+
+#: classes/class-sendpress-reports-table.php:341
+#: classes/views/class-sendpress-view-overview.php:81
+msgid "Opens"
+msgstr "Opent"
+
+#: classes/class-sendpress-reports-table.php:342
+#: classes/class-sendpress-reports-tests-table.php:338
+#: classes/views/class-sendpress-view-overview.php:139
+msgid "Clicks"
+msgstr "Aanslagen"
+
+#: classes/class-sendpress-reports-table.php:343
+#: classes/class-sendpress-reports-tests-table.php:339
+msgid "Unsubscribes"
+msgstr "Afgemeld"
+
+#: classes/class-sendpress-reports-tests-table.php:337
+msgid "Opens "
+msgstr "Opent"
+
+#: classes/class-sendpress-sender-gmail.php:14
+msgid "Gmail"
+msgstr "Gmail"
+
+#: classes/class-sendpress-sender-gmail.php:30
+msgid ""
+"Gmail is limited to 500 emails a day. We recommend that you open a dedicated"
+" Gmail account for this purpose"
+msgstr "Gmail heeft een limiet van 500 e-mails per dag. We raden aan dat je een specifiek Gmail account opent voor dit doel"
+
+#: classes/class-sendpress-sender-gmail.php:31
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: classes/class-sendpress-sender-gmail.php:33
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: classes/class-sendpress-sender-spnl.php:14
+msgid "WP Email Delivery ( API Sending )"
+msgstr "WP email verzending (api)"
+
+#: classes/class-sendpress-sender-spnl.php:33
+msgid "<b>Setup</b>"
+msgstr ""
+
+#: classes/class-sendpress-sender-spnl.php:34
+msgid "License Key"
+msgstr "Licentiesleutel"
+
+#: classes/class-sendpress-sender-spnl.php:37
+msgid "Disable SSL Sending"
+msgstr "SSL verzending uitschakelen"
+
+#: classes/class-sendpress-sender-website.php:20
+msgid "Your Website"
+msgstr "Jouw website"
+
+#: classes/class-sendpress-sender.php:14
+msgid "Sender Missing Label"
+msgstr "Afzender ontbreekt label"
+
+#: classes/class-sendpress-settings-forms-table.php:92
+msgid "Clone"
+msgstr "Klonen"
+
+#: classes/class-sendpress-settings-forms-table.php:166
+#: classes/class-sendpress-system-email-table.php:186
+msgid "Type"
+msgstr "Type"
+
+#: classes/class-sendpress-settings-forms-table.php:167
+#: classes/views/class-sendpress-view-settings-widgets.php:323
+#: classes/views/class-sendpress-view-settings-widgets.php:492
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: classes/class-sendpress-shortcode-loader.php:72
+msgid "Basic"
+msgstr "Basis"
+
+#: classes/class-sendpress-shortcode-loader.php:84
+msgid "All Options with Defaults"
+msgstr "Alle optie met standaardwaarden"
+
+#: classes/class-sendpress-shortcode-loader.php:89
+msgid "Your Content Here."
+msgstr "Uw inhoud hier"
+
+#: classes/class-sendpress-shortcode-loader.php:93
+msgid "Wrapping Content"
+msgstr "Inhoud samenvoegen"
+
+#: classes/class-sendpress-shortcode-manage.php:31
+#: classes/sc/class-sendpress-sc-forms.php:147
+msgid "Subscribed"
+msgstr "Geabonneerd"
+
+#: classes/class-sendpress-shortcode-manage.php:32
+#: classes/sc/class-sendpress-sc-forms.php:148
+msgid "Unsubscribed"
+msgstr "Afgemeld"
+
+#: classes/class-sendpress-shortcode-manage.php:34
+msgid "Updated"
+msgstr "Bijgewerkt"
+
+#: classes/class-sendpress-shortcode-manage.php:35
+msgid "Other Info"
+msgstr "Overige info"
+
+#: classes/class-sendpress-shortcode-manage.php:68
+#: classes/sc/class-sendpress-sc-forms.php:182
+msgid "Never Subscribed"
+msgstr "Nooit geabonneerd"
+
+#: classes/class-sendpress-shortcode-manage.php:89
+#: classes/sc/class-sendpress-sc-forms.php:204
+msgid "Save My Settings"
+msgstr "Sla mijn instellingen op"
+
+#: classes/class-sendpress-subscribers-all-table.php:174
+msgid "Date Joined"
+msgstr "Aanmeld datum"
+
+#: classes/class-sendpress-subscribers-all-table.php:297
+#: classes/class-sendpress-subscribers-table.php:291
+msgid "Apply"
+msgstr "Toepassen"
+
+#: classes/class-sendpress-template-tags.php:573
+msgid "Inserts Social Links."
+msgstr "Toevoegen social links"
+
+#: classes/class-sendpress-template-tags.php:581
+msgid "Inserts view in browser html link."
+msgstr "Toevoegen bekijk in browser HTML link"
+
+#: classes/class-sendpress-template-tags.php:589
+msgid "Inserts Site Name."
+msgstr "Toevoegen Site naam"
+
+#: classes/class-sendpress-template-tags.php:596
+msgid "Inserts the CANSPAM text."
+msgstr "Voegt de CANSPAM tekst toe"
+
+#: classes/class-sendpress-template-tags.php:604
+msgid "Inserts an unsubscribe html link."
+msgstr "Toevoegen afmelden HTML link"
+
+#: classes/class-sendpress-template-tags.php:616
+#: classes/class-sendpress-template-tags.php:622
+msgid "Inserts the subscriber id."
+msgstr "Toevoegen registratie id"
+
+#: classes/class-sendpress-template-tags.php:632
+msgid "Body Color"
+msgstr "Body kleur"
+
+#: classes/class-sendpress-template-tags.php:639
+#: classes/class-sendpress-template-tags.php:646
+msgid "Content Color"
+msgstr "Inhoud kleur"
+
+#: classes/class-sendpress-template-tags.php:653
+msgid "Content Area"
+msgstr "Inhoud gebied"
+
+#: classes/class-sendpress-template-tags.php:660
+msgid "Header Content"
+msgstr "Koptekst inhoud"
+
+#: classes/class-sendpress-template-tags.php:667
+msgid "Header Page"
+msgstr "Koptekst pagina"
+
+#: classes/class-sendpress-template-tags.php:674
+msgid "Footer Page"
+msgstr "Voet pagina"
+
+#: classes/class-sendpress-template-tags.php:681
+msgid "Footer Content"
+msgstr "Voet inhoud"
+
+#: classes/class-sendpress-template-tags.php:688
+msgid "Email Title"
+msgstr "Onderwerp email"
+
+#: classes/class-sendpress-template.php:259
+#: classes/class-sendpress-template.php:475
+#: classes/tag/class-sendpress-tag-browser-link-html.php:25
+#: classes/tag/class-sendpress-tag-footer-page.php:60
+#: classes/views/class-sendpress-view-settings-styles.php:122
+#: inc/forms/email-style.2.0.php:279
+msgid "Is this email not displaying correctly?"
+msgstr "Wordt deze e-mail niet correct weergegeven?"
+
+#: classes/class-sendpress-template.php:260
+#: classes/class-sendpress-template.php:476
+#: classes/tag/class-sendpress-tag-browser-link-html.php:26
+#: classes/tag/class-sendpress-tag-footer-page.php:61
+#: classes/views/class-sendpress-view-settings-styles.php:123
+#: inc/forms/email-style.2.0.php:280
+msgid "View it in your browser"
+msgstr "Bekijk het in de browser"
+
+#: classes/class-sendpress-tour.php:70
+msgid "Welcome to SendPress"
+msgstr "Welkom bij SendPress"
+
+#: classes/class-sendpress-tour.php:71
+msgid ""
+"You've just installed SendPress! Click &ldquo;Start Tour&rdquo; to view a "
+"quick introduction of this plugins core functionality."
+msgstr "Je hebt zojuist SenPress geïnstalleerd! Klik  &ldquo;Start rondleiding&rdquo; voor een snelle introductie van de basis functies van deze plug-in."
+
+#: classes/class-sendpress-tour.php:76
+msgid "Start Tour"
+msgstr "Start rondleiding"
+
+#: classes/class-sendpress-tour.php:90
+#: classes/views/class-sendpress-view-emails-edit.php:450
+#: classes/views/class-sendpress-view-emails-systememailedit.php:414
+#: classes/views/class-sendpress-view-queue-stuck.php:207
+#: classes/views/class-sendpress-view-queue.php:243
+#: classes/views/class-sendpress-view-settings-account.php:483
+msgid "Close"
+msgstr "Sluiten"
+
+#: classes/class-sendpress-tour.php:112
+msgid "Help Make SendPress Better"
+msgstr "Help SendPress beter te maken"
+
+#: classes/class-sendpress-tour.php:113
+msgid ""
+"You've just installed SendPres. Please helps us improve it by allowing us to"
+" gather anonymous usage stats so we know which configurations, plugins and "
+"themes to test with."
+msgstr "Je hebt zojuist SendPress geïnstalleerd. Help ons het te verbeteren door anonieme gebruikers statistieken te verzamelen, zodat we weten met welke configuraties, plug-ins en thema's we moeten testen."
+
+#: classes/class-sendpress-tour.php:118
+msgid "Allow tracking"
+msgstr "Sta tracking toe"
+
+#: classes/class-sendpress-tour.php:124
+msgid "Do not allow tracking"
+msgstr "Sta tracking niet toe"
+
+#: classes/class-sendpress-tracking.php:142
+msgid "You do not have sufficient permissions to access this page."
+msgstr "U heeft onvoldoende rechten voor deze pagina. "
+
+#: classes/class-sendpress-tracking.php:149
+#: classes/views/class-sendpress-view-emails-edit.php:121
+#: classes/views/class-sendpress-view-emails-style.php:142
+#: classes/views/class-sendpress-view-emails-systememailedit.php:94
+#: sendpress.php:1135 sendpress.php:1142 sendpress.php:1150
+msgid "Update"
+msgstr "Werk bij"
+
+#: classes/class-sendpress-widget-forms.php:24
+msgid "Displays a form so your users can interact with SendPress."
+msgstr "Geef formulieren weer zodat gebruikers actief contact hebben met SendPress."
+
+#: classes/class-sendpress-widget-forms.php:32
+msgid "SendPress Forms"
+msgstr "SendPress formulieren"
+
+#: classes/class-sendpress-widget-forms.php:89
+#: classes/class-sendpress-widget-signup.php:204
+msgid "Title:"
+msgstr "Titel:"
+
+#: classes/class-sendpress-widget-forms.php:101
+msgid "Form to Display:"
+msgstr "Weergave formulier:"
+
+#: classes/class-sendpress-widget-signup.php:24
+msgid ""
+"Displays a signup form so your users can sign up for your public e-mail "
+"lists."
+msgstr "Toont een aanmeldformulier zodat gebruikers zich kunnen abonneren op jouw publieke e-mail lijsten "
+
+#: classes/class-sendpress-widget-signup.php:33
+msgid "SendPress Signup"
+msgstr "SendPress abonneren"
+
+#: classes/class-sendpress-widget-signup.php:76
+msgid "NO LIST HAS BEEN SELECTED IN SENDPRESS WIDGET SETTINGS"
+msgstr "Geen lijst geselecteerd in Sendpress widget instellingen"
+
+#: classes/class-sendpress-widget-signup.php:171
+#: classes/views/class-sendpress-view-emails-edit.php:365
+#: classes/views/class-sendpress-view-emails-systememailedit.php:329
+msgid "First Name"
+msgstr "Voornaam"
+
+#: classes/class-sendpress-widget-signup.php:172
+#: classes/views/class-sendpress-view-emails-edit.php:370
+#: classes/views/class-sendpress-view-emails-systememailedit.php:334
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: classes/class-sendpress-widget-signup.php:173
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: classes/class-sendpress-widget-signup.php:174
+msgid "List Selection"
+msgstr "Selectie lijst"
+
+#: classes/class-sendpress-widget-signup.php:177
+#: classes/views/class-sendpress-view-help.php:261
+#: classes/views/class-sendpress-view-subscribers-add.php:91
+#: classes/views/class-sendpress-view-subscribers-add.php:109
+msgid "Submit"
+msgstr "Verzenden"
+
+#: classes/class-sendpress-widget-signup.php:178
+msgid "Check your inbox now to confirm your subscription."
+msgstr "Controleer uw postvak in en bevestig uw aanmelding."
+
+#: classes/class-sendpress-widget-signup.php:209
+#: classes/views/class-sendpress-view-settings-widgets.php:276
+#: classes/views/class-sendpress-view-settings-widgets.php:485
+msgid "Description:"
+msgstr "Omschrijving:"
+
+#: classes/class-sendpress-widget-signup.php:216
+#: classes/views/class-sendpress-view-settings-widgets.php:343
+msgid "Collect First Name"
+msgstr "Haal voornaam op"
+
+#: classes/class-sendpress-widget-signup.php:221
+#: classes/views/class-sendpress-view-settings-widgets.php:354
+msgid "Collect Last Name"
+msgstr "Haal achternaam op"
+
+#: classes/class-sendpress-widget-signup.php:225
+#: classes/views/class-sendpress-view-settings-widgets.php:375
+msgid "Display labels inside"
+msgstr ""
+
+#: classes/class-sendpress-widget-signup.php:226
+#: classes/views/class-sendpress-view-settings-widgets.php:376
+msgid "Yes"
+msgstr "Ja"
+
+#: classes/class-sendpress-widget-signup.php:227
+#: classes/views/class-sendpress-view-settings-activation.php:68
+#: classes/views/class-sendpress-view-settings-widgets.php:377
+msgid "No"
+msgstr "Nee"
+
+#: classes/class-sendpress-widget-signup.php:232
+msgid "Check all lists by default"
+msgstr "Vink alle lijsten standaard aan."
+
+#: classes/class-sendpress-widget-signup.php:237
+#: classes/views/class-sendpress-view-settings-widgets.php:286
+msgid "First Name Label:"
+msgstr "Label voornaam:"
+
+#: classes/class-sendpress-widget-signup.php:242
+#: classes/views/class-sendpress-view-settings-widgets.php:291
+msgid "Last Name Label:"
+msgstr "Label achternaam"
+
+#: classes/class-sendpress-widget-signup.php:247
+#: classes/views/class-sendpress-view-settings-widgets.php:301
+msgid "E-Mail Label:"
+msgstr "Label e-mail"
+
+#: classes/class-sendpress-widget-signup.php:252
+#: classes/views/class-sendpress-view-settings-widgets.php:306
+msgid "Button Text:"
+msgstr "Tekst knop:"
+
+#: classes/class-sendpress-widget-signup.php:256
+#: classes/views/class-sendpress-view-settings-widgets.php:311
+msgid "Lists Label: multiple lists only"
+msgstr "Lijst label: meerdere lijsten alleen"
+
+#: classes/class-sendpress-widget-signup.php:259
+msgid "Check off the lists you would like<br>users to subscribe to"
+msgstr "Controleer de lijsten die u wilt "
+
+#: classes/class-sendpress-widget-signup.php:263
+#: classes/views/class-sendpress-view-settings-widgets.php:412
+msgid "No public lists available"
+msgstr "Geen openbare lijsten beschikbaar"
+
+#: classes/class-sendpress-widget-signup.php:282
+#: classes/views/class-sendpress-view-settings-widgets.php:316
+msgid "Thank you message:"
+msgstr "Bedankbericht:"
+
+#: classes/class-sendpress-widget-signup.php:287
+#: classes/views/class-sendpress-view-settings-widgets.php:381
+msgid "Thank You Page (AJAX OFF ONLY):"
+msgstr "Bedankpagina (AJAX UIT ALLEEN):"
+
+#: classes/class-sendpress-widget-signup.php:292
+#: classes/views/class-sendpress-view-settings-advanced.php:219
+#: classes/views/class-sendpress-view-settings-advanced.php:221
+#: classes/views/class-sendpress-view-settings-advanced.php:224
+#: classes/views/class-sendpress-view-settings-advanced.php:226
+#: classes/views/class-sendpress-view-settings-advanced.php:228
+#: classes/views/class-sendpress-view-settings-widgets.php:386
+msgid "Default"
+msgstr "Standaard"
+
+#: classes/modules/class-sendpress-module-empty.php:13
+msgid "More Coming Soon!"
+msgstr "Binnenkort meer!!"
+
+#: classes/modules/class-sendpress-module-empty.php:16
+msgid "Cool stuff is on the horizon, check back soon!"
+msgstr "Cool spul aan de horizon, kom snel terug!"
+
+#: classes/modules/class-sendpress-module-empty.php:24
+msgid "Request a Feature"
+msgstr "Vraag een feature aan"
+
+#: classes/modules/class-sendpress-module-pro.php:27
+msgid "SendPress API Key"
+msgstr "SendPress API sleutel"
+
+#: classes/modules/class-sendpress-module-pro.php:38
+msgid "Register Key"
+msgstr "Registratiesleutel"
+
+#: classes/modules/class-sendpress-module-pro.php:40
+msgid "Deactivate Key"
+msgstr "Deactiveer sleutel"
+
+#: classes/modules/class-sendpress-module-pro.php:43
+msgid ""
+"Enter your API key to enable premium support and automatic updates. Get your"
+" API key by logging into <a href=\"%s\">SendPress.com</a>."
+msgstr "Voer uw API-sleutel in voor premium support en om automatische updates in te schakelen. Haal uw API-sleutel op door in te loggen op <a href=\"%s\"> SendPress.com </a>."
+
+#: classes/modules/class-sendpress-module-pro.php:60
+msgid "Install Pro"
+msgstr "Installeer PRO"
+
+#: classes/modules/class-sendpress-module-pro.php:68
+msgid "Buy Now"
+msgstr "Koop nu"
+
+#: classes/modules/class-sendpress-module-pro.php:76
+#: classes/modules/class-sendpress-module.php:94
+#: classes/modules/class-sendpress-module.php:118
+#: classes/modules/class-sendpress-module.php:140
+msgid "Deactivate"
+msgstr "Deactiveer"
+
+#: classes/modules/class-sendpress-module-pro.php:84
+#: classes/modules/class-sendpress-module.php:72
+#: classes/modules/class-sendpress-module.php:80
+#: classes/views/class-sendpress-view-settings-account.php:241
+msgid "Activate"
+msgstr "Activeer"
+
+#: classes/modules/class-sendpress-module-reports.php:18
+#: classes/views/class-sendpress-view-overview.php:283
+msgid "Advanced Reports"
+msgstr "Uitgebreide rapportage"
+
+#: classes/modules/class-sendpress-module-reports.php:21
+msgid ""
+"Add more details to your reports. See who clicked what and when. What device"
+" they used and where they were."
+msgstr "Voeg meer details toe aan uw rapporten. Bekijk wie klikte, wat en wanneer. Welk apparaat ze gebruikten en waar ze waren."
+
+#: classes/modules/class-sendpress-module-spam-test.php:18
+msgid "Spam Testing"
+msgstr "Spam testen"
+
+#: classes/public-views/class-sendpress-public-view-confirm.php:60
+msgid "Thank you for signing up!"
+msgstr "Bedankt voor uw aanmelding!"
+
+#: classes/public-views/class-sendpress-public-view-confirm.php:61
+msgid "You're all set, and should start receiving emails soon."
+msgstr "U bent er klaar voor en zal spoedig e-mails ontvangen."
+
+#: classes/public-views/class-sendpress-public-view-form.php:38
+#: classes/public-views/class-sendpress-public-view-post.php:48
+msgid "Invalid Email"
+msgstr "Foutief e-mailadres"
+
+#: classes/public-views/class-sendpress-public-view-form.php:63
+#: classes/public-views/class-sendpress-public-view-post.php:77
+msgid "Problem with subscribing user."
+msgstr "Probleem met aanmelden gebruiker"
+
+#: classes/public-views/class-sendpress-public-view-form.php:65
+msgid "Thanks for subscribing."
+msgstr "Bedankt voor de aanmelding"
+
+#: classes/public-views/class-sendpress-public-view-post.php:178
+msgid "You must provide a list ID for the post page to work"
+msgstr "U moet een lijst ID verstrekken voor de berichtpagina om het te laten werken."
+
+#: classes/public-views/class-sendpress-public-view-post.php:200
+msgid "Thank You for subscribing"
+msgstr "Dank u voor de aanmelding"
+
+#: classes/public-views/class-sendpress-public-view-post.php:203
+msgid "Sorry, We had a Problem adding your email"
+msgstr "Sorry, er is een probleem met het toevoegen van uw e-mailadres"
+
+#: classes/sc/class-sendpress-sc-forms.php:18
+#: classes/views/class-sendpress-view-settings-widgets.php:174
+#: classes/views/class-sendpress-view-settings.php:48
+msgid "Forms"
+msgstr "Formulieren"
+
+#: classes/sc/class-sendpress-sc-forms.php:118
+msgid "Signup Date"
+msgstr "Datum aanmelding"
+
+#: classes/sc/class-sendpress-sc-forms.php:124
+msgid "Saved"
+msgstr "Opgeslagen"
+
+#: classes/sc/class-sendpress-sc-forms.php:125
+msgid "Your subscriptions have been updated. Thanks."
+msgstr "Uw abonnementen zijn gewijzigd. Bedankt."
+
+#: classes/sc/class-sendpress-sc-forms.php:130
+msgid "You are subscribed to the following lists:"
+msgstr "U bent geabonneerd op de volgende lijsten:"
+
+#: classes/sc/class-sendpress-sc-forms.php:218
+#: classes/sc/class-sendpress-sc-signup.php:51
+msgid "You've already signed up, Thanks!"
+msgstr "U bent reeds geregisteerd, dank u wel."
+
+#: classes/sc/class-sendpress-sc-forms.php:437
+msgid "This shortcode loads a form based on a form id."
+msgstr "Deze verkorte code laad van een formulier dat gebaseerd is op een formulier id."
+
+#: classes/sc/class-sendpress-sc-recent-posts-by-user.php:22
+msgid "Get Recent Posts By User"
+msgstr "Recent geplaatst door:"
+
+#: classes/sc/class-sendpress-sc-recent-posts-by-user.php:35
+#: classes/sc/class-sendpress-sc-recent-posts.php:49
+msgid "You can provide a Title. This is added before the post loop begins."
+msgstr "U kan een titel verschaffen. Dit wordt toegevoegd voordat de post lus begint"
+
+#: classes/sc/class-sendpress-sc-recent-posts-by-user.php:57
+msgid "This shortcode creates a listing of Posts in emails or on pages."
+msgstr "Deze shortcode maakt een lijst van berichten in e-mails of op de pagina's."
+
+#: classes/sc/class-sendpress-sc-recent-posts.php:18
+msgid "Get Recent Posts"
+msgstr "Krijg de recente berichten"
+
+#: classes/sc/class-sendpress-sc-recent-posts.php:320
+msgid ""
+"This shortcode creates a listing of Posts in emails or on pages.  Use the "
+"following options to customize the output: <br><br><b>posts</b> - number of "
+"posts to display. (defaults to 1)<br><b>uid</b> - the user id of the author "
+"you would like to see.<br><b>imgalign</b> - Align images left or right. "
+"(defaults to left)<br><b>alternate</b> - when writing posts, alternate the "
+"thumbnail images. (defaults to false)<br><b>readmoretext</b> - the text for "
+"the readmore link (defaults to Read More)<br><b>columns</b> - the number of "
+"columns your posts should display in.  Max number of columns is "
+"3.<br><b>datespan</b> - number of days of posts to render.  Can be set to "
+"\"daily\", \"weekly\", or a number of days (datespan=3 for the last three "
+"days for exmaple) (defaults to daily.)<br><b>displayimages</b> - Set to true"
+" by default, set to false if you want no images to "
+"display.<br><b>display_author</b> - Set to false by default, set to true the"
+" author link will display."
+msgstr ""
+
+#: classes/sc/class-sendpress-sc-signup.php:18
+msgid "Signup"
+msgstr "Aanmelden"
+
+#: classes/sc/class-sendpress-sc-signup.php:170
+msgid ""
+"This shortcode creates a sign up form for users on your site.  This "
+"shortcode is not required for users to signup, you can also use our signup "
+"widget."
+msgstr "Deze shortcode maakt een inschrijfformulier voor de gebruikers op uw site. Deze shortcode is niet vereist voor gebruikers om zich aan te melden, kunt u ook gebruik maken van onze aanmeld widget."
+
+#: classes/sc/class-sendpress-sc-unsubscribe-form.php:18
+msgid "Unsubscribe Form"
+msgstr "Afmeldingsformulier"
+
+#: classes/sc/class-sendpress-sc-unsubscribe-form.php:29
+msgid ""
+"You can provide an alternate message to your users after they unsubscribe."
+msgstr "U kunt uw gebruikers een alternatieve boodschap aanbieden nadat ze zich hebben afgemeld."
+
+#: classes/sc/class-sendpress-sc-unsubscribe-form.php:33
+msgid "You have been unsubscribed from all lists."
+msgstr "U bent afgemeld voor alle lijsten."
+
+#: classes/sc/class-sendpress-sc-unsubscribe-form.php:66
+msgid ""
+"This shortcode creates a form that allows a user to enter an email address "
+"and unsubscribe. The default message after unsubscribe is: "
+msgstr "Deze shortcode maakt een formulier die het de gebruiker mogelijk maakt om een ​​e-mailadres in te voeren en om af te melden. De standaard boodschap na afmelding is:"
+
+#: classes/tag/class-sendpress-tag-footer-page.php:62
+msgid "unsubscribe from this list"
+msgstr "afmelden van de lijst"
+
+#: classes/tag/class-sendpress-tag-unsubscribe-link-html.php:25
+msgid "Unsubscribe from this list."
+msgstr "Afmelden van de lijst"
+
+#: classes/views/class-sendpress-view-emails-autoedit.php:75
+#: classes/views/class-sendpress-view-emails-autoedit.php:79
+#: classes/views/class-sendpress-view-emails-create.php:71
+#: classes/views/class-sendpress-view-emails-createauto.php:67
+#: classes/views/class-sendpress-view-emails-edit.php:111
+#: classes/views/class-sendpress-view-emails-edit.php:115
+#: classes/views/class-sendpress-view-emails-send-cancel.php:49
+#: classes/views/class-sendpress-view-emails-send.php:87
+#: classes/views/class-sendpress-view-emails-style.php:139
+#: classes/views/class-sendpress-view-emails-systememailcreate.php:80
+#: classes/views/class-sendpress-view-emails-systememailedit.php:93
+#: classes/views/class-sendpress-view-emails-tempclone.php:43
+#: classes/views/class-sendpress-view-emails-tempdelete.php:37
+#: classes/views/class-sendpress-view-help.php:274
+#: classes/views/class-sendpress-view-settings-access.php:121
+#: classes/views/class-sendpress-view-settings-account.php:111
+#: classes/views/class-sendpress-view-settings-account.php:385
+#: classes/views/class-sendpress-view-settings-activation.php:55
+#: classes/views/class-sendpress-view-settings-advanced.php:119
+#: classes/views/class-sendpress-view-settings-styles.php:100
+#: classes/views/class-sendpress-view.php:76 sendpress.php:1170
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: classes/views/class-sendpress-view-emails-autoedit.php:85
+#: classes/views/class-sendpress-view-emails-footer.php:34
+#: classes/views/class-sendpress-view-emails-footerpage.php:33
+#: classes/views/class-sendpress-view-emails-header.php:35
+#: classes/views/class-sendpress-view-emails-headerpage.php:34
+#: classes/views/class-sendpress-view-emails-social.php:36
+#: classes/views/class-sendpress-view-settings-access.php:121
+#: classes/views/class-sendpress-view-settings-account.php:111
+#: classes/views/class-sendpress-view-settings-activation.php:55
+#: classes/views/class-sendpress-view-settings-advanced.php:119
+#: classes/views/class-sendpress-view-settings-shared.php:36
+#: classes/views/class-sendpress-view-settings-styles.php:100
+#: classes/views/class-sendpress-view-subscribers-custom.php:51
+#: classes/views/class-sendpress-view-subscribers-custom.php:52
+#: classes/views/class-sendpress-view-subscribers-listform.php:41
+#: classes/views/class-sendpress-view-subscribers-subscriber.php:123
+#: classes/views/class-sendpress-view.php:76
+msgid "Save"
+msgstr "Opslaan"
+
+#: classes/views/class-sendpress-view-emails-autoedit.php:91
+msgid "Autoresponder Settings"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-autoedit.php:99
+msgid "When someone subscribes to the list"
+msgstr "Als iemand zich aanmeld bij de lijst"
+
+#: classes/views/class-sendpress-view-emails-autoedit.php:100
+msgid "When a new WordPress user is added to your site"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-autoedit.php:101
+msgid "When a subscriber clicks a link"
+msgstr "Als een aanmelder klikt op een link"
+
+#: classes/views/class-sendpress-view-emails-create.php:68
+#: classes/views/class-sendpress-view-emails-createauto.php:64
+#: classes/views/class-sendpress-view-emails-systememailcreate.php:77
+#: classes/views/class-sendpress-view-emails-tempclone.php:40
+#: sendpress.php:1138 sendpress.php:1165
+msgid "Save & Next"
+msgstr "Opslaan & volgende"
+
+#: classes/views/class-sendpress-view-emails-create.php:75
+#: classes/views/class-sendpress-view-emails.php:300
+msgid "Create Email"
+msgstr "Maak e-mail aan"
+
+#: classes/views/class-sendpress-view-emails-create.php:109
+msgid "1.0 Template"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-create.php:111
+msgid "Use New System"
+msgstr "Gebruik nieuw systeem"
+
+#: classes/views/class-sendpress-view-emails-create.php:115
+msgid "Select your template"
+msgstr "Selecteer uw template"
+
+#: classes/views/class-sendpress-view-emails-create.php:167
+#: classes/views/class-sendpress-view-emails-createauto.php:134
+msgid "Original Template"
+msgstr "Orgineel template"
+
+#: classes/views/class-sendpress-view-emails-create.php:169
+msgid "Use Old Email System"
+msgstr "Gebruik oud emailsysteem"
+
+#: classes/views/class-sendpress-view-emails-create.php:170
+msgid ""
+"Currently emails cannot be upgraded directly to the new Template system."
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-createauto.php:71
+msgid "Create Autoresponder"
+msgstr "Creëer automatisch antwoord"
+
+#: classes/views/class-sendpress-view-emails-edit.php:131
+msgid "Edit Email Content"
+msgstr "Bewerk email inhoud"
+
+#: classes/views/class-sendpress-view-emails-edit.php:141
+#: classes/views/class-sendpress-view-emails-systememailedit.php:107
+msgid "Main Content"
+msgstr "Hoofdinhoud"
+
+#: classes/views/class-sendpress-view-emails-edit.php:144
+#: classes/views/class-sendpress-view-emails-systememailedit.php:110
+msgid "Header"
+msgstr "Kop"
+
+#: classes/views/class-sendpress-view-emails-edit.php:272
+#: classes/views/class-sendpress-view-emails-style.php:151
+#: classes/views/class-sendpress-view-emails-systememailedit.php:236
+msgid "Test This Email"
+msgstr "E-mail testen"
+
+#: classes/views/class-sendpress-view-emails-edit.php:274
+#: classes/views/class-sendpress-view-emails-style.php:153
+#: classes/views/class-sendpress-view-emails-systememailedit.php:238
+msgid "Send Test"
+msgstr "Verzend test"
+
+#: classes/views/class-sendpress-view-emails-edit.php:284
+#: classes/views/class-sendpress-view-emails-systememailedit.php:248
+#: classes/views/class-sendpress-view-emails.php:105
+msgid "Single Post"
+msgstr "Enkelvoudig bericht"
+
+#: classes/views/class-sendpress-view-emails-edit.php:285
+#: classes/views/class-sendpress-view-emails-systememailedit.php:249
+#: classes/views/class-sendpress-view-emails.php:106
+msgid "Personalize"
+msgstr "Personaliseer"
+
+#: classes/views/class-sendpress-view-emails-edit.php:299
+#: classes/views/class-sendpress-view-emails-systememailedit.php:263
+#: classes/views/class-sendpress-view-emails.php:120
+msgid "Search Posts"
+msgstr "Berichten zoeken"
+
+#: classes/views/class-sendpress-view-emails-edit.php:301
+#: classes/views/class-sendpress-view-emails-systememailedit.php:265
+#: classes/views/class-sendpress-view-emails.php:122
+msgid "No Post Selected"
+msgstr "Geen bericht geselecteerd"
+
+#: classes/views/class-sendpress-view-emails-edit.php:304
+#: classes/views/class-sendpress-view-emails-systememailedit.php:268
+msgid "Header HTML"
+msgstr "Kop HTML"
+
+#: classes/views/class-sendpress-view-emails-edit.php:330
+#: classes/views/class-sendpress-view-emails-systememailedit.php:294
+msgid "Header Link"
+msgstr "Kop link"
+
+#: classes/views/class-sendpress-view-emails-edit.php:333
+#: classes/views/class-sendpress-view-emails-systememailedit.php:297
+msgid "Link Header to Post"
+msgstr "Link kop aan bericht"
+
+#: classes/views/class-sendpress-view-emails-edit.php:337
+#: classes/views/class-sendpress-view-emails-systememailedit.php:301
+msgid "Don't Link Header to Post"
+msgstr "Link kop niet aan bericht"
+
+#: classes/views/class-sendpress-view-emails-edit.php:340
+#: classes/views/class-sendpress-view-emails-systememailedit.php:304
+msgid "Post Content"
+msgstr "Plaats inhoud"
+
+#: classes/views/class-sendpress-view-emails-edit.php:343
+#: classes/views/class-sendpress-view-emails-systememailedit.php:307
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+#: classes/views/class-sendpress-view-emails-edit.php:347
+#: classes/views/class-sendpress-view-emails-systememailedit.php:311
+msgid "Full Post"
+msgstr "Volledig bericht"
+
+#: classes/views/class-sendpress-view-emails-edit.php:350
+#: classes/views/class-sendpress-view-emails-edit.php:367
+#: classes/views/class-sendpress-view-emails-edit.php:372
+#: classes/views/class-sendpress-view-emails-edit.php:377
+#: classes/views/class-sendpress-view-emails-edit.php:396
+#: classes/views/class-sendpress-view-emails-edit.php:401
+#: classes/views/class-sendpress-view-emails-edit.php:406
+#: classes/views/class-sendpress-view-emails-edit.php:425
+#: classes/views/class-sendpress-view-emails-edit.php:430
+#: classes/views/class-sendpress-view-emails-edit.php:435
+#: classes/views/class-sendpress-view-emails-systememailedit.php:314
+#: classes/views/class-sendpress-view-emails-systememailedit.php:331
+#: classes/views/class-sendpress-view-emails-systememailedit.php:336
+#: classes/views/class-sendpress-view-emails-systememailedit.php:341
+#: classes/views/class-sendpress-view-emails-systememailedit.php:360
+#: classes/views/class-sendpress-view-emails-systememailedit.php:365
+#: classes/views/class-sendpress-view-emails-systememailedit.php:370
+#: classes/views/class-sendpress-view-emails-systememailedit.php:389
+#: classes/views/class-sendpress-view-emails-systememailedit.php:394
+#: classes/views/class-sendpress-view-emails-systememailedit.php:399
+msgid "Insert"
+msgstr "Invoegen"
+
+#: classes/views/class-sendpress-view-emails-edit.php:353
+#: classes/views/class-sendpress-view-emails-systememailedit.php:317
+msgid "Subscriber specific content"
+msgstr "Aanmelder specifiek bericht"
+
+#: classes/views/class-sendpress-view-emails-edit.php:358
+#: classes/views/class-sendpress-view-emails-edit.php:387
+#: classes/views/class-sendpress-view-emails-edit.php:416
+#: classes/views/class-sendpress-view-emails-systememailedit.php:322
+#: classes/views/class-sendpress-view-emails-systememailedit.php:351
+#: classes/views/class-sendpress-view-emails-systememailedit.php:380
+msgid "Description"
+msgstr "Omschrijving"
+
+#: classes/views/class-sendpress-view-emails-edit.php:359
+#: classes/views/class-sendpress-view-emails-edit.php:388
+#: classes/views/class-sendpress-view-emails-edit.php:417
+#: classes/views/class-sendpress-view-emails-systememailedit.php:323
+#: classes/views/class-sendpress-view-emails-systememailedit.php:352
+#: classes/views/class-sendpress-view-emails-systememailedit.php:381
+msgid "Code"
+msgstr "Code"
+
+#: classes/views/class-sendpress-view-emails-edit.php:382
+#: classes/views/class-sendpress-view-emails-systememailedit.php:346
+msgid "Site specific content"
+msgstr "Site specifieke inhoud"
+
+#: classes/views/class-sendpress-view-emails-edit.php:394
+#: classes/views/class-sendpress-view-emails-systememailedit.php:358
+msgid "Website URL"
+msgstr "Website url"
+
+#: classes/views/class-sendpress-view-emails-edit.php:399
+#: classes/views/class-sendpress-view-emails-systememailedit.php:363
+msgid "Website Title"
+msgstr "Website titel"
+
+#: classes/views/class-sendpress-view-emails-edit.php:404
+#: classes/views/class-sendpress-view-emails-systememailedit.php:368
+msgid "Website Description"
+msgstr "Website omschrijving"
+
+#: classes/views/class-sendpress-view-emails-edit.php:411
+#: classes/views/class-sendpress-view-emails-systememailedit.php:375
+msgid "Date and Time"
+msgstr "Datum en tijd"
+
+#: classes/views/class-sendpress-view-emails-edit.php:423
+#: classes/views/class-sendpress-view-emails-systememailedit.php:387
+msgid "Current Date"
+msgstr "Huidige datum"
+
+#: classes/views/class-sendpress-view-emails-edit.php:423
+#: classes/views/class-sendpress-view-emails-systememailedit.php:387
+msgid "Format based on WordPress settings"
+msgstr "Format gebasseerd op basis van WordPress "
+
+#: classes/views/class-sendpress-view-emails-edit.php:428
+#: classes/views/class-sendpress-view-emails-systememailedit.php:392
+msgid "Current Time"
+msgstr "Huidige tijd"
+
+#: classes/views/class-sendpress-view-emails-edit.php:433
+#: classes/views/class-sendpress-view-emails-systememailedit.php:397
+msgid "Custom Date"
+msgstr "Aangepaste datum"
+
+#: classes/views/class-sendpress-view-emails-footer.php:34
+#: classes/views/class-sendpress-view-emails-header.php:35
+#: classes/views/class-sendpress-view-emails-headerpage.php:34
+msgid "Back to Template"
+msgstr "Terug naar template"
+
+#: classes/views/class-sendpress-view-emails-footer.php:36
+msgid "Template Footer"
+msgstr "Template voet"
+
+#: classes/views/class-sendpress-view-emails-footer.php:41
+#: classes/views/class-sendpress-view-emails-footerpage.php:38
+msgid "Default Content"
+msgstr "Standaard inhoud"
+
+#: classes/views/class-sendpress-view-emails-footerpage.php:35
+msgid "Template Page Footer"
+msgstr "Template pagina voet"
+
+#: classes/views/class-sendpress-view-emails-header.php:37
+msgid "Template Header"
+msgstr "Template kop"
+
+#: classes/views/class-sendpress-view-emails-headerpage.php:36
+msgid "Template Page Header"
+msgstr "Template pagina kop"
+
+#: classes/views/class-sendpress-view-emails-postnotifications.php:29
+msgid "Introducing Post Notifcations"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-postnotifications.php:31
+msgid "Post Notifcations Requires SendPress Pro v1.0+"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-postnotifications.php:37
+msgid "Custom Post Templates"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-postnotifications.php:38
+msgid ""
+"SendPress Post Notifications can be formatted using HTML and custom templae "
+"tags."
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-postnotifications.php:42
+msgid "Updates on your schedule"
+msgstr "Updateschema"
+
+#: classes/views/class-sendpress-view-emails-postnotifications.php:43
+msgid ""
+"Send updates to your readers whenever you want.  Send instantly after you "
+"publish a post, or daily/weekly updates of all your posts."
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-postnotifications.php:47
+#: classes/views/class-sendpress-view-emails-templates.php:56
+msgid "Upgrade to Pro"
+msgstr "Upgraden naar Pro"
+
+#: classes/views/class-sendpress-view-emails-postnotifications.php:48
+#: classes/views/class-sendpress-view-emails-templates.php:57
+msgid ""
+"Go to <a href=\"https://sendpress.com/purchase-pricing/\">SendPress.com</a> "
+"to get a license for SendPress Pro. Also if you enable AutoCron you should "
+"recive a 20% discount."
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-scheduledsending.php:26
+msgid "Create Schedule"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-send-cancel.php:41
+msgid "Cancel Scheduled Email"
+msgstr "Annuleer geplande email"
+
+#: classes/views/class-sendpress-view-emails-send-cancel.php:47
+#: classes/views/class-sendpress-view-overview.php:211
+msgid "Date"
+msgstr "Datum"
+
+#: classes/views/class-sendpress-view-emails-send-cancel.php:50
+msgid "Delete Scheduled Email"
+msgstr "Verwijder geplande email"
+
+#: classes/views/class-sendpress-view-emails-send-confirm.php:89
+#: classes/views/class-sendpress-view-emails-send-confirm.php:95
+msgid "Confirm Send"
+msgstr "Bevestig verzenden"
+
+#: classes/views/class-sendpress-view-emails-send-confirm.php:93
+msgid "Cancel Send"
+msgstr "Annuleer verzenden"
+
+#: classes/views/class-sendpress-view-emails-send-confirm.php:106
+#: classes/views/class-sendpress-view-emails-send.php:115
+msgid "Date & Time"
+msgstr "Datum & tijd"
+
+#: classes/views/class-sendpress-view-emails-send-confirm.php:129
+msgid "No Lists Selected"
+msgstr "Geen lijst geselecteerd"
+
+#: classes/views/class-sendpress-view-emails-send-confirm.php:137
+#: classes/views/class-sendpress-view-emails-send.php:191
+msgid "Mark as Test"
+msgstr "Markeer als test"
+
+#: classes/views/class-sendpress-view-emails-send-confirm.php:143
+#: classes/views/class-sendpress-view-emails-send.php:194
+msgid "This puts the report into the Test tab on the Reports screen"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-send-confirm.php:170
+#: classes/views/class-sendpress-view-emails-send.php:230
+msgid "Displaying a 404? Please try saving your permalinks"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-send-confirm.php:170
+#: classes/views/class-sendpress-view-emails-send.php:230
+msgid "here"
+msgstr "hier"
+
+#: classes/views/class-sendpress-view-emails-send-queue.php:57
+msgid "Adding Subscribers to Queue"
+msgstr "Abonnees toevoegen aan wachtrij"
+
+#: classes/views/class-sendpress-view-emails-send.php:82
+msgid ""
+"<strong>Notice!</strong> You must select a list below before an email can be"
+" sent."
+msgstr "<strong>Let op!</strong> U moet een lijst selecteren voordat een email kan worden verzonden."
+
+#: classes/views/class-sendpress-view-emails-send.php:102
+msgid "Send Email"
+msgstr "E-mail verzenden"
+
+#: classes/views/class-sendpress-view-emails-send.php:116
+msgid "Start Sending Now"
+msgstr "Start direct met verzenden"
+
+#: classes/views/class-sendpress-view-emails-send.php:117
+msgid "Send Later"
+msgstr "Later verzenden"
+
+#: classes/views/class-sendpress-view-emails-send.php:193
+msgid "Test"
+msgstr "Test"
+
+#: classes/views/class-sendpress-view-emails-social.php:45
+#: classes/views/class-sendpress-view-settings-shared.php:44
+msgid ""
+"Social Icons appear in emails in Alphabetical order. If you enter a url in "
+"the box below then that icon will show in your emails."
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-social.php:50
+#: classes/views/class-sendpress-view-settings-shared.php:49
+msgid "Large"
+msgstr "Groot"
+
+#: classes/views/class-sendpress-view-emails-social.php:54
+#: classes/views/class-sendpress-view-settings-shared.php:53
+msgid "Small"
+msgstr "Klein"
+
+#: classes/views/class-sendpress-view-emails-social.php:58
+#: classes/views/class-sendpress-view-emails-tempstyle.php:114
+#: classes/views/class-sendpress-view-emails-tempstyle.php:153
+#: classes/views/class-sendpress-view-emails-tempstyle.php:202
+#: classes/views/class-sendpress-view-emails-tempstyle.php:244
+#: classes/views/class-sendpress-view-settings-shared.php:57
+msgid "Text"
+msgstr "Tekst"
+
+#: classes/views/class-sendpress-view-emails-systememail.php:30
+msgid "Create System E-mail"
+msgstr "Creëer systeem e-mails"
+
+#: classes/views/class-sendpress-view-emails-systememailcreate.php:148
+msgid "Email Type"
+msgstr "Soort email"
+
+#: classes/views/class-sendpress-view-emails-temp.php:39
+#: classes/views/class-sendpress-view-emails-tempedit.php:43
+#: classes/views/class-sendpress-view-emails.php:23
+#: classes/views/class-sendpress-view-queue-all.php:32
+#: classes/views/class-sendpress-view-queue-errors.php:31
+#: classes/views/class-sendpress-view-queue-jobs.php:28
+#: classes/views/class-sendpress-view-queue-stuck.php:35
+#: classes/views/class-sendpress-view-queue.php:72
+msgid "Emails per page"
+msgstr "E-mails per pagina"
+
+#: classes/views/class-sendpress-view-emails-temp.php:67
+#: classes/views/class-sendpress-view-emails.php:59
+msgid "Templates"
+msgstr "Sjabloons"
+
+#: classes/views/class-sendpress-view-emails-temp.php:68 sendpress.php:1302
+#: sendpress.php:1350
+msgid "Help"
+msgstr "Help"
+
+#: classes/views/class-sendpress-view-emails-temp.php:68
+msgid "Getting Started with Templates"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-tempclone.php:47
+msgid "Clone Template"
+msgstr "Kopieer template"
+
+#: classes/views/class-sendpress-view-emails-tempclone.php:50
+msgid "Template Name"
+msgstr "Sjabloon naam"
+
+#: classes/views/class-sendpress-view-emails-tempdelete.php:33
+msgid "You are about to delete template"
+msgstr "Je staat op het punt op het template te verwijderen"
+
+#: classes/views/class-sendpress-view-emails-tempdelete.php:35
+msgid "Delete Template"
+msgstr "verwijder template"
+
+#: classes/views/class-sendpress-view-emails-templates.php:39
+msgid "Introducing Custom HTML Templates"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-templates.php:41
+msgid "Custom Templates Requires SendPress Pro v1.0+"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-templates.php:46
+msgid "Send Any Template"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-templates.php:47
+msgid "SendPress allows you to send any HTML email template you wish."
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-templates.php:51
+msgid "Template Tags"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-templates.php:52
+msgid ""
+"Quickly insert email content, subscriber information and social icons with "
+"our new tag system."
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-tempstyle.php:71
+msgid "Sorry the Styler does not support screens smaller then 768px."
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-tempstyle.php:92
+msgid "Page"
+msgstr "Pagina"
+
+#: classes/views/class-sendpress-view-emails-tempstyle.php:98
+msgid "Edit Page Header HTML"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-tempstyle.php:106
+#: classes/views/class-sendpress-view-emails-tempstyle.php:146
+#: classes/views/class-sendpress-view-emails-tempstyle.php:186
+#: classes/views/class-sendpress-view-emails-tempstyle.php:237
+msgid "Background"
+msgstr "Achtergrond"
+
+#: classes/views/class-sendpress-view-emails-tempstyle.php:121
+#: classes/views/class-sendpress-view-emails-tempstyle.php:209
+#: classes/views/class-sendpress-view-emails-tempstyle.php:251
+msgid "Link"
+msgstr "Link"
+
+#: classes/views/class-sendpress-view-emails-tempstyle.php:124
+msgid "Edit Page Footer HTML"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-tempstyle.php:133
+msgid "Content Header"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-tempstyle.php:139
+msgid "Edit Header HTML"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-tempstyle.php:161
+#: classes/views/class-sendpress-view-emails-tempstyle.php:260
+msgid "Include Padding"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails-tempstyle.php:224
+msgid "Content Footer"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails.php:36
+#: classes/views/class-sendpress-view-reports.php:34
+#: classes/views/class-sendpress-view-settings.php:25
+#: classes/views/class-sendpress-view-subscribers.php:53
+msgid "Toggle navigation"
+msgstr "Wissel Navigatie"
+
+#: classes/views/class-sendpress-view-emails.php:42
+#: classes/views/class-sendpress-view-settings-access.php:129
+#: classes/views/class-sendpress-view-settings-advanced.php:228
+#: sendpress.php:1266 sendpress.php:1330
+msgid "Emails"
+msgstr "E-mails"
+
+#: classes/views/class-sendpress-view-emails.php:48
+#: classes/views/class-sendpress-view-reports.php:45
+msgid "Newsletters"
+msgstr "Nieuwsbrieven"
+
+#: classes/views/class-sendpress-view-emails.php:53
+msgid "Autoresponders"
+msgstr "Autoresponders"
+
+#: classes/views/class-sendpress-view-emails.php:62
+msgid "Custom Templates"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails.php:66
+#: classes/views/class-sendpress-view-settings-shared.php:40
+msgid "Social Icons"
+msgstr "Social icons"
+
+#: classes/views/class-sendpress-view-emails.php:69
+#: classes/views/class-sendpress-view-overview.php:285
+msgid "Post Notifications"
+msgstr "Bericht meldingen"
+
+#: classes/views/class-sendpress-view-emails.php:75
+msgid "Scheduled Sending"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails.php:79
+msgid "Automation"
+msgstr ""
+
+#: classes/views/class-sendpress-view-emails.php:85
+msgid "System Email"
+msgstr "Systeem email"
+
+#: classes/views/class-sendpress-view-help.php:26
+msgid "SendPress Editor Button"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:27
+msgid "Look for this button"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:27
+msgid ""
+"to open the popup for adding posts to an email and personilizing emails."
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:35
+msgid "Click a title to view info about a shortcode."
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:44
+msgid "Basic Support"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:45
+msgid "You can get support for the FREE version of SendPress on the"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:45
+msgid "WordPress.org forums"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:45
+msgid "Also check our"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:45
+#: classes/views/class-sendpress-view.php:42
+msgid "Knowledge Base"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:45
+msgid "for help at"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:47
+msgid "Premium Support"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:48
+msgid ""
+"Premium support is available if you have purchased SendPress Pro from "
+"SendPress.com. Premium support can be accessed via our support site:"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:48
+msgid "and requires a SendPress.com account"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:111
+#: classes/views/class-sendpress-view-help.php:112
+msgid " MByte"
+msgstr "MByte"
+
+#: classes/views/class-sendpress-view-help.php:152
+msgid "Support Info"
+msgstr ""
+
+#: classes/views/class-sendpress-view-help.php:153
+msgid ""
+"To copy the system info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr "Om de systeem info te kopiëren, klik beneden en Ctrl + C (PC) of Cmd + C (Mac) indrukken."
+
+#: classes/views/class-sendpress-view-help.php:279
+msgid "Configure"
+msgstr "Stel in "
+
+#: classes/views/class-sendpress-view-overview.php:42
+msgid "Emails Actively Sending"
+msgstr "E-mails actief versturen"
+
+#: classes/views/class-sendpress-view-overview.php:45
+msgid "Emails Stuck in Queue"
+msgstr "E-mails vast in wachtrij"
+
+#: classes/views/class-sendpress-view-overview.php:48
+msgid "Autocron last check"
+msgstr ""
+
+#: classes/views/class-sendpress-view-overview.php:56
+msgid "UTC"
+msgstr ""
+
+#: classes/views/class-sendpress-view-overview.php:58
+msgid "No Data"
+msgstr ""
+
+#: classes/views/class-sendpress-view-overview.php:61
+msgid "Not Enabled"
+msgstr ""
+
+#: classes/views/class-sendpress-view-overview.php:70
+msgid "This email had"
+msgstr "Deze e-mail had"
+
+#: classes/views/class-sendpress-view-overview.php:70
+msgid "Recipients"
+msgstr "Geadresseerden"
+
+#: classes/views/class-sendpress-view-overview.php:105
+#: classes/views/class-sendpress-view-overview.php:161
+#: classes/views/class-sendpress-view-reports-tests.php:48
+#: classes/views/class-sendpress-view-reports.php:83
+msgid "Total"
+msgstr "Totaal"
+
+#: classes/views/class-sendpress-view-overview.php:128
+#: classes/views/class-sendpress-view-overview.php:182
+#: classes/views/class-sendpress-view-reports-tests.php:46
+#: classes/views/class-sendpress-view-reports.php:81
+msgid "Unique"
+msgstr "Uniek"
+
+#: classes/views/class-sendpress-view-overview.php:206
+msgid "Recent Subscribers"
+msgstr "Recente abonnees"
+
+#: classes/views/class-sendpress-view-overview.php:253
+msgid "Most Active Subscribers"
+msgstr "Meest actieve abonnees"
+
+#: classes/views/class-sendpress-view-overview.php:279
+msgid "Go Pro!"
+msgstr "Ga PRO"
+
+#: classes/views/class-sendpress-view-overview.php:284
+msgid "Check Spam Scores"
+msgstr "Controleer de spam scores"
+
+#: classes/views/class-sendpress-view-queue-all.php:78
+msgid "Queue history for the last "
+msgstr "Wachtrij geschiedenis voor de laatste"
+
+#: classes/views/class-sendpress-view-queue-all.php:78
+#: classes/views/class-sendpress-view-settings-advanced.php:226
+msgid "Days"
+msgstr "Dagen"
+
+#: classes/views/class-sendpress-view-queue-all.php:79
+#: classes/views/class-sendpress-view-queue-stuck.php:130
+#: classes/views/class-sendpress-view-queue.php:185
+msgid "You can adjust these settings here"
+msgstr ""
+
+#: classes/views/class-sendpress-view-queue-all.php:79
+#: classes/views/class-sendpress-view-settings.php:49
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: classes/views/class-sendpress-view-queue-errors.php:63
+msgid "Error history for the last 2 Weeks"
+msgstr "Fout geschiedenis van de laatste 2 weken"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:101
+#: classes/views/class-sendpress-view-queue.php:156
+msgid "Pause Sending"
+msgstr "Pauzeer verzenden"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:104
+#: classes/views/class-sendpress-view-queue.php:159
+msgid "Resume Sending"
+msgstr "Hervat verzenden"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:111
+#: classes/views/class-sendpress-view-queue.php:165
+msgid "Send Emails Now"
+msgstr "E-mails nu verzenden"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:118
+#: classes/views/class-sendpress-view-queue.php:171
+msgid "Unlimited"
+msgstr "Onbeperkt"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:128
+#: classes/views/class-sendpress-view-queue-stuck.php:129
+#: classes/views/class-sendpress-view-queue.php:183
+#: classes/views/class-sendpress-view-queue.php:184
+msgid "of a possible"
+msgstr "van een mogelijke"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:128
+#: classes/views/class-sendpress-view-queue.php:183
+msgid "emails sent in the last 24 hours"
+msgstr "e-mails verzonden in de laatste 24 uur"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:129
+#: classes/views/class-sendpress-view-queue.php:184
+msgid "emails sent in the last hour"
+msgstr "e-mails het laatste uur verzonden "
+
+#: classes/views/class-sendpress-view-queue-stuck.php:130
+#: classes/views/class-sendpress-view-queue-stuck.php:204
+#: classes/views/class-sendpress-view-queue.php:185
+#: classes/views/class-sendpress-view-queue.php:240
+msgid "Sending Account"
+msgstr "Verzend account"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:136
+msgid "The cron will run again around"
+msgstr ""
+
+#: classes/views/class-sendpress-view-queue-stuck.php:151
+#: classes/views/class-sendpress-view-queue.php:199
+msgid "Re-queue All Emails"
+msgstr "Herplaats alle e-mails in wachtrij"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:156
+msgid "Delete All Stuck Emails"
+msgstr "Verwijder alle vastzittende e-mails"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:164
+msgid "Really? Delete All Emails stuck in the Queue."
+msgstr "Zeker weten? Alle e-mails die vastzitten in de wachtrij verwijderen?"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:167
+msgid ""
+"This will remove all stuck emails from the queue without attempting to send "
+"them"
+msgstr "Dit zal alle vastzittende e-mails in de wachtrij verwijderen zonder te proberen ze te verzenden."
+
+#: classes/views/class-sendpress-view-queue-stuck.php:170
+#: classes/views/class-sendpress-view-queue.php:219
+#: classes/views/class-sendpress-view-subscribers-all.php:117
+#: classes/views/class-sendpress-view-subscribers-subscribers.php:96
+msgid "No! I was Joking"
+msgstr "Nee! Grapje"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:170
+#: classes/views/class-sendpress-view-queue.php:219
+msgid "Yes! Delete All Emails"
+msgstr "Ja! Verwijder alle e-mails"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:180
+#: classes/views/class-sendpress-view-queue.php:229
+msgid "Sending Emails"
+msgstr "E-mails verzenden"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:188
+#: classes/views/class-sendpress-view-queue.php:237
+msgid "of"
+msgstr "van"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:188
+msgid "emails"
+msgstr ""
+
+#: classes/views/class-sendpress-view-queue-stuck.php:189
+msgid "You are currently sending 1 email approximately every"
+msgstr ""
+
+#: classes/views/class-sendpress-view-queue-stuck.php:202
+msgid "seconds"
+msgstr "seconden"
+
+#: classes/views/class-sendpress-view-queue-stuck.php:203
+#: classes/views/class-sendpress-view-queue.php:239
+msgid "You are also limited to"
+msgstr ""
+
+#: classes/views/class-sendpress-view-queue-stuck.php:203
+#: classes/views/class-sendpress-view-queue.php:239
+msgid "emails per hour"
+msgstr ""
+
+#: classes/views/class-sendpress-view-queue-stuck.php:204
+#: classes/views/class-sendpress-view-queue.php:240
+msgid "To change these settings go to"
+msgstr ""
+
+#: classes/views/class-sendpress-view-queue-stuck.php:207
+#: classes/views/class-sendpress-view-queue.php:243
+msgid "If you close this window sending will stop. "
+msgstr "Wanneer je dit venster sluit, stopt de verzending."
+
+#: classes/views/class-sendpress-view-queue.php:41
+msgid "Queues"
+msgstr ""
+
+#: classes/views/class-sendpress-view-queue.php:46
+msgid "Active"
+msgstr ""
+
+#: classes/views/class-sendpress-view-queue.php:49
+msgid "Stuck"
+msgstr "Vastzittend"
+
+#: classes/views/class-sendpress-view-queue.php:52
+msgid "Send History"
+msgstr "Verzend geschiedenis"
+
+#: classes/views/class-sendpress-view-queue.php:55
+msgid "Send Errors"
+msgstr "Verzend fouten"
+
+#: classes/views/class-sendpress-view-queue.php:205
+msgid "Delete All Emails in the Queue"
+msgstr "Verwijder alle e-mails in de wachtrij"
+
+#: classes/views/class-sendpress-view-queue.php:213
+msgid "Really? Delete All Emails in the Queue."
+msgstr "Echt? Alle e-mails in de wachtrij verwijderen."
+
+#: classes/views/class-sendpress-view-queue.php:216
+msgid ""
+"This will remove all emails from the queue without attempting to send them"
+msgstr "Dit verwijderd alle e-mails van de wachtrij zonder deze te proberen te verzenden"
+
+#: classes/views/class-sendpress-view-queue.php:237
+msgid "emails left to send"
+msgstr ""
+
+#: classes/views/class-sendpress-view-reports-tests.php:20
+#: classes/views/class-sendpress-view-reports.php:20
+msgid "Reports per page"
+msgstr "Rapportage per pagina"
+
+#: classes/views/class-sendpress-view-reports-tests.php:46
+#: classes/views/class-sendpress-view-reports.php:81
+msgid ""
+"The total number of different recipients that have clicked on a link or "
+"opened an email."
+msgstr "Het totaal aantal van verschillende geadresseerden die op een link hebben geklikt of een e-mail hebben geopend."
+
+#: classes/views/class-sendpress-view-reports-tests.php:48
+#: classes/views/class-sendpress-view-reports.php:83
+msgid ""
+"The total number of clicks or opens that have happened. Regardless of who "
+"clicked or opened the email."
+msgstr "Het totaal aantal kliks of openingen die gebeurd zijn. Ongeacht wie er geklikt heeft of e-mail geopend."
+
+#: classes/views/class-sendpress-view-reports.php:40
+#: classes/views/class-sendpress-view-settings-access.php:130
+#: sendpress.php:1274 sendpress.php:1334
+msgid "Reports"
+msgstr "Rapporten"
+
+#: classes/views/class-sendpress-view-reports.php:48
+msgid "Tests"
+msgstr "Testen"
+
+#: classes/views/class-sendpress-view-reports.php:79
+msgid "Information"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-access.php:128
+msgid "Role"
+msgstr "Rol"
+
+#: classes/views/class-sendpress-view-settings-access.php:133
+#: sendpress.php:1288 sendpress.php:1342
+msgid "Queue"
+msgstr "Wachtrij"
+
+#: classes/views/class-sendpress-view-settings-access.php:134
+msgid "Add-ons"
+msgstr "Add-ons"
+
+#: classes/views/class-sendpress-view-settings-access.php:174
+msgid "Create/Edit/Delete"
+msgstr "Aanmaken/Wijzigen/Verwijderen"
+
+#: classes/views/class-sendpress-view-settings-access.php:184
+#: classes/views/class-sendpress-view-settings-access.php:189
+#: classes/views/class-sendpress-view-settings-access.php:206
+#: classes/views/class-sendpress-view-settings-access.php:212
+msgid "Full Access"
+msgstr "Volledige toegang"
+
+#: classes/views/class-sendpress-view-settings-access.php:194
+msgid "Full Access (<small>No Permissions Access</small>)"
+msgstr "Volledige toegang (<small>Geen toegangspermissies</small>)"
+
+#: classes/views/class-sendpress-view-settings-account.php:99
+#: classes/views/class-sendpress-view-settings-account.php:123
+msgid "From Name"
+msgstr "Van naam"
+
+#: classes/views/class-sendpress-view-settings-account.php:121
+msgid "Sending Email"
+msgstr "E-mail verzenden"
+
+#: classes/views/class-sendpress-view-settings-account.php:134
+msgid "Test Email"
+msgstr "E-mail testen"
+
+#: classes/views/class-sendpress-view-settings-account.php:137
+msgid "Where to send Test Email"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:142
+msgid "Send Test!"
+msgstr "Verzend test!"
+
+#: classes/views/class-sendpress-view-settings-account.php:145
+msgid "Debug Info"
+msgstr "Debug informatie"
+
+#: classes/views/class-sendpress-view-settings-account.php:155
+msgid "Click to View Last Error"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:186
+msgid "Sending Account Setup"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:198
+msgid "Delivery Method"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:209
+msgid "Send Emails via"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:254
+msgid "Currently Active"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:262
+msgid "Advanced Sending Options"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:267
+msgid "Email Sending Limits"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:280
+msgid "You have sent <strong>%d</strong> emails so far today."
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:281
+msgid "Emails Per Day"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:282
+msgid "Emails Per Hour"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:284
+msgid "Email Encoding"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:302
+msgid ""
+"Squares or weird characters displaying in your emails select the charset for"
+" your language"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:304
+msgid "Encoding"
+msgstr "Codering"
+
+#: classes/views/class-sendpress-view-settings-account.php:318
+msgid "Older versions of SendPress used"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:320
+msgid "AutoCron Information"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:339
+msgid "AutoCron has no information at this time, please check back later"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:344
+msgid "AutoCron is not enabled"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:351
+msgid "SendPress Pro Auto Cron"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:352
+msgid "At least once every hour we visit your site, just like a cron job"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:353
+msgid "There's no setup involved. Easy and hassle free"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:355
+msgid "Enable Pro Auto Cron"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:355
+msgid "Disable Pro Auto Cron"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:358
+msgid ""
+"AutoCron will check your site every minute until all your emails are sent or"
+" you hit the defined sending limit to the right"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:360
+msgid ""
+"AutoCron sends 25 emails per execution so on average you can send about 1500"
+" emails an hour"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:362
+msgid ""
+"Please be aware that AutoCron and email sending in general can be harder on "
+"a server then normal web traffic. Make sure you have a hosting account that "
+"can handle your sending volume and we strongly recommend using a third part "
+"delivery system like <a href='https://www.wpemaildelivery.com'>WP Email "
+"Delivery</a>"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:364
+msgid ""
+"Pro Auto Cron does collect some data about your website and usage of "
+"SendPress. It will not track any user details, so your security and privacy "
+"are safe with us."
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-account.php:428
+msgid "SMTP Debug Info"
+msgstr "SMTP debug informatie"
+
+#: classes/views/class-sendpress-view-settings-account.php:446
+msgid "Port 25 seems to be blocked."
+msgstr "Poort 25 lijkt geblokkeerd te zijn."
+
+#: classes/views/class-sendpress-view-settings-account.php:452
+msgid "Port 465 seems to be blocked. Gmail may have trouble"
+msgstr "Poort 465 lijkt geblokkeerd te zijn. Gmail heeft mogelijk problemen"
+
+#: classes/views/class-sendpress-view-settings-account.php:458
+msgid "Port 587 seems to be blocked."
+msgstr "Poort 587 lijkt geblokkeerd te zijn."
+
+#: classes/views/class-sendpress-view-settings-account.php:475
+msgid "No Debug info saved."
+msgstr "Geen debug informatie opgeslagen."
+
+#: classes/views/class-sendpress-view-settings-activation.php:62
+msgid "Public Page Settings"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:68
+msgid "Use theme styles"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:69
+msgid "This will attempt to use the WordPress theme functions"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:69
+msgid "and"
+msgstr "en"
+
+#: classes/views/class-sendpress-view-settings-activation.php:69
+msgid "to build the SendPress default public pages"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:72
+msgid "Manage Page"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:74
+msgid ""
+"This is the page subscribers are directed to to manage their subscriptions "
+"to your lists"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:77
+#: classes/views/class-sendpress-view-settings-activation.php:133
+msgid "Use Default SendPress Page"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:78
+#: classes/views/class-sendpress-view-settings-activation.php:105
+#: classes/views/class-sendpress-view-settings-activation.php:134
+msgid "Redirect to"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:82
+#: classes/views/class-sendpress-view-settings-activation.php:109
+#: classes/views/class-sendpress-view-settings-activation.php:137
+#: classes/views/class-sendpress-view-settings-activation.php:285
+#: classes/views/class-sendpress-view-subscribers-listform.php:102
+msgid "Select page"
+msgstr "Selecteer pagina"
+
+#: classes/views/class-sendpress-view-settings-activation.php:97
+#: classes/views/class-sendpress-view-settings-activation.php:124
+#: classes/views/class-sendpress-view-settings-activation.php:150
+msgid "View Page"
+msgstr "Pagina bekijken"
+
+#: classes/views/class-sendpress-view-settings-activation.php:99
+msgid "Unsubscribe Page"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:101
+msgid ""
+"This is the page subscribers are directed to to unsubscribe from your list"
+msgstr "Dit is de pagina waar men naar toe verwijst zodra men zich afmeldt"
+
+#: classes/views/class-sendpress-view-settings-activation.php:104
+msgid "Use Default Manage description Page"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:129
+msgid "Confirmation Page"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:131
+msgid ""
+"Select the page a new subcriber will be redirected to after they click the "
+"confirmation link in the Double Opt-in Email"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:153
+#: classes/views/class-sendpress-view-settings-activation.php:157
+msgid "Post Page"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:155
+msgid ""
+"This is the page shown by default if you are using a custom form to post "
+"subscriber data. This can also be set per list on each lists form page"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:170
+msgid "Double Opt-in Email"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:178
+msgid "Body"
+msgstr "Body"
+
+#: classes/views/class-sendpress-view-settings-activation.php:190
+msgid "Send Double Opt-in Email"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:191
+msgid "Keep the spammers, robots and other riff-raff off your list"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:191
+msgid "Read more about why to use double opt-in on our support site"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:197
+msgid "Quick Tags"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:197
+msgid "work in both subject and body"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:199
+msgid "This is required to be in the body of the email"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:201
+msgid "Add Website title to the email"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-activation.php:203
+msgid "Add the email the user signed up with"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:126
+msgid "Database Repair"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:127
+msgid ""
+"Reset our new template system back to default and fix some postmeta issues"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:128
+msgid "Data Fix Options"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:132
+msgid "Javascript"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:132
+msgid "CSS"
+msgstr "CSS"
+
+#: classes/views/class-sendpress-view-settings-advanced.php:140
+msgid "Disable front end CSS"
+msgstr "Zet front-end CSS uit "
+
+#: classes/views/class-sendpress-view-settings-advanced.php:142
+msgid "Disable signup form ajax"
+msgstr "Zet aanmeldformulier ajax uit"
+
+#: classes/views/class-sendpress-view-settings-advanced.php:145
+msgid "Load Javascript in Footer"
+msgstr "Laad Javascript in voettekst"
+
+#: classes/views/class-sendpress-view-settings-advanced.php:152
+msgid "Use Shortcodes in Widgets"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:155
+msgid "Want to use Shortcodes in your Widgets, but all you get is"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:155
+msgid ""
+"Turn on this option and we'll make sure your shortcodes work in widgets"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:164
+msgid "Optional Settings"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:168
+msgid "Use old permalink with"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:171
+msgid "Do not track mailto links in email"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:174
+msgid "Override email template settings"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:177
+msgid "Show SPNL Logs"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:183
+msgid "Read More override"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:188
+msgid "Enable WP Email Delivery Early Access"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:194
+msgid "Table Info"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:196
+msgid "Install Missing Tables"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:198
+msgid "Templates Check"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:204
+msgid "Tracking"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:208
+msgid "Allow tracking of this WordPress installs anonymous data"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:210
+msgid ""
+"To maintain a plugin as big as SendPress, we need to know what we're "
+"dealing: what kinds of other plugins our users are using, what themes, etc. "
+"Please allow us to track that data from your install. It will add your email"
+" to our support system to assist in AutoCron problems."
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:214
+msgid "System Limits"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:217
+msgid ""
+"Please take care when changing these settings. We have attempted to set "
+"these to work on almost all servers. If you have a faster server you may be "
+"able to increase the limits below or if you are having troubles you may need"
+" to decrease the settings"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:219
+msgid "Users to Sync per ajax call"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:221
+msgid "Emails sent per AutoCron execution"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:222
+msgid "If AutoCron errors it will shut itself off"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-advanced.php:224
+msgid "WordPress cron emails sent per execution"
+msgstr "Hoeveel emails moet wordpress per keer versturen"
+
+#: classes/views/class-sendpress-view-settings-advanced.php:226
+msgid "Queue History"
+msgstr "Wachtrij geschiedenis"
+
+#: classes/views/class-sendpress-view-settings-advanced.php:228
+msgid "Add Emails to Queue"
+msgstr "Plaats emails naar de wachtrij"
+
+#: classes/views/class-sendpress-view-settings-dbfix.php:33
+msgid "1.0 Template Reset"
+msgstr "1.0 template herstel"
+
+#: classes/views/class-sendpress-view-settings-dbfix.php:34
+msgid "This will remove all templates in the new template system"
+msgstr "Dit verwijderd alle templates in het nieuwe template systeem"
+
+#: classes/views/class-sendpress-view-settings-dbfix.php:39
+msgid "Reset Settings"
+msgstr "Instellingen resetten"
+
+#: classes/views/class-sendpress-view-settings-dbfix.php:40
+msgid "This will reset all form settings and remove extra metadata"
+msgstr "Herstel het formulier en verwijder alle metadata"
+
+#: classes/views/class-sendpress-view-settings-fixposts.php:23
+msgid "We see"
+msgstr "We zien"
+
+#: classes/views/class-sendpress-view-settings-fixposts.php:23
+msgid "bad posts."
+msgstr "Slecht bericht"
+
+#: classes/views/class-sendpress-view-settings-fixposts.php:25
+msgid "Attempt to Delete These"
+msgstr "Poging tot verwijderen"
+
+#: classes/views/class-sendpress-view-settings-install.php:18
+msgid "Attempting to install or repair missing data"
+msgstr "Poging tot installatie van ontbrekende bestanden"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:62
+msgid "E-mail Notifications"
+msgstr "E-mail meldingen"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:67
+msgid "Send E-mail Notifications"
+msgstr "Verzend e-mail meldingen"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:70
+msgid "To E-mail"
+msgstr "Naar e-mail"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:76
+msgid "Send Notifications to all WordPress Administrators"
+msgstr "Verzend meldingen aan alle WordPress admins"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:78
+msgid ""
+"Select the notifications you'd like to receive and how often you'd like to "
+"receive them"
+msgstr "Selecteer de notificaties die u wilt ontvangen en hoe vaak u ze wilt ontvangen"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:79
+msgid "User Subscribed"
+msgstr "Gebruiker geregistreerd"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:81
+#: classes/views/class-sendpress-view-settings-notifications.php:91
+msgid "Instant"
+msgstr "Direct"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:83
+#: classes/views/class-sendpress-view-settings-notifications.php:93
+msgid "Daily"
+msgstr "Dagelijks"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:85
+#: classes/views/class-sendpress-view-settings-notifications.php:95
+msgid "Weekly"
+msgstr "Wekelijks"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:87
+#: classes/views/class-sendpress-view-settings-notifications.php:97
+msgid "Monthly"
+msgstr "Maandelijks"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:89
+msgid "User Unsbscribed"
+msgstr "Registratie afgemeld"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:103
+msgid "HipChat Notification"
+msgstr "HipChat melding"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:107
+msgid "Enable HipChat Notification"
+msgstr "Inschakelen HipChat melding"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:109
+msgid "API Key"
+msgstr "API sleutel"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:109
+msgid "Where is my API key"
+msgstr "Waar is mijn API key"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:120
+msgid "Select the rooms to send notifications to:"
+msgstr "Selecteer de rooms waar meldingen naar verzonden moeten worden:"
+
+#: classes/views/class-sendpress-view-settings-notifications.php:135
+msgid "Room Name"
+msgstr "Kamer naam"
+
+#: classes/views/class-sendpress-view-settings-styles.php:127
+msgid "Link to browser version"
+msgstr "Link naar de browser versie"
+
+#: classes/views/class-sendpress-view-settings-styles.php:128
+msgid "Use default"
+msgstr "Gebruik standaard"
+
+#: classes/views/class-sendpress-view-settings-styles.php:128
+msgid "Use custom"
+msgstr "Gebruik eigen"
+
+#: classes/views/class-sendpress-view-settings-styles.php:128
+msgid "None"
+msgstr "Geen"
+
+#: classes/views/class-sendpress-view-settings-styles.php:138
+msgid "CAN-SPAM"
+msgstr "CAN-SPAM"
+
+#: classes/views/class-sendpress-view-settings-styles.php:138
+msgid "required in the US."
+msgstr "verplicht in de VS."
+
+#: classes/views/class-sendpress-view-settings-styles.php:138
+msgid "This area displays in Email Footer"
+msgstr "Dit gebied wordt getoond in de e-mail voettekst "
+
+#: classes/views/class-sendpress-view-settings-styles.php:140
+msgid ""
+"Your message must include your valid physical postal address. This can be "
+"your current street address, a post office box youve registered with the "
+"U.S. Postal Service, or a private mailbox youve registered with a commercial"
+" mail receiving agency established under Postal Service regulations."
+msgstr "Uw bericht moet een valide fysiek postadres bevatten. Dit kan een huisadres zijn of een postbus."
+
+#: classes/views/class-sendpress-view-settings-styles.php:141
+msgid ""
+"This is dictated under the <a href=\"http://business.ftc.gov/documents/bus61"
+"-can-spam-act-compliance-guide-business\" target=\"_blank\">Federal CAN-SPAM"
+" Act of 2003</a>."
+msgstr "Dit is voorgeschreven door de <a href=\"http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business\" target=\"_blank\">Federal CAN-SPAM Act of 2003</a>."
+
+#: classes/views/class-sendpress-view-settings-widgets.php:172
+msgid "Create Form"
+msgstr "Formulier toevoegen"
+
+#: classes/views/class-sendpress-view-settings-widgets.php:187
+msgid "Confirm Delete"
+msgstr "Bevestig verwijderen"
+
+#: classes/views/class-sendpress-view-settings-widgets.php:206
+msgid "Form Name"
+msgstr "Naam formulier"
+
+#: classes/views/class-sendpress-view-settings-widgets.php:218
+msgid "Form Type"
+msgstr "Soort formulier"
+
+#: classes/views/class-sendpress-view-settings-widgets.php:273
+msgid "Signup Ui"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-widgets.php:281
+msgid "Salutation Label:"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-widgets.php:296
+msgid "Phone Number Label:"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-widgets.php:324
+#: classes/views/class-sendpress-view-settings-widgets.php:493
+msgid ""
+"Use the shortcode below to insert this signup form into your posts and pages"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-widgets.php:328
+msgid "Signup Settings"
+msgstr "Registeer instellingen"
+
+#: classes/views/class-sendpress-view-settings-widgets.php:332
+msgid "Collect Salutation"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-widgets.php:337
+msgid "Salutation Required"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-widgets.php:348
+msgid "First Name Required"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-widgets.php:359
+msgid "Last Name Required"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-widgets.php:365
+msgid "Collect Phone Number"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-widgets.php:370
+#: classes/views/class-sendpress-view-settings-widgets.php:457
+msgid "Phone Number Required"
+msgstr ""
+
+#: classes/views/class-sendpress-view-settings-widgets.php:404
+msgid "Select Lists by Default"
+msgstr "Selecteer de standaard lijsten"
+
+#: classes/views/class-sendpress-view-settings-widgets.php:408
+msgid "Check off the lists you would like"
+msgstr "Controleer de lijsten die u wilt"
+
+#: classes/views/class-sendpress-view-settings-widgets.php:408
+msgid "users to subscribe to"
+msgstr "Registreer gebruikers bij "
+
+#: classes/views/class-sendpress-view-settings-widgets.php:442
+#: classes/views/class-sendpress-view-subscribers.php:71
+msgid "Custom Fields"
+msgstr "Aangepaste velden"
+
+#: classes/views/class-sendpress-view-settings-widgets.php:482
+msgid "Manage Subscription Options"
+msgstr "Beheer registratie instellingen"
+
+#: classes/views/class-sendpress-view-settings.php:36
+msgid "Basic Setup"
+msgstr "Basis instellingen"
+
+#: classes/views/class-sendpress-view-settings.php:40
+msgid "Shared Content"
+msgstr "Gedeelde inhoud"
+
+#: classes/views/class-sendpress-view-settings.php:43
+msgid "Sending"
+msgstr "Verzending"
+
+#: classes/views/class-sendpress-view-settings.php:44
+msgid "Confirmation"
+msgstr "Bevestiging"
+
+#: classes/views/class-sendpress-view-settings.php:46
+msgid "Permissions"
+msgstr "Toegangsrechten"
+
+#: classes/views/class-sendpress-view-settings.php:47
+msgid "Notifications"
+msgstr "Meldingen"
+
+#: classes/views/class-sendpress-view-settings.php:51
+msgid "Styles"
+msgstr "Stijlopties"
+
+#: classes/views/class-sendpress-view-subscribers-add.php:60
+#: classes/views/class-sendpress-view-subscribers-all.php:77
+#: classes/views/class-sendpress-view-subscribers-subscribers.php:55
+msgid "Add Subscriber"
+msgstr "Voeg abonnee toe"
+
+#: classes/views/class-sendpress-view-subscribers-add.php:70
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:107
+#: classes/views/class-sendpress-view-subscribers-subscriber.php:144
+msgid "Salutation"
+msgstr "Begroeting"
+
+#: classes/views/class-sendpress-view-subscribers-add.php:71
+#: classes/views/class-sendpress-view-subscribers-subscriber.php:145
+msgid "Firstname"
+msgstr "Voornaam"
+
+#: classes/views/class-sendpress-view-subscribers-add.php:72
+#: classes/views/class-sendpress-view-subscribers-subscriber.php:146
+msgid "Lastname"
+msgstr "Achternaam"
+
+#: classes/views/class-sendpress-view-subscribers-add.php:73
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:106
+#: classes/views/class-sendpress-view-subscribers-subscriber.php:147
+msgid "Phone Number"
+msgstr "Telefoonnummer"
+
+#: classes/views/class-sendpress-view-subscribers-add.php:74
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:105
+msgid "Status"
+msgstr "Status"
+
+#: classes/views/class-sendpress-view-subscribers-add.php:98
+msgid "Add Subscribers"
+msgstr "Voeg abonnees toe"
+
+#: classes/views/class-sendpress-view-subscribers-add.php:114
+msgid ""
+"Emails shoud be written in separate lines. A line could also include a name,"
+" which is separated from the email by a comma"
+msgstr "E-mails dienen geschreven te zijn op aparte regels. Een regel mag ook een naam bevatten, die gescheiden is van het e-mailadres met een komma"
+
+#: classes/views/class-sendpress-view-subscribers-add.php:115
+msgid "Correct formats"
+msgstr "Correcte indelingen"
+
+#: classes/views/class-sendpress-view-subscribers-all.php:32
+#: classes/views/class-sendpress-view-subscribers-subscribers.php:20
+msgid "Subscribers per page"
+msgstr "Abonnees per pagina"
+
+#: classes/views/class-sendpress-view-subscribers-all.php:100
+msgid "Remove All Subscribers"
+msgstr "Verwijder alle abonnees"
+
+#: classes/views/class-sendpress-view-subscribers-all.php:101
+msgid "Export All Subscribers"
+msgstr "Exporteer alle abonnees"
+
+#: classes/views/class-sendpress-view-subscribers-all.php:111
+#: classes/views/class-sendpress-view-subscribers-subscribers.php:90
+msgid "Really? Remove All Subscribers from this list."
+msgstr "Zeker weten? Alle abonnees verwijderen van deze lijst?"
+
+#: classes/views/class-sendpress-view-subscribers-all.php:114
+#: classes/views/class-sendpress-view-subscribers-subscribers.php:93
+msgid "This will remove all subscribers from the list"
+msgstr "Hiermee worden alle abonnees verwijderd van de lijst"
+
+#: classes/views/class-sendpress-view-subscribers-all.php:117
+#: classes/views/class-sendpress-view-subscribers-subscribers.php:96
+msgid "Yes! Remove All Subscribers"
+msgstr "Ja! Verwijder alle abonnees."
+
+#: classes/views/class-sendpress-view-subscribers-csvimport.php:93
+msgid "We had a problem saving your upload"
+msgstr "Er was een probleem met het opslaan van uw upload"
+
+#: classes/views/class-sendpress-view-subscribers-csvimport.php:97
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:126
+msgid "Import CSV to "
+msgstr "Importeer CSV ook"
+
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:100
+msgid "Don't Import"
+msgstr "Niet importeren"
+
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:102
+msgid "First name"
+msgstr "Voornaam"
+
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:103
+msgid "Last name"
+msgstr "Achternaam"
+
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:104
+msgid "IP address"
+msgstr "IP adres"
+
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:138
+msgid "We found"
+msgstr "resultaten"
+
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:138
+msgid "lines in your csv"
+msgstr "Regel in csv"
+
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:142
+msgid "Import Fields:"
+msgstr "Importeer velden"
+
+#: classes/views/class-sendpress-view-subscribers-csvprep.php:213
+msgid "Start Import"
+msgstr "Start importeren"
+
+#: classes/views/class-sendpress-view-subscribers-custom.php:44
+msgid "Custom Field Label:"
+msgstr ""
+
+#: classes/views/class-sendpress-view-subscribers-custom.php:61
+msgid "You have SendPress Pro Version"
+msgstr "U beschikt over de SendPress Pro versie"
+
+#: classes/views/class-sendpress-view-subscribers-custom.php:61
+msgid ""
+"this version does not support custom fields. You will need to update to the "
+"latest version"
+msgstr "deze versie ondersteund geen eigen velden. U dient uw versie te updaten."
+
+#: classes/views/class-sendpress-view-subscribers-custom.php:65
+msgid "Multiple custom fields are coming in a future release for "
+msgstr ""
+
+#: classes/views/class-sendpress-view-subscribers-custom.php:65
+msgid "SendPress Pro"
+msgstr "SendPress Pro"
+
+#: classes/views/class-sendpress-view-subscribers-custom.php:65
+msgid "Please upgrade or install Pro to start using this feature"
+msgstr "Om deze functie gebruiken dient u te updaten of de PRO versie te gebruiken"
+
+#: classes/views/class-sendpress-view-subscribers-listcreate.php:36
+#: classes/views/class-sendpress-view-subscribers-listedit.php:45
+msgid "Save List"
+msgstr "Sla lijst op"
+
+#: classes/views/class-sendpress-view-subscribers-listcreate.php:38
+#: classes/views/class-sendpress-view-subscribers.php:110
+msgid "Create List"
+msgstr "Maak lijst aan"
+
+#: classes/views/class-sendpress-view-subscribers-listcreate.php:43
+#: classes/views/class-sendpress-view-subscribers-listedit.php:55
+msgid "Allow user to sign up to this list"
+msgstr "Gebruikers toestaan te abonneren op deze lijst"
+
+#: classes/views/class-sendpress-view-subscribers-listcreate.php:43
+msgid "synced lists will be made private"
+msgstr ""
+
+#: classes/views/class-sendpress-view-subscribers-listcreate.php:44
+#: classes/views/class-sendpress-view-subscribers-listedit.php:56
+msgid ""
+"Mark list as test. Adds <span class=\"label label-info\">Test List</span> to"
+" list title every where."
+msgstr "Markeer lijst als test. Voegt overal <span class=\"label label-info\">Test Lijst</span> toe aan lijst titel."
+
+#: classes/views/class-sendpress-view-subscribers-listcreate.php:57
+#: classes/views/class-sendpress-view-subscribers-listedit.php:58
+msgid "Select List Type"
+msgstr ""
+
+#: classes/views/class-sendpress-view-subscribers-listcreate.php:58
+#: classes/views/class-sendpress-view-subscribers-listedit.php:59
+msgid ""
+"Pick SendPress list if you want to use SendPress to manage your subscribers."
+" Pick a WordPress Role if you want to send emails to your users. <br>Synced "
+"lists can only have users that have a login to your WordPress site."
+msgstr ""
+
+#: classes/views/class-sendpress-view-subscribers-listcreate.php:60
+#: classes/views/class-sendpress-view-subscribers-listedit.php:71
+msgid "Use this to have subscribers sign up, import csv, etc."
+msgstr ""
+
+#: classes/views/class-sendpress-view-subscribers-listcreate.php:72
+#: classes/views/class-sendpress-view-subscribers-listedit.php:90
+msgid "User Meta Query - Advanced"
+msgstr ""
+
+#: classes/views/class-sendpress-view-subscribers-listcreate.php:72
+#: classes/views/class-sendpress-view-subscribers-listedit.php:90
+msgid "Use this to sync a list based on user meta data."
+msgstr ""
+
+#: classes/views/class-sendpress-view-subscribers-listedit.php:47
+msgid "Edit List"
+msgstr "Wijzig lijst"
+
+#: classes/views/class-sendpress-view-subscribers-listform.php:41
+msgid "Back to Lists"
+msgstr "Terug naar de lijsten"
+
+#: classes/views/class-sendpress-view-subscribers-listform.php:43
+msgid "Form Settings for List "
+msgstr "Formulierinstellingen voor lijst"
+
+#: classes/views/class-sendpress-view-subscribers-subscriber.php:126
+msgid "Edit Subscriber"
+msgstr "Wijzig abonnee"
+
+#: classes/views/class-sendpress-view-subscribers-subscribers.php:81
+msgid "Remove All Subscribers from List"
+msgstr "Verwijder alle abonnees van de lijst"
+
+#: classes/views/class-sendpress-view-subscribers-sync.php:67
+msgid "Syncing "
+msgstr "Synchroniseren"
+
+#: classes/views/class-sendpress-view-subscribers-sync.php:67
+msgid " Role to List"
+msgstr "Regel naar lijst"
+
+#: classes/views/class-sendpress-view-subscribers.php:68
+msgid "All Subscribers"
+msgstr "Alle abonnees"
+
+#: classes/views/class-sendpress-view-subscribers.php:87
+msgid "Lists per page"
+msgstr "Lijsten per pagina"
+
+#: classes/views/class-sendpress-view.php:42
+msgid "What's New"
+msgstr ""
+
+#: classes/views/class-sendpress-view.php:42
+msgid "Feedback"
+msgstr ""
+
+#: classes/views/class-sendpress-view.php:42
+msgid "SendPress Version"
+msgstr ""
+
+#: classes/views/class-sendpress-view.php:42
+msgid "System"
+msgstr ""
+
+#: inc/forms/email-style.2.0.php:213
+msgid "Body Styles"
+msgstr "Body stijlen"
+
+#: inc/forms/email-style.2.0.php:225
+msgid "Header Styles"
+msgstr "Header stijlen"
+
+#: inc/forms/email-style.2.0.php:236
+msgid "Content Styles"
+msgstr "Inhoud stijlen"
+
+#: sendpress.php:457
+msgid "Join our mailing List."
+msgstr "Voeg onze verzendlijst toe"
+
+#: sendpress.php:544 sendpress.php:555
+msgid "Warning!"
+msgstr "Waarschuwing!"
+
+#: sendpress.php:546
+msgid ""
+"  Before sending any emails please setup your <a "
+"href=\"%1s\">information</a>."
+msgstr "Voor het verzenden van een e-mail, stel uw <a href=\"%1s\">informatie</a> in."
+
+#: sendpress.php:557
+msgid ""
+"  Sending has been paused. You can resume sending on the <a "
+"href=\"%1s\">Queue</a> page."
+msgstr "Verzending is gestopt. U kan verzending hervatten op de <a href=\"%1s\">wachtrij</a> pagina."
+
+#: sendpress.php:628
+msgid "Once Every Minute"
+msgstr "Om de minuut"
+
+#: sendpress.php:775
+msgid ""
+"<b>SendPress</b>: We have upgraded your lists to a new format. Please check "
+"your <a href=\"%1$s\">widget settings</a> to re-enable your list(s). | <a "
+"href=\"%2$s\">Hide Notice</a>"
+msgstr "<b>SendPress</b>: We hebben zojuist jouw lijst naar een nieuw formaat geupgraded. Controleer de <a href=\"%1$s\">widget instellingen</a> om de lijst(en) opnieuw aan te zetten. | <a href=\"%2$s\">Verberg bericht</a>"
+
+#: sendpress.php:1073 sendpress.php:1074
+msgid "Please enter your e-mail address"
+msgstr "Vul alstublieft uw e-mailadres in"
+
+#: sendpress.php:1075
+msgid ""
+"Please enter all the required fields. <br> Required fields are marked with "
+"an (*)"
+msgstr ""
+
+#: sendpress.php:1096
+msgid "Use this Image"
+msgstr "Gebruik deze afbeelding"
+
+#: sendpress.php:1098
+msgid "Use as %s"
+msgstr "Gebruik als %s"
+
+#. #-#-#-#-#  sendpress.pot (SendPress Newsletters 1.8.11.2)  #-#-#-#-#
+#. Author of the plugin/theme
+#: sendpress.php:1244
+msgid "SendPress"
+msgstr "Sendpress"
+
+#: sendpress.php:1246 sendpress.php:1309 sendpress.php:1354
+msgid "Pro"
+msgstr "PRO"
+
+#: sendpress.php:1258 sendpress.php:1327
+msgid "Overview"
+msgstr "Overzicht"
+
+#: sendpress.php:1810
+msgid "SendPress requires WordPress version %s or later."
+msgstr "SendPress vereist Wordpress versie %s of later."
+
+#. Plugin Name of the plugin/theme
+msgid "SendPress Newsletters"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://sendpress.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Easy to manage Newsletters for WordPress."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://sendpress.com/"
+msgstr ""

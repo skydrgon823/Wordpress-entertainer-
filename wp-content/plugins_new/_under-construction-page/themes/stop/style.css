@@ -1,0 +1,113 @@
+/*
+ * UnderConstructionPage
+ * Stop theme CSS
+ * (c) WebFactory Ltd, 2015 - 2021
+ */
+
+
+html {
+   height: 100%;
+   padding: 0;
+   margin: 0;
+}
+
+body {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 120%;
+  color: #fefefe;
+  background: #ff7141;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+a {
+  color: #000000;
+}
+
+.top-container {
+  padding: 100px 0;
+}
+
+#hero-image {
+  text-align: center;
+}
+
+#hero-image img {
+  max-width: 80%;
+}
+
+.display-table {
+  display: table;
+  table-layout: fixed;
+}
+
+.display-cell {
+  display: table-cell;
+  vertical-align: middle;
+  float: none;
+}
+
+h1 {
+  font-size: 34px;
+  color: #ffffff;
+  font-family: "Nunito", sans-serif;
+  font-weight: 900;
+  margin: 20px 0 30px 0;
+  text-align: left;
+}
+
+.content {
+  text-align: center;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+#social {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#social a i {
+  color: #fefefe;
+  margin: 10px;
+  box-sizing: content-box;
+}
+
+#social a:hover i {
+  color: #414042;
+}
+
+@media(max-width:767px) {
+  h1 {
+     font-size: 28px;
+     margin: 10px 0 30px 0;
+  }
+  #hero-image img {
+    max-width: 95%;
+  }
+}
+
+@media (max-width: 1200px) {
+  h1 {
+    text-align: center;
+    padding: 0 20px;
+  }
+  .display-table {
+    display: initial;
+    table-layout: auto;
+  }
+  .display-cell {
+    display: block;
+    vertical-align: middle;
+    float: none;
+  }
+  #hero-image img {
+    max-height: 250px
+  }
+  .top-container {
+    padding: 25px 0;
+  }
+}

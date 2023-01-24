@@ -1,0 +1,5121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sweetdate v2.8.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-08 13:23+0000\n"
+"PO-Revision-Date: 2019-05-08 13:40+0000\n"
+"Language-Team: Danish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: radu@seventhqueen.com\n"
+"Language: da_DK\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Version: 2.2.2; wp-5.2.1-alpha-45295"
+
+# @ kleo_framework
+#: functions.php:98
+msgid "Primary Menu"
+msgstr "Primær menu"
+
+# @ kleo_framework
+#: functions.php:162 framework/functions/facebook_login.php:55
+msgid "You must agree with the terms and conditions."
+msgstr "Du skal acceptere vilkår og betingelser"
+
+# @ kleo_framework
+#: functions.php:163
+msgid "Sending info, please wait..."
+msgstr "Sender info, vent venligst..."
+
+# @ kleo_framework
+#: functions.php:178
+msgid "Back"
+msgstr "Gå tilbage"
+
+# @ kleo_framework
+#: functions.php:333
+#, php-format
+msgid "Page %s"
+msgstr "Side %s"
+
+# @ kleo_framework
+#: functions.php:368
+msgid "HOME"
+msgstr "HJEM"
+
+# @ kleo_framework
+#: functions.php:474
+msgid "Main Sidebar"
+msgstr "Primær sidebar"
+
+# @ kleo_framework
+#: functions.php:476
+msgid "Default sidebar"
+msgstr "Standard sidebar"
+
+# @ kleo_framework
+#: functions.php:599
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ kleo_framework
+#: functions.php:600
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+# @ kleo_framework
+#: functions.php:613
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s i %2$s"
+
+# @ kleo_framework
+#: functions.php:617 content-gallery.php:85 content-status.php:25
+#: content-page.php:85 content.php:64 content-aside.php:20 content-audio.php:77
+#: content-video.php:66 content-quote.php:20 content-link.php:24
+#: content-image.php:64 image.php:39 framework/functions/breadcrumb.php:577
+#: framework/functions/breadcrumb.php:605
+#: framework/functions/breadcrumb.php:619
+#: framework/functions/breadcrumb.php:644
+msgid "Edit"
+msgstr "Rediger"
+
+# @ kleo_framework
+#: functions.php:622
+msgid "Reply"
+msgstr "Svar"
+
+# @ kleo_framework
+#: functions.php:629
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer moderator"
+
+# @ kleo_framework
+#: functions.php:657 functions.php:715
+msgid "Name"
+msgstr "Navn"
+
+# @ kleo_framework
+#: functions.php:657 functions.php:660 functions.php:674
+msgid "required"
+msgstr "påkrævet"
+
+# @ kleo_framework
+#: functions.php:660 functions.php:717 framework/theme_settings.php:1265
+msgid "Email"
+msgstr "Email"
+
+# @ kleo_framework
+# @ buddypress
+#: functions.php:671
+msgid "Send Message"
+msgstr "Send besked"
+
+#: functions.php:674 functions.php:726
+msgid "Comment"
+msgstr ""
+
+# @ kleo_framework
+#: functions.php:719
+msgid "Website"
+msgstr "Hjemmeside"
+
+# @ kleo_framework
+#: functions.php:723
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Påkrævede felter er fremhævet %s"
+
+# @ default
+# @ kleo_framework
+#: functions.php:727
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du skal være <a href=\"%s\">logget ind</a> for at skrive en kommentar."
+
+# @ kleo_framework
+#: functions.php:728
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Logget ind som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log ud af "
+"denne konto\">Log ud?</a>"
+
+# @ kleo_framework
+#: functions.php:729
+msgid "Your email address will not be published."
+msgstr "Din emailadresse vil ikke blive offentliggjort."
+
+# @ kleo_framework
+#: functions.php:730
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"Du kan anvende disse <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+"tags og attributer: %s"
+
+# @ kleo_framework
+#: functions.php:733
+msgid "Leave a Reply"
+msgstr "Svar"
+
+# @ kleo_framework
+# @ woocommerce
+#: functions.php:734
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Svar til %s"
+
+# @ kleo_framework
+#: functions.php:735
+msgid "Cancel reply"
+msgstr "Slet svar"
+
+# @ kleo_framework
+#: functions.php:736
+msgid "Post Comment"
+msgstr "Skriv kommentar"
+
+# @ kleo_framework
+#: functions.php:798 functions.php:801
+msgid ", "
+msgstr ", "
+
+# @ kleo_framework
+#: functions.php:812
+#, php-format
+msgid "View all posts by %s"
+msgstr "Se alle posts fra %s"
+
+# @ kleo_framework
+#: functions.php:824 functions.php:831 comments.php:31
+#, php-format
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "Ny kommentar"
+msgstr[1] "%1$s Nye kommentarer"
+
+# @ kleo_framework
+#: functions.php:1063 lib/plugins/elementor/templates/revslider.php:43
+msgid "Select slider"
+msgstr "Vælg slider"
+
+# @ kleo_framework
+#: functions.php:1073
+msgid "You need to install Revolution Slider plugin first"
+msgstr "Du skal installere REvolution Slider-pluginnet først"
+
+# @ kleo_framework
+#: functions.php:1200
+msgid "Sorry, no pages matched your criteria."
+msgstr "Beklager, der var ingen sider der passede til din søgning."
+
+# @ kleo_framework
+#: functions.php:1202
+msgid "Please try searching by different terms."
+msgstr "Prøv at søger efter andre kriterier."
+
+# @ kleo_framework
+#: functions.php:1261
+msgid "View all results"
+msgstr "Vis alle resultater"
+
+# @ kleo_framework
+#: functions.php:1345
+msgid "Copyright"
+msgstr "Copyright"
+
+# @ kleo_framework
+#: functions.php:1425
+msgid "Login successful, redirecting..."
+msgstr "Log ind gennemført, du videresendes..."
+
+# @ kleo_framework
+#: functions.php:1440
+#, php-format
+msgid ""
+"You are already logged in. Please <a href=\"#\" onclick=\"%s\">refresh</a> "
+"page"
+msgstr ""
+"Du er allerede logget.  <a href=\"#\" onclick=\"%s\">Genindlæs</a> siden"
+
+# @ kleo_framework
+#: content-gallery.php:27 content.php:24 content-audio.php:27
+#: content-video.php:24 content-image.php:24
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink til %s"
+
+# @ kleo_framework
+#: content-gallery.php:72 content.php:54 content-video.php:57
+#: content-image.php:54
+msgid "Continue reading"
+msgstr "Læs videre"
+
+# @ kleo_framework
+#: content-gallery.php:77 content.php:59 content-aside.php:18
+#: content-audio.php:73 content-video.php:62 content-image.php:59
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Læs videre"
+
+# @ kleo_framework
+#: content-gallery.php:79 content-page.php:81 content.php:60
+#: content-image.php:60 image.php:94
+msgid "Pages:"
+msgstr "Sider:"
+
+# @ kleo_framework
+#: 404.php:33 page-templates/404-page.php:30
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Ups! Det var pinligt..."
+
+# @ kleo_framework
+#: 404.php:34 page-templates/404-page.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Beklager, men det vi kan ikke finde det du leder efter. Prøv søgefunktionen "
+"i stedet for."
+
+# @ kleo_framework
+#: index.php:36 content-none.php:15 search.php:32
+msgid "Nothing Found"
+msgstr "Ingen resultater"
+
+# @ kleo_framework
+#: index.php:41 content-none.php:20
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr "Beklager, men vi fandt ingen resultater. Prøv søgefunktionen i stedet"
+
+# @ kleo_framework
+#: content-status.php:21
+msgid "By "
+msgstr "Af"
+
+# @ kleo_framework
+#: content-status.php:21
+msgid "On "
+msgstr "På"
+
+# @ kleo_framework
+#: comments.php:41
+msgid "Comment navigation"
+msgstr "Naviger i kommentarer"
+
+# @ kleo_framework
+#: comments.php:42
+msgid "&larr; Older Comments"
+msgstr "Ældre kommentarer"
+
+# @ kleo_framework
+#: comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer"
+
+# @ bp-checkins
+# @ kleo_framework
+#: comments.php:52
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer"
+
+# @ kleo_framework
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Desværre, intet matchede dine søgekriterier. Prøv igen med andre søgeord."
+
+# @ kleo_framework
+#: footer.php:129
+msgid "Go up"
+msgstr "Op"
+
+# @ kleo_framework
+#: image.php:28
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time>"
+"</span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">"
+"%8$s</a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time>"
+"</span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">"
+"%8$s</a>."
+
+# @ kleo_framework
+#: image.php:43
+msgid "&larr; Previous"
+msgstr "&larr; Forrige"
+
+# @ kleo_framework
+#: image.php:44
+msgid "Next &rarr;"
+msgstr "Næste &rarr;"
+
+# @ kleo_framework
+#: searchform.php:10 custom_buddypress/bp-functions.php:938
+#: custom_buddypress/bp-functions.php:966
+msgid "Search"
+msgstr "Søg"
+
+# @ kleo_framework
+#: page-parts/general-login-modal.php:4
+msgid "SIGN INTO YOUR ACCOUNT"
+msgstr "LOG IND PÅ DIN PROFIL"
+
+# @ kleo_framework
+#: page-parts/general-login-modal.php:4
+msgid "CREATE NEW ACCOUNT"
+msgstr "OPRET NY PROFIL"
+
+# @ kleo_framework
+#: page-parts/general-login-modal.php:8
+#: page-parts/general-register-modal.php:25
+#: page-parts/general-register-modal.php:51
+#: page-parts/home-register-form.php:42
+msgid "Username"
+msgstr "Brugernavn"
+
+# @ kleo_framework
+#: page-parts/general-login-modal.php:11 page-parts/home-register-form.php:63
+msgid "Password"
+msgstr "Adgangskode"
+
+# @ kleo_framework
+#: page-parts/general-login-modal.php:15
+msgid "Remember me"
+msgstr "Husk mig"
+
+# @ kleo_framework
+#: page-parts/general-login-modal.php:27
+#, php-format
+msgid ""
+"Your <a href=\"%s\" target=\"_blank\">privacy</a> is important to us and we "
+"will never rent or sell your information."
+msgstr ""
+"Dit <a href=\"%s\" target=\"_blank\">privatliv </a> er vigtigt for os, og vi "
+"videregiver aldrig dine oplysninger. "
+
+# @ kleo_framework
+#: page-parts/general-login-modal.php:36 page-parts/general-header.php:218
+#: lib/plugins/pmpro/config.php:34
+msgid "LOG IN"
+msgstr "LOG IN"
+
+# @ kleo_framework
+#: page-parts/general-login-modal.php:42
+msgid "FORGOT YOUR USERNAME OR PASSWORD?"
+msgstr "GLEMT DIT BRUGERNAVN ELLER PASSWORD?"
+
+# @ kleo_framework
+#: page-parts/general-header.php:44 page-parts/general-header.php:57
+#: page-parts/general-header.php:81 page-parts/general-header.php:97
+#: lib/inc/strings.php:7
+msgid "Find us on"
+msgstr "Find os på"
+
+# @ kleo_framework
+#: page-parts/general-header.php:49 page-parts/general-header.php:65
+#: page-parts/general-header.php:73 lib/inc/strings.php:6
+msgid "Follow us on"
+msgstr "Følg os på"
+
+# @ kleo_framework
+#: page-parts/general-header.php:89 lib/inc/strings.php:8
+msgid "Pin us on"
+msgstr "Pin os på"
+
+# @ kleo_framework
+#: page-parts/general-header.php:146 page-parts/general-header.php:182
+msgid "Friend requests"
+msgstr "Venneanmodninger"
+
+# @ kleo_framework
+#: page-parts/general-header.php:170
+msgid "PROFILE"
+msgstr "PROFIL"
+
+# @ kleo_framework
+#: page-parts/general-header.php:178
+msgid "New messages"
+msgstr "Nye beskeder"
+
+# @ kleo_framework
+#: page-parts/general-header.php:209
+msgid "LOG OUT"
+msgstr "LOG UD"
+
+# @ kleo_framework
+#: page-parts/general-header.php:226 lib/plugins/pmpro/config.php:39
+msgid "SIGN UP"
+msgstr "TILMELD"
+
+# @ kleo_framework
+#: page-parts/general-header.php:249
+msgid "Please select your page"
+msgstr "Vælg din side"
+
+# @ kleo_framework
+#: page-parts/general-register-modal.php:4
+msgid "CREATE ACCOUNT"
+msgstr "OPRET PROFIL"
+
+# @ kleo_framework
+#: page-parts/general-register-modal.php:7
+msgid "ALREADY HAVE AN ACCOUNT?"
+msgstr "HAR DU ALLEREDE EN PROFIL?"
+
+# @ kleo_framework
+#: page-parts/general-register-modal.php:29
+msgid "Your full name"
+msgstr "Fulde navn"
+
+# @ kleo_framework
+#: page-parts/general-register-modal.php:33
+#: page-parts/general-register-modal.php:55 lib/inc/strings.php:258
+msgid "Your email"
+msgstr "Email"
+
+# @ kleo_framework
+#: page-parts/general-register-modal.php:37
+msgid "Desired password"
+msgstr "Ønsket adgangskode"
+
+# @ kleo_framework
+#: page-parts/general-register-modal.php:41
+msgid "Confirm password"
+msgstr "Bekræft adgangskode"
+
+# @ kleo_framework
+#: page-parts/general-register-modal.php:76
+#: custom_buddypress/bp-functions.php:2272
+#, php-format
+msgid ""
+"I agree with the <a href=\"%s\" target=\"_blank\"><strong>terms and "
+"conditions</strong></a>."
+msgstr ""
+"Jeg accepterer <a href=\"%s\" target=\"_blank\"><strong>vilkår og "
+"betingelser</strong></a>."
+
+# @ kleo_framework
+#: page-parts/general-register-modal.php:91
+msgid "CREATE MY ACCOUNT"
+msgstr "OPRET PROFIL"
+
+# @ kleo_framework
+#: page-parts/home-register-form.php:18 buddypress/members/register.php:62
+#: lib/inc/strings.php:192 lib/plugins/elementor/templates/register-form.php:47
+msgid "Create an Account"
+msgstr "Opret en profil"
+
+# @ kleo_framework
+#: page-parts/home-register-form.php:28 lib/inc/strings.php:195
+msgid ""
+"Registering for this site is easy, just fill in the fields below and we will "
+"get a new account set up for you in no time."
+msgstr ""
+"Det er nemt at registrere sig som medlem. Udfyld bare felterne nedenfor, og "
+"din nye konto er klar til brug på få minutter."
+
+# @ kleo_framework
+#: page-parts/home-register-form.php:46 page-parts/home-register-form.php:56
+#: page-parts/home-register-form.php:67
+msgid "Required"
+msgstr "Påkrævet"
+
+# @ kleo_framework
+# @ buddypress
+#: page-parts/home-register-form.php:52 page-parts/general-forgot-modal.php:8
+msgid "Email Address"
+msgstr "Emailadresse"
+
+# @ kleo_framework
+#: page-parts/home-register-form.php:74
+msgid "Confirm"
+msgstr "Bekræft "
+
+# @ kleo_framework
+#: page-parts/home-register-form.php:83
+msgid "Sign Up"
+msgstr "Tilmeld"
+
+# @ kleo_framework
+#: page-parts/general-forgot-modal.php:4
+msgid "FORGOT YOUR DETAILS?"
+msgstr "GLEMT DINE OPLYSNINGER?"
+
+# @ kleo_framework
+#: page-parts/general-forgot-modal.php:9
+msgid "SEND MY DETAILS!"
+msgstr "SEND MINE OPLYSNINGER"
+
+# @ kleo_framework
+#: page-parts/general-forgot-modal.php:14
+msgid "AAH, WAIT, I REMEMBER NOW!"
+msgstr "VENT! NU KAN JEG HUSKE DET!"
+
+# @ kleo_framework
+#: framework/theme_settings.php:19
+msgid "General settings"
+msgstr "Generelle indstillinger"
+
+# @ kleo_framework
+#: framework/theme_settings.php:20
+msgid ""
+"<p class=\"description\">Here you will set your site-wide preferences.</p>"
+msgstr "<p class=\"description\">Definer dine præferencer for hele sitet.</p>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:26
+msgid "Logo"
+msgstr "Logo"
+
+# @ kleo_framework
+#: framework/theme_settings.php:27
+msgid "Upload your own logo (294x108 recommended size)."
+msgstr "Upload dit eget logo (294x108 anbefalet størrelse)."
+
+# @ kleo_framework
+#: framework/theme_settings.php:32
+msgid "Logo Retina"
+msgstr "Logo Retina"
+
+# @ kleo_framework
+#: framework/theme_settings.php:33
+msgid ""
+"Upload retina logo. This is optional and should be double in size than "
+"normal logo."
+msgstr ""
+"Upload retina-logo. Dette er valgfrit og størrelse bør være den dobbelte af "
+"et normalt logo."
+
+# @ kleo_framework
+#: framework/theme_settings.php:38
+msgid "Small Logo"
+msgstr "Lille logo"
+
+# @ kleo_framework
+#: framework/theme_settings.php:39
+msgid "Upload your small logo for sticky main menu."
+msgstr "Upload dit lille logo til klæbrig hovedmenu"
+
+# @ kleo_framework
+#: framework/theme_settings.php:44
+msgid "Favicon"
+msgstr "Favicon"
+
+# @ kleo_framework
+#: framework/theme_settings.php:45
+msgid ".ico image that will be used as favicon (32px32px)."
+msgstr ".ico billede som vil blive brugt som favicon (32px32px)."
+
+# @ kleo_framework
+#: framework/theme_settings.php:51
+msgid "Apple Iphone Icon"
+msgstr "Apple Iphone Ikon"
+
+# @ kleo_framework
+#: framework/theme_settings.php:52
+msgid "Apple Iphone Icon (57px57px)."
+msgstr "Apple Iphone Ikon (57px57px)."
+
+# @ kleo_framework
+#: framework/theme_settings.php:58
+msgid "Apple Iphone Retina Icon"
+msgstr "Apple Iphone Retina Ikon"
+
+# @ kleo_framework
+#: framework/theme_settings.php:59
+msgid "Apple Iphone Retina Icon (114px114px)."
+msgstr "Apple Iphone Retina Ikon (114px114px)."
+
+# @ kleo_framework
+#: framework/theme_settings.php:65
+msgid "Apple iPad Icon"
+msgstr "Apple iPad Ikon"
+
+# @ kleo_framework
+#: framework/theme_settings.php:66
+msgid "Apple Iphone Retina Icon (72px72px)."
+msgstr "Apple Iphone Retina Ikon (72px72px)."
+
+# @ kleo_framework
+#: framework/theme_settings.php:72
+msgid "Apple iPad Retina Icon"
+msgstr "Apple iPad Retina Ikon"
+
+# @ kleo_framework
+#: framework/theme_settings.php:73
+msgid "Apple iPad Retina Icon (144px144px)."
+msgstr "Apple iPad Retina Ikon (144px144px)."
+
+# @ kleo_framework
+#: framework/theme_settings.php:80
+msgid "Analytics code"
+msgstr "Analytics kode"
+
+# @ kleo_framework
+#: framework/theme_settings.php:81
+msgid ""
+"Paste your Google Analytics or other tracking code.<br/> This will be loaded "
+"in the footer."
+msgstr ""
+"Indsæt din Google Analytics-kode eller anden trackingkode.<br/> Denne vil "
+"blive loadet i footeren."
+
+# @ kleo_framework
+#: framework/theme_settings.php:91
+msgid "Layout settings"
+msgstr "Layoutindstillinger"
+
+# @ kleo_framework
+#: framework/theme_settings.php:92
+msgid "<p class=\"description\">Here you set options for the layout.</p>"
+msgstr "<p class=\"description\">Her opsætter du layoutindstillinger.</p>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:98
+msgid "Responsive Design"
+msgstr "Responsivt design"
+
+# @ kleo_framework
+#: framework/theme_settings.php:99
+msgid "Enable or disable responsive design"
+msgstr "Aktivér eller deaktiver responsivt design"
+
+# @ kleo_framework
+#: framework/theme_settings.php:106
+msgid "Site Layout"
+msgstr "Sidelayout"
+
+# @ kleo_framework
+#: framework/theme_settings.php:107
+msgid "Select between wide or boxed site layout"
+msgstr "Vælg mellem bredt eller afgrænset sidelayout"
+
+# @ kleo_framework
+#: framework/theme_settings.php:128
+msgid "Boxed background type"
+msgstr "Type af afgrænset baggrund"
+
+# @ kleo_framework
+#: framework/theme_settings.php:129
+msgid "Select the type of background you want to use for boxed background."
+msgstr "Vælg den type baggrund du ønsker at anvende til afgrænset baggrund"
+
+# @ kleo_framework
+#: framework/theme_settings.php:147
+msgid "Default layout"
+msgstr "Default layout"
+
+# @ kleo_framework
+#: framework/theme_settings.php:148
+msgid ""
+"Select the layout to use by default. This can be changed individualy on "
+"page/post edit"
+msgstr ""
+"Vælg det layout der skal anvendes som standard. Det kan ændres individuelt "
+"på side/postredigering"
+
+# @ kleo_framework
+#: framework/theme_settings.php:166
+msgid "Sticky Menu"
+msgstr "Klæbrig menu"
+
+# @ kleo_framework
+#: framework/theme_settings.php:167
+msgid ""
+"Enable or disable the main menu to stay at top of the screen while you "
+"scroll down."
+msgstr ""
+"Aktivér eller deaktiver for at menulinje forbliver synlig når du scroller"
+
+# @ kleo_framework
+#: framework/theme_settings.php:174
+msgid "Ajax Search in menu"
+msgstr "Ajax søgning i menu"
+
+# @ kleo_framework
+#: framework/theme_settings.php:175
+msgid "Enable or disable the button for search."
+msgstr "Aktivér eller deaktiver søgeknap."
+
+# @ kleo_framework
+#: framework/theme_settings.php:189
+msgid "Styling options"
+msgstr "Stylingindstillinger"
+
+# @ kleo_framework
+#: framework/theme_settings.php:190
+msgid "<p class=\"description\">Customize theme appearance</p>"
+msgstr "<p class=\"description\">Tilpas temaudseende</p>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:196
+msgid "<h4 class=\"subtitle\">Header section</h4>"
+msgstr "<h4 class=\"subtitle\">Headersektion</h4>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:201 framework/theme_settings.php:280
+#: framework/theme_settings.php:327 framework/theme_settings.php:397
+#: framework/theme_settings.php:865 lib/inc/strings.php:77
+#: lib/inc/strings.php:117
+msgid "Background"
+msgstr "Baggrund"
+
+# @ kleo_framework
+#: framework/theme_settings.php:202
+msgid "Select the background you want to use for header."
+msgstr "Vælg den baggrund du vil anvende til header"
+
+# @ kleo_framework
+#: framework/theme_settings.php:221
+msgid "Header Text color"
+msgstr "Vælg tekstfarve"
+
+# @ kleo_framework
+#: framework/theme_settings.php:222
+msgid ""
+"Select text color to use in header. This color also applies to home search "
+"form text because it resides in header section"
+msgstr ""
+"Vælg tekstfarve til header. Denne farve bliver også anvendt til "
+"søgeformularen på forsiden, da den hører til i hovedmenuen."
+
+# @ kleo_framework
+#: framework/theme_settings.php:228
+msgid "Top Menu Link Color"
+msgstr "Linkfarve i hovedmenu"
+
+# @ kleo_framework
+#: framework/theme_settings.php:229
+msgid "Select your main color to use for top menu links and other elements."
+msgstr "Vælg den primære farve til links og andre elementer i hovedmenu."
+
+# @ kleo_framework
+#: framework/theme_settings.php:235
+msgid "Top Menu Link Color when visible background"
+msgstr "Linkfarve i topmenu med synlig baggrund"
+
+# @ kleo_framework
+#: framework/theme_settings.php:236
+msgid "Select your link color to use when the background is visible."
+msgstr "Vælg den linkfarve der skal bruges ved synlig baggrund"
+
+# @ kleo_framework
+#: framework/theme_settings.php:242
+msgid "Top Menu Background Color"
+msgstr "Baggrundsfarve i hovedmenu"
+
+# @ kleo_framework
+#: framework/theme_settings.php:243
+msgid "Select your main color to use for top menu"
+msgstr "Vælg den primære farve til hovedmenu"
+
+# @ kleo_framework
+#: framework/theme_settings.php:249
+msgid "Top Menu Link Color on hover"
+msgstr "Linkfarve i hovedmenu ved mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:250
+msgid "Select your color to use for top menu links on hover."
+msgstr "Vælg den farve der skal bruges i hovedmenulinks ved mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:256
+msgid "Top Menu Background Color on hover "
+msgstr "Baggrundsfarve i hovedmenu ved mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:257
+msgid "Select your background color to use for top menu on mouse hover."
+msgstr "Vælg den baggrundsfarve der skal bruges i hovedmenuved mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:266
+msgid "<h4 class=\"subtitle\">Breadcrumb section</h4>"
+msgstr "<h4 class=\"subtitle\">Brødkrummesektion</h4>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:271
+msgid "Enable breadcrumb"
+msgstr "Aktivér brødkrummesti"
+
+# @ kleo_framework
+#: framework/theme_settings.php:272
+msgid "Enable or disable breadcrumb."
+msgstr "Aktivér eller deaktiver brødkrummesti"
+
+# @ kleo_framework
+#: framework/theme_settings.php:281
+msgid "Select the background you want to use for breadcrumb."
+msgstr "Vælg baggrund til brødkrummesti"
+
+# @ kleo_framework
+#: framework/theme_settings.php:299 framework/theme_settings.php:346
+#: framework/theme_settings.php:884
+msgid "Text color"
+msgstr "Tekstfarve"
+
+# @ kleo_framework
+#: framework/theme_settings.php:300
+msgid "Select text color to use in main content area"
+msgstr "Vælg tekstfarve til primært indholdsområde"
+
+# @ kleo_framework
+#: framework/theme_settings.php:306 framework/theme_settings.php:353
+#: framework/theme_settings.php:891
+msgid "Primary Color"
+msgstr "Primær farve"
+
+# @ kleo_framework
+#: framework/theme_settings.php:307 framework/theme_settings.php:354
+#: framework/theme_settings.php:424 framework/theme_settings.php:892
+msgid "Select your main color to use for links and other elements."
+msgstr "Vælg den primære farve til links og andre elementer."
+
+# @ kleo_framework
+#: framework/theme_settings.php:313 framework/theme_settings.php:360
+#: framework/theme_settings.php:898
+msgid "Highlight Color"
+msgstr "Fremhævet farve"
+
+# @ kleo_framework
+#: framework/theme_settings.php:314 framework/theme_settings.php:361
+#: framework/theme_settings.php:431 framework/theme_settings.php:899
+msgid "Select your secondary color to use for hover links and other elements."
+msgstr "Vælg den sekundære farve til mouseover-links og andre elementer"
+
+# @ kleo_framework
+#: framework/theme_settings.php:322
+msgid "<h4 class=\"subtitle\">Main section</h4>"
+msgstr "<h4 class=\"subtitle\">Hovedsektion</h4>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:328
+msgid "Select the background you want to use for main area."
+msgstr "Vælg baggrund til hovedområde"
+
+# @ kleo_framework
+#: framework/theme_settings.php:347 framework/theme_settings.php:885
+msgid "Select text color to use."
+msgstr "Vælg tekstfarve"
+
+# @ kleo_framework
+#: framework/theme_settings.php:368
+msgid "Sidebar Text color"
+msgstr "Tekstfarve til sidebar"
+
+# @ kleo_framework
+#: framework/theme_settings.php:369
+msgid "Select text color to use for sidebar."
+msgstr "Vælg tekstfarve til sidebar"
+
+# @ kleo_framework
+#: framework/theme_settings.php:375
+msgid "Sidebar Primary Color"
+msgstr "Primær farve til sidebar"
+
+# @ kleo_framework
+#: framework/theme_settings.php:376
+msgid "Select your main color to use for links and other elements in sidebar."
+msgstr "Vælg den primære farve til links og andre elementer i sidebar."
+
+# @ kleo_framework
+#: framework/theme_settings.php:382
+msgid "Sidebar Highlight Color"
+msgstr "Fremhævet farve til sidebar"
+
+# @ kleo_framework
+#: framework/theme_settings.php:383
+msgid ""
+"Select your secondary color to use for hover links and other elements in "
+"sidebar."
+msgstr ""
+"Vælg den sekundære farve til mouseover-links og andre elementer i sidebar"
+
+# @ kleo_framework
+#: framework/theme_settings.php:392
+msgid "<h4 class=\"subtitle\">Footer section</h4>"
+msgstr "<h4 class=\"subtitle\">Footersektion</h4>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:398
+msgid "Select the background you want to use for footer."
+msgstr "Vælg baggrund til footer"
+
+# @ kleo_framework
+#: framework/theme_settings.php:416
+msgid "Footer Text color"
+msgstr "Tekstfarve til footer"
+
+# @ kleo_framework
+#: framework/theme_settings.php:417
+msgid "Select text color to use in footer"
+msgstr "Vælg tekstfarve til footer"
+
+# @ kleo_framework
+#: framework/theme_settings.php:423
+msgid "Footer Primary Color"
+msgstr "Primær farve til footer"
+
+# @ kleo_framework
+#: framework/theme_settings.php:430
+msgid "Footer Highlight Color"
+msgstr "Fremhævet farve til footer"
+
+# @ kleo_framework
+#: framework/theme_settings.php:440
+msgid "<h4 class=\"subtitle\">Buttons section</h4>"
+msgstr "<h4 class=\"subtitle\">Knapsektion</h4>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:446
+msgid "Button Background Color"
+msgstr "Baggrundsfarve til knap"
+
+# @ kleo_framework
+#: framework/theme_settings.php:447
+msgid "Select the background color for your primary button."
+msgstr "Vælg baggrundsfarve til primær knap"
+
+# @ kleo_framework
+#: framework/theme_settings.php:453
+msgid "Button Text Color"
+msgstr "Tekstfarve til knap"
+
+# @ kleo_framework
+#: framework/theme_settings.php:454
+msgid "Select the text color for your primary button."
+msgstr "Vælg tekstfarve til primær knap"
+
+# @ kleo_framework
+#: framework/theme_settings.php:460
+msgid "Button Hover Background Color"
+msgstr "Baggrundsfarve til knap ved mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:461
+msgid "Select the background color for your primary button on hover."
+msgstr "Vælg baggrundsfarve til primær knap ved mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:467
+msgid "Button Hover Text Color"
+msgstr "Tekstfarve til knap ved mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:468
+msgid "Select the text color for your primary button on hover."
+msgstr "Vælg tekstfarve til primær knap ved mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:475
+msgid "Secondary Button Background Color"
+msgstr "Baggrundsfarve til sekundær knap"
+
+# @ kleo_framework
+#: framework/theme_settings.php:476
+msgid "Select the background color for your secondary button."
+msgstr "Vælg baggrundsfarve til sekundær knap"
+
+# @ kleo_framework
+#: framework/theme_settings.php:482
+msgid "Secondary Button Text Color"
+msgstr "Tekstfarve til sekundær knap"
+
+# @ kleo_framework
+#: framework/theme_settings.php:483
+msgid "Select the text color for your secondary button."
+msgstr "Vælg tekstfarve til sekundær knap"
+
+# @ kleo_framework
+#: framework/theme_settings.php:489
+msgid "Secondary Button Hover Background Color"
+msgstr "Baggrundsfarve til sekundær knap ved mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:490
+msgid "Select the background color for your secondary button on hover."
+msgstr "Vælg baggrundsfarve til sekundær knap ved mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:496
+msgid "Secondary Button Hover Text Color"
+msgstr "Tekstfarve til sekundær knap mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:497
+msgid "Select the text color for your secondary button on hover."
+msgstr "Vælg tekstsfarve til sekundær knap ved mouseover"
+
+# @ kleo_framework
+#: framework/theme_settings.php:505
+msgid "<h4 class=\"subtitle\">Heading section</h4>"
+msgstr "<h4 class=\"subtitle\">Overskriftssektion</h4>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:510
+msgid "Headings Font"
+msgstr "Font til overskrift"
+
+# @ kleo_framework
+#: framework/theme_settings.php:511
+msgid "Select font to use"
+msgstr "Vælg font"
+
+# @ kleo_framework
+#: framework/theme_settings.php:561
+msgid "Quick css"
+msgstr "Hurtig css"
+
+# @ kleo_framework
+#: framework/theme_settings.php:562
+msgid "Place you custom css here"
+msgstr "Placer egen css her."
+
+#: framework/theme_settings.php:576
+msgid "Homepage(deprecated)"
+msgstr ""
+
+#: framework/theme_settings.php:577
+msgid ""
+"<p class=\"description\">Since version 3.0 this will not be used.\n"
+"\t\t\t\t\t\t\tYou should import the new Homepage from Appearance - Demo data "
+"and customize it using the Visual builder</p>"
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_settings.php:584
+msgid "Search Form"
+msgstr "Søgeformular"
+
+# @ kleo_framework
+#: framework/theme_settings.php:585
+msgid ""
+"Choose what to display in the Homepage form:<br> Disabled - Do not show any "
+"form<br>Search form - Show a configurable search form<br>Register form - "
+"Display a register form<br> Mixed form - If the user is logged in show a "
+"search form, else show the register form "
+msgstr ""
+"Vælg hvad der skal vises i søgeformular på forside:<br> Deaktiveret - Vis "
+"ingen søgeformular<br>Søgeformular - Vis en tilpasset søgeformular<br>"
+"Registeringsformular- Vis en registreringsformular<br> Blandet formular- Vis "
+"søgeformular hvis bruger er logget ind, ellers vis registreringsformular "
+
+# @ kleo_framework
+#: framework/theme_settings.php:598
+msgid "Latest Members carousel"
+msgstr "Karrusel med seneste medlemmer"
+
+# @ kleo_framework
+#: framework/theme_settings.php:599
+msgid "Enable or disable members carousel in search form."
+msgstr "Aktivér eller deaktiver karrusel med medlemmer i søgeformular"
+
+# @ kleo_framework
+#: framework/theme_settings.php:606
+#: lib/plugins/elementor/templates/revslider.php:12
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+# @ kleo_framework
+#: framework/theme_settings.php:607
+msgid "Enable Revolution slider in Homepage header"
+msgstr "Aktiver Revolution slider i forsideheader"
+
+# @ kleo_framework
+#: framework/theme_settings.php:618
+msgid "Slider"
+msgstr "Slider"
+
+# @ kleo_framework
+#: framework/theme_settings.php:619
+msgid "Choose the slider to show"
+msgstr "Vælg hvilken slider der skal vises"
+
+# @ kleo_framework
+#: framework/theme_settings.php:627
+msgid "Transparent header"
+msgstr "Transparent header"
+
+# @ kleo_framework
+#: framework/theme_settings.php:628
+msgid ""
+"If enabled the slider will start from the very top of the page and the "
+"header will go over the slider."
+msgstr ""
+"Hvis den aktiveres vil slideren starte øverst på siden og header vil "
+"overlappe slideren."
+
+# @ kleo_framework
+#: framework/theme_settings.php:636
+msgid "Home Image"
+msgstr "Hjem"
+
+# @ kleo_framework
+#: framework/theme_settings.php:637
+msgid "Select the image that appears beside the search form."
+msgstr "Vælg det billede der skal optræde ved siden af søgeformular"
+
+# @ kleo_framework
+#: framework/theme_settings.php:659
+msgid "Buddypress"
+msgstr "Buddypress"
+
+# @ kleo_framework
+#: framework/theme_settings.php:660
+msgid ""
+"<p class=\"description\">Here you can customize Buddypress settings</p><p><a "
+"class=\"button button-primary\" id=\"bp_import_fields\" href=\"#\">Import "
+"Buddypress profile fields</a></p>"
+msgstr ""
+"<p class=\"description\">Her kan du tilpasse Buddypress-indstillinger</p><p>"
+"<a class=\"button button-primary\" id=\"bp_import_fields\" href=\"#\">"
+"Importer Buddypress profilfelter</a></p>"
+
+#: framework/theme_settings.php:674
+msgid "Buddypress Plugins Hook"
+msgstr ""
+
+#: framework/theme_settings.php:675
+msgid ""
+"Show on register pop-up hook option [bp_before_registration_submit_buttons] "
+"(EX: Catpcha,Antispam plugins)"
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_settings.php:682
+msgid "Online status"
+msgstr "Onlinestatus"
+
+# @ kleo_framework
+#: framework/theme_settings.php:683
+msgid "Show users online status in Members page (colored dot over the avatar)"
+msgstr ""
+"Vis medlemmers online status på siden \"Medlemmer\" (farvet prik over "
+"profilbillede) "
+
+#: framework/theme_settings.php:690
+msgid "General Buddypress Pages Layout"
+msgstr ""
+
+#: framework/theme_settings.php:691
+msgid "Select the layout to by default use in Buddypress pages."
+msgstr ""
+
+#: framework/theme_settings.php:711
+msgid "Members Directory Layout"
+msgstr ""
+
+#: framework/theme_settings.php:712
+msgid "Select the layout to use in Members Directory page."
+msgstr ""
+
+#: framework/theme_settings.php:726
+msgid "Single Member Page Layout"
+msgstr ""
+
+#: framework/theme_settings.php:727
+msgid "Select the layout to use in Single Member page."
+msgstr ""
+
+#: framework/theme_settings.php:743
+msgid "BuddyPress Members Search input"
+msgstr ""
+
+#: framework/theme_settings.php:744
+msgid "Enable default Buddypress Search form in members directory"
+msgstr ""
+
+#: framework/theme_settings.php:752
+msgid "Search form customization(DEPRECATED)"
+msgstr ""
+
+#: framework/theme_settings.php:753
+msgid ""
+"Use BP Profile search plugin. Edit Homepage using Visual page builder and "
+"select the search form to show."
+msgstr ""
+
+#: framework/theme_settings.php:764
+msgid "Sex field(DEPRECATED)"
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_settings.php:765
+msgid "Select you sex field. This is used for man,woman online statistics"
+msgstr "Vælg dit køn. Dette anvendes til mand, kvinde onlinestatistikker"
+
+# @ kleo_framework
+#: framework/theme_settings.php:772
+msgid "Age field"
+msgstr "Alder"
+
+# @ kleo_framework
+#: framework/theme_settings.php:773
+msgid "Select you Age field. This is used to calculate members age"
+msgstr "Vælg feltet for Alder. Dette bruges til at udregne medlemmers alder"
+
+# @ kleo_framework
+#: framework/theme_settings.php:780
+msgid "Show age instead of birthdate"
+msgstr "Vis alder istedet for fødselsdato"
+
+# @ kleo_framework
+#: framework/theme_settings.php:781
+msgid "Enable to show members age insted of Birtdate in user profile."
+msgstr "Aktivér mulighed for at vise alder istedet for fødselsdato på profil"
+
+# @ kleo_framework
+#: framework/theme_settings.php:790
+msgid "City autocomplete"
+msgstr "By autoudfyld"
+
+# @ kleo_framework
+#: framework/theme_settings.php:791
+msgid ""
+"Enable or disable City autocomplete based on Country field<br>Your City "
+"profile Field Type must be set as Text Box<br>This uses http://geonames.org "
+"API"
+msgstr ""
+"Aktivér eller deaktiver autoudfyld for By baseret på feltet Land <br> Dit "
+"profilfelt By skal være et tekstfelt <br> Dette anvender http://geonames.ord "
+"API"
+
+# @ kleo_framework
+#: framework/theme_settings.php:799
+msgid "Geonames username"
+msgstr "Geonames brugernavn"
+
+# @ kleo_framework
+#: framework/theme_settings.php:807
+msgid "City field"
+msgstr "By"
+
+# @ kleo_framework
+#: framework/theme_settings.php:808
+msgid "Select which is your City field that will autocomplete"
+msgstr "Vælg hvilket felt der er By som skal autoudfyldes"
+
+# @ kleo_framework
+#: framework/theme_settings.php:815
+msgid "Country field"
+msgstr "Land"
+
+# @ kleo_framework
+#: framework/theme_settings.php:816
+msgid ""
+"Select you Country field. Based on this, the City field will populate.<br> "
+"If you do not have one, set the Country Code bellow"
+msgstr ""
+"Vælg dit Land. Ud fra dette vil feltet By vise forslag. <br> Hvis du ikke "
+"har nogen, kan du indsætte landekode nedenfor"
+
+# @ kleo_framework
+#: framework/theme_settings.php:823
+msgid "Country Code"
+msgstr "Landekode"
+
+# @ kleo_framework
+#: framework/theme_settings.php:824
+msgid ""
+"If you don't have a Country field then set here the ISO-3166 alpha2 code of "
+"you Country for which you want to enable the autocomplete.<br>http://www."
+"geonames.org/countries/"
+msgstr ""
+"Hvis du ikke har feltet Land kan du her indsætte ISO-3166 alpha2 landekode "
+"for det land, du vil aktivere autoudfyld for<br>http://www.geonames."
+"org/countries/"
+
+# @ kleo_framework
+#: framework/theme_settings.php:830
+msgid "Members search - Inferior age search limit"
+msgstr "Medlemssøgning - laveste aldergrænse ved søgning"
+
+# @ kleo_framework
+#: framework/theme_settings.php:831
+msgid "Enter the inferior age limit to search members for."
+msgstr "Vælg den laveste aldergrænse ved søgning"
+
+# @ kleo_framework
+#: framework/theme_settings.php:839
+msgid "Members search - Superior age search limit"
+msgstr "Medlemssøgning - højeste aldergrænse ved søgning"
+
+# @ kleo_framework
+#: framework/theme_settings.php:840
+msgid "Enter the superior age limit to search members for"
+msgstr "Vælg den højeste aldergrænse ved søgning"
+
+# @ kleo_framework
+#: framework/theme_settings.php:848
+msgid "Members per page"
+msgstr "Medlemmer pr side"
+
+# @ kleo_framework
+#: framework/theme_settings.php:849
+msgid "Enter the number of profiles per page to show on members listing."
+msgstr "Vælg antal profiler til visning pr side."
+
+# @ kleo_framework
+#: framework/theme_settings.php:859
+msgid "<h4 class=\"subtitle\">Profile header</h4>"
+msgstr "<h4 class=\"subtitle\">Profilheader</h4>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:866
+msgid "Select the background you want to use for buddypress header."
+msgstr "Vælg den baggrund du vil anvende til Buddypressheader"
+
+# @ kleo_framework
+#: framework/theme_settings.php:906
+msgid "Items transparency"
+msgstr "Transparans"
+
+# @ kleo_framework
+#: framework/theme_settings.php:907
+msgid "Select the transparency for profile header elements."
+msgstr "Vælg transparens for headerelementer"
+
+#: framework/theme_settings.php:926
+msgid "Matching Background Color"
+msgstr ""
+
+#: framework/theme_settings.php:927 framework/theme_settings.php:934
+msgid "Select your Matching percentage animation background color."
+msgstr ""
+
+#: framework/theme_settings.php:933
+msgid "Matching Foreground Color"
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_settings.php:943
+msgid "BP Profile Tabs"
+msgstr "BP Profilfaner"
+
+# @ kleo_framework
+#: framework/theme_settings.php:944
+msgid ""
+"<p class=\"description\">Here you can customize Buddypress tabs that show "
+"next to user profile.</p>"
+msgstr ""
+"<p class=\"description\">Her kan du tilpasse de Buddypress-faner, der vises "
+"ved siden af brugerprofil.</p>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:950
+msgid "Enable profile tabs customisation"
+msgstr "Aktivér tilpasning af profilfaneblade"
+
+# @ kleo_framework
+#: framework/theme_settings.php:959
+msgid "Select the tabs to show"
+msgstr "Vælg hvilke faner der skal vises"
+
+# @ kleo_framework
+#: framework/theme_settings.php:960
+msgid ""
+"Profile fields groups are defined in WP admin -Users - Profile fields<br>You "
+"can also check to show images if you have rtMedia plugin installed"
+msgstr ""
+"Grupper af profilfelter defineres i WP admin -Users - Profile fields<br>Du "
+"kan også vælge at vise medier, hvis pluginnet rtMedia er installeret."
+
+# @ kleo_framework
+#: framework/theme_settings.php:972
+msgid "Profiles matching"
+msgstr "Profilmatch"
+
+# @ kleo_framework
+#: framework/theme_settings.php:973
+msgid ""
+"<p class=\"description\">Here you can customize Buddypress profiles matching "
+"functionality.</p>"
+msgstr ""
+"<p class=\"description\">Her kan du tilpasse match-funktionen for Buddypress-"
+"profiler.</p>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:979
+msgid "Activate custom matching settings"
+msgstr "Aktivér tilpassede matchindstillinger"
+
+# @ kleo_framework
+#: framework/theme_settings.php:989
+msgid "Starting percentage"
+msgstr "Startprocent"
+
+# @ kleo_framework
+#: framework/theme_settings.php:998
+msgid ""
+"Algorithm will look one field value in the matching one. Example: I am a -> "
+"Looking for a"
+msgstr ""
+"Algoritmen vil kigge efter værdien i det felt der matcher. Fx Jeg er en ->"
+"som leder efter en"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1006
+msgid "First Complementary Field"
+msgstr "Første felt der skal matche"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1014
+msgid "Second Complementary field"
+msgstr "Andet felt der skal matche"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1022
+msgid "Complementary fields percentage"
+msgstr "Procent matchende felter"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1030
+msgid "Complementary fields mandatory matching"
+msgstr "Procent påkrævede matchende felter"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1039
+msgid "Matching fields & Percentages"
+msgstr "Matchende felter og procentdele"
+
+#: framework/theme_settings.php:1040
+msgid "Profile fields are defined in WP admin - Users - Profile fields"
+msgstr ""
+
+#: framework/theme_settings.php:1041
+msgid ""
+"Set a percentage impact for each field you want to consider and make sure "
+"they sum up 100%"
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_settings.php:1194
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1200
+msgid "Woocommerce Pages Layout"
+msgstr "Woocommerce sidelayout"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1201
+msgid "Select the layout to use in Woocommerce pages."
+msgstr "Vælg sidelayout til Woocommerce-sider."
+
+# @ kleo_framework
+#: framework/theme_settings.php:1222
+msgid "bbPress"
+msgstr "bbPress"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1228
+msgid "bbPress Pages Layout"
+msgstr "bbPress sidelayout"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1229
+msgid "Select the layout to use in bbPress pages."
+msgstr "Vælg sidelayout til bbPress-sider."
+
+# @ kleo_framework
+#: framework/theme_settings.php:1249
+msgid "Contact info &amp; Social"
+msgstr "Kontaktinfo &amp; Social"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1250
+msgid "<p class=\"description\">Here you can set your contact info.</p>"
+msgstr "<p class=\"description\">Her kan du tilføje kontaktinformation.</p>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1256
+msgid "Top Social Bar"
+msgstr "Top Social Bar"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1257
+msgid "Enable or disable top toolbar with social and contact info."
+msgstr "Aktivér eller deaktiver topmenulinje med social og kontaktinfo."
+
+# @ kleo_framework
+#: framework/theme_settings.php:1266 framework/theme_settings.php:1274
+msgid "This will be displayed all over the site."
+msgstr "Dette vil blive vist på hele sitet"
+
+# @ kleo_framework
+# @ pmpro
+#: framework/theme_settings.php:1273
+msgid "Phone"
+msgstr "Telefon"
+
+#: framework/theme_settings.php:1279
+msgid "Show Phone number on Top Social Bar"
+msgstr ""
+
+#: framework/theme_settings.php:1280
+msgid "Enable or disable phone number on top toolbar."
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_settings.php:1287
+msgid "Twitter address"
+msgstr "Twitterprofil"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1288
+msgid "Your Twitter URL address."
+msgstr "Din Twitter-URL"
+
+#: framework/theme_settings.php:1295
+msgid "Youtube address"
+msgstr ""
+
+#: framework/theme_settings.php:1296 framework/theme_settings.php:1304
+msgid "Your Youtube URL address."
+msgstr ""
+
+#: framework/theme_settings.php:1303
+msgid "Instagram address"
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_settings.php:1311
+msgid "Facebook address"
+msgstr "Facebookprofil"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1312
+msgid "Your Facebook URL address."
+msgstr "Din Facebook-URL"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1319
+msgid "Google+ address"
+msgstr "Google+profil"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1320
+msgid "Your Google+ URL address."
+msgstr "Din Google+-URL"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1327
+msgid "Pinterest address"
+msgstr "Pinterestprofil"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1328
+msgid "Your Pinterest URL address."
+msgstr "Din Pinterest-URL"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1335
+msgid "LinkedIn address"
+msgstr "LinkedInprofil"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1336
+msgid "Your LinkedIn URL address."
+msgstr "Din LinkedIn-URL"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1343
+msgid "GPS Latitude"
+msgstr "GPS Breddegrad"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1344
+msgid "GPS Latitude used for Contact page - Google Maps.Ex: 32.990236"
+msgstr "GPS Breddegrad til kontaktside - Google Maps.Ex: 32.990236"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1349
+msgid "GPS Longitude"
+msgstr "GPS Længdegrad"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1350
+msgid "GPS Longitude used for Contact page - Google Maps.Ex: -96.679687"
+msgstr "GPS Længdegrad til kontaktside - Google Maps.Ex: 32.990236"
+
+#: framework/theme_settings.php:1355
+msgid "Google maps API KEY"
+msgstr ""
+
+#: framework/theme_settings.php:1356
+#, php-format
+msgid ""
+"See <a href=\"%s\" target=\"_blank\">this link</a> to generate your key."
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_settings.php:1370
+msgid "Miscellaneous"
+msgstr "Assorteret"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1371
+msgid "<p class=\"description\">Facebook, Mailchimp, Themeforest settings</p>"
+msgstr ""
+"<p class=\"description\">Facebook, Mailchimp, Themeforest-indstillinger</p>"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1376
+msgid "Admin toolbar"
+msgstr "Administratorværktøjer"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1377
+msgid "Enable or disable wordpress default top toolbar"
+msgstr "Aktivér eller deaktiver Wordpress' standard toolbar"
+
+#: framework/theme_settings.php:1384
+msgid "Development mode"
+msgstr ""
+
+#: framework/theme_settings.php:1385
+msgid "If you enable this, CSS and JS resources will not be loaded minified"
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_settings.php:1392
+msgid "Use squared avatar images"
+msgstr "Brug firkantede profilbilleder"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1393
+msgid "Enable to show square avatars instead of rounded"
+msgstr "Aktivér for at vise firkantede profilbilleder istedet for runde"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1401
+msgid "Login redirect for Popup"
+msgstr "Log ind videresendes til popup"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1402
+msgid ""
+"Select the redirect action taken when members login from the popup window."
+msgstr ""
+"Vælg hvilken videresendelsehandling der skal ske, når medlemmer logger ind i "
+"popup-vinduet"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1404
+msgid "Default WordPress redirect"
+msgstr "Standard Wordpress-videresendelse"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1405
+msgid "Reload the current page"
+msgstr "Genindlæs eksisterende side"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1413
+msgid "Facebook integration"
+msgstr "Facebookintegration"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1414
+msgid "Enable or disable Login/Register with Facebook"
+msgstr "Aktivér eller deaktiver Login/Registrér med Facebook"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1422
+msgid "Facebook APP ID"
+msgstr "Facebook APP ID"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1423
+msgid ""
+"In order to integrate with Facebook you need to enter your Facebook APP "
+"ID<br/>If you don't have one, you can create it from: <a target=\"_blank\" "
+"href=\"https://developers.facebook.com/apps\">HERE</a> "
+msgstr ""
+"For at benytte Facebookintegration skal du indtaste dit Facebook APP ID<br/>"
+"Hvis du ikke har et, kan du oprette det her: <a target=\"_blank\" "
+"href=\"https://developers.facebook.com/apps\"></a> "
+
+# @ kleo_framework
+#: framework/theme_settings.php:1429
+msgid "Show Facebook avatar"
+msgstr "Vis Facebook-profilbillede"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1430
+msgid ""
+"If you enable this, users that registered with Facebook will display "
+"Facebook profile image as avatar."
+msgstr ""
+"Hvis du aktiverer denne, vil brugere der har registreret sig med Facebook, "
+"få vist deres Facebook-profilbillede som standard."
+
+# @ kleo_framework
+#: framework/theme_settings.php:1437
+msgid "Enable Registration via Facebook"
+msgstr "Aktivér eller deaktiver registrér med Facebook"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1438
+msgid ""
+"If you enable this, users will be able to register a new account using "
+"Facebook. This skips the registration page including required profile fields"
+msgstr ""
+"Hvis du aktiverer denne mulighed, kan brugere oprette en ny konto med "
+"Facebook. Der springes over registreringssiden, inklusiv de påkrævede "
+"profilfelter."
+
+# @ kleo_framework
+#: framework/theme_settings.php:1445
+msgid "Mailchimp API KEY"
+msgstr "Mailchimp API KEY"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1446
+msgid ""
+"To use mailchimp newsletter subscribe widget you have to enter your API KEY"
+msgstr ""
+"For at bruge widgetten \"tilmeld til mailchimp nyhedsbrev\" skal du indtaste "
+"din til mailchimp API KEY"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1452
+msgid "Mailchimp Opt in"
+msgstr "Mailchimp Opt in"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1453
+msgid ""
+"If you want users to confirm their email by clicking a link on the email"
+msgstr ""
+"Hvis du vil have brugere til at bekræfte deres email ved at klikke på et "
+"link i en email."
+
+# @ kleo_framework
+#: framework/theme_settings.php:1460
+msgid "Terms and conditions page"
+msgstr "Side til vilkår og betingelser "
+
+# @ kleo_framework
+#: framework/theme_settings.php:1461
+msgid ""
+"Select the page that is used for terms and conditions.<br/>This will be used "
+"in register modal"
+msgstr ""
+"Vælg den side der skal anvendes til vilkår og betingelser. <br/> Denne vil "
+"anvendes i registermodal"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1468
+msgid "Privacy page"
+msgstr "Side til privatlivspolitik"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1469
+msgid ""
+"Select the page that is used for privacy info.<br/>This will be used in "
+"login modal"
+msgstr ""
+"Vælg den side der skal anvendes til privatlivspolitik. <br/> Denne vil "
+"anvendes i loginmodal"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1477
+msgid "Themeforest Username"
+msgstr "Themeforest Brugernavn"
+
+#: framework/theme_settings.php:1478 framework/theme_settings.php:1485
+#, php-format
+msgid ""
+"Deprecated. You need to use Envato Market plugin. Read the tutorial <a "
+"target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_settings.php:1484
+msgid "Themeforest API KEY"
+msgstr "Themeforest API KEY"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1492
+msgid "Twitter Consumer Key"
+msgstr "Twitter Consumer Key"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1499
+msgid "Twitter Consumer Secret"
+msgstr "Twitter Consumer Secret"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1506
+msgid "Twitter Access Token"
+msgstr "Twitter Access Token"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1512
+msgid "Twitter Token Secret"
+msgstr "Twitter Token Secret"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1518
+msgid "Twitter username"
+msgstr "Twitter brugernavn"
+
+# @ kleo_framework
+#: framework/theme_settings.php:1524
+msgid "Tweets cache time"
+msgstr "Cachetid for tweets"
+
+#: framework/merlin-config.php:31
+msgid "Theme Setup"
+msgstr ""
+
+#: framework/merlin-config.php:32
+#, php-format
+msgid "%s%s Themes &lsaquo; Theme Setup: %s%s"
+msgstr ""
+
+#: framework/merlin-config.php:34
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/merlin-config.php:36
+msgid "Skip"
+msgstr ""
+
+#: framework/merlin-config.php:37
+msgid "Next"
+msgstr ""
+
+#: framework/merlin-config.php:38
+msgid "Start"
+msgstr ""
+
+# @ bp-docs
+# @ buddypress
+# @ social-articles
+# @ pmpro
+#: framework/merlin-config.php:39
+msgid "Cancel"
+msgstr "Annuller"
+
+# @ kleo_framework
+#: framework/merlin-config.php:40 framework/merlin-config.php:41
+#: framework/merlin-config.php:42 framework/inc/merlin/merlin.php:889
+msgid "Install"
+msgstr "Installér"
+
+# @ kleo_framework
+#: framework/merlin-config.php:43 lib/inc/strings.php:227
+msgid "Import"
+msgstr "Importer"
+
+# @ kleo_framework
+# @ buddypress
+#: framework/merlin-config.php:44 framework/inc/merlin/merlin.php:895
+msgid "Activate"
+msgstr "Aktivér"
+
+#: framework/merlin-config.php:46
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: framework/merlin-config.php:47
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: framework/merlin-config.php:48
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+
+#: framework/merlin-config.php:49
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: framework/merlin-config.php:51
+msgid "Install Child Theme"
+msgstr ""
+
+#: framework/merlin-config.php:52
+msgid "You're good to go!"
+msgstr ""
+
+#: framework/merlin-config.php:53
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: framework/merlin-config.php:54
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+
+#: framework/merlin-config.php:55
+msgid "Learn about child themes"
+msgstr ""
+
+#: framework/merlin-config.php:56
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: framework/merlin-config.php:57
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+# @ kleo_framework
+#: framework/merlin-config.php:59 framework/classes/SQueen.php:81
+msgid "Install Plugins"
+msgstr "Installér plugins"
+
+#: framework/merlin-config.php:60
+msgid "You're up to speed!"
+msgstr ""
+
+#: framework/merlin-config.php:61
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: framework/merlin-config.php:62
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press "
+"\"Next\" to continue the setup wizard."
+msgstr ""
+
+#: framework/merlin-config.php:63 framework/merlin-config.php:67
+msgid "Advanced"
+msgstr ""
+
+#: framework/merlin-config.php:65
+msgid "Import Content"
+msgstr ""
+
+#: framework/merlin-config.php:66
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+
+#: framework/merlin-config.php:69
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: framework/merlin-config.php:70
+msgid "Add your license key to activate one-click updates and theme support."
+msgstr ""
+
+#: framework/merlin-config.php:71
+msgid "More info"
+msgstr ""
+
+#: framework/merlin-config.php:73 framework/merlin-config.php:82
+msgid "Explore WordPress"
+msgstr ""
+
+#: framework/merlin-config.php:74 framework/merlin-config.php:83
+msgid "Get Theme Support"
+msgstr ""
+
+#: framework/merlin-config.php:75 framework/merlin-config.php:84
+msgid "Start Customizing"
+msgstr ""
+
+#: framework/merlin-config.php:77
+msgid "All done. Have fun!"
+msgstr ""
+
+#: framework/merlin-config.php:78
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: framework/merlin-config.php:79
+msgid "Extras"
+msgstr ""
+
+#: framework/merlin-config.php:80
+msgid "View your website"
+msgstr ""
+
+# @ kleo_framework
+#: framework/helpers.php:264
+msgid "Select icon"
+msgstr "Vælg ikon"
+
+# @ kleo_framework
+#: framework/theme_options.php:47
+msgid "Follow me on Twitter"
+msgstr "Følg mig på Twitter"
+
+# @ kleo_framework
+#: framework/theme_options.php:52
+msgid "Find me on Facebook"
+msgstr "Find mig på Facebook"
+
+# @ kleo_framework
+#: framework/theme_options.php:57
+msgid "Find me on Dribbble"
+msgstr "Find mig på Dribbble"
+
+# @ kleo_framework
+#: framework/theme_options.php:72 framework/theme_options.php:76
+msgid "Sweetdate"
+msgstr "Sweetdate"
+
+#: framework/theme_options.php:85
+msgid "7thQueen Support"
+msgstr ""
+
+#: framework/theme_options.php:87
+#, php-format
+msgid "Please visit our <a href=\"%s\">support portal</a>"
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_options.php:108 framework/theme_options.php:116
+msgid "Text before form"
+msgstr "Tekst før formular"
+
+# @ kleo_framework
+#: framework/theme_options.php:111 framework/theme_options.php:119
+msgid "Select your form fields"
+msgstr "Vælg felter"
+
+#: framework/theme_options.php:127
+msgid "(optional)"
+msgstr ""
+
+#: framework/theme_options.php:129
+#, php-format
+msgid "Select Age Range Field %s"
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_options.php:132
+msgid "Age label"
+msgstr "Alder"
+
+#: framework/theme_options.php:136
+#, php-format
+msgid "Select Numerical Field %s</h4>"
+msgstr ""
+
+#: framework/theme_options.php:140
+#, php-format
+msgid "Select Matching Fields %s"
+msgstr ""
+
+#: framework/theme_options.php:141
+msgid ""
+"When you search by first field it will look in the matching one. Example: I "
+"am a -> Looking for a"
+msgstr ""
+
+#: framework/theme_options.php:211
+msgid "Not logged in"
+msgstr ""
+
+#: framework/theme_options.php:218
+msgid "Not members"
+msgstr ""
+
+#: framework/theme_options.php:248
+msgid "Show field in memberships table"
+msgstr ""
+
+# @ kleo_framework
+#: framework/theme_options.php:292
+msgid "Popular level"
+msgstr "Populært niveau"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:42
+msgid "Birthday"
+msgstr "Fødselsdag"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:43
+msgid "I am a"
+msgstr "Jeg er en"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:44
+msgid "Looking for a"
+msgstr "Jeg søger"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:45
+msgid "Marital status"
+msgstr "Civilstatus"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:46
+msgid "City"
+msgstr "By"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:47
+msgid "Country"
+msgstr "Land"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:53
+msgid "Lifestyle"
+msgstr "Livsstil"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:57
+msgid "Interests"
+msgstr "Interesser"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:58
+msgid "Favorite Vacations Spot"
+msgstr "Mit foretrukne feriested"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:59
+msgid "Ideal First Date"
+msgstr "Min perfekte første date"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:60 custom_buddypress/bp-functions.php:67
+#: custom_buddypress/bp-functions.php:1895
+#: custom_buddypress/bp-functions.php:1896
+msgid "Looking for"
+msgstr "Jeg søger"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:61
+msgid "Smoking"
+msgstr "Rygning"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:62
+msgid "Language"
+msgstr "Sprog"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:70
+msgid "The one thing I am most passionate about:"
+msgstr "Min største passion er:"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:71
+msgid "Things I am looking for in a person are:"
+msgstr "Hvad jeg søger i en partner:"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:105
+#: custom_buddypress/bp-functions.php:132
+msgid "Man"
+msgstr "Mand"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:105
+#: custom_buddypress/bp-functions.php:132
+msgid "Woman"
+msgstr "Kvinde"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:161
+msgid "Single"
+msgstr "Single"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:162
+msgid "Living together"
+msgstr "Samboende"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:163
+msgid "Married"
+msgstr "Gift"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:164
+msgid "Separated"
+msgstr "Separeret"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:165
+msgid "Divorced"
+msgstr "Skilt"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:166
+msgid "Widowed"
+msgstr "Enke(mand)"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:167
+msgid "Prefer not to say"
+msgstr "Vil ikke oplyse"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:427
+msgid "Myself Summary"
+msgstr "Kort om mig"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:435
+#: custom_buddypress/bp-functions.php:1902
+msgid "About me"
+msgstr "Om mig"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:511
+msgid "RV"
+msgstr "RV"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:512
+msgid "Art Enthusiast"
+msgstr "Kunstelsker"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:513
+msgid "Billiards"
+msgstr "Billiard"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:514
+msgid "Horses/Equine"
+msgstr "Ridesport"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:515
+#: custom_buddypress/bp-functions.php:791
+msgid "Music"
+msgstr "Musik"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:516
+msgid "Business"
+msgstr "Business"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:517
+msgid "Writing"
+msgstr "Skrive"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:518
+msgid "Snorkelling"
+msgstr "Snorkle"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:519
+msgid "Tenis"
+msgstr "Tennis"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:520
+msgid "Gardening"
+msgstr "Havearbejde"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:521
+msgid "Dogs"
+msgstr "Hunde"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:522
+msgid "Cats"
+msgstr "Katte"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:523
+msgid "Antiques"
+msgstr "Antikviteter"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:524
+msgid "Decorating"
+msgstr "Indretning"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:583
+msgid "Cyber Affair/Erotic Chat"
+msgstr "Erotisk chat"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:584
+msgid "Serious Relationshiop"
+msgstr "Fast forhold"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:585
+msgid "Affair"
+msgstr "Affære"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:586
+msgid "Just friends"
+msgstr "Nye venner"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:617
+msgid "Bengali"
+msgstr "Bengali"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:618
+msgid "Cantonese"
+msgstr "Kantonesisk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:619
+msgid "Dutch/Africaans"
+msgstr "Hollandsk/Afrikaans"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:620
+msgid "English"
+msgstr "Engelsk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:621
+msgid "French"
+msgstr "Fransk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:622
+msgid "Farsi"
+msgstr "Farsi"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:623
+msgid "German"
+msgstr "Tysk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:624
+msgid "Italian"
+msgstr "Italiensk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:625
+msgid "Javanese"
+msgstr "Javanesisk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:626
+msgid "Korean"
+msgstr "Koreansk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:627
+msgid "Malay"
+msgstr "Malay"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:628
+msgid "Punjabi"
+msgstr "Punjabi"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:629
+msgid "Polish"
+msgstr "Polsk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:630
+msgid "Portuguese"
+msgstr "Portugisisk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:631
+msgid "Swahili"
+msgstr "Swahili"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:632
+msgid "Spanish"
+msgstr "Spansk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:633
+msgid "Tamil"
+msgstr "Tamil"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:634
+msgid "Thai"
+msgstr "Thai"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:635
+msgid "Turkish"
+msgstr "Tyrkisk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:636
+msgid "Vietnamese"
+msgstr "Vietnamesisk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:665
+msgid "Never"
+msgstr "Aldrig"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:666
+msgid "Casual smoker"
+msgstr "Festryger"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:667
+msgid "Daily smoker"
+msgstr "Ryger"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:687
+msgid "Physical"
+msgstr "Fysik"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:698
+msgid "Height"
+msgstr "Højde"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:699
+msgid "Hair Color"
+msgstr "Hårfarve"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:700
+msgid "Eye Color"
+msgstr "Øjenfarve"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:701
+msgid "Body Type"
+msgstr "Kropsbygning"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:702
+msgid "Weight"
+msgstr "Vægt"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:703
+msgid "Ethnicity"
+msgstr "Etnicitet"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:704
+msgid "Best Feature"
+msgstr "Mit bedste træk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:751
+msgid "Auburn"
+msgstr "Rødbrun"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:752
+#: custom_buddypress/bp-functions.php:785
+#: custom_buddypress/bp-functions.php:859
+msgid "Black"
+msgstr "Sort"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:753
+msgid "Blond"
+msgstr "Blond"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:754
+#: custom_buddypress/bp-functions.php:787
+msgid "Brown"
+msgstr "Brun"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:755
+msgid "Chestnut"
+msgstr "Kastanje"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:756
+msgid "Gray/White"
+msgstr "Grå/Hvid"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:786
+msgid "Blue"
+msgstr "Blå"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:788
+msgid "Hazel"
+msgstr "Brun"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:789
+msgid "Gray"
+msgstr "Grå"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:790
+msgid "Green"
+msgstr "Grøn"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:820
+msgid "Apple"
+msgstr "Æbleformet"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:821
+msgid "Pear"
+msgstr "Pæreformet"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:822
+msgid "Athletic"
+msgstr "Atletisk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:823
+msgid "Hourglass"
+msgstr "Timeglas"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:824
+#: custom_buddypress/bp-functions.php:828
+msgid "Slender"
+msgstr "Slank"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:825
+msgid "Inverted Triangle"
+msgstr "Bredskuldret"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:826
+msgid "Tall"
+msgstr "Høj"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:827
+msgid "Petite"
+msgstr "Petite"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:858
+msgid "Caucasian"
+msgstr "Europæisk"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:860
+msgid "Hispanic"
+msgstr "Latino"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:861
+msgid "Middle Eastern"
+msgstr "Mellemøstlig"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:862
+msgid "Native American"
+msgstr "Indianer"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:863
+msgid "Asian"
+msgstr "Asiat"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:864
+msgid "Mixed Race"
+msgstr "Blandet"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:865
+msgid "Other Ethnicity"
+msgstr "Anden etnicitet"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1015
+msgid "Quick profile navigation"
+msgstr "Hurtig profilnavigation"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1020
+msgid "Previous profile"
+msgstr "Forrige profil"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1028
+msgid "Next profile"
+msgstr "Næste profil"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1796
+msgid "Compatibility match"
+msgstr "Kompatabilitetsmatch"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1797
+msgid "match"
+msgstr "match"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1829
+msgid "Latest registered members"
+msgstr "Seneste medlemmer"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1849
+msgid "Please Login to Add Friend"
+msgstr "Log ind for at tilføje ven"
+
+# @ buddypress
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1850
+msgid "Add Friend"
+msgstr "Tilføj ven"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1857
+msgid "Please Login to Send a public message"
+msgstr "Log ind for at sende en offentlig besked"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1858
+msgid "Public Message"
+msgstr "Offentlig besked"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1864
+msgid "Please Login to Send a private message"
+msgstr "Log ind for at sende en privat besked"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1865
+msgid "Private Message"
+msgstr "Privat besked"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1903
+msgid "Base"
+msgstr "Base"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:1911
+#: custom_buddypress/bp-functions.php:1918
+#: custom_buddypress/bp-functions.php:1960
+msgid "My photos"
+msgstr "Mine fotos"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:2023
+msgid "Change photo"
+msgstr "Skift billede"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:2060
+msgid "View profile"
+msgstr "Vis profil"
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:2562
+msgid "Profile Search <span class=\"pink-text\">results</span>"
+msgstr "Søg profiler <span class=\"pink-text\">results</span>"
+
+#: custom_buddypress/bp-functions.php:2564
+#, php-format
+msgid "Your search returned %s %s"
+msgstr ""
+
+# @ kleo_framework
+#: custom_buddypress/bp-functions.php:2566 lib/inc/strings.php:27
+msgid "member"
+msgid_plural "members"
+msgstr[0] "medlem"
+msgstr[1] "medlemmer"
+
+# @ kleo_framework
+#: custom_buddypress/kleo-bp-search.php:28
+msgid ""
+"Please enable Buddypress and Extended profiles component for the search form!"
+msgstr ""
+"Aktivér Buddypress og komponentet Extended Profiles for søgeformularen!"
+
+# @ kleo_framework
+#: custom_buddypress/kleo-bp-search.php:34
+msgid "Please configure your form fields under Sweetdate - Buddypress"
+msgstr "Konfigurér dine formularfelter under Sweetdate - Buddypress"
+
+# @ kleo_framework
+#: custom_buddypress/kleo-bp-search.php:160
+#: buddypress/members/bps-form-legacy.php:314
+msgid "Clear"
+msgstr "Ryd"
+
+# @ kleo_framework
+#: custom_buddypress/kleo-bp-search.php:211
+#: buddypress/members/bps-form-legacy.php:400
+msgid "SEARCH"
+msgstr "SØG"
+
+# @ kleo_framework
+#: custom_buddypress/kleo-bp-search.php:300
+#: custom_buddypress/kleo-bp-search.php:327
+#: buddypress/members/bps-form-horizontal.php:100
+#: buddypress/members/bps-form-horizontal.php:116
+#: buddypress/members/bps-form-horizontal.php:130
+#: buddypress/members/bps-form-horizontal.php:148
+msgid "from"
+msgstr "fra"
+
+# @ kleo_framework
+#: custom_buddypress/kleo-bp-search.php:309
+#: custom_buddypress/kleo-bp-search.php:330
+#: buddypress/members/bps-form-horizontal.php:108
+#: buddypress/members/bps-form-horizontal.php:119
+#: buddypress/members/bps-form-horizontal.php:138
+#: buddypress/members/bps-form-horizontal.php:151
+msgid "to"
+msgstr "til"
+
+# @ kleo_framework
+#: custom_buddypress/kleo-bp-search.php:544
+msgid "There is no date field"
+msgstr "Der er ikke noget datofelt"
+
+# @ kleo_framework
+#: custom_buddypress/kleo-bp-search.php:570
+msgid "There are no textbox or selectbox fields in your profile"
+msgstr "Der er ingen tekstfelter eller afkrydsede felter på din profil"
+
+#: custom_buddypress/class-bp-tabs.php:227
+msgid "Album Image"
+msgstr ""
+
+# @ kleo_framework
+#: custom_buddypress/class-bp-tabs.php:234
+#: custom_buddypress/class-bp-tabs.php:332
+msgid "PREVIOUS"
+msgstr "FORRIGE"
+
+# @ kleo_framework
+#: custom_buddypress/class-bp-tabs.php:235
+#: custom_buddypress/class-bp-tabs.php:333
+msgid "NEXT"
+msgstr "NÆSTE"
+
+#. Name of the template
+msgid "Full-width Page, No Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Right Sidebar Page Template"
+msgstr ""
+
+#. Name of the template
+msgid "Full width - For Builder"
+msgstr ""
+
+#. Name of the template
+msgid "3 Columns - Left and Right sidebars"
+msgstr ""
+
+#. Name of the template
+msgid "3 Columns - Two Right Sidebars"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Page(DEPRECATED)"
+msgstr ""
+
+#. Name of the template
+msgid "Left Sidebar Page Template"
+msgstr ""
+
+#. Name of the template
+msgid "3 Columns - Two Left Sidebars"
+msgstr ""
+
+#. Name of the template
+msgid "404 Page"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page(DEPRECATED)"
+msgstr ""
+
+#. Name of the template
+msgid "BuddyPress - Members Online"
+msgstr ""
+
+# @ kleo_framework
+#: page-templates/buddypress-online.php:78
+#: buddypress/members/members-loop-mini.php:53
+msgid "Sorry, no members were found."
+msgstr "Desværre, ingen medlemmer blev fundet."
+
+#: lib/updates.php:78
+msgid ""
+"Sweetdate needs to update your translation files saved under wp-"
+"content/languages/themes to match the new translation domain. Please create "
+"a backup of your files and database first."
+msgstr ""
+
+#: lib/updates.php:83 framework/inc/merlin/merlin.php:892
+msgid "Update"
+msgstr ""
+
+#: lib/updates.php:88
+msgid "Dismiss"
+msgstr ""
+
+#: framework/classes/SQueen.php:80
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/classes/SQueen.php:82
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/classes/SQueen.php:84
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/classes/SQueen.php:85
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/SQueen.php:87
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/SQueen.php:89
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/SQueen.php:91
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/SQueen.php:93
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/SQueen.php:95
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/SQueen.php:97
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/SQueen.php:101
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/SQueen.php:102
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/SQueen.php:103
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/classes/SQueen.php:104
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/classes/SQueen.php:105
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ kleo_framework
+#: framework/functions/facebook_login.php:142
+msgid "LOG IN WITH Facebook"
+msgstr "Log ind med Facebook"
+
+# @ kleo_framework
+#: framework/functions/facebook_login.php:151
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ kleo_framework
+#: framework/functions/facebook_login.php:177
+msgid "Authenication required."
+msgstr "Godkendelse påkrævet"
+
+# @ kleo_framework
+#: framework/functions/facebook_login.php:184
+msgid "Please connect your facebook account."
+msgstr "Forbind venligst din Facebook-konto. "
+
+# @ kleo_framework
+#: framework/functions/facebook_login.php:202
+msgid "Registration is not open at this time. Please come back later."
+msgstr "Registrering er ikke mulig på nuværende tidspunkt. Prøv igen senere. "
+
+# @ kleo_framework
+#: framework/functions/facebook_login.php:205
+msgid ""
+"Registration using Facebook is not currently allowed. Please use our "
+"Register page"
+msgstr ""
+"Registrering med Facebook kan ikke bruges. Brug venligst vores "
+"registreringsformular."
+
+# @ kleo_framework
+#: framework/functions/facebook_login.php:214
+msgid ""
+"Please re-connect your facebook account as we couldn't find your email "
+"address."
+msgstr "Log ind med Facebook igen, vi kunne ikke finde din emailadresse."
+
+# @ kleo_framework
+#: framework/functions/facebook_login.php:217
+msgid ""
+"We didn't find your name. Please complete your facebook account before "
+"proceeding."
+msgstr ""
+"Vi kunne ikke finde dit navn. Udfyld din facebookprofil før du fortsætter."
+
+# @ kleo_framework
+#: framework/functions/facebook_login.php:276
+msgid ""
+"Thank you for registering. Please make sure to complete your profile fields "
+"below."
+msgstr ""
+"Tak for at have oprettet en konto. Husk at udfylde alle felterne i din "
+"profil nedenfor."
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:35
+msgid "Home"
+msgstr "Hjem"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:415
+msgid "g:i a"
+msgstr "g:i a"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:417
+#, php-format
+msgid "Minute %1$s"
+msgstr "Minut %1$s"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:417
+msgid "i"
+msgstr "i"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:419
+msgid "g a"
+msgstr "g a"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:430
+#: framework/functions/breadcrumb.php:439
+#: framework/functions/breadcrumb.php:439
+#: framework/functions/breadcrumb.php:450
+#: framework/functions/breadcrumb.php:450
+#: framework/functions/breadcrumb.php:460
+#: framework/functions/breadcrumb.php:460
+#: framework/functions/breadcrumb.php:462
+#: framework/functions/breadcrumb.php:705
+#: framework/functions/breadcrumb.php:705
+msgid "Y"
+msgstr "Y"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:431
+#: framework/functions/breadcrumb.php:453
+#: framework/functions/breadcrumb.php:453
+#: framework/functions/breadcrumb.php:455
+#: framework/functions/breadcrumb.php:708
+msgid "F"
+msgstr "F"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:434
+#: framework/functions/breadcrumb.php:436
+#: framework/functions/breadcrumb.php:711
+msgid "d"
+msgstr "d"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:445
+#: framework/functions/breadcrumb.php:447
+#, php-format
+msgid "Week %1$s"
+msgstr "Uge%1$s"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:445
+#: framework/functions/breadcrumb.php:447
+msgid "W"
+msgstr "W"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:470
+#: framework/functions/breadcrumb.php:472
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Søgeresultater for &quot;%1$s&quot;"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:476
+msgid "404 Not Found"
+msgstr "404 Findes ikke"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:482
+#: framework/functions/breadcrumb.php:484
+#, php-format
+msgid "Page %d"
+msgstr "Side %d"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:599
+msgid "Split"
+msgstr "Opdel"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:602
+msgid "Merge"
+msgstr "Sammenlæg"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:708
+msgid "F Y"
+msgstr "F Y"
+
+# @ kleo_framework
+#: framework/functions/breadcrumb.php:711
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: buddypress/members/bps-form-legacy.php:47
+#: buddypress/members/bps-form-horizontal.php:50
+msgid "Advanced Search"
+msgstr ""
+
+#: buddypress/members/bps-form-legacy.php:50
+#: buddypress/members/bps-form-horizontal.php:53
+msgid "Toggle filters"
+msgstr ""
+
+# @ kleo_framework
+#: buddypress/members/register.php:421
+msgid "Sign Up Complete!"
+msgstr "Tilmelding gennemført!"
+
+# @ kleo_framework
+#: lib/inc/strings.php:3
+msgid "Text and contact information."
+msgstr "Tekst og kontaktinformation"
+
+#: lib/inc/strings.php:4
+msgid "(Sweet) About us"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:5
+msgid "Stay in touch"
+msgstr "Hold kontakten"
+
+# @ kleo_framework
+# @ buddypress
+#: lib/inc/strings.php:9 lib/inc/strings.php:262 lib/inc/strings.php:294
+#: lib/inc/strings.php:311 lib/inc/strings.php:318
+msgid "Title:"
+msgstr "Titel"
+
+# @ kleo_framework
+#: lib/inc/strings.php:10
+msgid "Display Email/Phone?"
+msgstr "Vis email/telefon?"
+
+# @ kleo_framework
+#: lib/inc/strings.php:11
+msgid "Display Social icons?"
+msgstr "Vis sociale ikoner?"
+
+# @ kleo_framework
+#: lib/inc/strings.php:14
+msgid "<strong>ERROR</strong>: The e-mail field is empty."
+msgstr "<strong>FEJL</strong>: Feltet \"email\" er tomt."
+
+# @ kleo_framework
+#: lib/inc/strings.php:15
+msgid "<strong>ERROR</strong>: Invalid  e-mail."
+msgstr "<strong>FEJL</strong>: Ugyldig email."
+
+# @ kleo_framework
+#: lib/inc/strings.php:16
+msgid "Failure! "
+msgstr "Fejl!"
+
+# @ kleo_framework
+#: lib/inc/strings.php:17
+msgid "The e-mail could not be sent."
+msgstr "Email kunne ikke sendes"
+
+# @ kleo_framework
+#: lib/inc/strings.php:18
+msgid "Email successfully sent!"
+msgstr "Email sendt!"
+
+#: lib/inc/strings.php:21
+#: lib/plugins/elementor/templates/members-carousel.php:38
+msgid "Newest"
+msgstr "Nyeste"
+
+# @ kleo_framework
+#: lib/inc/strings.php:22 lib/inc/strings.php:65
+msgid "Active"
+msgstr "Aktiv"
+
+# @ kleo_framework
+#: lib/inc/strings.php:23
+msgid "Popular"
+msgstr "Populære"
+
+# @ kleo_framework
+#: lib/inc/strings.php:24
+msgid "members"
+msgstr "Medlemmer"
+
+# @ kleo_framework
+#: lib/inc/strings.php:25
+msgid "View group"
+msgstr "Vis gruppe"
+
+# @ kleo_framework
+#: lib/inc/strings.php:26
+msgid "Your search returned"
+msgstr "Din søgning fandt"
+
+# @ kleo_framework
+#: lib/inc/strings.php:30 lib/inc/strings.php:129
+msgid "Button URL"
+msgstr "Knappens URL"
+
+# @ kleo_framework
+#: lib/inc/strings.php:31
+msgid "Add the button's url eg http://example.com"
+msgstr "Angiv knappens URL, fx http:\\example.com"
+
+# @ kleo_framework
+#: lib/inc/strings.php:32 lib/inc/strings.php:131
+msgid "Button Style"
+msgstr "Knappens udseende"
+
+# @ kleo_framework
+#: lib/inc/strings.php:33
+msgid "Select the button's style, ie the button's colour"
+msgstr ""
+"Angiv knappens udseende, fx \n"
+"farve"
+
+# @ kleo_framework
+#: lib/inc/strings.php:34 lib/inc/strings.php:133
+msgid "Button Size"
+msgstr "Knappens størrelse"
+
+# @ kleo_framework
+#: lib/inc/strings.php:35 lib/inc/strings.php:134
+msgid "Select the button's size"
+msgstr "Angiv knappens størrelse"
+
+# @ kleo_framework
+#: lib/inc/strings.php:36 lib/inc/strings.php:87 lib/inc/strings.php:100
+#: lib/inc/strings.php:135
+msgid "Rounded corners"
+msgstr "Runde hjørner"
+
+# @ kleo_framework
+#: lib/inc/strings.php:37 lib/inc/strings.php:101 lib/inc/strings.php:136
+msgid "Check if you want the button to have rounded corners"
+msgstr "Kryds af, hvis du ønsker runde hjørner"
+
+#: lib/inc/strings.php:38
+#, php-format
+msgid ""
+"Select an icon to display inside button. View all icons <a target=\"_blank\" "
+"href=\"%s\">here</a>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:39 lib/inc/strings.php:138
+#: lib/plugins/elementor/templates/button-video.php:95
+msgid "Icon position"
+msgstr "Placering af ikon"
+
+# @ kleo_framework
+#: lib/inc/strings.php:40 lib/inc/strings.php:139
+msgid "Select icon position"
+msgstr "Vælg ikonets placering"
+
+# @ kleo_framework
+#: lib/inc/strings.php:41
+msgid "Button Target"
+msgstr "Knap åbner i "
+
+# @ kleo_framework
+#: lib/inc/strings.php:42
+msgid "_self = open in same window. _blank = open in new window"
+msgstr "_self = open in same window. _blank = open in new window"
+
+# @ kleo_framework
+#: lib/inc/strings.php:43 lib/inc/strings.php:140
+msgid "Button's Text"
+msgstr "Tekst på knap"
+
+# @ kleo_framework
+#: lib/inc/strings.php:44 lib/inc/strings.php:141
+msgid "Add the button's text"
+msgstr "Angiv knap på tekst"
+
+# @ kleo_framework
+#: lib/inc/strings.php:45
+msgid "Insert Button Shortcode"
+msgstr "Indsæt shortcode "
+
+# @ kleo_framework
+#: lib/inc/strings.php:46
+msgid "Alert Style"
+msgstr "Advarslens udseende"
+
+# @ kleo_framework
+#: lib/inc/strings.php:47
+msgid "Select the alert's style, ie the alert colour"
+msgstr "Angiv advarslens udseende, fx farve"
+
+# @ kleo_framework
+#: lib/inc/strings.php:48
+msgid "Alert Text"
+msgstr "Tekst på advarsel"
+
+# @ kleo_framework
+#: lib/inc/strings.php:49
+msgid "Add the alert's text"
+msgstr "Angiv advarslens tekst"
+
+# @ kleo_framework
+#: lib/inc/strings.php:50
+msgid "Insert Alert Shortcode"
+msgstr "Indsæt shortcode "
+
+# @ kleo_framework
+#: lib/inc/strings.php:51
+msgid "Toggle Content Title"
+msgstr "Toogle indholdstitel"
+
+# @ kleo_framework
+#: lib/inc/strings.php:52
+msgid "Add the title that will go above the toggle content"
+msgstr "Tilføj titel over indholdet"
+
+# @ kleo_framework
+#: lib/inc/strings.php:53
+msgid "Toggle Content"
+msgstr "Toggle indhold"
+
+# @ kleo_framework
+#: lib/inc/strings.php:54
+msgid "Add the toggle content. Will accept HTML"
+msgstr "Tilføj toggle indhold. HTML kan anvendes"
+
+# @ kleo_framework
+#: lib/inc/strings.php:55 lib/inc/strings.php:56
+msgid "Toggle State"
+msgstr "Toggle tilstand"
+
+# @ kleo_framework
+#: lib/inc/strings.php:57
+msgid "Insert Toggle Content Shortcode"
+msgstr "Indsæt shortcode for toggle indhold"
+
+# @ kleo_framework
+#: lib/inc/strings.php:58
+msgid "Insert Tab Shortcode"
+msgstr "Indsæt shortcode for faneblad"
+
+# @ kleo_framework
+#: lib/inc/strings.php:59
+msgid "Centered tabs"
+msgstr "Centrerede faneblade"
+
+# @ kleo_framework
+#: lib/inc/strings.php:60
+msgid "Enable centered tabs title"
+msgstr "Aktivér centrerede faneblade"
+
+# @ kleo_framework
+#: lib/inc/strings.php:61
+msgid "Tab Title"
+msgstr "Titel på faneblad"
+
+# @ kleo_framework
+#: lib/inc/strings.php:62
+msgid "Title of the tab"
+msgstr "Fanebladets titel"
+
+# @ kleo_framework
+#: lib/inc/strings.php:63
+msgid "Tab Content"
+msgstr "Fanebladets indhold"
+
+# @ kleo_framework
+#: lib/inc/strings.php:64
+msgid "Add the tabs content"
+msgstr "Tilføj fanebladets indhold"
+
+# @ kleo_framework
+#: lib/inc/strings.php:66
+msgid "If the tab should be active by default"
+msgstr "Hvis fanebladet skal være aktivt som standard"
+
+# @ kleo_framework
+#: lib/inc/strings.php:67
+msgid "Add Tab"
+msgstr "Tilføj faneblad"
+
+# @ kleo_framework
+#: lib/inc/strings.php:68
+msgid "Insert Row Shortcode"
+msgstr "Indsæt shortcode for række"
+
+# @ kleo_framework
+#: lib/inc/strings.php:69
+msgid "Row Content"
+msgstr "Rækkens indhold"
+
+# @ kleo_framework
+#: lib/inc/strings.php:70
+msgid "Add the row content."
+msgstr "Tilføj rækkens indhold"
+
+# @ kleo_framework
+#: lib/inc/strings.php:71
+msgid "Insert Columns Shortcode"
+msgstr "Indsæt shortcode for kolonne"
+
+# @ kleo_framework
+#: lib/inc/strings.php:72
+msgid "Column Type"
+msgstr "Kolonnetype"
+
+# @ kleo_framework
+#: lib/inc/strings.php:73
+msgid "Select the type, ie width of the column."
+msgstr "Vælg kolonnetype, fx kolonnens bredde"
+
+# @ kleo_framework
+#: lib/inc/strings.php:74
+msgid "Column Content"
+msgstr "Kolonnens indhold"
+
+# @ kleo_framework
+#: lib/inc/strings.php:75
+msgid "Add the column content."
+msgstr "Tilføj kolonnens indhold"
+
+# @ kleo_framework
+#: lib/inc/strings.php:76
+msgid "Add Column"
+msgstr "Tilføj kolonne"
+
+#: lib/inc/strings.php:78
+msgid "Display a background for this section"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:79
+msgid "Centered text"
+msgstr "Centreret tekst"
+
+# @ kleo_framework
+#: lib/inc/strings.php:80
+msgid "Check if you want to have centered text"
+msgstr "Sæt kryds hvis du vil have centreret tekst"
+
+# @ kleo_framework
+#: lib/inc/strings.php:81
+msgid "Show Border"
+msgstr "Vis kanter"
+
+# @ kleo_framework
+#: lib/inc/strings.php:82
+msgid "Add a bottom border to the section"
+msgstr "Angiv bundkant for denne sektion"
+
+# @ bp-docs
+# @ kleo_framework
+#: lib/inc/strings.php:83 lib/inc/strings.php:119
+#: framework/inc/merlin/merlin.php:637
+msgid "Content"
+msgstr "Indhold"
+
+# @ kleo_framework
+#: lib/inc/strings.php:84
+msgid "Section content"
+msgstr "Sektionsindhold"
+
+# @ kleo_framework
+#: lib/inc/strings.php:85
+msgid "Insert Section Shortcode"
+msgstr "Tilføj shortcode for sektion"
+
+# @ kleo_framework
+#: lib/inc/strings.php:86
+msgid "Panel Style"
+msgstr "Panelets udseende"
+
+# @ kleo_framework
+#: lib/inc/strings.php:88
+msgid "Check if you want the panel to have rounded corners"
+msgstr "Kryds af, hvis du ønsker runde hjørner"
+
+# @ kleo_framework
+#: lib/inc/strings.php:89
+msgid "Panel content"
+msgstr "Indhold af panel"
+
+# @ kleo_framework
+#: lib/inc/strings.php:90
+msgid "Add the panel's content"
+msgstr "Tilføj panelets indhold"
+
+# @ kleo_framework
+#: lib/inc/strings.php:91
+msgid "Insert Panel Shortcode"
+msgstr "Indsæt shortcode for panel"
+
+# @ bp-docs
+# @ kleo_framework
+# @ social-articles
+#: lib/inc/strings.php:92 lib/inc/strings.php:193
+#: lib/plugins/elementor/templates/register-form.php:45
+msgid "Title"
+msgstr "Titel"
+
+# @ kleo_framework
+# @ woocommerce
+#: lib/inc/strings.php:93
+msgid "Price"
+msgstr "Pris"
+
+# @ kleo_framework
+#: lib/inc/strings.php:94
+msgid "Description"
+msgstr "Beskrivelse"
+
+# @ kleo_framework
+#: lib/inc/strings.php:95
+msgid "Insert Pricing table Shortcode"
+msgstr "Indsæt shortcode for pristabel"
+
+# @ kleo_framework
+#: lib/inc/strings.php:96
+msgid "Item"
+msgstr "Element"
+
+# @ kleo_framework
+#: lib/inc/strings.php:97
+msgid "Add Item"
+msgstr "Tilføj element"
+
+# @ kleo_framework
+#: lib/inc/strings.php:98
+msgid "Bar Style"
+msgstr "Linjes udseende"
+
+# @ kleo_framework
+#: lib/inc/strings.php:99
+msgid "Select the bar's colour"
+msgstr "Vælg linjens farve"
+
+# @ kleo_framework
+#: lib/inc/strings.php:102
+msgid "Completed percentage"
+msgstr "Procent udført"
+
+# @ kleo_framework
+#: lib/inc/strings.php:103
+msgid "Set the completed percentage for the progress bar"
+msgstr "Definér udført procent for proceslinjen"
+
+# @ kleo_framework
+#: lib/inc/strings.php:104
+msgid "Insert Progress bar Shortcode"
+msgstr "Indsæt shortcode for proceslinje"
+
+# @ kleo_framework
+#: lib/inc/strings.php:105
+msgid "Default opened"
+msgstr "Standard åbnet"
+
+# @ kleo_framework
+#: lib/inc/strings.php:106
+msgid ""
+"Enter the accordion number you want to be opened by default. Enter none if "
+"you want to have all closed."
+msgstr ""
+"Vælg det nummer på foldeelement du vil have åbent som standard. Vælg intet, "
+"hvis du ønsker alle lukket."
+
+# @ kleo_framework
+#: lib/inc/strings.php:107
+msgid "Insert Accordion Shortcode"
+msgstr "Indsæt shortcode for foldeelement"
+
+# @ kleo_framework
+#: lib/inc/strings.php:108
+msgid "Accordion Item Title"
+msgstr "Titel på foldeelement"
+
+# @ kleo_framework
+#: lib/inc/strings.php:109
+msgid "Title of the Accordion Item"
+msgstr "Titel på foldeelement"
+
+# @ kleo_framework
+#: lib/inc/strings.php:110
+msgid "Accordion Item Content"
+msgstr "Indhold for foldeleement"
+
+# @ kleo_framework
+#: lib/inc/strings.php:111
+msgid "Add the accordion's item content"
+msgstr "Tilføj indhold for foldeleement"
+
+# @ kleo_framework
+#: lib/inc/strings.php:112
+msgid "Add Accordion Item"
+msgstr "Tilføj foldeelement"
+
+# @ kleo_framework
+#: lib/inc/strings.php:113
+msgid "Text Color"
+msgstr "Farve på tekst"
+
+# @ kleo_framework
+#: lib/inc/strings.php:114
+msgid "Select the text's color"
+msgstr "Vælg tekstfarve"
+
+# @ kleo_framework
+#: lib/inc/strings.php:115 lib/inc/strings.php:121
+msgid "Your text"
+msgstr "Din tekst"
+
+# @ kleo_framework
+#: lib/inc/strings.php:116
+msgid "Insert Colored Text Shortcode"
+msgstr "Indsæt shortcode for farvet tekst"
+
+# @ kleo_framework
+#: lib/inc/strings.php:118
+msgid "Change the default background"
+msgstr "Skift standardbaggrund"
+
+# @ kleo_framework
+#: lib/inc/strings.php:120
+msgid "Insert Call to Action Shortcode"
+msgstr "Indsæt shortcode for Call to Action"
+
+# @ kleo_framework
+#: lib/inc/strings.php:122
+msgid "Insert Lead Paragraph Shortcode"
+msgstr "Indsæt shortcode for hovedafsnit"
+
+# @ kleo_framework
+#: lib/inc/strings.php:123
+msgid "Insert H1 Shortcode"
+msgstr "Indsæt H1 shortcode"
+
+# @ kleo_framework
+#: lib/inc/strings.php:124
+msgid "Insert H2 Shortcode"
+msgstr "Indsæt H2 shortcode"
+
+# @ kleo_framework
+#: lib/inc/strings.php:125
+msgid "Insert H3 Shortcode"
+msgstr "Indsæt H3 shortcode"
+
+# @ kleo_framework
+#: lib/inc/strings.php:126
+msgid "Insert H4 Shortcode"
+msgstr "Indsæt H4 shortcode"
+
+# @ kleo_framework
+#: lib/inc/strings.php:127
+msgid "Insert H5 Shortcode"
+msgstr "Indsæt H5 Shortcode"
+
+# @ kleo_framework
+#: lib/inc/strings.php:128
+msgid "Insert H6 Shortcode"
+msgstr "Indsæt H6 Shortcode"
+
+# @ kleo_framework
+#: lib/inc/strings.php:130
+msgid ""
+"Add video's embed url that will open in popup eg http://www.youtube."
+"com/embed/FtquI061bag"
+msgstr ""
+"Tilføj videoens embed-kode som skal åbne i popup, fx http://www.youtube."
+"com/embed/FtquI061bag"
+
+# @ kleo_framework
+#: lib/inc/strings.php:132
+msgid "Select the button's colour"
+msgstr "Vælg knappens farve"
+
+# @ kleo_framework
+#: lib/inc/strings.php:137 lib/plugins/elementor/templates/button-video.php:86
+msgid "Icon"
+msgstr "Ikon"
+
+# @ kleo_framework
+#: lib/inc/strings.php:142
+msgid "Insert Video Button Shortcode"
+msgstr "Indsæt shortcode for videoknap"
+
+# @ kleo_framework
+#: lib/inc/strings.php:143
+msgid "Insert Status Icons Shortcode"
+msgstr "Indsæt shortcode for statusikon"
+
+# @ kleo_framework
+#: lib/inc/strings.php:144 lib/inc/strings.php:199 lib/inc/strings.php:206
+#: lib/plugins/elementor/templates/members-carousel.php:34
+msgid "Type"
+msgstr "Type"
+
+# @ kleo_framework
+#: lib/inc/strings.php:145 lib/inc/strings.php:156 lib/inc/strings.php:175
+#: lib/plugins/elementor/templates/posts-carousel.php:67
+msgid "Image"
+msgstr "Billede"
+
+# @ kleo_framework
+#: lib/inc/strings.php:146 lib/inc/strings.php:153
+msgid "Field name"
+msgstr "Feltnavn"
+
+# @ kleo_framework
+#: lib/inc/strings.php:147
+msgid ""
+"Enter the field name to get members by. Works only when Type is set to custom"
+msgstr ""
+"Indtast det feltnavn du vil hente medlemmer fra. Virker kun, hvis Type er "
+"sat til tilpasset"
+
+# @ kleo_framework
+#: lib/inc/strings.php:148
+msgid "Field value"
+msgstr "Feltværdi"
+
+# @ kleo_framework
+#: lib/inc/strings.php:149
+msgid ""
+"Enter the field value to get members by. Works only when Type is set to "
+"custom"
+msgstr ""
+"Indtast den feltværdi du vil hente medlemmer fra. Virker kun, hvis Type er "
+"sat til tilpasset"
+
+# @ kleo_framework
+#: lib/inc/strings.php:150
+msgid "Online"
+msgstr "Online"
+
+# @ kleo_framework
+#: lib/inc/strings.php:151
+msgid "Get only online members or not. Works only when Type is set to custom"
+msgstr ""
+"Hent kun medlemmer der er online eller ikke. Virker kun, hvis Type er sat "
+"til tilpasset"
+
+# @ kleo_framework
+#: lib/inc/strings.php:152
+msgid "Subtitle Text"
+msgstr "Tekst på undertitle"
+
+# @ kleo_framework
+#: lib/inc/strings.php:154 lib/plugins/elementor/templates/member-stats.php:47
+msgid "Field Value"
+msgstr "Feltværdi"
+
+# @ kleo_framework
+#: lib/inc/strings.php:155
+msgid "Insert Members online Shortcode"
+msgstr "Indsæt shortcode for antal medlemmer online"
+
+# @ kleo_framework
+#: lib/inc/strings.php:157
+msgid "Insert Rounded Image Shortcode"
+msgstr "Indsæt shortcode for afrundet billede"
+
+# @ kleo_framework
+#: lib/inc/strings.php:158
+msgid "Category"
+msgstr "Kategori"
+
+# @ kleo_framework
+#: lib/inc/strings.php:159
+msgid "Show posts only from the selected category"
+msgstr "Vis kun posts fra den valgte kategori"
+
+# @ kleo_framework
+#: lib/inc/strings.php:160
+#: lib/plugins/elementor/templates/posts-carousel.php:44
+msgid "Limit"
+msgstr "Begræns"
+
+# @ kleo_framework
+#: lib/inc/strings.php:161
+msgid "Limit the posts in carousel"
+msgstr "Begræns posts i karrusel"
+
+# @ kleo_framework
+#: lib/inc/strings.php:162
+msgid "Insert Posts Carousel Shortcode"
+msgstr "Indsæt shortcode for post-karrusel"
+
+# @ kleo_framework
+#: lib/inc/strings.php:163
+msgid "Display type"
+msgstr "Visningstype"
+
+# @ kleo_framework
+#: lib/inc/strings.php:164
+msgid "Display in a normal or grid view"
+msgstr "Vis som normal eller gittervisning"
+
+# @ kleo_framework
+#: lib/inc/strings.php:165
+msgid "Number of columns"
+msgstr "Antal kolonner"
+
+# @ kleo_framework
+#: lib/inc/strings.php:166
+msgid "Applies only for Grid Display style"
+msgstr "Kun relevant ved gittervisning"
+
+# @ kleo_framework
+#: lib/inc/strings.php:167
+msgid "Show post meta"
+msgstr "Vis post meta"
+
+# @ kleo_framework
+#: lib/inc/strings.php:168
+#: lib/plugins/elementor/templates/posts-carousel.php:54
+msgid "Post types"
+msgstr "Typer af posts"
+
+# @ kleo_framework
+#: lib/inc/strings.php:169
+msgid "Show only certain post types"
+msgstr "Vis kun visse typer af posts"
+
+# @ kleo_framework
+#: lib/inc/strings.php:170
+msgid "Post Formats"
+msgstr "Formater af posts"
+
+# @ kleo_framework
+#: lib/inc/strings.php:171
+msgid "Show only certain post formats"
+msgstr "Vis kun visse formater af posts"
+
+# @ kleo_framework
+#: lib/inc/strings.php:172
+msgid "Limit the posts number"
+msgstr "Begræns antallet af posts"
+
+# @ kleo_framework
+#: lib/inc/strings.php:173
+msgid "Insert Articles Shortcode"
+msgstr "Tilføj shortcode for sartikler"
+
+# @ kleo_framework
+#: lib/inc/strings.php:174
+msgid "Insert Slider Shortcode"
+msgstr "Indsæt shortcode for Slider"
+
+# @ kleo_framework
+#: lib/inc/strings.php:176
+msgid "Select your image"
+msgstr "Vælg billede"
+
+# @ kleo_framework
+#: lib/inc/strings.php:177
+msgid "Add Slider Image"
+msgstr "Vælg billede til slider"
+
+#: lib/inc/strings.php:178
+#, php-format
+msgid ""
+"Select an icon to display. View all icons <a target=\"_blank\" href=\"%s\">"
+"here</a>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:179 lib/plugins/elementor/templates/button-video.php:58
+msgid "Size"
+msgstr "Størrelse"
+
+# @ kleo_framework
+#: lib/inc/strings.php:180
+msgid "Select the icon size"
+msgstr "Angiv ikonets størrelse"
+
+# @ kleo_framework
+#: lib/inc/strings.php:181
+msgid "Insert Icon Shortcode"
+msgstr "Indsæt shortcode for ikon"
+
+# @ kleo_framework
+#: lib/inc/strings.php:182
+msgid "Before text"
+msgstr "Før tekst"
+
+# @ kleo_framework
+#: lib/inc/strings.php:183
+msgid "Text that appears before search form"
+msgstr "Tekst foran søgeformular"
+
+# @ kleo_framework
+#: lib/inc/strings.php:184
+msgid "Show profiles"
+msgstr "Vis profiler"
+
+# @ kleo_framework
+#: lib/inc/strings.php:185
+msgid "Check if you want to show profiles carousel in form footer"
+msgstr "Kryds af, hvis du vil have vist profilkarrusel i bunden af formularen"
+
+#: lib/inc/strings.php:186
+msgid "Insert Search Form Shortcode"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:187
+msgid "Show search button"
+msgstr "Vis søgeknap"
+
+# @ kleo_framework
+#: lib/inc/strings.php:188
+msgid ""
+"Check if you want to show a search button. Otherwise it will automatically "
+"refresh on form change"
+msgstr ""
+"Kryds af, hvis du vil have vist en søgeknap. Ellers opdaterer siden selv "
+"hvis indtastninger ændres "
+
+#: lib/inc/strings.php:189
+msgid "Insert Vertical Search Form Shortcode"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:190 lib/plugins/elementor/templates/register-form.php:33
+#: lib/plugins/elementor/templates/profile-search.php:62
+msgid "Show Profiles"
+msgstr "Vis profiler"
+
+# @ kleo_framework
+#: lib/inc/strings.php:191
+msgid "Display Latest Profiles Carousel below the form"
+msgstr "Vis seneste profiler under formularen"
+
+# @ kleo_framework
+#: lib/inc/strings.php:194
+msgid "Title that appears in the form"
+msgstr "Titel som vises på formularen"
+
+# @ kleo_framework
+#: lib/inc/strings.php:196 lib/plugins/woocommerce/config.php:172
+#: lib/plugins/elementor/templates/register-form.php:55
+#: lib/plugins/elementor/templates/profile-search.php:74
+msgid "Details"
+msgstr "Detaljer"
+
+# @ kleo_framework
+#: lib/inc/strings.php:197
+msgid "Details to show below the title"
+msgstr "Detaljer der vises under titel"
+
+# @ kleo_framework
+#: lib/inc/strings.php:198
+msgid "Insert Register form Shortcode"
+msgstr "Indsæt shortcode for registreringsformular"
+
+# @ kleo_framework
+#: lib/inc/strings.php:200
+msgid "What members to show"
+msgstr "Hvilke medlemmer skal vises"
+
+# @ kleo_framework
+# @ pmpro
+# @ woocommerce
+#: lib/inc/strings.php:201
+#: lib/plugins/elementor/templates/members-carousel.php:48
+msgid "Total"
+msgstr "Total"
+
+# @ kleo_framework
+#: lib/inc/strings.php:202
+msgid "The number of members to get"
+msgstr "Antal medlemmer "
+
+# @ kleo_framework
+#: lib/inc/strings.php:203
+#: lib/plugins/elementor/templates/members-carousel.php:58
+msgid "Image width"
+msgstr "Bredde på billede"
+
+# @ kleo_framework
+#: lib/inc/strings.php:204
+msgid "Member avatar size"
+msgstr "Størrelse på profilbillede"
+
+# @ kleo_framework
+#: lib/inc/strings.php:205
+msgid "Insert Members Carousel Shortcode"
+msgstr "Indsæt shortcode for medlemskarrusel"
+
+# @ kleo_framework
+#: lib/inc/strings.php:207
+msgid "What statistic to show"
+msgstr "Hvilken statistik skal visess"
+
+# @ kleo_framework
+#: lib/inc/strings.php:208
+msgid "Insert bbPress Stats Shortcode"
+msgstr "Indsæt bbPress Stats Shortcode"
+
+# @ kleo_framework
+#: lib/inc/strings.php:211
+msgid "Theme options"
+msgstr "Temaindstillinger"
+
+# @ kleo_framework
+#: lib/inc/strings.php:212 framework/inc/merlin/merlin.php:1623
+msgid "Options"
+msgstr "Indstillinger"
+
+# @ kleo_framework
+#: lib/inc/strings.php:213
+msgid "Import / Export"
+msgstr "Import / Eksport"
+
+# @ kleo_framework
+#: lib/inc/strings.php:214
+msgid "Dev Mode Info"
+msgstr "Udviklertilstand info"
+
+# @ kleo_framework
+#: lib/inc/strings.php:215
+msgid "Are you sure? You will lose all custom values."
+msgstr "Er du sikker? Du vil miste alle brugerdefinerede værdier. "
+
+# @ kleo_framework
+#: lib/inc/strings.php:216 lib/inc/strings.php:232
+msgid "Reset to Defaults"
+msgstr "Nulstil til defaults"
+
+#: lib/inc/strings.php:217
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: lib/inc/strings.php:218
+msgid "error(s) were found!"
+msgstr ""
+
+#: lib/inc/strings.php:219
+msgid "warning(s) were found!"
+msgstr ""
+
+#: lib/inc/strings.php:220
+msgid "Settings Imported!"
+msgstr ""
+
+#: lib/inc/strings.php:221
+msgid "Settings Saved!"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:222
+msgid "Import / Export Options"
+msgstr "Import / Eksport indstillinger"
+
+# @ kleo_framework
+#: lib/inc/strings.php:223
+msgid "Import Options"
+msgstr "Indstillinger for import"
+
+# @ kleo_framework
+#: lib/inc/strings.php:224
+msgid "Import from text"
+msgstr "Importér fra tekst"
+
+# @ kleo_framework
+#: lib/inc/strings.php:225
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Tilføj din backup-fil nedenfor og tryk importer for at genoprette "
+"indstillingerne for din hjemmeside fra en tidligere backup"
+
+# @ kleo_framework
+#: lib/inc/strings.php:226
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Tilføj din URL til til indstillingerne for en anden hjemmeside og klik "
+"importer for at overføre indstillingerne fra den hjemmeside."
+
+# @ kleo_framework
+#: lib/inc/strings.php:228
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+"ADVARSEL! Dette vil overskrive alle andre eksisterende indstillinger. "
+"Fortsæt venligst med forsigtighed!"
+
+# @ kleo_framework
+#: lib/inc/strings.php:229
+msgid "Export Options"
+msgstr "Indstillinger for eksport"
+
+# @ kleo_framework
+#: lib/inc/strings.php:230
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Her kan du kopiere/downloade dine eksisterende indstillinger. Gem "
+"indstillingerne og brug dem som backup i tilfælde af at noget skulle gå galt,"
+" eller bruge dem til at genskabe dine indstillinger på denne hjemmeside "
+"(eller en hvilken som helst anden). "
+
+# @ kleo_framework
+#: lib/inc/strings.php:231
+msgid "Show export text"
+msgstr "Vis eksporteret tekst"
+
+# @ kleo_framework
+#: lib/inc/strings.php:235
+msgid "Upload"
+msgstr "Upload"
+
+# @ kleo_framework
+#: lib/inc/strings.php:236
+msgid "Remove"
+msgstr "Fjern"
+
+# @ kleo_framework
+# @ buddypress
+#: lib/inc/strings.php:239
+msgid "From:"
+msgstr "Fra:"
+
+# @ kleo_framework
+# @ buddypress
+#: lib/inc/strings.php:240
+msgid "To:"
+msgstr "Til:"
+
+# @ kleo_framework
+#: lib/inc/strings.php:243
+msgid "Add More"
+msgstr "Tilføj flere"
+
+# @ kleo_framework
+#: lib/inc/strings.php:244
+msgid "Select page"
+msgstr "Vælg side"
+
+#: lib/inc/strings.php:245
+#, php-format
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a "
+"href=\"%s\" target=\"_blank\">Google Web Fonts directory</a>."
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:248
+msgid "Please Try Again"
+msgstr "Prøv venligst igen"
+
+# @ kleo_framework
+#: lib/inc/strings.php:249
+msgid "Remove Embed"
+msgstr "Fjern indlejring"
+
+# @ kleo_framework
+#: lib/inc/strings.php:250
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Ingen indlejringsresultater fundet for %s. Find mere info på"
+
+# @ kleo_framework
+#: lib/inc/strings.php:253
+msgid "Mailchimp newsletter subscribe form."
+msgstr "Tilmeldingsformular til Mailchimp-nyhedsbrev"
+
+#: lib/inc/strings.php:254
+msgid "(Sweet) Mailchimp Newsletter"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:255 lib/inc/strings.php:268
+msgid ""
+"Success!&nbsp; Check your inbox or spam folder for a message containing a "
+"confirmation link."
+msgstr ""
+"Sådan!&nbsp;Tjek din indbakke eller spammappe for en mail med et "
+"bekræftelseslink."
+
+# @ kleo_framework
+#: lib/inc/strings.php:256 lib/inc/strings.php:267
+msgid "Error:"
+msgstr "Fejl:"
+
+# @ kleo_framework
+#: lib/inc/strings.php:257
+msgid "Your name"
+msgstr "Dit navn"
+
+# @ kleo_framework
+#: lib/inc/strings.php:259
+msgid "JOIN US"
+msgstr "VÆR MED"
+
+# @ kleo_framework
+#: lib/inc/strings.php:260
+msgid ""
+"Curl is not enabled. Please contact your hosting company and ask them to "
+"enable CURL."
+msgstr ""
+"CURL er ikke aktiveret. Kontakt din hostingleverandør og bed dem aktivere "
+"CURL. "
+
+# @ kleo_framework
+#: lib/inc/strings.php:261
+msgid ""
+"You need to enter your MailChimp API_KEY in theme options before using this "
+"widget."
+msgstr ""
+"Du skal indtaste din MailChimp API_KEY i temaindstillinger før du kan bruge "
+"denne widget."
+
+# @ kleo_framework
+#: lib/inc/strings.php:263
+msgid "Select List:"
+msgstr "Vælg liste:"
+
+# @ kleo_framework
+#: lib/inc/strings.php:264
+msgid "Double opt-in:"
+msgstr "Double opt-in:"
+
+# @ kleo_framework
+#: lib/inc/strings.php:265
+msgid "Text before form :"
+msgstr "Tekst før formular:"
+
+# @ kleo_framework
+#: lib/inc/strings.php:266
+msgid " Text after form:"
+msgstr "Tekst efter formular:"
+
+# @ kleo_framework
+#: lib/inc/strings.php:269
+msgid "You have successfully subscribed."
+msgstr "Du er nu tilmeldt mailingslisten."
+
+# @ kleo_framework
+#: lib/inc/strings.php:272
+msgid ""
+"Enter a youtube or vimeo URL. Supports services listed at <a "
+"target=\"_blank\" href=\"http://codex.wordpress.org/Embeds\">http://codex."
+"wordpress.org/Embeds</a>."
+msgstr ""
+"Indtast din Youtube eller Vimeo URL. Understøtter tjenesteydelser, der er "
+"listet her <a target=\"_blank\" href=\"http://codex.wordpress.org/Embeds\">"
+"http://codex.wordpress.org/Embeds</a>."
+
+# @ kleo_framework
+#: lib/inc/strings.php:273
+msgid "Upload you audio file"
+msgstr "Upload din lydfil"
+
+# @ kleo_framework
+#: lib/inc/strings.php:274
+msgid "Testimonial - Author description"
+msgstr "Udtalelse - forfatterbeskrivelse"
+
+# @ kleo_framework
+#: lib/inc/strings.php:277
+msgid "Testimonial"
+msgstr "Udtalelse"
+
+# @ kleo_framework
+#: lib/inc/strings.php:278
+msgid "Testimonials"
+msgstr "Udtalelser"
+
+# @ kleo_framework
+#: lib/inc/strings.php:279
+#, php-format
+msgctxt "post type general name"
+msgid "%s"
+msgstr "%s"
+
+# @ kleo_framework
+#: lib/inc/strings.php:280
+#, php-format
+msgctxt "post type singular name"
+msgid "%s"
+msgstr "%s"
+
+# @ kleo_framework
+#: lib/inc/strings.php:281
+#, php-format
+msgid "Add New %s"
+msgstr "Tilføj ny %s"
+
+# @ kleo_framework
+#: lib/inc/strings.php:282
+#, php-format
+msgid "Edit %s"
+msgstr "Rediger %s"
+
+# @ kleo_framework
+#: lib/inc/strings.php:283
+#, php-format
+msgid "New %s"
+msgstr "Ny %s"
+
+# @ kleo_framework
+#: lib/inc/strings.php:284
+#, php-format
+msgid "All %s"
+msgstr "Alle %s"
+
+# @ kleo_framework
+#: lib/inc/strings.php:285
+#, php-format
+msgid "View %s"
+msgstr "Vis %s"
+
+# @ kleo_framework
+#: lib/inc/strings.php:286
+#, php-format
+msgid "Search %s"
+msgstr "Søg %s"
+
+# @ kleo_framework
+#: lib/inc/strings.php:287
+#, php-format
+msgid "No %s found"
+msgstr "Ingen %s fundet"
+
+# @ kleo_framework
+#: lib/inc/strings.php:288
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Ingen %s fundet i papirkurv"
+
+# @ kleo_framework
+#: lib/inc/strings.php:291
+msgid "Recent posts with thumbnails widget."
+msgstr "Seneste post med thumbnails"
+
+#: lib/inc/strings.php:292
+msgid "(Sweet) Recent posts"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:293
+msgid "read more"
+msgstr "Læs mere"
+
+# @ kleo_framework
+#: lib/inc/strings.php:295 lib/inc/strings.php:319
+msgid "Limit:"
+msgstr "Grænse:"
+
+# @ kleo_framework
+#: lib/inc/strings.php:296
+msgid "Excerpt length:"
+msgstr "Længde af uddrag:"
+
+# @ kleo_framework
+#: lib/inc/strings.php:297
+msgid "Display Author Image?"
+msgstr "Vis billede af forfatter?"
+
+# @ kleo_framework
+#: lib/inc/strings.php:298
+msgid "Show from category: "
+msgstr "Vis fra kategori:"
+
+# @ kleo_framework
+#: lib/inc/strings.php:299
+msgid "All categories"
+msgstr "Alle kategorier"
+
+# @ kleo_framework
+#: lib/inc/strings.php:300
+msgid "Choose the Post Type: "
+msgstr "Vis posttype"
+
+# @ kleo_framework
+#: lib/inc/strings.php:303
+msgid "Members search form"
+msgstr "Søg efter medlemmer"
+
+#: lib/inc/strings.php:304
+msgid "(Sweet) Members search form"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:305
+msgid "Text before search form"
+msgstr "Tekst foran søgeformular"
+
+# @ kleo_framework
+#: lib/inc/strings.php:306
+msgid "Show profiles carousel"
+msgstr "Vis profilkarrusel"
+
+# @ kleo_framework
+#: lib/inc/strings.php:309
+msgid "Support information."
+msgstr "Supportinformation."
+
+#: lib/inc/strings.php:310
+msgid "(Sweet) Support box"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:312
+msgid "Button link"
+msgstr "Link på knap"
+
+# @ kleo_framework
+#: lib/inc/strings.php:313 lib/plugins/elementor/templates/button-video.php:107
+#: lib/plugins/elementor/templates/button-video.php:109
+msgid "Button text"
+msgstr "Tekst på knap"
+
+# @ kleo_framework
+#: lib/inc/strings.php:316
+msgid "Testimonials widget."
+msgstr "Reference-widget"
+
+#: lib/inc/strings.php:317
+msgid "(Sweet) Testimonials"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:322
+msgid "Add a customized twitter widget to your site."
+msgstr "Tilføj en tilpasset Twitter-widget til din side."
+
+#: lib/inc/strings.php:323
+msgid "(Sweet) Twitter Widget"
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:324
+msgid "No tweets found"
+msgstr "Ingen tweets fundet"
+
+# @ kleo_framework
+#: lib/inc/strings.php:327
+msgid "READ MORE"
+msgstr "LÆS MERE"
+
+# @ kleo_framework
+#: lib/inc/strings.php:329
+msgid "This field must be a valid color value."
+msgstr "Dette felt skal være en gyldig farveværdi. "
+
+#: lib/inc/strings.php:330
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+# @ kleo_framework
+#: lib/inc/strings.php:331
+msgid "This field must be a valid date."
+msgstr "Dette felt skal indeholde en gyldig dato"
+
+# @ kleo_framework
+#: lib/inc/strings.php:332
+msgid "You must provide a valid email for this option."
+msgstr "Du skal angive en gyldig emailadresse"
+
+# @ kleo_framework
+#: lib/inc/strings.php:333
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"Du må ikke indsætte HTML-kode i dette felt. Alle HTML-tags er blevet fjernet."
+
+# @ kleo_framework
+#: lib/inc/strings.php:334
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"Du må ikke indsætte specialtegn i dette felt. Alle specialtegn er blevet "
+"fjernet."
+
+# @ kleo_framework
+#: lib/inc/strings.php:335
+msgid "You must provide a numerical value for this option."
+msgstr "Du skal angive en numerisk værdi for at anvende denne mulighed"
+
+# @ kleo_framework
+#: lib/inc/strings.php:336
+msgid "You must provide a valid URL for this option."
+msgstr "Du skal angive en gyldig URL for at anvende denne mulighed"
+
+# @ kleo_framework
+#: paid-memberships-pro/pages/cancel.php:15
+msgid "Are you sure you want to cancel your membership?"
+msgstr "Er du helt sikker på, at du vil opsige dit medlemskab?"
+
+# @ kleo_framework
+#: paid-memberships-pro/pages/cancel.php:19
+msgid "Yes, cancel my membership"
+msgstr "Ja, opsig mit medlemskab"
+
+# @ kleo_framework
+#: paid-memberships-pro/pages/confirmation.php:96
+#: paid-memberships-pro/pages/invoice.php:92
+msgctxt "credit card type {ending in} xxxx"
+msgid "ending in"
+msgstr "slutter på"
+
+# @ kleo_framework
+#: paid-memberships-pro/pages/checkout.php:57
+#, php-format
+msgid ""
+"You have selected the <strong class=\"label radius\">%s</strong> membership "
+"level."
+msgstr "Du har valgt <strong class=\"label radius\">%s</strong>medlemskab."
+
+# @ kleo_framework
+#: paid-memberships-pro/pages/checkout.php:304
+#, php-format
+msgid ""
+"You are logged in as <strong>%s</strong>. If you would like to use a "
+"different account for this membership, <a href=\"%s\" class=\"link\">log out "
+"now</a>."
+msgstr ""
+"Du er logget ind som <strong>%s</strong>. Hvis du vil bruge en anden konto "
+"til dette medlemskab <a href=\"%s\" class=\"link\">skal du logge ud</a>."
+
+# @ pmpro
+# @ kleo_framework
+#: paid-memberships-pro/pages/invoice.php:23
+msgid "Print"
+msgstr "Print"
+
+#: framework/inc/merlin/merlin.php:514
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:519
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:613
+msgid "Welcome"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:620
+msgid "Child"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:627
+msgid "Plugins"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:643
+msgid "Ready"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:897
+msgid "and"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1410
+msgid "Activating"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1426
+msgid "Updating"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1442 framework/inc/merlin/merlin.php:1540
+#: framework/inc/merlin/merlin.php:1573 framework/inc/merlin/merlin.php:1586
+#: framework/inc/merlin/merlin.php:1600 framework/inc/merlin/merlin.php:1613
+#: framework/inc/merlin/merlin.php:1626
+msgid "Installing"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1452 framework/inc/merlin/merlin.php:1541
+#: framework/inc/merlin/merlin.php:1574 framework/inc/merlin/merlin.php:1587
+#: framework/inc/merlin/merlin.php:1601 framework/inc/merlin/merlin.php:1614
+#: framework/inc/merlin/merlin.php:1627
+msgid "Success"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1471
+msgid "Invalid content!"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1509
+msgid "Error"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1537
+msgid "BuddyPress Profile Fields"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1538
+msgid "Sample buddypress profile fields."
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1539 framework/inc/merlin/merlin.php:1572
+#: framework/inc/merlin/merlin.php:1585 framework/inc/merlin/merlin.php:1599
+#: framework/inc/merlin/merlin.php:1612 framework/inc/merlin/merlin.php:1625
+msgid "Pending"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1571 framework/inc/merlin/merlin.php:1584
+#, php-format
+msgid "Sample %s data."
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1597
+msgid "Widgets"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1598
+msgid "Sample widgets data."
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1610
+msgid "Sliders"
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1611
+msgid "Sample sliders data."
+msgstr ""
+
+#: framework/inc/merlin/merlin.php:1624
+msgid "Sample theme options data."
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:52
+msgid "Restrict members directory"
+msgstr "Begræns medlemsoversigt"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:53
+msgid "View members directory"
+msgstr "Vis medlemsoversigt"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:57
+msgid "Restrict viewing other profiles"
+msgstr "Begræns visning af andre profiler"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:58
+msgid "View members profile"
+msgstr "Vis medlemsprofil"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:62
+msgid "Restrict access to groups directory"
+msgstr "Begræns adgang til gruppeoversigt"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:63
+msgid "Access group directory"
+msgstr "Adgang til gruppeoversigt"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:67
+msgid "Restrict access to single group page"
+msgstr "Begræns adgang til enkelt gruppeside"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:68
+msgid "Access to groups"
+msgstr "Adgang til grupper"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:72
+msgid "Restrict users from viewing site activity"
+msgstr "Begræns brugeres adgang til at se aktivitet på side"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:73
+msgid "View site activity"
+msgstr "Vis sideaktivitet"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:77
+msgid "Restrict users from sending private messages"
+msgstr "Udeluk brugere fra at sende private beskeder"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:78
+msgid "Send Private messages"
+msgstr "Send private beskeder"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:82
+msgid ""
+"Restrict users from adding media to their profile using rtMedia or bpAlbum"
+msgstr ""
+"Udeluke brugere fra at tilføje medier til deres profil med rtMedia eller "
+"bpAlbum"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:83
+msgid "Add media to your profile"
+msgstr "Tilføj medier til din profil"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:326
+msgid "Upgrade account"
+msgstr "Opgradér konto"
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:337
+msgid "You aren't allowed to perform this action"
+msgstr "Du kan ikke gøre dette"
+
+#: lib/plugins/pmpro/config.php:374
+msgid "Your current membership does not allow private messages access."
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:423
+msgid "Memberships"
+msgstr "Medlemskaber"
+
+#: lib/plugins/pmpro/config.php:424
+msgid ""
+"Settings related to membership. You need to have Paid Memberships Pro plugin "
+"activated"
+msgstr ""
+
+#: lib/plugins/pmpro/config.php:429
+msgid "Allow registrations also from PMPRO checkout page."
+msgstr ""
+
+#: lib/plugins/pmpro/config.php:430
+msgid ""
+"Users will be able to create an account directly at checkout. Will skip "
+"BuddyPress registration page. Setting depends on Buddypress to be active."
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugins/pmpro/config.php:437
+msgid "Membership settings"
+msgstr "Indstillinger for medlemskab"
+
+#: lib/plugins/elementor/config.php:48
+msgid "Position"
+msgstr ""
+
+#: framework/inc/merlin/includes/class-merlin-xml-parser.php:42
+#: framework/inc/merlin/includes/class-merlin-xml-parser.php:67
+#: framework/inc/merlin/includes/class-merlin-xml-parser.php:75
+#: framework/inc/merlin/includes/class-merlin-xml-parser.php:79
+#: framework/inc/merlin/includes/class-merlin-xml-parser.php:274
+msgid "Invalid WXR file."
+msgstr ""
+
+#: framework/inc/merlin/includes/class-merlin-xml-parser.php:50
+msgid "No XML parser found."
+msgstr ""
+
+#: framework/inc/merlin/includes/class-merlin-xml-parser.php:263
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: framework/inc/merlin/includes/class-merlin-importer.php:97
+msgid ""
+"This user is created while installing demo content. You should delete or "
+"modify this user&#8217;s information now."
+msgstr ""
+
+#: framework/inc/merlin/includes/class-merlin-importer.php:662
+msgid "Invalid attachment file type!"
+msgstr ""
+
+#: framework/inc/merlin/includes/class-merlin-importer.php:841
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: framework/inc/merlin/includes/class-merlin-importer.php:849
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/inc/merlin/includes/class-merlin-importer.php:854
+msgid "Zero size file downloaded."
+msgstr ""
+
+#: framework/inc/merlin/includes/class-merlin-importer.php:861
+#, php-format
+msgid "Remote file is too large, limit is %s."
+msgstr ""
+
+#: framework/inc/merlin/includes/class-merlin-importer.php:1144
+#: framework/inc/merlin/includes/class-merlin-importer.php:1145
+msgid "Taxonomy names must be between 1 and 32 characters in length."
+msgstr ""
+
+#: lib/plugins/elementor/templates/top-members.php:12
+msgid "Top members"
+msgstr ""
+
+#: lib/plugins/elementor/templates/top-members.php:26
+msgid "Color settings"
+msgstr ""
+
+#: lib/plugins/elementor/templates/top-members.php:33
+msgid "Member tabs color"
+msgstr ""
+
+#: lib/plugins/elementor/templates/top-members.php:45
+msgid "Member title color"
+msgstr ""
+
+#: lib/plugins/elementor/templates/top-members.php:57
+msgid "Meta color"
+msgstr ""
+
+#: lib/plugins/elementor/templates/top-members.php:69
+msgid "Total Members"
+msgstr ""
+
+#: lib/plugins/elementor/templates/top-members.php:84
+#: lib/plugins/elementor/templates/member-stats.php:136
+msgid "BuddyPress needs to be installed"
+msgstr ""
+
+#: lib/plugins/elementor/templates/register-form.php:12
+msgid "Register Form"
+msgstr ""
+
+#: lib/plugins/elementor/templates/register-form.php:26
+#: lib/plugins/elementor/templates/button-video.php:27
+#: lib/plugins/elementor/templates/recent-groups.php:26
+#: lib/plugins/elementor/templates/member-stats.php:30
+#: lib/plugins/elementor/templates/profile-search.php:45
+#: lib/plugins/elementor/templates/posts-carousel.php:27
+#: lib/plugins/elementor/templates/revslider.php:35
+#: lib/plugins/elementor/templates/members-carousel.php:27
+msgid "Settings"
+msgstr ""
+
+# @ pmpro
+# @ default
+# @ buddypress
+# @ bp-album
+#: lib/plugins/elementor/templates/register-form.php:35
+#: lib/plugins/elementor/templates/profile-search.php:64
+msgid "No"
+msgstr "Nej"
+
+# @ pmpro
+# @ default
+# @ buddypress
+# @ bp-album
+#: lib/plugins/elementor/templates/register-form.php:36
+#: lib/plugins/elementor/templates/profile-search.php:65
+msgid "Yes"
+msgstr "Ja"
+
+#: lib/plugins/elementor/templates/register-form.php:48
+msgid "Custom title"
+msgstr ""
+
+#: lib/plugins/elementor/templates/register-form.php:57
+msgid ""
+"Registering for this site is easy, just fill in the fields below and we will "
+"get a new account set up for you in no time"
+msgstr ""
+
+# @ bp-album
+# @ buddypress
+#: lib/plugins/elementor/templates/register-form.php:64
+#: lib/plugins/elementor/templates/profile-search.php:93
+msgid "Visibility"
+msgstr "Synlighed"
+
+#: lib/plugins/elementor/templates/button-video.php:12
+msgid "Button Video"
+msgstr ""
+
+#: lib/plugins/elementor/templates/button-video.php:34
+msgid "URL"
+msgstr ""
+
+#: lib/plugins/elementor/templates/button-video.php:37
+msgid "Youtube embed video link"
+msgstr ""
+
+#: lib/plugins/elementor/templates/button-video.php:44
+#: lib/plugins/elementor/templates/member-stats.php:73
+msgid "Style"
+msgstr ""
+
+#: lib/plugins/elementor/templates/button-video.php:73
+msgid "Round"
+msgstr ""
+
+#: lib/plugins/elementor/templates/recent-groups.php:12
+msgid "Recent Groups"
+msgstr ""
+
+#: lib/plugins/elementor/templates/recent-groups.php:33
+msgid "Number of groups"
+msgstr ""
+
+#: lib/plugins/elementor/templates/recent-groups.php:35
+msgid "4"
+msgstr ""
+
+#: lib/plugins/elementor/templates/member-stats.php:12
+msgid "Member Stats"
+msgstr ""
+
+#: lib/plugins/elementor/templates/member-stats.php:37
+msgid "Field Name"
+msgstr ""
+
+#: lib/plugins/elementor/templates/member-stats.php:40
+msgid "Select the field to get statistics by"
+msgstr ""
+
+#: lib/plugins/elementor/templates/member-stats.php:50
+msgid "Value to get same members by. Example: Rome if the Field name is City ."
+msgstr ""
+
+#: lib/plugins/elementor/templates/member-stats.php:57
+msgid "Get online users only"
+msgstr ""
+
+#: lib/plugins/elementor/templates/member-stats.php:59
+msgid "Off"
+msgstr ""
+
+#: lib/plugins/elementor/templates/member-stats.php:60
+msgid "On"
+msgstr ""
+
+#: lib/plugins/elementor/templates/member-stats.php:63
+msgid "Enable to count online users only"
+msgstr ""
+
+#: lib/plugins/elementor/templates/profile-search.php:16
+msgid "Profile Search"
+msgstr ""
+
+#: lib/plugins/elementor/templates/profile-search.php:52
+msgid "Form"
+msgstr ""
+
+#: lib/plugins/elementor/templates/profile-search.php:76
+msgid ""
+"Serious dating with <strong>Sweet date</strong>.<br>Your perfect match is "
+"just a click away"
+msgstr ""
+
+#: lib/plugins/elementor/templates/posts-carousel.php:12
+msgid "Posts Carousel"
+msgstr ""
+
+# @ social-articles
+#: lib/plugins/elementor/templates/posts-carousel.php:34
+msgid "Categories"
+msgstr "Kategorier"
+
+#: lib/plugins/elementor/templates/posts-carousel.php:37
+msgid "Comma separated categories names"
+msgstr ""
+
+#: lib/plugins/elementor/templates/posts-carousel.php:47
+msgid "Number of posts"
+msgstr ""
+
+#: lib/plugins/elementor/templates/posts-carousel.php:63
+msgid "Post formats"
+msgstr ""
+
+#: lib/plugins/elementor/templates/posts-carousel.php:68
+msgid "Gallery"
+msgstr ""
+
+#: lib/plugins/elementor/templates/posts-carousel.php:69
+msgid "Video"
+msgstr ""
+
+#: lib/plugins/elementor/templates/posts-carousel.php:70
+msgid "Audio"
+msgstr ""
+
+#: lib/plugins/elementor/templates/revslider.php:59
+msgid "Revolution Slider plugin needs to be installed"
+msgstr ""
+
+#: lib/plugins/elementor/templates/members-carousel.php:12
+msgid "Members Carousel"
+msgstr ""
+
+#: lib/plugins/elementor/templates/members-carousel.php:39
+msgid "Most Active"
+msgstr ""
+
+#: lib/plugins/elementor/templates/members-carousel.php:40
+msgid "Most Popular"
+msgstr ""
+
+#: lib/plugins/elementor/templates/members-carousel.php:50
+msgid "12"
+msgstr ""
+
+#: lib/plugins/elementor/templates/members-carousel.php:51
+msgid "Total members"
+msgstr ""
+
+#: lib/plugins/elementor/templates/members-carousel.php:60
+msgid "94"
+msgstr ""
+
+#: lib/plugins/elementor/templates/members-carousel.php:61
+msgid "Pixels"
+msgstr ""
+
+#. Description of the theme
+msgid "More than a WordPress dating theme"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://themeforest.net/item/sweet-date-more-than-a-wordpress-dating-"
+"theme/4994573?ref=SeventhQueen"
+msgstr ""
+
+#. Author of the theme
+msgid "SeventhQueen"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themeforest.net/user/SeventhQueen"
+msgstr ""

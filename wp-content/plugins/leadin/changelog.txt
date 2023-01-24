@@ -1,0 +1,324 @@
+= 9.0.108 (2022-09-14) =
+* Enqueue Meetings script
+
+= 9.0.91 (2022-09-13) =
+* Changed the placeholder text for form blocks
+
+= 9.0.77 (2022-09-12) =
+* Change review link to external survey
+
+= 9.0.74 (2022-09-09) =
+* Add filter to pass additional query parameters to iframe
+
+= 9.0.72 (2022-09-09) =
+* Prevent sidebar from rendering when not post or page
+
+= 9.0.20 (2022-08-30) =
+* Remove tests folder and composer.phar file
+
+= 9.0.0 (2022-08-29) =
+* Added HusbSpot Elementor widgets
+
+= 8.16.25 (2022-08-19) =
+* Fixes the headers missing issue by tying the script with a hook
+
+= 8.16.6 (2022-08-17) =
+* Revert changes for open upgrade link in new tab
+
+= 8.16.5 (2022-08-17) =
+* Removed newline before/after php tag
+
+= 8.16.2 (2022-08-17) =
+* Fixes the headers already sent error
+
+= 8.16.0 (2022-08-17) =
+* Made upgrade link open up in a new tab instead of the iframe
+
+= 8.15.139 (2022-08-04) =
+* Fix for content type customization
+
+= 8.15.65 (2022-07-22) =
+* Fix encode URL for affiliate link
+
+= 8.15.36 (2022-07-19) =
+* Add validation for content type in meta data
+
+= 8.15.0 (2022-07-15) =
+* Add hubspot sidebar to set content type
+
+= 8.14.24 (2022-07-15) =
+* Add fallback for affiliate link
+* Increase WP tested up to version
+
+= 8.14.0 (2022-07-13) =
+* Add Meetings gutenberg block
+
+= 8.13.56 (2022-06-10) =
+* Use new script to render forms
+
+= 8.13.52 (2022-06-09) =
+* Add defer to forms script
+
+= 8.13.45 (2022-06-08) =
+* Remove char from proxy url
+
+= 8.13.39 (2022-06-07) =
+* Add tracking of events in review banner
+
+= 8.13.0 (2022-06-01) =
+* Add validation to connect method
+
+= 8.12.33 (2022-05-27) =
+* Replaced some whitelisted URLs with regex
+
+= 8.12.0 (2022-05-24) =
+* Added Gutenberg block preview image
+
+= 8.11.221 (2022-05-24) =
+* Update dependencies
+
+= 8.11.150 (2022-05-13) =
+* Update build steps
+
+= 8.11.0 (2022-04-27) =
+* Add option to disable HS analytics tracking for internal WP users
+
+= 8.10.25 (2022-04-25) =
+* Fix Gutenberg block breaking after user disconnects plugin
+
+= 8.10.0 (2022-04-21) =
+* Add templates options to gutenberg form
+
+= 8.9.22 (2022-04-13) =
+* Prevent script to be loaded while Elementor Edit mode is on/or admin
+
+= 8.9.20 (2022-04-13) =
+* Fix security issue related to sanitizing inputs
+
+= 8.9.14 (2022-04-12) =
+* Fix security issue related to form inputs
+
+= 8.9.0 (2022-04-11) =
+* Add api that gets the correct hublet
+
+= 8.8.15 (2022-04-07) =
+* Fix security issue related to proxy URL
+
+= 8.8.13 (2022-04-07) =
+* Whitelist proxy paths
+
+= 8.8.0 (2022-04-06) =
+* Add api that updates hublet
+* Add api to track user consent
+
+= 8.7.5 (2022-03-14) =
+* Always add utm params to iframe
+
+= 8.7.0 (2022-03-11) =
+* Validations to when show the review banner
+* Add banner to ask the user to leave a review
+
+= 8.6.0 (2022-03-09) =
+* Add banner to ask the user to leave a review
+
+= 8.5.50 (2022-02-22) =
+* Increase WP tested up to version
+
+= 8.5.0 (2022-02-11) =
+* Add api to hide review banner
+
+= 8.4.662 (2022-02-04) =
+* Remove "shortcode" property from form definition as it was not used anywhere
+
+= 8.4.598 (2022-01-25) =
+* Add sandbox attribute to iframe
+
+= 8.4.463 (2021-12-16) =
+* Store activation time in the database. This will be needed to show contextual suggestions at the right time in the future.
+
+= 8.4.353 (2021-11-29) =
+* Add rel='noopener' to target _blank link
+
+= 8.4.344 (2021-11-23) =
+* Replace jQuery .unbind with .off
+* Replace rand with wp_rand
+* Fix Gutenberg block not showing due to a js error
+
+= 8.4.302 (2021-10-21) =
+* Fix for search function in HubSpot Gutenberg block
+
+= 8.4.301 (2021-10-21) =
+* Fix side navigation option highlight for list
+
+= 8.4.90 (2021-08-10) =
+* Add EU prefix to scripts domains for EU portals
+
+= 8.4.60 (2021-08-05) =
+* Added development backdoor for the new odyssey signup flow
+
+= 8.4.33 (2021-07-30) =
+* Check refresh token exists before attempting to make the refresh token API call.
+
+= 8.4.0 (2021-07-23) =
+* New portals created in the EU now have their data kept in EU datacentres.
+* Ungated the OAuth connection flow for all users.
+* Updated deprecated block_categories hook for WordPress 5.8
+
+= 8.3.67 (2021-07-12) =
+* Remove leadin_affiliate_code filter. This filter is not used and should not have any user-facing consequence
+
+= 8.3.20 (2021-06-23) =
+* Correctly render forms on non-NA1 regions
+
+= 8.3.16 (2021-06-22) =
+* Fix urls pointing to the wrong domain from region NA1
+
+= 8.3.15 (2021-06-22) =
+* Pass the connection nonce to leadinConfig variable. This change does not have impact on users
+
+= 8.3.0 (2021-06-18) =
+* Hide menu items that rely on third-party cookies when they are disabled
+
+= 8.2.0 (2021-06-17) =
+* Add endpoint that returns the OAuth2 token info
+
+= 8.1.0 (2021-06-17) =
+* Hide side menu items when the user is not authenticated
+
+= 8.0.287 (2021-06-15) =
+* Pass the deviceId param to the plugin in the query parameters
+
+= 8.0.266 (2021-06-09) =
+* Always stringify payload for POST ajax request
+
+= 8.0.227 (2021-05-28) =
+* Add support for new affiliate links
+
+= 8.0.166 (2021-05-20) =
+* Improved fingerprinting of API requests for error tracking/handling
+
+= 8.0.140 (2021-05-17) =
+* Set required "hublet" property when connecting the plugin
+* Add plugin's version to error monitoring
+
+= 8.0.1 (2021-04-22) =
+* Fix undefined website name in the authorisation screen
+
+= 8.0.0 (2021-04-22) =
+* Created OAuth2 flows to authorize the plugin.
+* Enabled OAuth2 authorization flows for users with third party cookies disabled.
+
+= 7.52.168 (2021-04-12) =
+* Generates an array with the query parameters needed for the signup instead of a URL
+
+= 7.52.105 (2021-03-26) =
+* Updated the query parameters sent to the UI. These parameters will be used for OAuth2 authorisation flow.
+
+= 7.52.0 (2021-03-08) =
+* Updated getting started checklist to use OAuth2 API's
+
+= 7.51.201 (2021-03-08) =
+* Added translations to the disconnect feedback form.
+
+= 7.51.155 (2021-03-01) =
+* Allow the UI to make requests to the HubSpot proxy
+
+= 7.51.108 (2021-02-23) =
+* Update questions on deactivation feedback
+
+= 7.51.41 (2021-02-09) =
+* Remove unused code
+
+= 7.51.16 (2021-02-04) =
+* Update text copy for error handler in the Gutenberg block.
+
+= 7.51.0 (2021-02-02) =
+* Add activate and redirect actions
+
+= 7.50.64 (2021-01-28) =
+* Fix the builder for the signup URLs
+
+= 7.50.46 (2021-01-25) =
+* Introduce OAuth2 after signup. This change is still disabled in this build.
+
+= 7.50.9 (2021-01-18) =
+* Prevent the HubSpot load script gets published with double id.
+
+= 7.50.0 (2021-01-15) =
+* Introduce OAuth2 flow on the gutenberg block logic. This change is still disabled in the build
+* Refresh expired OAuth2 tokens
+
+= 7.49.0 (2021-01-14) =
+* Initial infrastructure for using OAuth authorisation is added. This form of authorisation is still disabled in this build.
+
+= 7.48.69 (2020-12-17) =
+* Remove legacy code
+* Limit the error logging
+
+= 7.48.63 (2020-12-15) =
+* Fix the search method in the HubSpot Gutenberg block
+
+= 7.48.45 (2020-12-09) =
+* Check that function which doesn't exist before WP 4.2 exists
+
+= 7.48.19 (2020-12-02) =
+* Fix typo that caused forms not to show on IE11
+
+= 7.48.0 (2020-11-26) =
+* Automated plugin versioning and changelog generation
+
+= 7.47.5 (2020-11-18) =
+* Do not fail connection for an invalid domain
+
+= 7.47.4 (2020-11-17) =
+* Do not redefine the create property for hbspt.forms if it has been set already
+
+= 7.47.3 (2020-11-09) =
+* Fix deprecation warning caused by calling a non-static method statically
+* Fix forms script hidden in some websites
+* Define filters to set the values of the capabilities to connect the plugin and view the plugin menu
+
+= 7.47.0 (2020-11-02) =
+* Include the forms loader script only once in the page when a form is added.
+
+= 7.46.2 (2020-10-27) =
+* Released the updated user guide
+* Fix forms rendering on IE11
+
+= 7.45.6 (2020-10-19) =
+* Use https instead of relative-protocol URLs for HubSpot scripts
+* Define custom filters instead of constants for HubSpot properties
+
+= 7.45.4 (2020-10-11) =
+* Fix iframe communication for IE11
+* Fix for JS error when it is re-executed by jQuery and attempting to modify an immutable object
+
+= 7.44.6 (2020-09-29) =
+* Added a demo of the tools for new users
+* Redesigned the intro page
+
+= 7.43.4 (2020-09-13) =
+* Fix login flow from the gutenberg block
+* Log error when requests are blocked by a browser extension
+
+= 7.42.3 (2020-09-06) =
+* Bump the latest WordPress version where the plugin has been tested
+* Create a new WordPress specific report page
+* Add a monitor to the Hubspot gutenberg block preview render
+
+= 7.41.1 (2020-08-31) =
+* Generate a reporting dashboard if none exists
+
+= 7.41.0 (2020-08-24) =
+* Hide menu items when unauthenticated
+
+= 7.40.0 (2020-08-16) =
+* Update the latest version the plugin has been tested on
+* Redesign the Getting Started experience
+* Fix the signup progression bar on the intro page
+* Add the correct highlighting of sidebar menu items when redirected from inside the plugin
+
+= 7.39.5 (2020-08-10) =
+* Add a script that fetches contact properties from HubSpot
+* Renamed "Dashboard" to "Setup Guide"
+

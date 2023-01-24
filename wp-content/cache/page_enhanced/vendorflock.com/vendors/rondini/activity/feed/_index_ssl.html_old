@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vendor Flock | Rondini | Activity</title>
+	<link>https://vendorflock.com/vendors/rondini/activity/</link>
+	<atom:link href="https://vendorflock.com/vendors/rondini/activity/feed/" rel="self" type="application/rss+xml" />
+	<description>Activity feed for Rondini.</description>
+	<lastBuildDate>Wed, 12 Oct 2022 19:48:30 +0000</lastBuildDate>
+	<generator>https://buddypress.org/?v=7.2.1</generator>
+	<language>en-US</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+	
+						<item>
+				<guid isPermaLink="false">4da50d9b03c0938619c4df31bc5545b4</guid>
+				<title>Rondini added a Video</title>
+				<link>https://vendorflock.com/activity/p/560/</link>
+				<pubDate>Sat, 13 Aug 2022 17:12:05 +0000</pubDate>
+
+									<content:encoded><![CDATA[<div class="rtmedia-activity-container">
+<ul class="rtmedia-list rtm-activity-media-list rtmedia-activity-media-length-1 rtm-activity-video-list">
+<li class="rtmedia-list-item media-type-video">
+<div class="rtmedia-item-thumbnail">
+						<video src="http://vendorflock.com/wp-content/uploads/rtMedia/users/352/2022/08/THE-WEIRD-SCIENCE-COMEDY-SHOW.mp4" width="320" height="240" class="wp-video-shortcode" id="rt_media_video_25" controls="controls" preload="none"></video>
+					</div>
+<div class="rtmedia-item-title">
+<p>							<a href="https://vendorflock.com/vendors/rondini/media/25/" rel="nofollow ugc"><br />
+								THE WEIRD SCIENCE COMEDY SHOW<br />
+							</a></p></div>
+</li>
+</ul>
+</div>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">674b0ba9738420574d0d43dd405cb0d6</guid>
+				<title>Rondini added 20 media</title>
+				<link>https://vendorflock.com/activity/p/559/</link>
+				<pubDate>Sat, 13 Aug 2022 17:06:49 +0000</pubDate>
+
+									<content:encoded><![CDATA[<div class="rtmedia-activity-container">
+<ul class="rtmedia-list rtm-activity-media-list rtmedia-activity-media-length-20 rtm-activity-mixed-list">
+<li class="rtmedia-list-item media-type-photo"><a href="https://vendorflock.com/vendors/rondini/media/23/" rel="nofollow ugc">
+<div class="rtmedia-item-thumbnail">
+							<img loading="lazy" alt="sfest bubbles" src="http://vendorflock.com/wp-content/uploads/rtMedia/users/352/2022/08/sfest-bubbles-320x240.jpg" />
+						</div>
+<div class="rtmedia-item-title">
+<p>								sfest&hellip;</p></div>
+<p></a></li>
+</ul>
+</div>
+<p><span class="activity-read-more" id="activity-read-more-559"><a href="https://vendorflock.com/activity/p/559/" rel="nofollow ugc">[Read more]</a></span></p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">3d8597ca7ac4035353ba60eb694b7ec4</guid>
+				<title>Rondini posted an update: I am a professional magician since 1977.  I was voted the [&#133;]</title>
+				<link>https://vendorflock.com/activity/p/558/</link>
+				<pubDate>Sat, 13 Aug 2022 16:45:08 +0000</pubDate>
+
+									<content:encoded><![CDATA[<p>I am a professional magician since 1977.  I was voted the FOX CITIES FAVORITE PERFORMER numerous times and was awarded SHOWMAN OF THE YEAR by the Iowa Fairs Association in 2022.  I also offer WEIRD SCIENCE COMEDY SHOWS and BOMBASTIC BUBBLE SHOWS and HYPNOSIS SHOWS.</p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">8e7c942ada09e89dddac0f56b3af5032</guid>
+				<title>Rondini&#039;s profile was updated</title>
+				<link>https://vendorflock.com/activity/p/557/</link>
+				<pubDate>Sat, 13 Aug 2022 16:37:32 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">82c200b78cea508e6669c80eeecc2aba</guid>
+				<title>Rondini changed their profile picture</title>
+				<link>https://vendorflock.com/activity/p/556/</link>
+				<pubDate>Sat, 13 Aug 2022 16:35:17 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+Database Caching 4/122 queries in 0.022 seconds using disk (Request-wide modification query)
+
+Served from: vendorflock.com @ 2022-12-26 09:21:14 by W3 Total Cache
+-->

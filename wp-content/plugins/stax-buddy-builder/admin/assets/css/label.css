@@ -1,0 +1,20 @@
+.sq-widget-label:after {
+    content: 'STAX';
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    color: #808080;
+    background: #e6e9ec;
+    font-size: 9px;
+    font-weight: 400;
+    padding: 1px 2px;
+    line-height: 10px;
+    display: inline-block;
+    border-radius: 2px;
+    font-family: "Open Sans", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.elementor-editor-dark-mode .sq-widget-label:after {
+    color: #404349;
+    background: #9e9e9e;
+}

@@ -1,0 +1,6 @@
+<IfModule mod_mime.c>
+    RemoveType .html_gzip
+    AddType text/xml .html_gzip
+    RemoveType .html
+    AddType text/xml .html
+</IfModule>

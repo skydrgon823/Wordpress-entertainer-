@@ -1,0 +1,31 @@
+/* ------------------------------------------------------------------------ */
+/* Admin Styles 
+/* ------------------------------------------------------------------------ */
+#shortcode_wrap {width: 550px;margin: 0 auto;padding-top: 5px;}
+#shortcode_wrap .option {padding: 0 0 15px 0;position: relative;height: auto;overflow: hidden;}
+#shortcode_wrap h4 {padding-bottom: 5px;margin-bottom: 15px;border-bottom: 1px solid #e8e8e8;}
+#shortcode_wrap h5 {border-top: 1px solid #e8e8e8;border-bottom: 1px solid #e8e8e8;padding: 10px 0;margin-bottom: 15px;}
+#shortcode_wrap fieldset label {float: left;line-height: 30px;width: 270px;}
+#shortcode_wrap label.for-checkbox {width: 270px;}
+#shortcode_wrap input[type="text"],#shortcode_wrap select,#shortcode_wrap textarea {width: 270px;height: 30px;float: right;}
+#shortcode_wrap textarea {height: 100px;}
+#shortcode_wrap input[type="checkbox"] {margin: 8px 160px 20px 0;float: right;font-size: 22px;}
+#shortcode_wrap input[type="radio"] {margin: 5px 0 0 20px;}
+#shortcode_wrap span.radio_label {position: relative;top: 3px;left: 3px;}
+#shortcode_wrap input[disabled],#shortcode_wrap select[disabled],#shortcode_wrap textarea[disabled] {background-color: #e8e8e8;}
+#shortcode_wrap input[disabled] + label,#shortcode_wrap select[disabled] + label,#shortcode_wrap textarea[disabled] + label {color:#aaa;}
+#shortcode_wrap p.info {clear: both;float: left;font-size: 13px;font-style:italic;}
+#shortcode_wrap .sep {margin-bottom: 10px;border-bottom: 1px solid #e8e8e8;}
+#shortcode_wrap .buttons {padding: 12px 0 20px 0;border-top: 1px solid #e8e8e8;height: auto;overflow: hidden;}
+#shortcode_wrap .buttons input#insert {width: 130px;height: 30px;float: right;}
+.webim-form-header{padding-top:5px;padding-bottom:5px;margin-bottom:10px;border-top:1px solid #ddd;text-align:center;}
+.webim-form-header p{margin:0px;}
+.webim-shortcode-menu {display: inline-block;margin: 0 0 0 10px;position: relative;z-index: 10;padding:2px;}
+.webim-shortcode-menu li {color: #fff;font-weight: bold;height: 25px;line-height: 25px;margin: 0;padding: 0 5px;position: relative;border:1px solid #999;color:#fff;	}
+.webim-shortcode-form-header {color: #000;padding: 6px;font-size: 19px;font-weight: bold;text-transform: uppercase;text-align:center;border-bottom: 1px solid #dfdfdf;}
+.webim-page-content {margin-top: 5px;}
+.webim-page-content label {font-size: 12px !important;font-weight:bold;}
+.webim-page-content small {font-size: 10px !important;float: right;}
+/* ------------------------------------------------------------------------ */
+/* Ends Here
+/* ------------------------------------------------------------------------ */

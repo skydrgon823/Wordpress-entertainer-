@@ -1,0 +1,86 @@
+/*
+ * UnderConstructionPage
+ * Plain Text theme CSS
+ * (c) WebFactory Ltd, 2015 - 2021
+ */
+
+
+body {
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.65em;
+    color: #4d4d4d;
+    background: #f7f7f7;
+    text-rendering: optimizeLegibility;
+}
+
+.container {
+  background-color: #f7f7f7;
+}
+
+header {
+  background-color: #f7f7f7;
+  border-top: 12px solid #ffffff;
+  text-align: center;
+}
+
+#logo {
+  background-color: #ffffff;
+  max-width: 50px;
+  -webkit-transition: -webkit-transform 1s ease-in;
+  transition: transform 1s ease-out;
+}
+
+#logo:hover {
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+
+#logo-wrap {
+  padding: 25px;
+  background-color: #ffffff;
+  display: inline-block;
+}
+
+h1 {
+  font-size: 6rem;
+  color: #23272a;
+  font-family: "Montserrat", "Helvetica-Neue", "Helvetica", "Arial", "san-serif";
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: none;
+  padding: 0;
+  margin: 11.875rem 0 1.5rem 0;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  font-size: 1.875rem;
+  color: #707070;
+  letter-spacing: 2px;
+  margin-top: 60px;
+  font-family: "Montserrat", "Helvetica-Neue", "Helvetica", "Arial", "sans-serif";
+}
+
+#social {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+#social a i {
+  color: #23272a;
+  margin: 10px;
+  box-sizing: content-box;
+}
+
+#social a:hover i {
+  color: #de2a13;
+}
+
+@media(max-width:767px){
+  h1 {
+     font-size: 4rem;
+     margin: 7rem 0 1.5rem 0;
+  }
+}

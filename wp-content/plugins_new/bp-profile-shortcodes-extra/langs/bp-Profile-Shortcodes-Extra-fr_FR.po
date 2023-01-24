@@ -1,0 +1,313 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ProfileGrid POT v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2019-04-04 00:16+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ProfileGrid Support <support@profilegrid.co>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: block.build.js:175 block.build.js:305
+#: blocks/bp-group-cover-image/index.js:17
+msgid "BP Group Cover Image"
+msgstr "BP image de couverture du groupe"
+
+#: block.build.js:177 blocks/bp-group-cover-image/index.js:19
+msgid "Displays the selected group cover image. "
+msgstr "Affiche l'image de couverture du groupe sélectionné. "
+
+#: block.build.js:310 block.build.js:2344 block.build.js:2839
+#: block.build.js:3334 block.build.js:3829 block.build.js:4324
+#: block.build.js:4819 block.build.js:5314 block.build.js:5809
+#: blocks/bp-group-cover-image-link/block.js:45
+#: blocks/bp-group-cover-image/block.js:45 blocks/bp-group-header/block.js:45
+#: blocks/bp-group-members/block.js:45
+#: blocks/bp-profile-cover-image-link/block.js:45
+#: blocks/bp-profile-cover-image/block.js:45
+#: blocks/bp-profile-header/block.js:45 blocks/bp-profile-lists/block.js:45
+#: blocks/bp-whats-new/block.js:45
+msgid "Write shortcode here…"
+msgstr "Ecrivez le shortcode ici…"
+
+#: block.build.js:409 block.build.js:2443 block.build.js:2938
+#: block.build.js:3433 block.build.js:3928 block.build.js:4423
+#: block.build.js:4918 block.build.js:5413 block.build.js:5908
+#: blocks/bp-group-cover-image-link/preview.js:52
+#: blocks/bp-group-cover-image/preview.js:52
+#: blocks/bp-group-header/preview.js:52 blocks/bp-group-members/preview.js:52
+#: blocks/bp-profile-cover-image-link/preview.js:52
+#: blocks/bp-profile-cover-image/preview.js:52
+#: blocks/bp-profile-header/preview.js:52 blocks/bp-profile-lists/preview.js:52
+#: blocks/bp-whats-new/preview.js:52
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: block.build.js:2209 block.build.js:2339
+#: blocks/bp-group-cover-image-link/index.js:17
+msgid "BP Group Cover Image Link"
+msgstr "Lien : image de couverture du groupe"
+
+#: block.build.js:2211 blocks/bp-group-cover-image-link/index.js:19
+msgid "Displays the selected group cover image with link to the group home. "
+msgstr ""
+"Affiche l'image de couverture du groupe sélectionné avec un lien vers la "
+"page d'accueil du groupe. "
+
+#: block.build.js:2704 block.build.js:2834 blocks/bp-group-header/index.js:17
+msgid "BP Group Header"
+msgstr "BP entête du groupe"
+
+#: block.build.js:2706 blocks/bp-group-header/index.js:19
+msgid "Displays the selected group header image. "
+msgstr "Affiche l'image d'entête du groupe sélectionné. "
+
+#: block.build.js:3199 block.build.js:3329 blocks/bp-group-members/index.js:17
+msgid "BP Group Members"
+msgstr "BP membres du groupe"
+
+#: block.build.js:3201 blocks/bp-group-members/index.js:19
+msgid "Displays the selected group members list. "
+msgstr "Affiche la liste des membre du groupe sélectionné. "
+
+#: block.build.js:3694 block.build.js:3824 blocks/bp-profile-lists/index.js:17
+msgid "BP Profile Lists"
+msgstr "BP liste des profils"
+
+#: block.build.js:3696 blocks/bp-profile-lists/index.js:19
+msgid "Displays the selected users friends or groups list. "
+msgstr "Affiche les amis du profil sélectionné ou la liste des groupes. "
+
+#: block.build.js:4189 block.build.js:4319
+#: blocks/bp-profile-cover-image/index.js:17
+msgid "BP Profile Cover Image"
+msgstr "BP Image de couverture du profil"
+
+#: block.build.js:4191 blocks/bp-profile-cover-image/index.js:19
+msgid "Displays the selected users profile cover image. "
+msgstr "Affiche l'image de couverture du profil des utilisateurs sélectionnés."
+
+#: block.build.js:4684 block.build.js:4814
+#: blocks/bp-profile-cover-image-link/index.js:17
+msgid "BP Profile Cover Image Link"
+msgstr "Lien : image de couverture du profil"
+
+#: block.build.js:4686 blocks/bp-profile-cover-image-link/index.js:19
+msgid "Displays the selected users profile cover image with link to profile. "
+msgstr ""
+"Affiche l'image de couverture du profil des utilisateurs sélectionnés avec "
+"un lien vers leur profil."
+
+#: block.build.js:5179 block.build.js:5309 blocks/bp-profile-header/index.js:17
+msgid "BP Profile Header"
+msgstr "BP entête du profil"
+
+#: block.build.js:5181 blocks/bp-profile-header/index.js:19
+msgid "Displays the selected users profile header. "
+msgstr "Affiche l'entête du profil sélectionné. "
+
+#: block.build.js:5674 block.build.js:5804 blocks/bp-whats-new/index.js:17
+msgid "BP Whats New"
+msgstr "BP quoi de neuf"
+
+#: block.build.js:5676 blocks/bp-whats-new/index.js:19
+msgid "Displays the BP Activity whats new input box. "
+msgstr "Affiche l'activité récente de BP dans une nouvelle boîte de saisie. "
+
+#: inc/bppsc-shortcode-button.php:38
+msgid "Profile Displayname"
+msgstr "Affichage du nom du profil"
+
+#: inc/bppsc-shortcode-button.php:42
+msgid "Profile Email"
+msgstr "Email du profil"
+
+#: inc/bppsc-shortcode-button.php:46
+msgid "Profile Username"
+msgstr "Nom d'utilisateur du profil"
+
+#: inc/bppsc-shortcode-button.php:50
+msgid "Profile Avatar"
+msgstr "Avatar du profil"
+
+#: inc/bppsc-shortcode-button.php:54
+msgid "Profile Avatar URL"
+msgstr "URL : avatar du profil"
+
+#: inc/bppsc-shortcode-button.php:58
+msgid "Profile Avatar Link"
+msgstr "Lien : avatar du profil"
+
+#: inc/bppsc-shortcode-button.php:62
+msgid "Profile Cover Image"
+msgstr "Image de couverture du profil"
+
+#: inc/bppsc-shortcode-button.php:66
+msgid "Profile Cover Image URL"
+msgstr "URL : image de couverture du profil"
+
+#: inc/bppsc-shortcode-button.php:70
+msgid "Profile Cover Image Link"
+msgstr "Lien : image de couverture du profil"
+
+#: inc/bppsc-shortcode-button.php:74
+msgid "Profile Header"
+msgstr "Entête du profil"
+
+#: inc/bppsc-shortcode-button.php:78
+msgid "Profile URL"
+msgstr "URL des profils"
+
+#: inc/bppsc-shortcode-button.php:82
+msgid "Profile Edit URL"
+msgstr "Modifier l'URL du profil"
+
+#: inc/bppsc-shortcode-button.php:86
+msgid "Profile Field"
+msgstr "Champ des profils"
+
+#: inc/bppsc-shortcode-button.php:90
+msgid "Profile Lists"
+msgstr "Listes des profils"
+
+#: inc/bppsc-shortcode-button.php:94
+msgid "Profile Private Message Link"
+msgstr "Lien vers les messages privés du profil"
+
+#: inc/bppsc-shortcode-button.php:98
+msgid "Whats New"
+msgstr "Quoi de neuf"
+
+#: inc/bppsc-shortcode-button.php:102
+msgid "Group URL"
+msgstr "URL du groupe"
+
+#: inc/bppsc-shortcode-button.php:106
+msgid "Group Avatar"
+msgstr "Avatar du groupe"
+
+#: inc/bppsc-shortcode-button.php:110
+msgid "Group Avatar URL"
+msgstr "URL : avatar du groupe"
+
+#: inc/bppsc-shortcode-button.php:114
+msgid "Group Avatar Link"
+msgstr "Lien : avatar du groupe"
+
+#: inc/bppsc-shortcode-button.php:118
+msgid "Group Cover Image"
+msgstr "Image de couverture du groupe"
+
+#: inc/bppsc-shortcode-button.php:122
+msgid "Group Cover Image URL"
+msgstr "URL : image de couverture du groupe"
+
+#: inc/bppsc-shortcode-button.php:126
+msgid "Group Cover Image Link"
+msgstr "Lien : image de couverture du groupe"
+
+#: inc/bppsc-shortcode-button.php:130
+msgid "Group Header"
+msgstr "Entête du groupe"
+
+#: inc/bppsc-shortcode-button.php:134
+msgid "Group Members"
+msgstr "Membres du groupe"
+
+#: inc/bppsc-shortcode-button.php:138
+msgid "Group Field"
+msgstr "Champ du groupe"
+
+#: inc/bppsc-shortcode-button.php:142
+msgid "Group Description"
+msgstr "Description du groupe"
+
+#: lib/class-wp-rest-shortcodes-controller-bpps.php:60
+msgid "Sorry, you are not allowed to read shortcode blocks as this user."
+msgstr ""
+"Désolé, vous n'êtes pas autorisé à accéder aux blocs de shortcode en tant "
+"qu'utilisateur."
+
+#: lib/class-wp-rest-shortcodes-controller-bpps.php:98
+msgid "Enter something to preview"
+msgstr "Indiquer quelque chose à prévisualiser"
+
+#: lib/class-wp-rest-shortcodes-controller-bpps.php:115
+msgid "Sorry, couldn't render a preview"
+msgstr "Désolé, impossible d'afficher l'aperçu"
+
+#: lib/class-wp-rest-shortcodes-controller-bpps.php:152
+msgid "The block's content with shortcodes filtered through hooks."
+msgstr "Le contenu du bloc avec des shortcodes filtrés par des hooks."
+
+#: lib/class-wp-rest-shortcodes-controller-bpps.php:157
+msgid "The filtered content type - video or otherwise"
+msgstr "Le type de contenu filtré - vidéo ou autre"
+
+#: lib/class-wp-rest-shortcodes-controller-bpps.php:162
+msgid "Links to external style sheets needed to render the shortcode"
+msgstr "Liens vers les ficheirs CSS externes nécessaires au rendu du shortcode"
+
+#: lib/class-wp-rest-shortcodes-controller-bpps.php:167
+msgid ""
+"Links to external javascript and inline scripts needed to render the "
+"shortcode"
+msgstr ""
+"Liens vers les scripts javascript internes et externes nécessaires au rendu "
+"du shortcode"
+
+#: loader.php:1
+msgid ""
+"BuddyPress needs to be installed for BP Profile Shortcodes Extra to work."
+msgstr ""
+"BuddyPress doit être installé pour que BP Profile Shortcodes Extra "
+"fonctionne."
+
+#: templates/legacy/activity/post-form.php:24
+#: templates/nouveau/activity/post-form.php:24
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr "Quoi de neuf dans %s, %s ?"
+
+#: templates/legacy/activity/post-form.php:26
+#: templates/nouveau/activity/post-form.php:26
+#, php-format
+msgid "What's new, %s?"
+msgstr "Quoi de neuf, %s ?"
+
+#: templates/legacy/activity/post-form.php:33
+#: templates/nouveau/activity/post-form.php:33
+msgid "Post what's new"
+msgstr "Publier les nouveautés"
+
+#: templates/legacy/activity/post-form.php:42
+#: templates/nouveau/activity/post-form.php:42
+msgid "Post Update"
+msgstr ""
+
+#: templates/legacy/activity/post-form.php:49
+#: templates/legacy/activity/post-form.php:53
+#: templates/nouveau/activity/post-form.php:49
+#: templates/nouveau/activity/post-form.php:53
+msgid "Post in"
+msgstr "Publié dans"
+
+#: templates/legacy/activity/post-form.php:56
+#: templates/nouveau/activity/post-form.php:56
+msgid "My Profile"
+msgstr "Mon profil"

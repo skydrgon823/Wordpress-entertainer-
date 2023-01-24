@@ -1,0 +1,347 @@
+/*---------------------------------------
+	Buttons
+---------------------------------------*/
+.pmpro_btn, .pmpro_content_message a:not(.button), .pmpro_content_message a:link:not(.button) {
+  display: inline-block;
+  *display: inline;
+  padding: 4px 12px;
+  margin-bottom: 0;
+  *margin-left: .3em;
+  line-height: 20px;
+  color: #333333;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: #f5f5f5;
+  *background-color: #e6e6e6;
+  background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+  background-repeat: repeat-x;
+  border: 1px solid #cccccc;
+  *border: 0;
+  border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-bottom-color: #b3b3b3;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  *zoom: 1;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.pmpro_btn:hover,
+.pmpro_btn:focus,
+.pmpro_btn:active,
+.pmpro_btn.active,
+.pmpro_btn.disabled,
+.pmpro_btn[disabled],
+.pmpro_content_message a:hover:not(.button) {
+  color: #333333;
+  background-color: #e6e6e6;
+  *background-color: #d9d9d9;
+}
+
+.pmpro_btn:active,
+.pmpro_btn.active {
+  background-color: #cccccc \9;
+}
+
+.pmpro_btn:first-child {
+  *margin-left: 0;
+}
+
+.pmpro_btn:hover,
+.pmpro_btn:focus,
+.pmpro_content_message a:hover:not(.button) {
+  color: #333333;
+  text-decoration: none;
+  background-position: 0 -15px;
+  -webkit-transition: background-position 0.1s linear;
+     -moz-transition: background-position 0.1s linear;
+       -o-transition: background-position 0.1s linear;
+          transition: background-position 0.1s linear;
+}
+
+.pmpro_btn:focus {
+  outline: thin dotted #333;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+.pmpro_btn.active,
+.pmpro_btn:active {
+  background-image: none;
+  outline: 0;
+  -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.pmpro_btn.disabled,
+.pmpro_btn[disabled] {
+  cursor: default;
+  background-image: none;
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  -webkit-box-shadow: none;
+     -moz-box-shadow: none;
+          box-shadow: none;
+}
+
+
+/*---------------------------------------
+	Forms
+---------------------------------------*/
+/*form.pmpro_form div {clear: left; margin: .5em 0 1em 0;  }
+form.pmpro_form label {float: left; margin: 3px 10px 0 0; width: 120px; font-weight: bold; text-align: right; }
+form.pmpro_form .likelabel {font-weight: bold; }
+form.pmpro_form .input, form.pmpro_form textarea, .input, form.pmpro_form select {padding: 3px; border: 1px solid #AAA; margin: 0 3px 0 0; }
+form.pmpro_form textarea {font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+form.pmpro_form select {margin: 2px 0 0 0 ; font-size: 12px;}
+form.pmpro_form .lite {color: #666; }
+form.pmpro_form .leftmar {margin: 8px 0 0 130px; }
+
+form.pmpro_form .pmpro_captcha {margin: 0 0 0 130px !important; }
+form.pmpro_form .pmpro_captcha div {clear: none; margin: 0; }
+
+form.pmpro_form .pmpro_submit span {float: left; }
+form.pmpro_form #pmpro_processing_message {margin: 5px 0 0 10px; font-style: italic; color: #999; }*/
+
+/*--------------------------------------------------
+	Messages - Success, Error, Alert
+----------------------------------------------------*/
+.pmpro_message {background-color: #D5E4F7; background-image: url(../images/icon_information.gif); background-position: 3px 5px; background-repeat: no-repeat; margin: .5em 0; padding: 6px 6px 6px 25px; color: #345395; font-size: 11px; font-weight: bold; line-height: 1.3em; }
+
+.pmpro_success {background-color: #CFEECA; background-image: url(../images/icon_success.gif); color: #208A1B; }
+.pmpro_error {background-color: #F9D6CB; background-image: url(../images/icon_error.gif); color: #E36154; }
+.pmpro_alert {background-color: #FFF6CC; background-image: url(../images/icon_alert.gif); color: #CF8516; }
+
+.pmpro_content_message a {margin: 5px 5px 0 0; }
+
+.pmpro_message a {color: #345395; }
+.pmpro_success a {color: #208A1B; }
+.pmpro_error a {color: #E36154; }
+.pmpro_alert a {color: #CF8516; }
+
+input.pmpro_error { background-image: none; }
+
+/*---------------------------------------
+	Membership Checkout
+---------------------------------------*/
+/*.pmpro_checkout thead th {font-weight: bold; color: #444; padding: 10px; }
+.pmpro_checkout tbody td {padding: 10px; }
+.pmpro_checkout tr.odd td {background: #fafafa; }
+.pmpro_checkout tr.selected td {background: #FFC; }
+.pmpro_checkout tr.active td {background: #dff8ff; }
+.pmpro_checkout .name {font-weight: bold; }
+.pmpro_checkout ul {margin: 5px 0 0 20px; padding: 0; font-size: .8em; color: #444; }
+
+.pmpro_checkout tfoot td {padding: 10px; color: #444; }
+.pmpro_checkout .topfoot td {border-top: 2px solid #CCC;}
+.pmpro_checkout .total td {border-top: 1px solid #CCC; font-size: 1.2em; font-weight: bold; padding-bottom: 30px;}
+.pmpro_checkout tfoot .entercode td {background: #EEE; }
+
+.pmpro_checkout td.rtbdr {border-right: 1px solid #CCC; }
+
+.pmpro_checkout select {font-size: 11px; }
+
+.pmpro_thead-msg {display: block; float: right; width: auto; font-style: italic; font-weight: normal; text-align: right; }
+
+.pmpro_ordersummary {float: right; }*/
+.pmpro_checkout tr.active td {background: #f1fcff; }
+.pmpro_thead-msg {float: right;}
+#pmpro_license { background: #FFF; padding: 5px; border: 1px solid #CCC; height: 200px; margin: 3px; color: #666; overflow: auto; }
+
+.pmpro_sslseal {float: right; clear: none !important; margin: 0 !important; }
+
+a.pmpro_radio {text-decoration: none; color: #000;}
+#pmpro_form table label.inline {line-height: inherit;}
+
+.pmpro_checkout .columns .custom.dropdown {
+    max-width: 100%;
+}
+
+.pmpro_checkout [class*="column"]+[class*="column"]:last-child {
+    float: left;
+}
+
+/*---------------------------------------
+	Membership Invoice
+---------------------------------------*/
+.pmpro_invoice { }
+
+
+/*---------------------------------------
+	Membership Account
+---------------------------------------*/
+#pmpro_account .pmpro_box {border: 1px solid #ddd; border-radius: 6px; padding: 1em; margin: 1em 0; }
+#pmpro_account .pmpro_box h4 {margin: 0; padding: 0; border: none; background: none; }
+#pmpro_account .pmpro_box p {margin: .5em 0 0 0; padding: 0; }
+#pmpro_account .pmpro_box ul {margin-bottom: 0; }
+
+#pmpro_account #pmpro_account-membership { }
+#pmpro_account #pmpro_account-profile { }
+#pmpro_account #pmpro_account-billing { }
+#pmpro_account #pmpro_account-invoices { }
+#pmpro_account #pmpro_account-links { }
+
+
+.pmpro_hidden {display: none;}
+li.pmpro_more {list-style-type: none; text-align: center; margin-left: -20px; padding-left: 0;}
+
+/*------------------------------------
+START - Account.php template changed - styles
+------------------------------------*/
+#pmpro_account .pmpro_actionlinks a#pmpro_account-change {background:#a00101;padding:5px 20px; color:#fff !important; border:1px solid #a00101;border-radius:4px; }
+
+#pmpro_account .pmpro_actionlinks a#pmpro_account-cancel {border: 1px solid #555;padding: 5px 20px;border-radius:4px;}
+
+#pmpro_account .pmpro_actionlinks a#pmpro_account-change,
+#pmpro_account .pmpro_actionlinks a#pmpro_account-cancel {line-height:40px}
+
+#pmpro_account .pmpro_actionlinks a#pmpro_account-edit-profile,
+.pmpro_actionlinks a#pmpro_account-change-password,
+.pmpro_actionlinks a#pmpro_account-edit-profile {border-radius:4px; border:1px solid #555;padding: 5px 20px; line-height:40px;background:white;}
+/*------------------------------------
+END - Account.php template changed - styles
+------------------------------------*/
+
+
+/*---------------------------------------
+	Membership Levels
+---------------------------------------*/
+/*#pmpro_levels_table { background: #FFF; border: none; }
+#pmpro_levels_table .pmpro_btn {display: block; }
+#pmpro_levels_table.pricing-table td.price { background: transparent; color: #000;
+	border-left: 4px solid #e6e6e6; border-right: 4px solid #e6e6e6; position: relative; }
+#pmpro_levels_table.pricing-table td.price:after {}
+#pmpro_levels_table.pricing-table tr th,
+#pmpro_levels_table.pricing-table tr td { }
+#pmpro_levels_table.pricing-table tr:last-child td.price { border-bottom: 4px solid #e6e6e6; }*/
+
+/*---------------------------------------
+	Misc
+---------------------------------------*/
+.pmpro_a-right {float: right; width: auto; text-align: right; text-decoration: underline; font-size: 11px; }
+.pmpro_a-print {float: right; width: auto; text-decoration: none; color: #345395; /*background: url(../images/printer.gif) top left no-repeat;*/ padding: 0px 0px 2px 20px; font-size: 11px; line-height: 16px; cursor: pointer; }
+
+.pmpro_red {color: #CC0000; }
+.pmpro_grey {color: #999; }
+
+.top1em {margin-top: 1em;}
+.bot1em {margin-bottom: 1em;}
+.bot0em {margin-bottom: 0em;}
+.clear {clear: both; }
+
+.pmpro_small {font-size: .8em;}
+.relative-columns { position: relative; }
+.pmpro_asterisk { position: absolute; top: 0; right: 5px; color: #777; }
+
+
+
+
+
+
+/* NEW Added */
+.nav-next { padding: 20px 0; }
+.table-list li { list-style: none; padding: 8px 10px 9px; }
+.table-list li:nth-child(even) { background: #f9f9f9; }
+
+.additional-info { font-style: italic; padding: 1em 0; }
+.additional-info:before { font: 18px 'FontAwesome'; content: "\f06a"; color: #ddd; margin-right: 6px; }
+.link {}
+
+/* Pricing */
+.membership .columns { padding: 0 10px; }
+.membership .pricing-table .description {
+background-color:#f7f7f7;
+}
+.membership .pricing-table .extra-description {
+padding: 15px;
+text-align: center;
+color: #777777;
+font-size: 12px !important;
+font-weight: normal;
+line-height: 1.4;
+}
+.membership .title,
+.membership .price {
+border-bottom-width:1px;
+border-bottom-style:solid;
+}
+.membership .title {
+color:#a5a5a5;
+text-transform:uppercase;
+}
+.membership .pricing-table .price {
+font-size: 34px;
+padding: 20px 0;
+color: #0095c2;
+}
+.membership .pricing-table .bullet-item { font-size: 13px; }
+.membership .bullet-item:before {
+	font: 13px 'FontAwesome'; content: "\f058"; color: #0095c2; margin-right: 6px;
+}
+.membership .bullet-item.unavailable {
+color:#c2c2c2;
+}
+.membership .bullet-item.unavailable:before,
+.membership .pricing-table .extra-description:before { display: none; }
+
+.membership .pricing-table .title,
+.membership .pricing-table .price {
+border-color:#e6e6e6;
+background: #fff;
+}
+
+
+.membership .pricing-table {
+position:relative;
+font-size:1em;
+}
+
+.membership .pricing-table.popular:after {
+content:'';
+position:absolute;
+width:78px;
+height:78px;
+background:url(../images/pop.png) no-repeat center center;
+top:0;
+right:0;
+}
+
+.membership .pricing-table:hover,
+.membership .pricing-table.popular {
+-webkit-box-shadow:0 0 15px 0 rgba(36,201,192,0.2);
+box-shadow:0 0 15px 0 rgba(36,201,192,0.2);
+}
+
+
+
+.membership .bullet-item {
+
+}
+.membership .pricing-table .cta-button {
+    background-color: transparent;
+}
+
+@media (max-width: 480px) {
+	.pmpro_box .inline-list li { margin-bottom: 10px; }
+	.pmpro_box .inline-list li:last-child { margin-bottom: inherit; }
+}
+@media only screen and (max-width: 767px){
+	.pmpro_payment-cvv.clear:before, .pmpro_payment-cvv.clear:after {
+		display: table;
+		line-height: 0;
+		content: "";
+	}
+}

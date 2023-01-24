@@ -1,0 +1,1655 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBuilder - BuddyPress Builder for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-04 21:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: functions.php:38 admin/pages/Settings.php:94
+msgid "Member Profile"
+msgstr ""
+
+#: functions.php:42 admin/pages/Settings.php:98
+msgid "Members Directory"
+msgstr ""
+
+#: functions.php:46 admin/pages/Settings.php:102
+msgid "Group Profile"
+msgstr ""
+
+#: functions.php:50 admin/pages/Settings.php:106
+msgid "Groups Directory"
+msgstr ""
+
+#: functions.php:54 admin/pages/Settings.php:110
+msgid "Site-Wide Activity"
+msgstr ""
+
+#. %s: html tags
+#: core/Notices.php:50
+#, php-format
+msgid ""
+"%1$sBuddyBuilder%2$s requires %1$sElementor%2$s plugin installed & activated."
+msgstr ""
+
+#: core/Notices.php:60
+msgid "Activate Elementor"
+msgstr ""
+
+#: core/Notices.php:68
+msgid "Install Elementor"
+msgstr ""
+
+#. 1: Plugin name 2: Elementor
+#: core/Notices.php:96
+#, php-format
+msgid "%1$s requires version %3$s or greater of %2$s plugin."
+msgstr ""
+
+#: core/Notices.php:98 admin/Admin.php:108
+#: core/template/source-buddy-builder.php:33 core/hooks/ElementorHooks.php:143
+msgid "BuddyBuilder"
+msgstr ""
+
+#: core/Notices.php:99
+msgid "Elementor"
+msgstr ""
+
+#: core/Notices.php:109
+msgid "Update Elementor Now"
+msgstr ""
+
+#. %s: html tags
+#: core/Notices.php:122
+#, php-format
+msgid ""
+"%1$sBuddyBuilder%2$s requires %1$sBuddyPress%2$s plugin installed & "
+"activated."
+msgstr ""
+
+#: core/Notices.php:132
+msgid "Activate BuddyPress"
+msgstr ""
+
+#: core/Notices.php:140
+msgid "Install BuddyPress"
+msgstr ""
+
+#: core/Plugin.php:112 core/Plugin.php:123 admin/Admin.php:57
+#: admin/Admin.php:68
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: admin/layout.php:58
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: admin/Admin.php:107
+msgid "BuddyBuilder - Dashboard"
+msgstr ""
+
+#: admin/Admin.php:128
+msgid "STAX Elementor - %"
+msgstr ""
+
+#: admin/Admin.php:145 admin/pages/Dashboard.php:37
+msgid "Dashboard"
+msgstr ""
+
+#: core/library/module.php:110
+msgid "BP Template Type"
+msgstr ""
+
+#: core/library/module.php:111
+msgid "Shortcode"
+msgstr ""
+
+#: core/library/module.php:195
+msgid "Select the type of Buddypress page"
+msgstr ""
+
+#: core/hooks/ElementorHooks.php:118
+msgid "Column Order"
+msgstr ""
+
+#: admin/pages/Widgets.php:47 admin/pages/templates/widgets.php:2
+msgid "Widgets"
+msgstr ""
+
+#: admin/pages/Settings.php:81
+msgid "YEY! Your settings have been saved successfully!"
+msgstr ""
+
+#: admin/pages/Settings.php:214 core/widgets/groups-directory/Listing.php:38
+#: core/widgets/profile-group/Navigation.php:37
+#: core/widgets/profile-member/Navigation.php:37
+#: core/widgets/members-directory/Listing.php:38
+msgid "Settings"
+msgstr ""
+
+#: admin/pages/Templates.php:44
+msgid "YEY! The template was imported successfully!"
+msgstr ""
+
+#: admin/pages/Templates.php:48
+msgid "Oops! An error occurred while importing the template!"
+msgstr ""
+
+#: admin/pages/Templates.php:84 admin/pages/templates/templates.php:1
+msgid "Templates"
+msgstr ""
+
+#: admin/pages/Plugins.php:55 admin/pages/templates/plugins.php:2
+msgid "Plugins"
+msgstr ""
+
+#: admin/pages/Help.php:37 admin/pages/templates/help.php:2
+msgid "Help"
+msgstr ""
+
+#: admin/pages/Modules.php:39 admin/pages/templates/modules.php:2
+msgid "Modules"
+msgstr ""
+
+#: core/library/documents/buddypress.php:77
+msgid "BuddyPress"
+msgstr ""
+
+#: core/library/documents/buddypress.php:80
+msgid "BP"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:25
+msgid "Groups Filters"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:40
+#: core/widgets/profile-group/Content.php:18
+#: core/widgets/profile-member/Content.php:18
+#: core/widgets/members-directory/Filters.php:41
+#: core/widgets/sitewide-activity/Content.php:22
+msgid "Content"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:48
+#: core/widgets/members-directory/Filters.php:49
+msgid "Show & Order"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:52
+#: core/widgets/groups-directory/Filters.php:80
+#: core/widgets/members-directory/Filters.php:53
+#: core/widgets/members-directory/Filters.php:81
+msgid "List Toggle > Search > Sort"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:53
+#: core/widgets/groups-directory/Filters.php:97
+#: core/widgets/members-directory/Filters.php:54
+#: core/widgets/members-directory/Filters.php:98
+msgid "List Toggle > Sort > Search"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:54
+#: core/widgets/groups-directory/Filters.php:114
+#: core/widgets/members-directory/Filters.php:55
+#: core/widgets/members-directory/Filters.php:115
+msgid "List Toggle > Search"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:55
+#: core/widgets/groups-directory/Filters.php:131
+#: core/widgets/members-directory/Filters.php:56
+#: core/widgets/members-directory/Filters.php:132
+msgid "List Toggle > Sort"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:56
+#: core/widgets/groups-directory/Filters.php:148
+#: core/widgets/groups-directory/Filters.php:389
+#: core/widgets/members-directory/Filters.php:57
+#: core/widgets/members-directory/Filters.php:149
+#: core/widgets/members-directory/Filters.php:390
+msgid "List Toggle"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:57
+#: core/widgets/groups-directory/Filters.php:165
+#: core/widgets/members-directory/Filters.php:58
+#: core/widgets/members-directory/Filters.php:166
+msgid "Search > Sort > List Toggle"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:58
+#: core/widgets/groups-directory/Filters.php:182
+#: core/widgets/members-directory/Filters.php:59
+#: core/widgets/members-directory/Filters.php:183
+msgid "Search > List Toggle > Sort"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:59
+#: core/widgets/groups-directory/Filters.php:199
+#: core/widgets/members-directory/Filters.php:60
+#: core/widgets/members-directory/Filters.php:200
+msgid "Search > List Toggle"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:60
+#: core/widgets/groups-directory/Filters.php:216
+#: core/widgets/members-directory/Filters.php:61
+#: core/widgets/members-directory/Filters.php:217
+msgid "Search > Sort"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:61
+#: core/widgets/groups-directory/Filters.php:233
+#: core/widgets/members-directory/Filters.php:62
+#: core/widgets/members-directory/Filters.php:234
+#: core/widgets/sitewide-activity/Filters.php:306
+msgid "Search"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:62
+#: core/widgets/groups-directory/Filters.php:250
+#: core/widgets/members-directory/Filters.php:63
+#: core/widgets/members-directory/Filters.php:251
+msgid "Sort > List Toggle > Search"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:63
+#: core/widgets/groups-directory/Filters.php:267
+#: core/widgets/members-directory/Filters.php:64
+#: core/widgets/members-directory/Filters.php:268
+msgid "Sort > Search > List Toggle"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:64
+#: core/widgets/groups-directory/Filters.php:284
+#: core/widgets/members-directory/Filters.php:65
+#: core/widgets/members-directory/Filters.php:285
+msgid "Sort > Search"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:65
+#: core/widgets/groups-directory/Filters.php:301
+#: core/widgets/members-directory/Filters.php:66
+#: core/widgets/members-directory/Filters.php:302
+msgid "Sort > List Toggle"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:66
+#: core/widgets/groups-directory/Filters.php:318
+#: core/widgets/members-directory/Filters.php:67
+#: core/widgets/members-directory/Filters.php:319
+msgid "Sort"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:335
+#: core/widgets/groups-directory/Filters.php:413
+#: core/widgets/groups-directory/Filters.php:580
+#: core/widgets/groups-directory/Filters.php:634
+#: core/widgets/groups-directory/Filters.php:778
+#: core/widgets/groups-directory/Filters.php:818
+#: core/widgets/groups-directory/Filters.php:941
+#: core/widgets/groups-directory/Filters.php:993
+#: core/widgets/groups-directory/Listing.php:495
+#: core/widgets/groups-directory/Listing.php:630
+#: core/widgets/groups-directory/Listing.php:817
+#: core/widgets/groups-directory/Listing.php:870
+#: core/widgets/groups-directory/Listing.php:937
+#: core/widgets/groups-directory/Listing.php:1082
+#: core/widgets/groups-directory/Listing.php:1269
+#: core/widgets/groups-directory/Listing.php:1322
+#: core/widgets/groups-directory/Listing.php:1389
+#: core/widgets/groups-directory/Navigation.php:93
+#: core/widgets/groups-directory/Navigation.php:176
+#: core/widgets/groups-directory/Navigation.php:216
+#: core/widgets/groups-directory/Navigation.php:267
+#: core/widgets/groups-directory/Navigation.php:365
+#: core/widgets/groups-directory/Navigation.php:405
+#: core/widgets/groups-directory/Navigation.php:540
+#: core/widgets/groups-directory/Navigation.php:572
+#: core/widgets/groups-directory/Navigation.php:616
+#: core/widgets/profile-group/Buttons.php:255
+#: core/widgets/profile-group/Buttons.php:295
+#: core/widgets/profile-group/Buttons.php:393
+#: core/widgets/profile-group/Buttons.php:444
+#: core/widgets/profile-group/Buttons.php:509
+#: core/widgets/profile-group/Buttons.php:560
+#: core/widgets/profile-group/Buttons.php:625
+#: core/widgets/profile-group/Buttons.php:676
+#: core/widgets/profile-group/Buttons.php:741
+#: core/widgets/profile-group/Buttons.php:792
+#: core/widgets/profile-group/Cover.php:84
+#: core/widgets/profile-group/Navigation.php:74
+#: core/widgets/profile-group/Navigation.php:259
+#: core/widgets/profile-group/Navigation.php:299
+#: core/widgets/profile-group/Navigation.php:350
+#: core/widgets/profile-group/Navigation.php:473
+#: core/widgets/profile-group/Navigation.php:505
+#: core/widgets/profile-group/Navigation.php:549
+#: core/widgets/profile-member/Buttons.php:255
+#: core/widgets/profile-member/Buttons.php:295
+#: core/widgets/profile-member/Buttons.php:393
+#: core/widgets/profile-member/Buttons.php:444
+#: core/widgets/profile-member/Buttons.php:509
+#: core/widgets/profile-member/Buttons.php:560
+#: core/widgets/profile-member/Buttons.php:625
+#: core/widgets/profile-member/Buttons.php:676
+#: core/widgets/profile-member/Cover.php:84
+#: core/widgets/profile-member/Navigation.php:74
+#: core/widgets/profile-member/Navigation.php:288
+#: core/widgets/profile-member/Navigation.php:329
+#: core/widgets/profile-member/Navigation.php:381
+#: core/widgets/profile-member/Navigation.php:504
+#: core/widgets/profile-member/Navigation.php:548
+#: core/widgets/profile-member/Navigation.php:592
+#: core/widgets/members-directory/Filters.php:336
+#: core/widgets/members-directory/Filters.php:414
+#: core/widgets/members-directory/Filters.php:581
+#: core/widgets/members-directory/Filters.php:636
+#: core/widgets/members-directory/Filters.php:780
+#: core/widgets/members-directory/Filters.php:820
+#: core/widgets/members-directory/Filters.php:943
+#: core/widgets/members-directory/Filters.php:995
+#: core/widgets/members-directory/Listing.php:390
+#: core/widgets/members-directory/Listing.php:577
+#: core/widgets/members-directory/Listing.php:630
+#: core/widgets/members-directory/Listing.php:697
+#: core/widgets/members-directory/Listing.php:842
+#: core/widgets/members-directory/Listing.php:1029
+#: core/widgets/members-directory/Listing.php:1082
+#: core/widgets/members-directory/Listing.php:1149
+#: core/widgets/members-directory/Navigation.php:84
+#: core/widgets/members-directory/Navigation.php:176
+#: core/widgets/members-directory/Navigation.php:216
+#: core/widgets/members-directory/Navigation.php:267
+#: core/widgets/members-directory/Navigation.php:402
+#: core/widgets/members-directory/Navigation.php:434
+#: core/widgets/members-directory/Navigation.php:478
+#: core/widgets/sitewide-activity/Filters.php:45
+#: core/widgets/sitewide-activity/Filters.php:160
+#: core/widgets/sitewide-activity/Filters.php:212
+#: core/widgets/sitewide-activity/Filters.php:345
+#: core/widgets/sitewide-activity/Filters.php:400
+#: core/widgets/sitewide-activity/Filters.php:512
+#: core/widgets/sitewide-activity/Filters.php:552
+#: core/widgets/sitewide-activity/Form.php:315
+#: core/widgets/sitewide-activity/Form.php:382
+msgid "Background Color"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:363
+#: core/widgets/groups-directory/Filters.php:500
+#: core/widgets/groups-directory/Filters.php:704
+#: core/widgets/groups-directory/Filters.php:874
+#: core/widgets/groups-directory/Filters.php:1061
+#: core/widgets/groups-directory/Listing.php:402
+#: core/widgets/groups-directory/Listing.php:443
+#: core/widgets/groups-directory/Listing.php:666
+#: core/widgets/groups-directory/Listing.php:1118
+#: core/widgets/groups-directory/Navigation.php:121
+#: core/widgets/groups-directory/Navigation.php:310
+#: core/widgets/groups-directory/Navigation.php:448
+#: core/widgets/groups-directory/Navigation.php:652
+#: core/widgets/profile-group/Leadership.php:161
+#: core/widgets/profile-group/Buttons.php:338
+#: core/widgets/profile-group/Avatar.php:147
+#: core/widgets/profile-group/Cover.php:204
+#: core/widgets/profile-group/Navigation.php:393
+#: core/widgets/profile-group/Navigation.php:585
+#: core/widgets/profile-member/Buttons.php:338
+#: core/widgets/profile-member/Avatar.php:147
+#: core/widgets/profile-member/Cover.php:204
+#: core/widgets/profile-member/Navigation.php:424
+#: core/widgets/profile-member/Navigation.php:628
+#: core/widgets/members-directory/Filters.php:364
+#: core/widgets/members-directory/Filters.php:501
+#: core/widgets/members-directory/Filters.php:706
+#: core/widgets/members-directory/Filters.php:876
+#: core/widgets/members-directory/Filters.php:1063
+#: core/widgets/members-directory/Listing.php:283
+#: core/widgets/members-directory/Listing.php:426
+#: core/widgets/members-directory/Listing.php:878
+#: core/widgets/members-directory/Navigation.php:112
+#: core/widgets/members-directory/Navigation.php:310
+#: core/widgets/members-directory/Navigation.php:514
+#: core/widgets/sitewide-activity/Filters.php:73
+#: core/widgets/sitewide-activity/Filters.php:279
+#: core/widgets/sitewide-activity/Filters.php:469
+#: core/widgets/sitewide-activity/Filters.php:608
+#: core/widgets/sitewide-activity/Content.php:72
+#: core/widgets/sitewide-activity/Content.php:306
+#: core/widgets/sitewide-activity/Form.php:72
+#: core/widgets/sitewide-activity/Form.php:126
+#: core/widgets/sitewide-activity/Form.php:263
+#: core/widgets/sitewide-activity/Form.php:466
+#: core/widgets/sitewide-activity/Form.php:612
+#: core/widgets/sitewide-activity/Form.php:756
+msgid "Border Radius"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:375
+#: core/widgets/groups-directory/Filters.php:512
+#: core/widgets/groups-directory/Filters.php:716
+#: core/widgets/groups-directory/Filters.php:886
+#: core/widgets/groups-directory/Filters.php:1073
+#: core/widgets/groups-directory/Listing.php:417
+#: core/widgets/groups-directory/Listing.php:458
+#: core/widgets/groups-directory/Listing.php:681
+#: core/widgets/groups-directory/Listing.php:1133
+#: core/widgets/groups-directory/Navigation.php:133
+#: core/widgets/groups-directory/Navigation.php:460
+#: core/widgets/groups-directory/Navigation.php:664
+#: core/widgets/profile-group/Leadership.php:140
+#: core/widgets/profile-group/Buttons.php:350
+#: core/widgets/profile-group/Navigation.php:598
+#: core/widgets/profile-member/Buttons.php:350
+#: core/widgets/profile-member/Navigation.php:641
+#: core/widgets/members-directory/Filters.php:376
+#: core/widgets/members-directory/Filters.php:513
+#: core/widgets/members-directory/Filters.php:718
+#: core/widgets/members-directory/Filters.php:888
+#: core/widgets/members-directory/Filters.php:1075
+#: core/widgets/members-directory/Listing.php:307
+#: core/widgets/members-directory/Listing.php:441
+#: core/widgets/members-directory/Listing.php:893
+#: core/widgets/members-directory/Navigation.php:124
+#: core/widgets/members-directory/Navigation.php:526
+#: core/widgets/sitewide-activity/Filters.php:85
+#: core/widgets/sitewide-activity/Filters.php:291
+#: core/widgets/sitewide-activity/Filters.php:481
+#: core/widgets/sitewide-activity/Filters.php:620
+#: core/widgets/sitewide-activity/Content.php:84
+#: core/widgets/sitewide-activity/Content.php:327
+#: core/widgets/sitewide-activity/Form.php:84
+#: core/widgets/sitewide-activity/Form.php:275
+#: core/widgets/sitewide-activity/Form.php:479
+#: core/widgets/sitewide-activity/Form.php:624
+#: core/widgets/sitewide-activity/Form.php:768
+msgid "Padding"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:426
+#: core/widgets/groups-directory/Filters.php:573
+#: core/widgets/groups-directory/Filters.php:771
+#: core/widgets/groups-directory/Filters.php:934
+#: core/widgets/groups-directory/Listing.php:348
+#: core/widgets/groups-directory/Listing.php:792
+#: core/widgets/groups-directory/Listing.php:1244
+#: core/widgets/groups-directory/Navigation.php:157
+#: core/widgets/groups-directory/Navigation.php:346
+#: core/widgets/groups-directory/Navigation.php:521
+#: core/widgets/profile-group/Buttons.php:236
+#: core/widgets/profile-group/Buttons.php:374
+#: core/widgets/profile-group/Buttons.php:490
+#: core/widgets/profile-group/Buttons.php:606
+#: core/widgets/profile-group/Buttons.php:722
+#: core/widgets/profile-group/Avatar.php:102
+#: core/widgets/profile-group/Cover.php:159
+#: core/widgets/profile-group/Navigation.php:240
+#: core/widgets/profile-group/Navigation.php:454
+#: core/widgets/profile-member/Buttons.php:236
+#: core/widgets/profile-member/Buttons.php:374
+#: core/widgets/profile-member/Buttons.php:490
+#: core/widgets/profile-member/Buttons.php:606
+#: core/widgets/profile-member/Avatar.php:102
+#: core/widgets/profile-member/Cover.php:159
+#: core/widgets/profile-member/Navigation.php:269
+#: core/widgets/profile-member/Navigation.php:485
+#: core/widgets/members-directory/Filters.php:427
+#: core/widgets/members-directory/Filters.php:574
+#: core/widgets/members-directory/Filters.php:773
+#: core/widgets/members-directory/Filters.php:936
+#: core/widgets/members-directory/Listing.php:552
+#: core/widgets/members-directory/Listing.php:1004
+#: core/widgets/members-directory/Navigation.php:157
+#: core/widgets/members-directory/Navigation.php:383
+#: core/widgets/sitewide-activity/Filters.php:153
+#: core/widgets/sitewide-activity/Filters.php:338
+#: core/widgets/sitewide-activity/Filters.php:505
+#: core/widgets/sitewide-activity/Content.php:209
+#: core/widgets/sitewide-activity/Form.php:158
+#: core/widgets/sitewide-activity/Form.php:308
+#: core/widgets/sitewide-activity/Form.php:513
+#: core/widgets/sitewide-activity/Form.php:657
+msgid "Normal"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:433
+#: core/widgets/groups-directory/Filters.php:454
+#: core/widgets/groups-directory/Filters.php:475
+#: core/widgets/groups-directory/Listing.php:483
+#: core/widgets/groups-directory/Listing.php:802
+#: core/widgets/groups-directory/Listing.php:855
+#: core/widgets/groups-directory/Listing.php:922
+#: core/widgets/groups-directory/Listing.php:1254
+#: core/widgets/groups-directory/Listing.php:1307
+#: core/widgets/groups-directory/Listing.php:1374
+#: core/widgets/members-directory/Filters.php:434
+#: core/widgets/members-directory/Filters.php:455
+#: core/widgets/members-directory/Filters.php:476
+#: core/widgets/members-directory/Listing.php:562
+#: core/widgets/members-directory/Listing.php:615
+#: core/widgets/members-directory/Listing.php:682
+#: core/widgets/members-directory/Listing.php:1014
+#: core/widgets/members-directory/Listing.php:1067
+#: core/widgets/members-directory/Listing.php:1134
+#: core/widgets/sitewide-activity/Content.php:228
+#: core/widgets/sitewide-activity/Content.php:261
+#: core/widgets/sitewide-activity/Form.php:176
+#: core/widgets/sitewide-activity/Form.php:218
+#: core/widgets/sitewide-activity/Form.php:531
+#: core/widgets/sitewide-activity/Form.php:570
+#: core/widgets/sitewide-activity/Form.php:675
+#: core/widgets/sitewide-activity/Form.php:714
+msgid "Color"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:447
+#: core/widgets/groups-directory/Filters.php:627
+#: core/widgets/groups-directory/Filters.php:811
+#: core/widgets/groups-directory/Filters.php:986
+#: core/widgets/groups-directory/Listing.php:365
+#: core/widgets/groups-directory/Listing.php:845
+#: core/widgets/groups-directory/Listing.php:1297
+#: core/widgets/groups-directory/Navigation.php:197
+#: core/widgets/groups-directory/Navigation.php:386
+#: core/widgets/groups-directory/Navigation.php:553
+#: core/widgets/profile-group/Buttons.php:276
+#: core/widgets/profile-group/Buttons.php:425
+#: core/widgets/profile-group/Buttons.php:541
+#: core/widgets/profile-group/Buttons.php:657
+#: core/widgets/profile-group/Buttons.php:773
+#: core/widgets/profile-group/Avatar.php:119
+#: core/widgets/profile-group/Cover.php:176
+#: core/widgets/profile-group/Navigation.php:280
+#: core/widgets/profile-group/Navigation.php:486
+#: core/widgets/profile-member/Buttons.php:276
+#: core/widgets/profile-member/Buttons.php:425
+#: core/widgets/profile-member/Buttons.php:541
+#: core/widgets/profile-member/Buttons.php:657
+#: core/widgets/profile-member/Avatar.php:119
+#: core/widgets/profile-member/Cover.php:176
+#: core/widgets/profile-member/Navigation.php:309
+#: core/widgets/profile-member/Navigation.php:529
+#: core/widgets/members-directory/Filters.php:448
+#: core/widgets/members-directory/Filters.php:629
+#: core/widgets/members-directory/Filters.php:813
+#: core/widgets/members-directory/Filters.php:988
+#: core/widgets/members-directory/Listing.php:605
+#: core/widgets/members-directory/Listing.php:1057
+#: core/widgets/members-directory/Navigation.php:197
+#: core/widgets/members-directory/Navigation.php:415
+#: core/widgets/sitewide-activity/Filters.php:205
+#: core/widgets/sitewide-activity/Filters.php:393
+#: core/widgets/sitewide-activity/Filters.php:545
+#: core/widgets/sitewide-activity/Content.php:242
+#: core/widgets/sitewide-activity/Form.php:552
+#: core/widgets/sitewide-activity/Form.php:696
+msgid "Hover"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:468
+#: core/widgets/groups-directory/Navigation.php:248
+#: core/widgets/groups-directory/Navigation.php:597
+#: core/widgets/profile-group/Navigation.php:331
+#: core/widgets/profile-group/Navigation.php:530
+#: core/widgets/profile-member/Navigation.php:362
+#: core/widgets/profile-member/Navigation.php:573
+#: core/widgets/members-directory/Filters.php:469
+#: core/widgets/members-directory/Navigation.php:248
+#: core/widgets/members-directory/Navigation.php:459
+msgid "Active"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:526
+#: core/widgets/members-directory/Filters.php:527
+msgid "Search Box"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:549
+#: core/widgets/members-directory/Filters.php:550
+#: core/widgets/sitewide-activity/Filters.php:314
+msgid "Clear Icon"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:562
+#: core/widgets/groups-directory/Filters.php:923
+#: core/widgets/groups-directory/Listing.php:706
+#: core/widgets/groups-directory/Listing.php:1158
+#: core/widgets/groups-directory/Navigation.php:58
+#: core/widgets/groups-directory/Navigation.php:510
+#: core/widgets/members-directory/Filters.php:563
+#: core/widgets/members-directory/Filters.php:925
+#: core/widgets/members-directory/Listing.php:466
+#: core/widgets/members-directory/Listing.php:918
+#: core/widgets/members-directory/Navigation.php:146
+#: core/widgets/members-directory/Navigation.php:372
+#: core/widgets/sitewide-activity/Filters.php:142
+#: core/widgets/sitewide-activity/Filters.php:327
+#: core/widgets/sitewide-activity/Form.php:297
+msgid "Text Typography"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:591
+#: core/widgets/groups-directory/Filters.php:645
+#: core/widgets/groups-directory/Filters.php:952
+#: core/widgets/groups-directory/Filters.php:1004
+#: core/widgets/groups-directory/Listing.php:718
+#: core/widgets/groups-directory/Listing.php:1170
+#: core/widgets/groups-directory/Navigation.php:164
+#: core/widgets/groups-directory/Navigation.php:204
+#: core/widgets/groups-directory/Navigation.php:255
+#: core/widgets/groups-directory/Navigation.php:353
+#: core/widgets/groups-directory/Navigation.php:393
+#: core/widgets/groups-directory/Navigation.php:528
+#: core/widgets/groups-directory/Navigation.php:560
+#: core/widgets/groups-directory/Navigation.php:604
+#: core/widgets/profile-group/Leadership.php:191
+#: core/widgets/profile-group/LastActivity.php:71
+#: core/widgets/profile-group/Buttons.php:243
+#: core/widgets/profile-group/Buttons.php:283
+#: core/widgets/profile-group/Buttons.php:381
+#: core/widgets/profile-group/Buttons.php:432
+#: core/widgets/profile-group/Buttons.php:497
+#: core/widgets/profile-group/Buttons.php:548
+#: core/widgets/profile-group/Buttons.php:613
+#: core/widgets/profile-group/Buttons.php:664
+#: core/widgets/profile-group/Buttons.php:729
+#: core/widgets/profile-group/Buttons.php:780
+#: core/widgets/profile-group/Status.php:70
+#: core/widgets/profile-group/Description.php:71
+#: core/widgets/profile-group/Name.php:70
+#: core/widgets/profile-group/Navigation.php:247
+#: core/widgets/profile-group/Navigation.php:287
+#: core/widgets/profile-group/Navigation.php:338
+#: core/widgets/profile-group/Navigation.php:461
+#: core/widgets/profile-group/Navigation.php:493
+#: core/widgets/profile-group/Navigation.php:537
+#: core/widgets/profile-member/Username.php:70
+#: core/widgets/profile-member/Meta.php:70
+#: core/widgets/profile-member/LastActivity.php:70
+#: core/widgets/profile-member/LastActivity.php:100
+#: core/widgets/profile-member/Buttons.php:243
+#: core/widgets/profile-member/Buttons.php:283
+#: core/widgets/profile-member/Buttons.php:381
+#: core/widgets/profile-member/Buttons.php:432
+#: core/widgets/profile-member/Buttons.php:497
+#: core/widgets/profile-member/Buttons.php:548
+#: core/widgets/profile-member/Buttons.php:613
+#: core/widgets/profile-member/Buttons.php:664
+#: core/widgets/profile-member/Navigation.php:276
+#: core/widgets/profile-member/Navigation.php:316
+#: core/widgets/profile-member/Navigation.php:369
+#: core/widgets/profile-member/Navigation.php:492
+#: core/widgets/profile-member/Navigation.php:536
+#: core/widgets/profile-member/Navigation.php:580
+#: core/widgets/members-directory/Filters.php:592
+#: core/widgets/members-directory/Filters.php:647
+#: core/widgets/members-directory/Filters.php:954
+#: core/widgets/members-directory/Filters.php:1006
+#: core/widgets/members-directory/Listing.php:478
+#: core/widgets/members-directory/Listing.php:930
+#: core/widgets/members-directory/Navigation.php:164
+#: core/widgets/members-directory/Navigation.php:204
+#: core/widgets/members-directory/Navigation.php:255
+#: core/widgets/members-directory/Navigation.php:390
+#: core/widgets/members-directory/Navigation.php:422
+#: core/widgets/members-directory/Navigation.php:466
+#: core/widgets/sitewide-activity/Filters.php:171
+#: core/widgets/sitewide-activity/Filters.php:223
+#: core/widgets/sitewide-activity/Filters.php:356
+#: core/widgets/sitewide-activity/Filters.php:411
+#: core/widgets/sitewide-activity/Filters.php:563
+#: core/widgets/sitewide-activity/Form.php:327
+#: core/widgets/sitewide-activity/Form.php:394
+msgid "Text Color"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:603
+#: core/widgets/groups-directory/Filters.php:657
+#: core/widgets/members-directory/Filters.php:604
+#: core/widgets/members-directory/Filters.php:659
+#: core/widgets/sitewide-activity/Filters.php:368
+#: core/widgets/sitewide-activity/Filters.php:423
+#: core/widgets/sitewide-activity/Form.php:187
+#: core/widgets/sitewide-activity/Form.php:229
+msgid "Placeholder Color"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:671
+#: core/widgets/groups-directory/Filters.php:841
+#: core/widgets/groups-directory/Filters.php:1028
+#: core/widgets/groups-directory/Listing.php:884
+#: core/widgets/groups-directory/Listing.php:951
+#: core/widgets/groups-directory/Listing.php:1336
+#: core/widgets/groups-directory/Listing.php:1403
+#: core/widgets/groups-directory/Navigation.php:227
+#: core/widgets/groups-directory/Navigation.php:278
+#: core/widgets/groups-directory/Navigation.php:416
+#: core/widgets/groups-directory/Navigation.php:583
+#: core/widgets/groups-directory/Navigation.php:627
+#: core/widgets/profile-group/Buttons.php:306
+#: core/widgets/profile-group/Buttons.php:404
+#: core/widgets/profile-group/Buttons.php:455
+#: core/widgets/profile-group/Buttons.php:520
+#: core/widgets/profile-group/Buttons.php:571
+#: core/widgets/profile-group/Buttons.php:636
+#: core/widgets/profile-group/Buttons.php:687
+#: core/widgets/profile-group/Buttons.php:752
+#: core/widgets/profile-group/Buttons.php:803
+#: core/widgets/profile-group/Navigation.php:310
+#: core/widgets/profile-group/Navigation.php:361
+#: core/widgets/profile-group/Navigation.php:516
+#: core/widgets/profile-group/Navigation.php:560
+#: core/widgets/profile-member/Buttons.php:306
+#: core/widgets/profile-member/Buttons.php:404
+#: core/widgets/profile-member/Buttons.php:455
+#: core/widgets/profile-member/Buttons.php:520
+#: core/widgets/profile-member/Buttons.php:571
+#: core/widgets/profile-member/Buttons.php:636
+#: core/widgets/profile-member/Buttons.php:687
+#: core/widgets/profile-member/Navigation.php:341
+#: core/widgets/profile-member/Navigation.php:392
+#: core/widgets/profile-member/Navigation.php:515
+#: core/widgets/profile-member/Navigation.php:559
+#: core/widgets/profile-member/Navigation.php:603
+#: core/widgets/members-directory/Filters.php:673
+#: core/widgets/members-directory/Filters.php:843
+#: core/widgets/members-directory/Filters.php:1030
+#: core/widgets/members-directory/Listing.php:644
+#: core/widgets/members-directory/Listing.php:711
+#: core/widgets/members-directory/Listing.php:1096
+#: core/widgets/members-directory/Listing.php:1163
+#: core/widgets/members-directory/Navigation.php:227
+#: core/widgets/members-directory/Navigation.php:278
+#: core/widgets/members-directory/Navigation.php:445
+#: core/widgets/members-directory/Navigation.php:489
+#: core/widgets/sitewide-activity/Filters.php:247
+#: core/widgets/sitewide-activity/Filters.php:437
+#: core/widgets/sitewide-activity/Filters.php:575
+#: core/widgets/sitewide-activity/Content.php:273
+#: core/widgets/sitewide-activity/Form.php:240
+#: core/widgets/sitewide-activity/Form.php:432
+#: core/widgets/sitewide-activity/Form.php:581
+#: core/widgets/sitewide-activity/Form.php:725
+msgid "Border Color"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:730
+#: core/widgets/members-directory/Filters.php:732
+#: core/widgets/sitewide-activity/Filters.php:495
+msgid "Search Button"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:753
+#: core/widgets/members-directory/Filters.php:755
+msgid "Left Space"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:789
+#: core/widgets/groups-directory/Filters.php:829
+#: core/widgets/groups-directory/Filters.php:964
+#: core/widgets/groups-directory/Filters.php:1016
+#: core/widgets/members-directory/Filters.php:791
+#: core/widgets/members-directory/Filters.php:831
+#: core/widgets/members-directory/Filters.php:966
+#: core/widgets/members-directory/Filters.php:1018
+#: core/widgets/sitewide-activity/Filters.php:183
+#: core/widgets/sitewide-activity/Filters.php:235
+#: core/widgets/sitewide-activity/Filters.php:523
+msgid "Icon Color"
+msgstr ""
+
+#: core/widgets/groups-directory/Filters.php:900
+#: core/widgets/members-directory/Filters.php:902
+#: core/widgets/sitewide-activity/Filters.php:134
+msgid "Sorting"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:22
+msgid "Groups Listing"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:46
+#: core/widgets/members-directory/Listing.php:46
+msgid "Columns"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:49
+#: core/widgets/members-directory/Listing.php:49
+msgid "One"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:50
+#: core/widgets/members-directory/Listing.php:50
+msgid "Two"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:51
+#: core/widgets/members-directory/Listing.php:51
+msgid "Three"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:52
+#: core/widgets/members-directory/Listing.php:52
+msgid "Four"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:64
+#: core/widgets/groups-directory/Navigation.php:494
+#: core/widgets/profile-group/Leadership.php:203
+#: core/widgets/profile-group/Leadership.php:252
+#: core/widgets/profile-group/Buttons.php:186
+#: core/widgets/profile-group/Navigation.php:170
+#: core/widgets/profile-group/Navigation.php:210
+#: core/widgets/profile-group/Navigation.php:428
+#: core/widgets/profile-member/Buttons.php:186
+#: core/widgets/profile-member/Navigation.php:199
+#: core/widgets/profile-member/Navigation.php:239
+#: core/widgets/profile-member/Navigation.php:459
+#: core/widgets/members-directory/Listing.php:64
+#: core/widgets/members-directory/Navigation.php:356
+msgid "Spacing"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:88
+#: core/widgets/groups-directory/Listing.php:137
+#: core/widgets/groups-directory/Listing.php:186
+#: core/widgets/profile-group/Buttons.php:167
+#: core/widgets/profile-member/Buttons.php:167
+#: core/widgets/members-directory/Listing.php:88
+#: core/widgets/members-directory/Listing.php:137
+#: core/widgets/members-directory/Listing.php:186
+msgid "Vertical Spacing"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:112
+#: core/widgets/groups-directory/Listing.php:161
+#: core/widgets/groups-directory/Listing.php:210
+#: core/widgets/profile-group/Buttons.php:147
+#: core/widgets/profile-member/Buttons.php:147
+#: core/widgets/members-directory/Listing.php:112
+#: core/widgets/members-directory/Listing.php:161
+#: core/widgets/members-directory/Listing.php:210
+msgid "Horizontal Spacing"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:237
+#: core/widgets/groups-directory/Listing.php:475
+msgid "Groups Icon"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:245
+msgid "Public group icon"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:247
+#: core/widgets/groups-directory/Listing.php:274
+#: core/widgets/groups-directory/Listing.php:301
+#: core/widgets/groups-directory/Listing.php:569
+#: core/widgets/groups-directory/Listing.php:571
+#: core/widgets/groups-directory/Listing.php:1021
+#: core/widgets/groups-directory/Listing.php:1023
+#: core/widgets/members-directory/Listing.php:329
+#: core/widgets/members-directory/Listing.php:331
+#: core/widgets/members-directory/Listing.php:781
+#: core/widgets/members-directory/Listing.php:783
+msgid "Show"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:248
+#: core/widgets/groups-directory/Listing.php:275
+#: core/widgets/groups-directory/Listing.php:302
+#: core/widgets/groups-directory/Listing.php:572
+#: core/widgets/groups-directory/Listing.php:1024
+#: core/widgets/members-directory/Listing.php:332
+#: core/widgets/members-directory/Listing.php:784
+msgid "Hide"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:257
+#: core/widgets/groups-directory/Listing.php:284
+#: core/widgets/groups-directory/Listing.php:311
+#: core/widgets/groups-directory/Listing.php:581
+#: core/widgets/groups-directory/Listing.php:1033
+#: core/widgets/members-directory/Listing.php:341
+#: core/widgets/members-directory/Listing.php:793
+msgid "Show Yes"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:272
+msgid "Private group icon"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:299
+msgid "Hidden group icon"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:328
+msgid "Listing Groups"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:337
+#: core/widgets/members-directory/Listing.php:258
+#: core/widgets/sitewide-activity/Content.php:47
+#: core/widgets/sitewide-activity/Content.php:216
+#: core/widgets/sitewide-activity/Content.php:249
+#: core/widgets/sitewide-activity/Form.php:45
+#: core/widgets/sitewide-activity/Form.php:165
+#: core/widgets/sitewide-activity/Form.php:207
+#: core/widgets/sitewide-activity/Form.php:520
+#: core/widgets/sitewide-activity/Form.php:559
+#: core/widgets/sitewide-activity/Form.php:664
+#: core/widgets/sitewide-activity/Form.php:703
+msgid "Background"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:516
+msgid "Vertical position"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:538
+msgid "Horizontal position"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:561
+#: core/widgets/members-directory/Listing.php:321
+msgid "Pagination Top"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:596
+#: core/widgets/groups-directory/Listing.php:1048
+#: core/widgets/members-directory/Listing.php:356
+#: core/widgets/members-directory/Listing.php:808
+msgid "Show No"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:611
+#: core/widgets/groups-directory/Listing.php:1063
+#: core/widgets/members-directory/Listing.php:371
+#: core/widgets/members-directory/Listing.php:823
+msgid "Bottom Space"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:743
+#: core/widgets/members-directory/Listing.php:503
+msgid "Top Nav Basic Style"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:758
+#: core/widgets/groups-directory/Listing.php:1210
+#: core/widgets/members-directory/Listing.php:518
+#: core/widgets/members-directory/Listing.php:970
+msgid "Links Spacing"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:778
+#: core/widgets/groups-directory/Listing.php:1230
+#: core/widgets/members-directory/Listing.php:538
+#: core/widgets/members-directory/Listing.php:990
+msgid "Link Typography"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:831
+#: core/widgets/groups-directory/Listing.php:898
+#: core/widgets/groups-directory/Listing.php:1283
+#: core/widgets/groups-directory/Listing.php:1350
+#: core/widgets/members-directory/Listing.php:591
+#: core/widgets/members-directory/Listing.php:658
+#: core/widgets/members-directory/Listing.php:1043
+#: core/widgets/members-directory/Listing.php:1110
+msgid "Shadow"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:912
+#: core/widgets/groups-directory/Listing.php:1364
+#: core/widgets/members-directory/Listing.php:672
+#: core/widgets/members-directory/Listing.php:1124
+msgid "Current"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:969
+#: core/widgets/groups-directory/Listing.php:1421
+#: core/widgets/members-directory/Listing.php:729
+#: core/widgets/members-directory/Listing.php:1181
+msgid "Link Border"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:981
+#: core/widgets/groups-directory/Listing.php:1433
+#: core/widgets/members-directory/Listing.php:741
+#: core/widgets/members-directory/Listing.php:1193
+msgid "Link Border Radius"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:996
+#: core/widgets/groups-directory/Listing.php:1448
+#: core/widgets/members-directory/Listing.php:756
+#: core/widgets/members-directory/Listing.php:1208
+msgid "Link Padding"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:1013
+#: core/widgets/members-directory/Listing.php:773
+msgid "Pagination Bottom"
+msgstr ""
+
+#: core/widgets/groups-directory/Listing.php:1195
+#: core/widgets/members-directory/Listing.php:955
+msgid "Bot Nav Basic Style"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:21
+msgid "Groups Navigation"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:37
+#: core/widgets/profile-group/Navigation.php:21
+#: core/widgets/profile-member/Navigation.php:21
+#: core/widgets/members-directory/Navigation.php:37
+msgid "Navigation"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:45
+#: core/widgets/members-directory/Navigation.php:45
+#: core/widgets/sitewide-activity/Content.php:124
+#: core/widgets/sitewide-activity/Content.php:183
+msgid "Base Style"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:67
+#: core/widgets/profile-group/LastActivity.php:45
+#: core/widgets/profile-group/Buttons.php:58
+#: core/widgets/profile-group/Buttons.php:118
+#: core/widgets/profile-group/Avatar.php:44
+#: core/widgets/profile-group/Status.php:44
+#: core/widgets/profile-group/Description.php:45
+#: core/widgets/profile-group/Name.php:44
+#: core/widgets/profile-group/Navigation.php:124
+#: core/widgets/profile-member/Username.php:44
+#: core/widgets/profile-member/Meta.php:44
+#: core/widgets/profile-member/LastActivity.php:44
+#: core/widgets/profile-member/Buttons.php:58
+#: core/widgets/profile-member/Buttons.php:118
+#: core/widgets/profile-member/Avatar.php:44
+#: core/widgets/profile-member/Navigation.php:124
+#: core/widgets/members-directory/Navigation.php:58
+#: core/widgets/sitewide-activity/Content.php:154
+msgid "Alignment"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:71
+#: core/widgets/profile-group/Leadership.php:48
+#: core/widgets/profile-group/LastActivity.php:49
+#: core/widgets/profile-group/Buttons.php:62
+#: core/widgets/profile-group/Buttons.php:122
+#: core/widgets/profile-group/Avatar.php:48
+#: core/widgets/profile-group/Status.php:48
+#: core/widgets/profile-group/Description.php:49
+#: core/widgets/profile-group/Name.php:48
+#: core/widgets/profile-group/Navigation.php:128
+#: core/widgets/profile-member/Username.php:48
+#: core/widgets/profile-member/Meta.php:48
+#: core/widgets/profile-member/LastActivity.php:48
+#: core/widgets/profile-member/Buttons.php:62
+#: core/widgets/profile-member/Buttons.php:122
+#: core/widgets/profile-member/Avatar.php:48
+#: core/widgets/profile-member/Navigation.php:128
+#: core/widgets/profile-member/Navigation.php:174
+#: core/widgets/members-directory/Navigation.php:62
+#: core/widgets/sitewide-activity/Content.php:158
+msgid "Left"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:75
+#: core/widgets/profile-group/Leadership.php:52
+#: core/widgets/profile-group/LastActivity.php:53
+#: core/widgets/profile-group/Buttons.php:66
+#: core/widgets/profile-group/Buttons.php:126
+#: core/widgets/profile-group/Avatar.php:52
+#: core/widgets/profile-group/Status.php:52
+#: core/widgets/profile-group/Description.php:53
+#: core/widgets/profile-group/Name.php:52
+#: core/widgets/profile-group/Navigation.php:132
+#: core/widgets/profile-member/Username.php:52
+#: core/widgets/profile-member/Meta.php:52
+#: core/widgets/profile-member/LastActivity.php:52
+#: core/widgets/profile-member/Buttons.php:66
+#: core/widgets/profile-member/Buttons.php:126
+#: core/widgets/profile-member/Avatar.php:52
+#: core/widgets/profile-member/Navigation.php:132
+#: core/widgets/profile-member/Navigation.php:178
+#: core/widgets/members-directory/Navigation.php:66
+#: core/widgets/sitewide-activity/Content.php:162
+msgid "Center"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:79
+#: core/widgets/profile-group/Leadership.php:56
+#: core/widgets/profile-group/LastActivity.php:57
+#: core/widgets/profile-group/Buttons.php:70
+#: core/widgets/profile-group/Buttons.php:130
+#: core/widgets/profile-group/Avatar.php:56
+#: core/widgets/profile-group/Status.php:56
+#: core/widgets/profile-group/Description.php:57
+#: core/widgets/profile-group/Name.php:56
+#: core/widgets/profile-group/Navigation.php:136
+#: core/widgets/profile-member/Username.php:56
+#: core/widgets/profile-member/Meta.php:56
+#: core/widgets/profile-member/LastActivity.php:56
+#: core/widgets/profile-member/Buttons.php:70
+#: core/widgets/profile-member/Buttons.php:130
+#: core/widgets/profile-member/Avatar.php:56
+#: core/widgets/profile-member/Navigation.php:136
+#: core/widgets/profile-member/Navigation.php:182
+#: core/widgets/members-directory/Navigation.php:70
+#: core/widgets/sitewide-activity/Content.php:166
+msgid "Right"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:147
+#: core/widgets/profile-group/Navigation.php:116
+#: core/widgets/profile-member/Navigation.php:116
+#: core/widgets/members-directory/Navigation.php:138
+msgid "Navigation Item"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:322
+#: core/widgets/profile-group/Navigation.php:406
+#: core/widgets/profile-member/Navigation.php:437
+#: core/widgets/members-directory/Navigation.php:322
+msgid "Items Padding"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:336
+msgid "Create Group Item"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:472
+#: core/widgets/profile-group/Status.php:98
+#: core/widgets/profile-group/Name.php:98
+#: core/widgets/profile-member/Username.php:98
+#: core/widgets/members-directory/Listing.php:295
+#: core/widgets/sitewide-activity/Form.php:96
+msgid "Margin"
+msgstr ""
+
+#: core/widgets/groups-directory/Navigation.php:486
+#: core/widgets/members-directory/Navigation.php:348
+msgid "Item Counter"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:20
+msgid "Leadership"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:36
+msgid "Leadership Content"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:44
+msgid "Align Titles"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:70
+msgid "Display mods"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:74
+#: core/widgets/profile-group/Buttons.php:49
+#: core/widgets/profile-group/Navigation.php:154
+#: core/widgets/profile-member/Buttons.php:49
+#: core/widgets/profile-member/Navigation.php:154
+#: core/widgets/sitewide-activity/Content.php:141
+msgid "Inline"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:75
+#: core/widgets/profile-group/Buttons.php:50
+#: core/widgets/profile-group/Navigation.php:155
+#: core/widgets/profile-member/Buttons.php:50
+#: core/widgets/profile-member/Navigation.php:155
+#: core/widgets/sitewide-activity/Content.php:142
+msgid "Block"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:86
+msgid "Inline Spacing"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:102
+msgid "Block Spacing"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:121
+msgid "Moderators lists"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:129
+msgid "Moderators BG Color"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:175
+msgid "Title"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:221
+msgid "Avatars"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:229
+msgid "Img Border"
+msgstr ""
+
+#: core/widgets/profile-group/Leadership.php:239
+msgid "Imgage Radius"
+msgstr ""
+
+#: core/widgets/profile-group/TypeList.php:16
+msgid "Type List"
+msgstr ""
+
+#: core/widgets/profile-group/ExtraMeta.php:16
+msgid "Extra Meta"
+msgstr ""
+
+#: core/widgets/profile-group/Content.php:34
+#: core/widgets/profile-group/Content.php:71
+#: core/widgets/profile-member/Content.php:35
+#: core/widgets/profile-member/Content.php:72
+msgid "Go PRO"
+msgstr ""
+
+#: core/widgets/profile-group/Content.php:43
+#: core/widgets/profile-member/Content.php:44
+msgid "BuddyBuilder PRO"
+msgstr ""
+
+#: core/widgets/profile-group/Content.php:45
+#: core/widgets/profile-member/Content.php:46
+msgid "Step up your game and customize your profile content with ease."
+msgstr ""
+
+#: core/widgets/profile-group/LastActivity.php:21
+#: core/widgets/profile-group/LastActivity.php:37
+#: core/widgets/profile-member/LastActivity.php:20
+msgid "Last Activity"
+msgstr ""
+
+#: core/widgets/profile-group/Buttons.php:21
+msgid "Buttons"
+msgstr ""
+
+#: core/widgets/profile-group/Buttons.php:37
+#: core/widgets/profile-member/Buttons.php:37
+msgid "General Buttons"
+msgstr ""
+
+#: core/widgets/profile-group/Buttons.php:45
+#: core/widgets/profile-group/Navigation.php:150
+#: core/widgets/profile-member/Buttons.php:45
+#: core/widgets/profile-member/Navigation.php:150
+#: core/widgets/sitewide-activity/Content.php:137
+msgid "Display"
+msgstr ""
+
+#: core/widgets/profile-group/Buttons.php:87
+#: core/widgets/profile-member/Buttons.php:87
+msgid "Display inline"
+msgstr ""
+
+#: core/widgets/profile-group/Buttons.php:103
+#: core/widgets/profile-member/Buttons.php:103
+msgid "Display block"
+msgstr ""
+
+#: core/widgets/profile-group/Buttons.php:206
+#: core/widgets/profile-group/Avatar.php:84
+#: core/widgets/profile-group/Navigation.php:190
+#: core/widgets/profile-member/Buttons.php:206
+#: core/widgets/profile-member/Avatar.php:84
+#: core/widgets/profile-member/Navigation.php:219
+msgid "Width"
+msgstr ""
+
+#: core/widgets/profile-group/Buttons.php:364
+msgid "Join Group button"
+msgstr ""
+
+#: core/widgets/profile-group/Buttons.php:480
+msgid "Leave Group button"
+msgstr ""
+
+#: core/widgets/profile-group/Buttons.php:596
+msgid "Request Membership button"
+msgstr ""
+
+#: core/widgets/profile-group/Buttons.php:712
+msgid "Request Sent button"
+msgstr ""
+
+#: core/widgets/profile-group/Avatar.php:20
+#: core/widgets/profile-group/Avatar.php:36
+#: core/widgets/profile-member/Avatar.php:20
+#: core/widgets/profile-member/Avatar.php:36
+#: core/widgets/sitewide-activity/Form.php:110
+msgid "Avatar"
+msgstr ""
+
+#: core/widgets/profile-group/Avatar.php:71
+#: core/widgets/profile-member/Avatar.php:71
+msgid "Size"
+msgstr ""
+
+#: core/widgets/profile-group/Avatar.php:74
+#: core/widgets/profile-member/Avatar.php:74
+msgid "Thumb"
+msgstr ""
+
+#: core/widgets/profile-group/Avatar.php:75
+#: core/widgets/profile-member/Avatar.php:75
+msgid "Full"
+msgstr ""
+
+#: core/widgets/profile-group/Status.php:20
+#: core/widgets/profile-group/Status.php:36
+msgid "Status"
+msgstr ""
+
+#: core/widgets/profile-group/Description.php:21
+#: core/widgets/profile-group/Description.php:37
+msgid "Description"
+msgstr ""
+
+#: core/widgets/profile-group/Cover.php:21
+#: core/widgets/profile-group/Cover.php:76
+#: core/widgets/profile-member/Cover.php:21
+#: core/widgets/profile-member/Cover.php:76
+msgid "Cover"
+msgstr ""
+
+#: core/widgets/profile-group/Cover.php:37
+#: core/widgets/profile-member/Cover.php:37
+msgid "Cover size"
+msgstr ""
+
+#: core/widgets/profile-group/Cover.php:45
+#: core/widgets/profile-member/Cover.php:45
+msgid "Height"
+msgstr ""
+
+#: core/widgets/profile-group/Cover.php:47
+#: core/widgets/profile-member/Cover.php:47
+msgid ""
+"Cover height might not work if advanced posioning is set to \"Absolute\""
+msgstr ""
+
+#: core/widgets/profile-group/Cover.php:95
+#: core/widgets/profile-member/Cover.php:95
+msgid "Image position"
+msgstr ""
+
+#: core/widgets/profile-group/Cover.php:120
+#: core/widgets/profile-member/Cover.php:120
+msgid "Image repeat"
+msgstr ""
+
+#: core/widgets/profile-group/Cover.php:139
+#: core/widgets/profile-member/Cover.php:139
+msgid "Image size"
+msgstr ""
+
+#: core/widgets/profile-group/Cover.php:218
+#: core/widgets/profile-group/Cover.php:226
+#: core/widgets/profile-member/Cover.php:218
+#: core/widgets/profile-member/Cover.php:226
+msgid "Overlay"
+msgstr ""
+
+#: core/widgets/profile-group/Cover.php:241
+#: core/widgets/profile-member/Cover.php:241
+msgid "Overlay type"
+msgstr ""
+
+#: core/widgets/profile-group/Name.php:20
+msgid "Name"
+msgstr ""
+
+#: core/widgets/profile-group/Name.php:36
+#: core/widgets/profile-member/Username.php:20
+#: core/widgets/profile-member/Username.php:36
+msgid "Username"
+msgstr ""
+
+#: core/widgets/profile-group/Navigation.php:52
+#: core/widgets/profile-member/Navigation.php:52
+msgid "Enable default front page"
+msgstr ""
+
+#: core/widgets/profile-group/Navigation.php:54
+#: core/widgets/profile-member/Navigation.php:54
+msgid "Yes"
+msgstr ""
+
+#: core/widgets/profile-group/Navigation.php:55
+#: core/widgets/profile-member/Navigation.php:55
+msgid "No"
+msgstr ""
+
+#: core/widgets/profile-group/Navigation.php:66
+#: core/widgets/profile-member/Navigation.php:66
+msgid "Navigation Content"
+msgstr ""
+
+#: core/widgets/profile-group/Navigation.php:102
+#: core/widgets/profile-member/Navigation.php:102
+msgid "Content Padding"
+msgstr ""
+
+#: core/widgets/profile-group/Navigation.php:420
+#: core/widgets/profile-member/Navigation.php:451
+msgid "Counter"
+msgstr ""
+
+#: core/widgets/profile-member/Meta.php:20
+#: core/widgets/profile-member/Meta.php:36
+msgid "Meta"
+msgstr ""
+
+#: core/widgets/profile-member/LastActivity.php:36
+msgid "Activity Status"
+msgstr ""
+
+#: core/widgets/profile-member/LastActivity.php:92
+msgid "Link"
+msgstr ""
+
+#: core/widgets/profile-member/Buttons.php:21
+msgid "Action Buttons"
+msgstr ""
+
+#: core/widgets/profile-member/Buttons.php:364
+msgid "Add Friendship button"
+msgstr ""
+
+#: core/widgets/profile-member/Buttons.php:480
+msgid "Cancel Friendship Request button"
+msgstr ""
+
+#: core/widgets/profile-member/Buttons.php:596
+msgid "Cancel Friendship button"
+msgstr ""
+
+#: core/widgets/profile-member/Navigation.php:170
+msgid "Content Align"
+msgstr ""
+
+#: core/widgets/members-directory/Filters.php:25
+msgid "Members Filters"
+msgstr ""
+
+#: core/widgets/members-directory/Listing.php:22
+msgid "Members Listing"
+msgstr ""
+
+#: core/widgets/members-directory/Listing.php:237
+msgid "Listing"
+msgstr ""
+
+#: core/widgets/members-directory/Listing.php:245
+msgid "View"
+msgstr ""
+
+#: core/widgets/members-directory/Navigation.php:21
+msgid "Members Navigation"
+msgstr ""
+
+#: core/widgets/members-directory/Navigation.php:334
+msgid "Items Margin"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Filters.php:21
+msgid "Filters"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Filters.php:37
+msgid "Container"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Filters.php:99
+msgid "RSS"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Filters.php:107
+msgid "Rss Color"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Filters.php:118
+msgid "Rss Size"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Content.php:38
+msgid "Activity Item Container"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Content.php:96
+msgid "Spacing items"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Content.php:115
+msgid "Load More Button"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Content.php:199
+#: core/widgets/sitewide-activity/Form.php:503
+#: core/widgets/sitewide-activity/Form.php:647
+msgid "Typography"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Form.php:21
+msgid "Form"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Form.php:37
+msgid "Form Container"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Form.php:140
+msgid "Textarea"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Form.php:200
+#: core/widgets/sitewide-activity/Form.php:375
+msgid "Focus"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Form.php:289
+msgid "Post In Option"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Form.php:340
+#: core/widgets/sitewide-activity/Form.php:407
+msgid "Placeholder Input Color"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Form.php:354
+#: core/widgets/sitewide-activity/Form.php:421
+msgid "Select Arrow Color"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Form.php:494
+msgid "Post Button"
+msgstr ""
+
+#: core/widgets/sitewide-activity/Form.php:638
+msgid "Cancel Button"
+msgstr ""
+
+#: admin/pages/templates/widgets.php:28 admin/pages/templates/settings.php:58
+#: admin/pages/templates/plugins.php:23 admin/pages/templates/modules.php:23
+msgid "Save"
+msgstr ""
+
+#: admin/pages/templates/settings.php:1
+msgid "Templates Settings"
+msgstr ""
+
+#: admin/pages/templates/settings.php:3
+msgid ""
+"You can override the BuddyPress' default templates with the ones you've "
+"created using Elementor using the form below."
+msgstr ""
+
+#: admin/pages/templates/templates.php:20
+msgid "Imported"
+msgstr ""
+
+#: admin/pages/templates/templates.php:25
+msgid "Import"
+msgstr ""
+
+#: admin/pages/templates/parts/settings-box.php:12
+msgid "-- BuddyPress Default --"
+msgstr ""
+
+#: admin/pages/templates/parts/settings-box.php:50
+msgid "Create new"
+msgstr ""
+
+#: admin/pages/templates/parts/settings-box.php:82
+msgid "Edit current"
+msgstr ""
+
+#. Name of the plugin
+msgid "BuddyBuilder - BuddyPress Builder for Elementor"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Fully build and customize your BuddyPress community site using Elementor."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://staxwp.com/go/buddybuilder/"
+msgstr ""
+
+#. Author of the plugin
+msgid "StaxWP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://staxwp.com"
+msgstr ""

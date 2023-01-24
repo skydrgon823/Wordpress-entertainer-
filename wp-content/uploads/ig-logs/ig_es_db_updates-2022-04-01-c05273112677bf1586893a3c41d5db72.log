@@ -1,0 +1,9 @@
+2022-04-01T19:04:36+00:00 INFO Created file .htaccess
+2022-04-01T19:04:36+00:00 INFO Created file index.html
+2022-04-01T19:04:36+00:00 INFO It seems new Email Subscribers. Start Installation process.
+2022-04-01T19:04:37+00:00 INFO Create Tables.
+2022-04-01T19:04:37+00:00 INFO Create Options.
+2022-04-01T19:04:37+00:00 INFO Load readymade template
+2022-04-01T19:04:37+00:00 INFO Installation Complete.
+2022-04-01T19:04:37+00:00 INFO Needs DB Update?
+2022-04-01T19:04:37+00:00 INFO Current DB Version: 5.3.8

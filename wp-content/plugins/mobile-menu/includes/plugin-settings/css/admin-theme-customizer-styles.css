@@ -1,0 +1,327 @@
+/*
+ * TODO: separate styles into multiple imports
+ */
+
+@import "class-option-font.css";
+@import "class-option-date.css";
+
+.mm-googlefont-area label {
+	display: block;
+}
+
+/* radio-palette */
+.mm-radio-palette span {
+	display: inline-block;
+	height: 40px;
+}
+.mm-radio-palette span span {
+	width: 15px;
+}
+.mm-radio-palette > label > span {
+	padding: 2px;
+	border: 1px solid #ddd;
+}
+.mm-radio-palette input[type=radio] {
+	vertical-align: top;
+	margin-top: 17px;
+}
+.mm-radio-palette label {
+	margin-left: 30px;
+	white-space: nowrap;
+}
+.mm-radio-palette label:first-child {
+	margin-left: 0
+}
+.mm-radio-palette {
+	margin-top: 10px;
+	display: inline-block;
+	margin-right: 5px;
+}
+
+/* radio image */
+.mm-radio-image img, .mm-radio-image-font-icon {
+	vertical-align: middle;
+}
+.mm-radio-image {
+	margin-top: 10px;
+	display: inline-block;
+	margin-right: 5px;
+}
+.mm-radio-image input[type=radio] {
+	margin-top: 0;
+}
+/* code */
+.mm-code {
+	border-radius: 3px;
+	border: 1px solid #DDD;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;
+	font-size: 14px;
+}
+/* sortable */
+.mm-sortable li {
+	cursor: move;
+	background: #fafafa;
+	padding: 0 0 0 15px;
+	border: 1px solid #DDD;
+	position: relative;
+	line-height: 40px;
+}
+.mm-sortable ul {
+	margin-top: 0;
+	background: rgba(0, 0, 0, 0);
+	border: 1px solid #EEE;
+	padding: 5px;
+	display: inline-block;
+}
+.mm-sortable ul li:last-of-type {
+	margin-bottom: 0;
+}
+.mm-sortable ul li i {
+	float: right;
+	background: #fcfcfc;
+	display: inline-block;
+	border-left: 1px solid #ddd;
+	border-bottom: 1px solid #DDD;
+	width: 40px;
+	line-height: 40px;
+	text-align: center;
+	color: #777;
+}
+.mm-sortable ul li i.visibility {
+	cursor: pointer;
+}
+.mm-sortable ul li i:last-of-type {
+	margin-left: 50px;
+}
+.mm-sortable li.mm-invisible {
+	color: #ccc;
+	background: transparent;
+}
+/* number slider */
+.mm-number .ui-slider-handle {
+    position: absolute;
+    z-index: 2;
+	border-radius: 3px;
+    cursor: move;
+	margin-left: -6px;
+	pointer-events: none;
+	outline: none;
+	top: -5px;
+	background: #EEE;
+	border: 1px solid #CCC;
+	height: 23px;
+	width: 12px;
+}
+.mm-number .ui-slider a:focus {
+	outline: none;
+}
+.mm-number .ui-slider-range {
+    background: #eee;
+    height: 100%;
+}
+.mm-number .number-slider {
+	position: relative;
+	background: #fcfcfc;
+    border: 1px solid #ddd;
+	border-radius: 3px;
+	height: 15px;
+	width: 120px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 15px 15px 15px 0;
+}
+.mm-number input.small-text {
+	width: 65px;
+	vertical-align: middle;
+}
+/* google webfont new */
+.mm-font label {
+	vertical-align: middle;
+	padding: 4px 4px 4px 13px;
+	background: transparent;
+	margin-bottom: 0;
+	display: block;
+	text-align: right;
+	white-space: nowrap;
+	margin-right: 0;
+	font-size: 12px;
+	line-height: 28px;
+	border: 0;
+}
+.mm-font label.mm-picker-open {
+	color: #fcfcfc;
+	background: transparent;
+	border-color: transparent;
+	margin-left: -10px;
+	position: relative;
+}
+.mm-font label.mm-picker-open .wp-picker-container {
+	position: absolute;
+	left: 10px;
+}
+.mm-font label.mm-picker-open .wp-picker-container .wp-color-result {
+	margin-left: 0;
+}
+.mm-font select {
+	margin-left: 10px;
+}
+.mm-font .wp-picker-container {
+	line-height: 28px;
+	height: 28px;
+	margin: 1px;
+}
+.mm-font .wp-picker-container > a {
+	margin: 2px 7px 2px 10px;
+}
+.mm-font .wp-picker-container .wp-picker-default {
+	margin: 2px 2px 2px 7px;
+}
+.mm-font iframe {
+	width: 100%;
+	height: 200px;
+	background: #FCFCFC;
+	border: 1px solid #DDD;
+}
+.mm-font div {
+	position: relative;
+}
+.mm-font > div {
+    padding: 5px 0;
+    background-color: rgba(255,255,255,.5);
+    margin-bottom: 4px;
+}
+.mm-font i {
+	position: absolute;
+	top: 0;
+	left: 0;
+	line-height: 30px !important;
+	width: 30px;
+	background: #EEE;
+	text-align: center;
+	border: 1px solid #DDD;
+	cursor: pointer;
+}
+.mm-font i:hover {
+	background: #333;
+	color: #FFF;
+	border-bottom: 1px solid #333;
+	border-right: 1px solid #333;
+}
+.mm-font .wp-picker-container {
+	z-index: 9;
+}
+.mm-font .mm-font-sel-family {
+	width: 150px;
+}
+
+
+/*
+ * Enable option styles
+ */
+
+
+.mm-enable input {
+	width: 0;
+	height: 0;
+	overflow: hidden;
+	float: right;
+	z-index: -9999;
+	position: absolute;
+	border: 0;
+	opacity: 0;
+}
+.mm-enable .button {
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+	user-select: none;
+}
+.mm-enable .button + .button-primary {
+	background: #6C7A89;
+	border-color: #56606B;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	color: #fff;
+	pointer-events: none;
+}
+.mm-enable .button-primary:nth-of-type(2) {
+	pointer-events: none;
+}
+.mm-enable .button:nth-of-type(2) {
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+.mm-enable .button-secondary:nth-of-type(2) {
+	-webkit-box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.08);
+	box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.08);
+}
+.mm-enable .button + .button {
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	-webkit-box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.08);
+	box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.08);
+}
+.mm-date-datepicker.ui-widget-content {
+	left: 270px !important;
+}
+
+
+.mm-ajax-button .button {
+	display: block;
+    width: 100%;
+}
+.mm-ajax-button .button + .button {
+    margin-top: 5px;
+}
+
+p.description {
+	margin-bottom: 30px;
+}
+p.description:empty {
+	margin-bottom: 5px;
+}
+
+.mm-upload .mm-image-preview img {
+    margin-top: 0px;
+    margin-left: 0px;
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+}
+
+
+.mm-heading {
+	border-top: 1px solid #dadada;
+    background-color: #e1e1e1;
+    padding: .5em 12px;
+    margin: 0 -12px;
+    border-bottom: 1px solid #ddd;
+}
+.mm-heading .description {
+	margin: 0;
+    color: #666;
+    font-weight: normal;
+}
+.mm-file-upload {
+	min-height: 20px;
+	padding: 10px 20px;
+	width: 215px;
+	background-color: #FAFAFA;
+  box-shadow: inset 0 0 0 1px #EEE;
+	cursor: pointer;
+	position: relative;
+}
+.mm-file-upload p{
+	margin: 0 !important;
+}
+.mm-file-upload i{
+	position: absolute;
+	right: 10px;
+}

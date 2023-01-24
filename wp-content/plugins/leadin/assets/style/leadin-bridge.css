@@ -1,0 +1,33 @@
+#leadin,
+#wpbody,
+#wpbody-content,
+#wpcontent,
+#wpwrap,
+body,
+html {
+  height: 100% !important;
+  background-color: transparent;
+}
+
+body.toplevel_page_leadin {
+  background-color: #f5f8fa !important;
+}
+
+#wpbody-content,
+#wpcontent {
+  padding: 0 !important;
+}
+
+#wpfooter {
+  display: none !important;
+}
+
+#leadin-iframe {
+  position: absolute;
+  top: 0;
+  border: 0 none transparent !important;
+  padding: 0 !important;
+  width: 100% !important;
+  left: 0;
+  background: white;
+}

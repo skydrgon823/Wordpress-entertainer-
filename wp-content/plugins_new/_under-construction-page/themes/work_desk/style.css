@@ -1,0 +1,71 @@
+/*
+ * UnderConstructionPage
+ * Work Desk theme CSS
+ * (c) WebFactory Ltd, 2015 - 2021
+ */
+
+
+html, body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 120%;
+  color: #58595b;
+  background: #ffd72f;
+}
+
+#desk {
+  background-size: contain;
+  max-width: 80%;
+  margin: -50px auto 0 auto;
+  background-repeat: no-repeat;
+  background-position-x: center;
+}
+
+h1 {
+  font-size: 34px;
+  color: #58595b;
+  font-family: "Nunito", sans-serif;
+  font-weight: 900;
+  margin: 35px 0 30px 0;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+#social {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#social a i {
+  color: #58595b;
+  margin: 10px;
+  box-sizing: content-box;
+}
+
+#social a:hover i {
+  color: #e0632f;
+}
+
+@media(max-width:767px){
+  h1 {
+     font-size: 30px;
+     margin: 10px 0 30px 0;
+  }
+  #desk {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto 0 auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}

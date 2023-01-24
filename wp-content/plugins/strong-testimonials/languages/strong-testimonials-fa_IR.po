@@ -1,0 +1,1280 @@
+# Copyright (C) 2016 Strong Testimonials
+# This file is distributed under the same license as the Strong Testimonials package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Strong Testimonials 2.2.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/strong-testimonials\n"
+"POT-Creation-Date: 2018-08-02 15:23-0400\n"
+"PO-Revision-Date: 2018-08-02 15:23-0400\n"
+"Last-Translator: Chris Dillon <chris@strongplugins.com>\n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#~ msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+#~ msgstr "نسخه جدیدی از %1$s در دسترس است. %2$s نمایش نسخه %3$s جزییات %4$s."
+
+#~ msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+#~ msgstr "نسخه جدیدی از %1$s در دسترس است. %2$s نمایش نسخه %3$s جزییات %4$s یا %5$s الان بروزرسانی شود %6$s."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "شما اجازه نصب بروزرسانی های افزونه را ندارید."
+
+#~ msgid "Error"
+#~ msgstr "خطا"
+
+#~ msgid "Filter Categories"
+#~ msgstr "صافی دسته بندی ها"
+
+#~ msgctxt "post editor"
+#~ msgid "Client Details"
+#~ msgstr "جزییات مشتری"
+
+#~ msgctxt "post editor"
+#~ msgid "To add a photo or logo, use the Featured Image option."
+#~ msgstr "اضافه کردن تصویر یا لوگو، استفاده از گزینه تصویر ویژه."
+
+#~ msgid "Excerpt"
+#~ msgstr "چکیده"
+
+#~ msgid "Thumbnail"
+#~ msgstr "بندانگشتی"
+
+#~ msgid "Category"
+#~ msgstr "دسته بندی"
+
+#~ msgid "Date"
+#~ msgstr "تاریخ"
+
+#~ msgid "ID"
+#~ msgstr "آیدی"
+
+#~ msgid "Name"
+#~ msgstr "نام"
+
+#~ msgid "Slug"
+#~ msgstr "اسلاگ"
+
+#~ msgid "Posts"
+#~ msgstr "ارسال ها"
+
+#~ msgctxt "installation"
+#~ msgid "Unable to load %s"
+#~ msgstr "ناتوان در بارگیری %s"
+
+#~ msgctxt "installation"
+#~ msgid "This plugin requires <strong>WordPress %s</strong> or higher so it has been deactivated."
+#~ msgstr "این افزونه لازم است از <strong>وردپرس %s</strong>  یا بالاتر استفاده کند."
+
+#~ msgctxt "installation"
+#~ msgid "Please upgrade WordPress and try again."
+#~ msgstr "لطفا وردپرس خود را بروزرسانی کرده و دوباره سعی کنید."
+
+#~ msgctxt "installation"
+#~ msgid "Back to the WordPress <a href=\"%s\">Plugins page</a>"
+#~ msgstr "برگشت به <a href=\"%s\">صفحه افزونه ها</a> وردپرس"
+
+#~ msgid "You do not have sufficient permissions to access this page."
+#~ msgstr "شما مجوز کافی برای دسترسی به این صفحه را ندارید."
+
+#~ msgid "Changes undone."
+#~ msgstr "تغییرات لغو شد."
+
+#~ msgid "Defaults restored."
+#~ msgstr "پیشفرض ها بازگردانی شدند."
+
+#~ msgid "Fields saved."
+#~ msgstr "فیلدها ذخیره شدند."
+
+#~ msgid "Fields"
+#~ msgstr "فیلدها"
+
+#~ msgid "Fields will appear in this order on the form."
+#~ msgstr "فیلدها در فرم ایجاد شده ظاهر می گردند."
+
+#~ msgid "Reorder by grabbing the %s icon."
+#~ msgstr "مرتب سازی جعبه ها با گرفتن آیکن %s"
+
+#~ msgid "Click the field name to expand its options panel."
+#~ msgstr "برای گشودن گزینه های پنل بر روی نام فیلد کلیک کنید."
+
+#~ msgctxt "link"
+#~ msgid "Full tutorial"
+#~ msgstr "آموزش کامل"
+
+#~ msgid "More form settings <a href=\"%s\">here</a>."
+#~ msgstr "تنظیمات بیشتر فرم از <a href=\"%s\">اینجا</a>."
+
+#~ msgid "Add New Field"
+#~ msgstr "اضافه کردن فیلد جدید"
+
+#~ msgid "Undo Changes"
+#~ msgstr "لغو تغییرات"
+
+#~ msgid "Restore Defaults"
+#~ msgstr "بازگردانی به پیشفرض"
+
+#~ msgctxt "noun"
+#~ msgid "Label"
+#~ msgstr "برچسب"
+
+#~ msgid "This appears on the form."
+#~ msgstr "در فرم ظاهر می شود."
+
+#~ msgctxt "noun"
+#~ msgid "Name"
+#~ msgstr "نام"
+
+#~ msgid "Use only lowercase letters, numbers, and underscores."
+#~ msgstr "استفاده از حروف کوچک، اعداد و زیرخط."
+
+#~ msgid "Cannot be \"name\" or \"date\"."
+#~ msgstr "\"نام\" و يا \"تاريخ\" نمی تواند باشد."
+
+#~ msgctxt "noun"
+#~ msgid "Type"
+#~ msgstr "نوع"
+
+#~ msgid "Post Fields"
+#~ msgstr "فیلدهای ارسال"
+
+#~ msgid "Custom Fields"
+#~ msgstr "فیلدهای دلخواه"
+
+#~ msgid "Optional Fields"
+#~ msgstr "فیلدهای اختیاری"
+
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+#~ msgctxt "verb"
+#~ msgid "Close"
+#~ msgstr "بسته"
+
+#~ msgid "Required"
+#~ msgstr "ضروری"
+
+#~ msgid "Placeholder"
+#~ msgstr "متن محو شونده"
+
+#~ msgid "Before"
+#~ msgstr "قبل"
+
+#~ msgid "After"
+#~ msgstr "بعد"
+
+#~ msgid "Admin Table"
+#~ msgstr "جدول مدیر"
+
+#~ msgid "required"
+#~ msgstr "ضروری"
+
+#~ msgid "Strong Testimonials Guide"
+#~ msgstr "راهنمای قوی توصیفات"
+
+#~ msgid "Welcome"
+#~ msgstr "خوش آمدید"
+
+#~ msgid "Getting Started"
+#~ msgstr "شروع کردن"
+
+#~ msgid "Views"
+#~ msgstr "چشم انداز‌ها"
+
+#~ msgid "Templates"
+#~ msgstr "پوسته ها"
+
+#~ msgid "Translation"
+#~ msgstr "ترجمه"
+
+#~ msgid "Page Builders"
+#~ msgstr "صفحه سازها"
+
+#~ msgid "Use the <a href=\"%s\" target=\"_blank\">support forum</a> or <a href=\"%s\" target=\"_blank\">contact me</a>."
+#~ msgstr "از <a href=\"%s\" target=\"_blank\">انجمن پشتیبانی</a> یا <a href=\"%s\" target=\"_blank\">تماس با من</a> استفاده کنید."
+
+#~ msgid "Help? Idea? Bug?"
+#~ msgstr "کمک؟ ایده؟ مشکل؟"
+
+#~ msgid "<a href=\"%s\" target=\"_blank\">How to customize the form</a>"
+#~ msgstr "<a href=\"%s\" target=\"_blank\">چگونه فرم را شخصی سازی کنیم</a>"
+
+#~ msgid "<a href=\"%s\" target=\"_blank\">See the new demos</a>"
+#~ msgstr "<a href=\"%s\" target=\"_blank\">مشاهده نسخه های نمایشی جدید</a>"
+
+#~ msgid "<a href=\"%s\" target=\"_blank\">Subscribe to the newsletter</a>"
+#~ msgstr "<a href=\"%s\" target=\"_blank\">اشتراک در خبرنامه</a>"
+
+#~ msgid "More resources"
+#~ msgstr "منابع بیشتر"
+
+#~ msgid "Post an honest <a href=\"%s\" target=\"_blank\">review</a> on wordpress.org."
+#~ msgstr "<a href=\"%s\" target=\"_blank\">نظر</a> خود را صادقانه در وردپرس ارسال کنید."
+
+#~ msgid "<a href=\"%s\" target=\"_blank\">Donate</a> to the Theme & Plugin Compatibility Fund."
+#~ msgstr "<a href=\"%s\" target=\"_blank\">اهدا</a> به صندوق پوسته ها و افزونه."
+
+#~ msgid "Want to help?"
+#~ msgstr "نیاز به کمک دارید؟"
+
+#~ msgid "How to display your testimonials"
+#~ msgstr "چگونه توصیفاتی خود را نمایش دهید."
+
+#~ msgid "1. Enter any existing testimonials and optional categories."
+#~ msgstr "۱-توصیفات موجود و دسته بندی های انتخابی را وارد کنید."
+
+#~ msgid "2. Create a <b>View</b> to display them in a list or a slideshow."
+#~ msgstr "۲-<b>چشم انداز</b> را بصورت لیست یا اسلایدشو ایجاد کنید."
+
+#~ msgid "3. Add the View to a page using its <b>shortcode</b> or add it to a sidebar using the <b>widget</b>."
+#~ msgstr "۳-برای نمایش در صفحات از <b>کد کوتاه</b> و برای استفاده در نوار ابزار از  <b>ابزارک</b> استفاده کنید."
+
+#~ msgid "Views provide many features. Learn more on the Views tab or jump right in!"
+#~ msgstr "چشم اندازها شامل بسیاری از ویژگی هاست. برای اطلاعات بیشتر به تب چشم انداز مراجعه کنید."
+
+#~ msgid "How to add a testimonial submission form"
+#~ msgstr "چگونه یک فرم تسلیم توصیف اضافه کنید"
+
+#~ msgid "1. Create a new View and select <b>Form</b> mode. Add it via shortcode or widget."
+#~ msgstr "۱-چشم انداز جدیدی اضافه و حالت <b>فرم</b> را انتخاب کنید."
+
+#~ msgid "2. Go to the <b>Fields</b> screen if you want to customize the form fields."
+#~ msgstr "۲-اگر نیاز به شخصی سازی فیلدهای فرم دارید به قسمت <b>فیلدها</b> بروید."
+
+#~ msgid "The form has more options like messages and anti-spam on the <b>Settings</b> screen."
+#~ msgstr "در قسمت تنظیمات فرم، گزینه های بیشتری همانند پیام و ضد هرزنامه نیز وجود دارد."
+
+#~ msgid "The <strong>Default</strong> template is a good place to start."
+#~ msgstr "پوسته <strong>پیشفرض</strong> محل خوبی برای شروع است."
+
+#~ msgid "The <strong>Simple</strong> template has minimal style and may be the best option for matching your theme."
+#~ msgstr "پوسته <strong>ساده</strong> با داشتن استایل مینیمال بهترین گزینه برای تطبیق با قالب شماست."
+
+#~ msgid "The <strong>Widget</strong> template has smaller sizing for use in a sidebar or other widget area."
+#~ msgstr "پوسته <strong>ابزارک</strong> دارای اندازه ای کوچک برای استفاده در نوار کناری یا محیط ابزارک است."
+
+#~ msgid "The <strong>Unstyled</strong> template includes no stylesheet and is a good foundation for theme experts."
+#~ msgstr "پوسته <strong>بدون استایل شده</strong> شامل هیچ استایلی نمی باشد و مبنای خوبی برای آشنایان به قالب است."
+
+#~ msgid "Background colors and layout options are available for all templates."
+#~ msgstr "رنگ پس زمینه و گزینه های لایه برای تمام پوسته ها در دسترس است."
+
+#~ msgid "Feel free to ask for help with minor style changes to add to a <a href=\"https://thethemefoundry.com/blog/wordpress-child-theme/\" target=\"_blank\">child theme</a> or <a href=\"https://wordpress.org/plugins/so-css/\" target=\"_blank\">custom CSS</a>."
+#~ msgstr "راهنمایی رایگان همراه با تغییرات جزئی استایل برای اضافه کردن در <a href=\"https://thethemefoundry.com/blog/wordpress-child-theme/\" target=\"_blank\">child theme</a> و <a href=\"https://wordpress.org/plugins/so-css/\" target=\"_blank\">custom CSS</a>."
+
+#~ msgid "New templates will be added occasionally. A premium add-on with a variety of modern templates will be available soon."
+#~ msgstr "گهگاه پوسته های جدید اضافه خواهند شد. همچنین افزودنی های غیررایگان  همراه با انواع پوسته های مدرن بزودی در دسترس قرار خواهند گرفت."
+
+#~ msgid "New template functions are also available."
+#~ msgstr "توابع جدید پوسته نیز در دسترس هستند."
+
+#~ msgid "Visit <a href=\"https://www.wpmission.com/strong-testimonials\" target=\"_blank\">WP Mission</a> for more information on customizing templates."
+#~ msgstr "برای اطلاعات بیشتر در مورد شخصی سازی پوسته ها از <a href=\"https://www.wpmission.com/strong-testimonials\" target=\"_blank\">WP Mission</a> دیدن کنید."
+
+#~ msgid "The plugin is compatible with WPML and Polylang."
+#~ msgstr "افزونه با WPML و Polylang سازگار است."
+
+#~ msgid "In WPML, three domains are added to the String Translation screen."
+#~ msgstr "در WPML، سه دامنه به رشته صفحه ترجمه اضافه شده است."
+
+#~ msgid "In Polylang, the domains are added to the String Translation tab on the Languages screen."
+#~ msgstr "در Polylang، دامنه ها به زبانه‌ی رشته ترجمه در صفحه زبان ها اضافه شده است."
+
+#~ msgid "These domains are updated automatically when your form fields or settings change."
+#~ msgstr "این دامنه ها در صورت تغییر تنظیمات فیلدها بصورت خودکار بروز می شوند."
+
+#~ msgid "A View is simply a group of settings"
+#~ msgstr " تعدادی از تنظیمات ساده چشم انداز"
+
+#~ msgid "Views can display your testimonials in a <b>list</b>, create a <b>slideshow</b>, or show the front-end <b>form</b>. They are easy to learn and adjust as they combine all the features into a single intuitive configuration screen."
+#~ msgstr "چشم اندازها می تواند توصیفات شما را در <b>لیست</b> یا <b>اسلایدشو</b> به نمایش بگذارند. همچنین میتوانید برای دریافت توصیفات <b>فرم</b> طراحی کنید. یادگیری این موارد بسیار آسان و همه این ویژگی ها در صفحه پیکربندی در دسترس است."
+
+#~ msgid "Display Mode - to show one or more testimonials"
+#~ msgstr "حالت نمایش - نمایش یک یا چند توصیف"
+
+#~ msgid "how many to show"
+#~ msgstr "چه تعدادی نشان داده شود"
+
+#~ msgid "which categories to include"
+#~ msgstr "کدام دسته بندی ها را شامل شود"
+
+#~ msgid "the sort order"
+#~ msgstr "مرتب کردن"
+
+#~ msgid "show the full content, the excerpt, or up to a specific length"
+#~ msgstr "نمایش کامل محتوا، چکیده، یا با طول مشخص"
+
+#~ msgid "which fields to include"
+#~ msgstr "شامل کدام فیلدها شود"
+
+#~ msgid "the size of the Featured Image (thumbnail)"
+#~ msgstr "اندازه تصویر ویژه(شاخص)"
+
+#~ msgid "open the full-size image in a lightbox"
+#~ msgstr "باز شدن تصویر با اندازه کامل در لایت باکس"
+
+#~ msgid "pagination"
+#~ msgstr "صفحه بندی"
+
+#~ msgid "a \"Read more\" link to the full post or another page"
+#~ msgstr "لینک «خواندن بیشتر» به پست کامل یا صفحه دیگر"
+
+#~ msgid "choose a template and layout (more coming soon!)"
+#~ msgstr "انتخاب پوسته و لایه (بزودی بیشتر می شود)"
+
+#~ msgid "set the background color"
+#~ msgstr "تنظیم رنگ پس زمینه"
+
+#~ msgid "add custom CSS classes to match your theme"
+#~ msgstr "اضافه کردن CSS سفارشی برای همخوانی با پوسته"
+
+#~ msgid "Slideshow Mode - to rotate through your testimonials"
+#~ msgstr "حالت اسلایدشو - از طریق چرخش توصیفات شما"
+
+#~ msgid "All the options of Display mode (except for pagination) plus:"
+#~ msgstr "تمام گزینه های حالت نمایش (به جز برای صفحه بندی):"
+
+#~ msgid "how long each slide is displayed"
+#~ msgstr "هر اسلاید چه مدت به نمایش در می آید"
+
+#~ msgid "how long the transition effect lasts"
+#~ msgstr "افکت ترنزیشن چه مدت طول می  کشد"
+
+#~ msgid "whether to pause the slideshow when the mouse hovers over it"
+#~ msgstr "آیا زمانی که موس بر روی اسلایدشو قرار می گیرد مکث کند"
+
+#~ msgid "Form Mode - to add a testimonial submission form"
+#~ msgstr "حالت فرم - اضافه کردن فرم ارسال توصیفات"
+
+#~ msgid "assign new testimonials to specific categories"
+#~ msgstr "اختصاص توصیفات جدید به دسته بندی های خاص"
+
+#~ msgid "choose a template"
+#~ msgstr "انتخاب پوسته"
+
+#~ msgid "Welcome to Strong Testimonials version 2.0"
+#~ msgstr "به Strong Testimonials نسخه 2.0 خوش آمدید."
+
+#~ msgid "What's new"
+#~ msgstr "چه چیزی جدید است"
+
+#~ msgid "The &#91;strong&#93; and &#91;wpmtst&#93; shortcodes and the original widget have been removed."
+#~ msgstr "شورتکدهای &#91;strong&#93; و  &#91;wpmtst&#93 و  ابزارک اصلی حذف شده اند."
+
+#~ msgid "Improved compatibility with WPML & Polylang."
+#~ msgstr "بهبود یافته و سازگار شده با WPML & Polylang."
+
+#~ msgid "Improved handling of special characters in the Fields editor."
+#~ msgstr "کاراکترهای ویژه در ویرایشگر فیلدها بهبود یافته است."
+
+#~ msgid "Thanks for choosing Strong Testimonials!"
+#~ msgstr "برای انتخاب افزونه توصیفات قوی از شما متشکریم!"
+
+#~ msgid "New in version %s"
+#~ msgstr "جدید در این نسخه %s"
+
+#~ msgid "Works with multiple lightbox plugins like <a href=\"https://wordpress.org/plugins/simple-colorbox/\" target=\"_blank\">Simple Colorbox</a> and <a href=\"https://wordpress.org/plugins/simple-lightbox/\" target=\"_blank\">Simple Lightbox</a>."
+#~ msgstr "با افزونه های مختلف لایت باکس کار می کند. مانند: <a href=\"https://wordpress.org/plugins/simple-colorbox/\" target=\"_blank\">Simple Colorbox</a> and <a href=\"https://wordpress.org/plugins/simple-lightbox/\" target=\"_blank\">Simple Lightbox</a>."
+
+#~ msgid "New link type: Create a link using a field and its label. Great for social media profiles."
+#~ msgstr "لینک جدید: ساختن یک لینک با استفاده از یک فیلد و برچسب. برای پروفایلهای شبکه های اجتماعی عالی است."
+
+#~ msgid "From:"
+#~ msgstr "فرم:"
+
+#~ msgid "Email"
+#~ msgstr "ایمیل"
+
+#~ msgid "(optional)"
+#~ msgstr "(اختیاری)"
+
+#~ msgid "site admin email:"
+#~ msgstr "ایمیل مدیر سایت:"
+
+#~ msgid "sender's email"
+#~ msgstr "ارسال کننده ایمیل"
+
+#~ msgid "To:"
+#~ msgstr "به:"
+
+#~ msgid "Template tags for Subject and Message:"
+#~ msgstr "پوسته برچسب ها برای موضوع و پیام"
+
+#~ msgid "the site title"
+#~ msgstr "عنوان سایت"
+
+#~ msgid "the testimonial title"
+#~ msgstr "عنوان توصیف"
+
+#~ msgid "the testimonial content"
+#~ msgstr "محتوای توصیف"
+
+#~ msgid "pending or published"
+#~ msgstr "در انتظار یا منتشر شده"
+
+#~ msgid "pattern for custom fields:"
+#~ msgstr "الگو برای فیلدهای سفارشی:"
+
+#~ msgid "for example:"
+#~ msgstr "برای مثال:"
+
+#~ msgid "Subject:"
+#~ msgstr "موضوع:"
+
+#~ msgid "subject line"
+#~ msgstr " خط موضوع"
+
+#~ msgid "Message:"
+#~ msgstr "پیام:"
+
+#~ msgid "message text"
+#~ msgstr "متن پیام"
+
+#~ msgid "Form Labels & Messages"
+#~ msgstr "برچسب فرم و  پیام"
+
+#~ msgctxt "singular"
+#~ msgid "restore default"
+#~ msgstr "بازگردانی به پیشفرض"
+
+#~ msgctxt "multiple"
+#~ msgid "Restore Defaults"
+#~ msgstr "بازگردانی به پیشفرض"
+
+#~ msgctxt "noun"
+#~ msgid "Form Actions"
+#~ msgstr "فعالیت های فرم"
+
+#~ msgid "Post status"
+#~ msgstr "وضعیت ارسال"
+
+#~ msgid "Pending"
+#~ msgstr "در انتظار"
+
+#~ msgid "Published"
+#~ msgstr "منتشر شده"
+
+#~ msgid "Notification"
+#~ msgstr "اعلانیه"
+
+#~ msgid "Send an email upon new testimonial submission"
+#~ msgstr "ارسال ایمیل به محض فرستادن توصیف جدید"
+
+#~ msgid "Form Spam Control"
+#~ msgstr "کنترل فرم هرزنامه"
+
+#~ msgctxt "spam control techniques"
+#~ msgid "Honeypot"
+#~ msgstr "هانی‌پات"
+
+#~ msgid "These methods are both time-tested and widely used. They can be used simultaneously for more protection."
+#~ msgstr "این روشها به صورت گسترده ای مورد استفاده قرار گرفته است. آنها می توانند به صورت همزمان برای محافظت بیشتر استفاده شود."
+
+#~ msgid "Traps spambots by adding an extra empty field that is invisible to humans but not to spambots which tend to fill in every field they find in the form code. Empty field = human. Not empty = spambot."
+#~ msgstr "تله رباتها برای شناسایی رباتهای هرزنامه یک فیلد خالی که برای انسان قابل مشاهده نیست اما برای ربات ها قابل رویت است ایجاد می کند. رباتها تمایل به پر کردن این فیلدها دارند. اگر فیلد خالی بود=انسان. اگر فیلد خالی نبود=ربات."
+
+#~ msgid "Recommended."
+#~ msgstr "توصیه شده."
+
+#~ msgid "Traps spambots by using JavaScript to add a new field as soon as the form is submitted. Since spambots cannot run JavaScript, the new field never gets added. New field = human. Missing = spambot."
+#~ msgstr "تله رباتهای هرزنامه برای شناسایی رباتها با استفاده از جاوااسکریپت به محض ارسال شدن فرم یک فیلد اضافه می کند. از آنجا که رباتها نمی توانند جاوااسکریپت را اجرا کنند، پس فیلد جدید ایجاد نمی شود. فیلد جدید=انسان. درغیر اینصورت=ربات."
+
+#~ msgid "Captcha"
+#~ msgstr "کد امنیتی"
+
+#~ msgid "Can be used alongside honeypot methods. Be sure to configure any plugins first, if necessary."
+#~ msgstr "می توان در کنار روشهای هانی‌پات استفاده گردد. در صورت لزوم مطمئن شوید هر افزونه ابتدا پیکربندی شود."
+
+#~ msgctxt "link"
+#~ msgid "settings"
+#~ msgstr "تنظیمات"
+
+#~ msgid "no settings"
+#~ msgstr "بدون تنظیمات"
+
+#~ msgctxt "adjective"
+#~ msgid "inactive"
+#~ msgstr "غیرفعال"
+
+#~ msgid "not installed"
+#~ msgstr "نصب نشده"
+
+#~ msgctxt "link"
+#~ msgid "install plugin"
+#~ msgstr "نصب افزونه"
+
+#~ msgctxt "link"
+#~ msgid "plugin page"
+#~ msgstr "صفحه افزونه"
+
+#~ msgid "Reordering"
+#~ msgstr "مرتب سازی مجدد"
+
+#~ msgid "Enable drag-and-drop reordering in the testimonial list."
+#~ msgstr "فعال کردن مرتب سازی مجدد کشیدن و رها کردن در لیست توصیفات"
+
+#~ msgid "Multiple Forms License Key"
+#~ msgstr "کلید مجوز فرم های متعدد"
+
+#~ msgid "Activate License"
+#~ msgstr "فعال کردن مجوز"
+
+#~ msgid "active"
+#~ msgstr "فعال کردن"
+
+#~ msgid "Deactivate License"
+#~ msgstr "غیرفعال کردن مجوز"
+
+#~ msgid "email address"
+#~ msgstr "نشانی ایمیل"
+
+#~ msgid "Settings"
+#~ msgstr "تنظیمات"
+
+#~ msgctxt "noun"
+#~ msgid "Guide"
+#~ msgstr "راهنما"
+
+#~ msgid "Testimonial Settings"
+#~ msgstr "تنظیمات توصیف"
+
+#~ msgid "Settings saved."
+#~ msgstr "تنظیمات ذخیره شد."
+
+#~ msgctxt "adjective"
+#~ msgid "General"
+#~ msgstr "عمومی"
+
+#~ msgid "Form"
+#~ msgstr "فرم"
+
+#~ msgid "Licenses"
+#~ msgstr "مجوزها"
+
+#~ msgid "Save Changes"
+#~ msgstr "ذخیره تغییرات"
+
+#~ msgid "Extra"
+#~ msgstr "اضافی"
+
+#~ msgid "Actions"
+#~ msgstr "فعالیت ها"
+
+#~ msgid "Options"
+#~ msgstr "گزینه ها"
+
+#~ msgid "Select"
+#~ msgstr "انتخاب"
+
+#~ msgid "Style"
+#~ msgstr "سبک(استایل)"
+
+#~ msgctxt "slideshow setting"
+#~ msgid "Show each for"
+#~ msgstr "نمایش هریک برای"
+
+#~ msgctxt "time setting"
+#~ msgid "seconds"
+#~ msgstr "ثانیه"
+
+#~ msgctxt "slideshow setting"
+#~ msgid "Fade transition for"
+#~ msgstr "محو شدن برای"
+
+#~ msgctxt "slideshow setting"
+#~ msgid "Pause on hover"
+#~ msgstr "توقف در حالت شناور"
+
+#~ msgid "Mode:"
+#~ msgstr "حالت"
+
+#~ msgid "Background"
+#~ msgstr "پس زمینه"
+
+#~ msgid "none"
+#~ msgstr "هیچکدام"
+
+#~ msgid "single color"
+#~ msgstr "تک رنگ"
+
+#~ msgid "gradient"
+#~ msgstr "گرادینت"
+
+#~ msgid "preset"
+#~ msgstr "از پیش تعیین شده"
+
+#~ msgid "From top"
+#~ msgstr "از بالا"
+
+#~ msgid "To bottom"
+#~ msgstr "به پایین"
+
+#~ msgid "dark"
+#~ msgstr "تیره"
+
+#~ msgid "light"
+#~ msgstr "روشن"
+
+#~ msgid "Option Name"
+#~ msgstr "گزینه نام"
+
+#~ msgid "yes"
+#~ msgstr "بله"
+
+#~ msgid "no"
+#~ msgstr "خیر"
+
+#~ msgid "maybe"
+#~ msgstr "شاید"
+
+#~ msgid "Yes"
+#~ msgstr "بله"
+
+#~ msgid "No"
+#~ msgstr "خیر"
+
+#~ msgid "Maybe"
+#~ msgstr "شاید"
+
+#~ msgid "Categories"
+#~ msgstr "دسته بندی ها"
+
+#~ msgid "all"
+#~ msgstr "همه"
+
+#~ msgctxt "verb"
+#~ msgid "select"
+#~ msgstr "انتخاب"
+
+#~ msgid "No categories found"
+#~ msgstr "دسته بندی پیدا نشد"
+
+#~ msgid "CSS Classes"
+#~ msgstr "کلاس های سی‌اس‌اس"
+
+#~ msgid "separated by spaces"
+#~ msgstr "با فضای خالی از هم جدا شود"
+
+#~ msgid "Add Field"
+#~ msgstr "اضافه کردن فیلد"
+
+#~ msgid "Compatibility mode"
+#~ msgstr "حالت سازگاری"
+
+#~ msgid "off (default)"
+#~ msgstr "خاموش"
+
+#~ msgid "on"
+#~ msgstr "روشن"
+
+#~ msgid "Turning this <b>on</b> may help if the form is not working, especially with page builders and popup makers. "
+#~ msgstr "اگر فرم کار نکند برای راهنمایی بهتر است <b>روشن</b> باشد. بخصوص با صفحه سازها و popup makers."
+
+#~ msgid "Required <b>on</b> if using the <a href=\"https://wordpress.org/plugins/popup-maker/\" target=\"_blank\">Popup Maker</a> plugin."
+#~ msgstr "ضروریست در صورت استفاده از افزونه  <a href=\"https://wordpress.org/plugins/popup-maker/\" target=\"_blank\">Popup Maker</a> <b>روشن</b> باشد. <code>strong_testimonial_view()</code>."
+
+#~ msgid "Turning this <b>on</b> may help if the slideshow is not working, especially with page builders."
+#~ msgstr "اگر اسلایدشو کار نکند برای راهنمایی بهتر است <b>روشن</b> باشد. بخصوص با صفحه سازها."
+
+#~ msgid "Required <b>on</b> if using the template function <code>strong_testimonial_view()</code>."
+#~ msgstr "ضروریست در صورت استفاده از فانکشن پوسته <b>روشن</b> باشد. <code>strong_testimonial_view()</code>."
+
+#~ msgid "Content"
+#~ msgstr "محتوا"
+
+#~ msgctxt "display setting"
+#~ msgid "the full testimonial"
+#~ msgstr "توصیف بصورت کامل"
+
+#~ msgctxt "display setting"
+#~ msgid "the excerpt"
+#~ msgstr "چکیده"
+
+#~ msgctxt "display setting"
+#~ msgid "a specific length"
+#~ msgstr "طول مشخص شده"
+
+#~ msgid "Will strip tags like &lt;em&gt; and &lt;strong&gt;."
+#~ msgstr "برچسب ها محروم  خواهند بود مانند &lt;em&gt; و &lt;strong&gt;."
+
+#~ msgid "Excerpts are hand-crafted summaries of your testimonial."
+#~ msgstr "چکیده ها خلاصه ای دست ساز از توصیف شماست."
+
+#~ msgid "You may need to enable them in the post editor like in this <a href=\"%s\" class=\"%s\">screenshot</a>."
+#~ msgstr "شما ممکن است نیاز به فعال کردن آنها در ویرایشگر متن داشته باشید. مانند  <a href=\"%s\" class=\"%s\">اسکرین شات</a>."
+
+#~ msgid "Submit form via Ajax"
+#~ msgstr "ارسال فرم از طریق آژاکس"
+
+#~ msgid "Assign new submissions to a category"
+#~ msgstr "اختصاص به یک دسته بندی"
+
+#~ msgid "Template"
+#~ msgstr "پوسته"
+
+#~ msgid "not found"
+#~ msgstr "چیزی پیدا نشد"
+
+#~ msgid "&mdash; select &mdash;"
+#~ msgstr "&mdash; انتخاب &mdash;"
+
+#~ msgid "(untitled)"
+#~ msgstr "(بدون عنوان)"
+
+#~ msgctxt "to select a testimonial"
+#~ msgid "or enter its ID or slug"
+#~ msgstr "وارد کردن آیدی یا اسلاگ"
+
+#~ msgid "Layout"
+#~ msgstr "طرح"
+
+#~ msgid "normal"
+#~ msgstr "معمولی"
+
+#~ msgid "Masonry"
+#~ msgstr "ترتیبی (معماری)"
+
+#~ msgid "columns"
+#~ msgstr "ستونی"
+
+#~ msgid "grid"
+#~ msgstr "شبکه ای"
+
+#~ msgid "Normal layout."
+#~ msgstr "طرح معمولی"
+
+#~ msgid "A cascading, responsive grid using the jQuery plugin <a href=\"%s\" target=\"_blank\">Masonry</a>."
+#~ msgstr "بصورت آبشاری و واکنشگرا با استفاده از افزونه جی کوئری <a href=\"%s\" target=\"_blank\">Masonry</a>."
+
+#~ msgid "The universal solution that works well regardless of testimonial lengths."
+#~ msgstr "راه حلی کلی که صرفنظر از طول توصیف بخوبی کار می کند."
+
+#~ msgid "Not compatible with pagination."
+#~ msgstr "با صفحه بندی سازگار نیست."
+
+#~ msgid "Using <a href=\"%s\" target=\"_blank\">CSS multi-column</a>. Fill from top to bottom, then over to next column."
+#~ msgstr "از <a href=\"%s\" target=\"_blank\">CSS multi-column</a>برای پر کردن از بالا به پایین، سپس به ستون بعدی استفاده می کند."
+
+#~ msgid "Works well with both long and short testimonials."
+#~ msgstr "به خوبی با توصیفات کوتاه و بلند کار می کند."
+
+#~ msgid "Compatible with pagination."
+#~ msgstr "سازگار با صفحه بندی."
+
+#~ msgid "Using <a href=\"%s\" target=\"_blank\">CSS flexbox</a> with <a href=\"%s\" target=\"_blank\">JavaScript fallback</a> for older browsers."
+#~ msgstr "استفاده از <a href=\"%s\" target=\"_blank\">CSS flexbox</a> با <a href=\"%s\" target=\"_blank\">JavaScript fallback</a>  برای مرورگرهای قدیمی."
+
+#~ msgid "Testimonials will be equal height so this works best when they are about the same length<br>(using the excerpts or setting a length limit)."
+#~ msgstr "توصیفات ارتفاعی برابر خواهند داشت و زمانی به خوبی کار می کنند که مقدار یکسانی داشته باشند.<br>(از چکیده یا محدود کننده مقدار استفاده شود)."
+
+#~ msgid "number of columns"
+#~ msgstr "تعداد ستون ها"
+
+#~ msgid "Quantity"
+#~ msgstr "مقدار"
+
+#~ msgctxt "noun"
+#~ msgid "count"
+#~ msgstr "تعداد"
+
+#~ msgid "\"Read more\" link to the testimonial"
+#~ msgstr "«بیشتر بخوانید» لینک به توصیفات"
+
+#~ msgid "Link text"
+#~ msgstr "متن لینک"
+
+#~ msgid "Typically used with excerpts and truncated content."
+#~ msgstr "به طور معمول با چکیده و محتوای کوتاه شده استفاده می شود."
+
+#~ msgctxt "noun"
+#~ msgid "Order"
+#~ msgstr "ترتیب"
+
+#~ msgid "Pagination"
+#~ msgstr "صفحه بندی"
+
+#~ msgctxt "quantity"
+#~ msgid "Per page"
+#~ msgstr "در صفحه"
+
+#~ msgid "Navigation"
+#~ msgstr "ناوبری"
+
+#~ msgid "before"
+#~ msgstr "قبل"
+
+#~ msgid "after"
+#~ msgstr "بعد"
+
+#~ msgid "before & after"
+#~ msgstr "قبل و بعد"
+
+#~ msgid "\"Read more\" link"
+#~ msgstr "لینک «خواندن بیشتر»"
+
+#~ msgid "to the testimonial"
+#~ msgstr "در توصیف"
+
+#~ msgid "to a page"
+#~ msgstr "در صفحه"
+
+#~ msgctxt "to select a target page"
+#~ msgid "or enter its ID or slug"
+#~ msgstr "وارد کردن آیدی یا اسلاگ"
+
+#~ msgctxt "verb"
+#~ msgid "Show"
+#~ msgstr "چشم انداز"
+
+#~ msgid "multiple testimonials"
+#~ msgstr "تمام توصیفات"
+
+#~ msgid "a single testimonial"
+#~ msgstr "یک توصیف تنها"
+
+#~ msgid "no description"
+#~ msgstr "بدون توضیحات"
+
+#~ msgid "Featured Image"
+#~ msgstr "تصویر ویژه"
+
+#~ msgid "not found in Fields"
+#~ msgstr "چیزی در فیلد پیدا نشد"
+
+#~ msgid "width"
+#~ msgstr "عرض"
+
+#~ msgid "height"
+#~ msgstr "ارتفاع"
+
+#~ msgid "Open full-size image in lightbox"
+#~ msgstr "باز شدن تصویر کامل در لایت باکس"
+
+#~ msgid "If no Featured image"
+#~ msgstr "اگر تصویر ویژه وجود نداشت"
+
+#~ msgid "show nothing"
+#~ msgstr "نمایش هیچ چیز"
+
+#~ msgid "show Gravatar"
+#~ msgstr "نمایش گراواتار"
+
+#~ msgid "show Gravatar only if found"
+#~ msgstr "اگر گراواتار یافت شد نمایش داده شود"
+
+#~ msgid "Gravatar settings"
+#~ msgstr "تنظیمات گراواتار"
+
+#~ msgid "Timing"
+#~ msgstr "تنظیم زمان"
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Edit View"
+#~ msgstr "ویرایش چشم انداز"
+
+#~ msgid "Add View"
+#~ msgstr "اضافه کردن چشم انداز"
+
+#~ msgid "View saved."
+#~ msgstr "چشم انداز ذخیره شد."
+
+#~ msgid "View deleted."
+#~ msgstr "چشم انداز حذف شد."
+
+#~ msgid "A View can display your testimonials, create a slideshow, or show a testimonial submission form.<br>Add it to a page with a shortcode or add it to a sidebar with a widget."
+#~ msgstr "چشم انداز می تواند توصیفات شما را به نمایش بگذارد.<br> اسلایدشو و یا فرم ارسال توصیف ایجاد کنید. آن را در صفحات به وسیله شورتکد و در نوار کناری به وسیله ابزارک اضافه کنید."
+
+#~ msgctxt "display order"
+#~ msgid "random"
+#~ msgstr "تصادفی"
+
+#~ msgctxt "display order"
+#~ msgid "menu order"
+#~ msgstr "منوی ترتیب"
+
+#~ msgctxt "display order"
+#~ msgid "newest first"
+#~ msgstr "ابتدا جدیدترین"
+
+#~ msgctxt "display order"
+#~ msgid "oldest first"
+#~ msgstr "ابتدا قدیمی ترین"
+
+#~ msgid "text"
+#~ msgstr "متن"
+
+#~ msgid "link with field"
+#~ msgstr "لینک همراه فیلد"
+
+#~ msgid "link"
+#~ msgstr "لینک"
+
+#~ msgid "date"
+#~ msgstr "تاریخ"
+
+#~ msgid "new tab"
+#~ msgstr "زبانه جدید"
+
+#~ msgid "<a href=\"%s\" target=\"_blank\">more about date formats</a>"
+#~ msgstr "<a href=\"%s\" target=\"_blank\">درباره فرمت های تاریخ بیشتر بدانید</a>"
+
+#~ msgctxt "Captcha"
+#~ msgid "Input this code:"
+#~ msgstr "کد را وارد کنید:"
+
+#~ msgid "List View"
+#~ msgstr "لیست چشم انداز"
+
+#~ msgid "Excerpt View"
+#~ msgstr "نمایش چکیده"
+
+#~ msgid "No items found."
+#~ msgstr "موردی پیدا نشد."
+
+#~ msgid "Select bulk action"
+#~ msgstr "انتخاب فعالیت حجیم"
+
+#~ msgid "Bulk Actions"
+#~ msgstr "فعالیت های حجیم"
+
+#~ msgid "Apply"
+#~ msgstr "اعمال کردن"
+
+#~ msgid "Filter by date"
+#~ msgstr "صافی به وسیله تاریخ"
+
+#~ msgid "All dates"
+#~ msgstr "تمام تاریخ ها"
+
+#~ msgid "%1$s %2$d"
+#~ msgstr "%1$s %2$d"
+
+#~ msgid "%s pending"
+#~ msgstr "%s درحال انتظار"
+
+#~ msgid "1 item"
+#~ msgid_plural "%s items"
+#~ msgstr[0] "%s مورد"
+
+#~ msgid "Go to the first page"
+#~ msgstr "برو به اولین صفحه"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "برو به صفحه قبلی"
+
+#~ msgid "Select Page"
+#~ msgstr "انتخاب صفحه"
+
+#~ msgid "Current page"
+#~ msgstr "صفحه چاری"
+
+#~ msgctxt "paging"
+#~ msgid "%1$s of %2$s"
+#~ msgstr "%1$s از %2$s"
+
+#~ msgid "Go to the next page"
+#~ msgstr "برو به صفحه بعدی"
+
+#~ msgid "Go to the last page"
+#~ msgstr "برو به آخرین صفحه"
+
+#~ msgid "Select All"
+#~ msgstr "انتخاب همه"
+
+#~ msgid "Edit"
+#~ msgstr "ویرایش"
+
+#~ msgid "Duplicate"
+#~ msgstr "تکثیر کردن"
+
+#~ msgid "Delete \"%s\"?"
+#~ msgstr "حذف \"%s\"؟"
+
+#~ msgid "This field is required."
+#~ msgstr "عنوان فیلد ضروری است."
+
+#~ msgid "Testimonial Title"
+#~ msgstr "عنوان توصیف"
+
+#~ msgid "Testimonial Content"
+#~ msgstr "محتوای توصیف"
+
+#~ msgid "email"
+#~ msgstr "ایمیل"
+
+#~ msgid "URL"
+#~ msgstr "لینک"
+
+#~ msgid "categories"
+#~ msgstr "دسته بندی ها"
+
+#~ msgid "category selector"
+#~ msgstr "انتخابگر دسته بندی"
+
+#~ msgid "Default Form"
+#~ msgstr "فرم پیشفرض"
+
+#~ msgid "Full Name"
+#~ msgstr "نام کامل"
+
+#~ msgid "What is your full name?"
+#~ msgstr "نام کامل شما چیست؟"
+
+#~ msgid "What is your email address?"
+#~ msgstr "ایمیل شما چیست؟"
+
+#~ msgid "Company Name"
+#~ msgstr "نام شرکت"
+
+#~ msgid "What is your company name?"
+#~ msgstr "نام شرکت شما چیست؟"
+
+#~ msgid "Company Website"
+#~ msgstr "وبسایت شرکت"
+
+#~ msgid "Does your company have a website?"
+#~ msgstr "آیا شرکت شما سایت دارد؟"
+
+#~ msgid "Heading"
+#~ msgstr "عنوان"
+
+#~ msgid "A headline for your testimonial."
+#~ msgstr "یک تیتر برای توصیف شما."
+
+#~ msgid "Testimonial"
+#~ msgstr "توصیف"
+
+#~ msgid "What do you think about us?"
+#~ msgstr "درباره ما چطور فکر می کنید؟"
+
+#~ msgid "Photo"
+#~ msgstr "تصویر"
+
+#~ msgid "Would you like to include a photo?"
+#~ msgstr "آیا علاقه‌مند به قرار دادن تصویر هستید؟"
+
+#~ msgid "Minimal Form"
+#~ msgstr "فرم مینیمال"
+
+#~ msgid "Custom Form"
+#~ msgstr "فرم دلخواه"
+
+#~ msgid "Required field"
+#~ msgstr "فیلد ضروری"
+
+#~ msgctxt "description"
+#~ msgid "Captcha label"
+#~ msgstr "برچسب کد امنیتی"
+
+#~ msgctxt "strong-testimonials"
+#~ msgid "Captcha"
+#~ msgstr "کد امنیتی"
+
+#~ msgctxt "description"
+#~ msgid "Submit button"
+#~ msgstr "دکمه ارسال"
+
+#~ msgctxt "the Submit button"
+#~ msgid "Add Testimonial"
+#~ msgstr "اضافه کردن توصیف"
+
+#~ msgctxt "description"
+#~ msgid "Submission error"
+#~ msgstr "خطای ارسال"
+
+#~ msgctxt "error message"
+#~ msgid "There was a problem processing your testimonial."
+#~ msgstr "در پردازش توصیف مشکل وجود دارد."
+
+#~ msgctxt "description"
+#~ msgid "Submission success"
+#~ msgstr "ارسال کامل شد"
+
+#~ msgctxt "success message"
+#~ msgid "Thank you! Your testimonial is awaiting moderation."
+#~ msgstr "متشکریم! توصیف شما در انتظار مدیریت."
+
+#~ msgid "New testimonial for %BLOGNAME%"
+#~ msgstr "توصیف جدید برای %BLOGNAME%"
+
+#~ msgid "New testimonial submission for %BLOGNAME%. This is awaiting action from the website administrator."
+#~ msgstr "توصیف جدید شما برای %BLOGNAME% ارسال شد و در انتظار اقدام توسط مدیر است."
+
+#~ msgid "Display"
+#~ msgstr "نمایش"
+
+#~ msgid "Slideshow"
+#~ msgstr "اسلایدشو"
+
+#~ msgid "Random"
+#~ msgstr "تصادفی"
+
+#~ msgid "Newest first"
+#~ msgstr "ابتدا جدیدترین ها"
+
+#~ msgid "Oldest first"
+#~ msgstr "ابتدا قدیمی ها"
+
+#~ msgid "Length"
+#~ msgstr "طول"
+
+#~ msgid "Entire"
+#~ msgstr "تمامی"
+
+#~ msgctxt "link"
+#~ msgid "Read more"
+#~ msgstr "خواندن ادامه"
+
+#~ msgid "Testimonial Form Fields"
+#~ msgstr "فیلدهای فرم توصیف"
+
+#~ msgid "Testimonial Form Messages"
+#~ msgstr "پیام فرم توصیف"
+
+#~ msgid "Testimonial Notification Options"
+#~ msgstr "گزینه های اعلامیه"
+
+#~ msgid "The Captcha failed. Please try again."
+#~ msgstr "کد امنیتی ناموفق بود. لطفا دوباره سعی کنید."
+
+#~ msgid "placeholder"
+#~ msgstr "متن محو شونده"
+
+#~ msgid "label"
+#~ msgstr "برچسب"
+
+#~ msgid "Email message"
+#~ msgstr "محتوای ایمیل"
+
+#~ msgid "Email subject"
+#~ msgstr "موضوع ایمیل"
+
+#~ msgctxt "post type general name"
+#~ msgid "Testimonials"
+#~ msgstr "توصیفات"
+
+#~ msgctxt "admin menu name"
+#~ msgid "Testimonials"
+#~ msgstr "توصیفات"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Testimonial"
+#~ msgstr "توصیف"
+
+#~ msgctxt "post type"
+#~ msgid "Add New"
+#~ msgstr "اضافه کردن"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "اضافه کردن توصیف جدید"
+
+#~ msgid "Edit Testimonial"
+#~ msgstr "ویرایش توصیف"
+
+#~ msgid "New Testimonial"
+#~ msgstr "توصیف جدید"
+
+#~ msgid "All Testimonials"
+#~ msgstr "تمام توصیفات"
+
+#~ msgid "View Testimonial"
+#~ msgstr "مشاهده توصیف"
+
+#~ msgid "Search Testimonials"
+#~ msgstr "جستجوی توصیفات"
+
+#~ msgid "Nothing Found"
+#~ msgstr "چیزی پیدا نشد"
+
+#~ msgid "Nothing found in Trash"
+#~ msgstr "چیزی در زباله‌دان یافت نشد"
+
+#~ msgctxt "post type singular label"
+#~ msgid "testimonial"
+#~ msgstr "توصیف"
+
+#~ msgctxt "slug"
+#~ msgid "testimonial"
+#~ msgstr "توصیف"
+
+#~ msgid "Testimonial Categories"
+#~ msgstr "دسته بندی های توصیف"
+
+#~ msgid "Testimonial Category"
+#~ msgstr "دسته بندی توصیف"
+
+#~ msgid "All categories"
+#~ msgstr "تمام دسته بندی ها"
+
+#~ msgctxt "widget description"
+#~ msgid "Add one of your testimonial views."
+#~ msgstr "اضافه کردن چشم انداز برای توصیف."
+
+#~ msgctxt "widget label"
+#~ msgid "Strong Testimonials View"
+#~ msgstr "چشم انداز توصیفات"
+
+#~ msgctxt "widget title"
+#~ msgid "Testimonials"
+#~ msgstr "توصیفات"
+
+#~ msgid "Title:"
+#~ msgstr "عنوان:"
+
+#~ msgid "Content:"
+#~ msgstr "محتوا:"
+
+#~ msgid "Automatically add paragraphs to above Content only"
+#~ msgstr "افزودن خودکار پاراگراف به بالای محتوا"
+
+#~ msgctxt "widget setting"
+#~ msgid "View:"
+#~ msgstr "چشم انداز:"
+
+#~ msgid "&mdash; Select &mdash;"
+#~ msgstr "&mdash; انتخاب &mdash;"
+
+#~ msgid "Cheatin&#8217; huh?"
+#~ msgstr "Cheatin&#8217; huh?"
+
+#~ msgid "light gray gradient"
+#~ msgstr "light gray gradient"
+
+#~ msgid "light blue gradient"
+#~ msgstr "light blue gradient"
+
+#~ msgid "sky blue gradient"
+#~ msgstr "sky blue gradient"
+
+#~ msgid "light latte gradient"
+#~ msgstr "light latte gradient"
+
+#~ msgid "light green mist gradient"
+#~ msgstr "light green mist gradient"
+
+#~ msgid "light plum gradient"
+#~ msgstr "light plum gradient"
+
+#~ msgid "Strong Testimonials"
+#~ msgstr "توصیفات (Strong Testimonials)"
+
+#~ msgid "https://www.wpmission.com/plugins/strong-testimonials/"
+#~ msgstr "https://www.wpmission.com/plugins/strong-testimonials/"
+
+#~ msgid "A full-featured plugin that works right out of the box for beginners and offers advanced features for pros."
+#~ msgstr "A full-featured plugin that works right out of the box for beginners and offers advanced features for pros."
+
+#~ msgid "Chris Dillon"
+#~ msgstr "Chris Dillon"
+
+#~ msgid "https://www.wpmission.com/"
+#~ msgstr "https://www.wpmission.com/"

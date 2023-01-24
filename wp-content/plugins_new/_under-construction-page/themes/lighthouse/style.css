@@ -1,0 +1,76 @@
+/*
+ * UnderConstructionPage
+ * Lighthouse theme CSS
+ * (c) WebFactory Ltd, 2015 - 2021
+ */
+
+
+html {
+   height: 100%;
+   padding: 0;
+   margin: 0;
+}
+
+body {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 120%;
+  color: #2C3D55;
+  background: #98a8be;
+  padding: 0;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#hero-image {
+  text-align: center;
+  margin: 20px auto 10px auto;
+  border-bottom: 5px solid #414042;
+}
+
+#hero-image img {
+  max-width: 80%;
+}
+
+h1 {
+  font-size: 34px;
+  color: #2C3D55;
+  font-family: "Nunito", sans-serif;
+  font-weight: 900;
+  margin: 20px 0 30px 0;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+#social {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#social a i {
+  color: #2C3D55;
+  margin: 10px;
+  box-sizing: content-box;
+}
+
+#social a:hover i {
+  color: #e0632f;
+}
+
+@media(max-width:767px){
+  h1 {
+     font-size: 30px;
+     margin: 10px 0 30px 0;
+  }
+  #hero-image img {
+    max-width: 95%;
+  }
+  #hero-image {
+    border-bottom: 3px solid #414042;
+  }
+}

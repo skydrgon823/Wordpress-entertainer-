@@ -1,0 +1,242 @@
+/* ========================================
+Colors
+======================================== */
+/* ========================================
+Fonts
+======================================== */
+/* ========================================
+Item-Specific
+======================================== */
+.om-notifications-count {
+  position: relative; }
+
+.omapi-box {
+  margin: 30px 30px;
+  padding: 30px;
+  background: #fff;
+  border: 1px solid #DDDDDD;
+  line-height: 2; }
+  .omapi-box--flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap; }
+  .omapi-box__half {
+    width: 50%;
+    min-width: 400px; }
+  .omapi-box__image {
+    width: 100%; }
+    .omapi-box__image img {
+      display: block;
+      width: 400px;
+      margin: 0 auto;
+      border-radius: 5px; }
+  .omapi-box__image-subtitle {
+    margin-top: 10px;
+    line-height: 1.3;
+    color: #41495B;
+    text-align: center; }
+
+.omapi-screen #wpcontent {
+  padding: 0 0 40px; }
+
+.omapi-screen .omapi-static-banner {
+  background: #0d82df;
+  height: 80px;
+  line-height: 1;
+  margin-left: -20px; }
+
+.omapi-static-banner .logo-wrapper {
+  padding: 12px 0;
+  line-height: 1;
+  display: inline-block; }
+
+.omapi-static-banner .omapi-svg-logo {
+  height: 24px;
+  width: 159px; }
+
+.omapi-static-banner .inner-container {
+  height: 80px;
+  padding: 0 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+
+.omapi-plugin-banner {
+  background-color: #087CE1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 74px; }
+  .omapi-plugin-banner__wrapper {
+    padding: 22px 40px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 100%; }
+  .omapi-plugin-banner__logo {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    color: #FFFFFF; }
+    .omapi-plugin-banner__logo img {
+      width: 164px;
+      margin-right: 13px; }
+  .omapi-plugin-banner__page {
+    font-size: 18px;
+    line-height: 130%; }
+  .omapi-plugin-banner__icons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0; }
+    .omapi-plugin-banner__icons > li {
+      margin: 0; }
+      .omapi-plugin-banner__icons > li > a, .omapi-plugin-banner__icons > li > button {
+        color: #FFFFFF; }
+  .omapi-plugin-banner__icon {
+    margin: 0 0 0 20px;
+    cursor: pointer; }
+
+.logo-wrapper span.omapi-logo-version {
+  color: #fff;
+  vertical-align: middle;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  display: inline-block; }
+
+.omapi-app #wpbody-content > .notice {
+  margin: 15px 40px 5px; }
+
+.omapi-screen .static-menu {
+  float: right; }
+  .omapi-screen .static-menu > ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin: 0;
+    padding: 0; }
+    .omapi-screen .static-menu > ul > li {
+      margin: 0;
+      padding: 0; }
+      .omapi-screen .static-menu > ul > li .static-menu-item {
+        cursor: pointer;
+        text-decoration: none;
+        color: #fff;
+        font-size: 13px;
+        font-weight: 400;
+        letter-spacing: .04em;
+        padding: 13px;
+        padding: 9px;
+        margin: 4px;
+        display: block; }
+        .omapi-screen .static-menu > ul > li .static-menu-item:focus {
+          outline: 0;
+          -webkit-box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.32);
+                  box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.32); }
+          .omapi-screen .static-menu > ul > li .static-menu-item:focus > * {
+            outline: 0;
+            -webkit-box-shadow: none;
+                    box-shadow: none; }
+
+.unbutton {
+  -webkit-appearance: none;
+  border: inherit;
+  padding: inherit;
+  background-color: inherit;
+  width: inherit;
+  color: inherit; }
+
+.om-archie-loading {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 50px; }
+
+.om-archie-loading svg {
+  max-width: 200px; }
+
+.om-archie-loading circle {
+  -webkit-animation: 2s linear infinite circle-animation;
+          animation: 2s linear infinite circle-animation;
+  display: block;
+  fill: transparent;
+  stroke: #858b98;
+  stroke-dasharray: 157;
+  stroke-width: 2;
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%; }
+
+@-webkit-keyframes circle-animation {
+  0% {
+    stroke-dashoffset: 33;
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  50% {
+    stroke-dashoffset: 157;
+    -webkit-transform: rotate(720deg);
+            transform: rotate(720deg); }
+  100% {
+    stroke-dashoffset: 33;
+    -webkit-transform: rotate(1080deg);
+            transform: rotate(1080deg); } }
+
+@keyframes circle-animation {
+  0% {
+    stroke-dashoffset: 33;
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  50% {
+    stroke-dashoffset: 157;
+    -webkit-transform: rotate(720deg);
+            transform: rotate(720deg); }
+  100% {
+    stroke-dashoffset: 33;
+    -webkit-transform: rotate(1080deg);
+            transform: rotate(1080deg); } }
+
+.om-circle-loading {
+  background: url(../../css/images/icons/loading-circle.svg) no-repeat center;
+  background-size: 60px;
+  height: 60px;
+  margin: 20px; }
+
+.transitioning {
+  background: url(../../css/images/icons/loading-circle.svg) no-repeat center 100px;
+  background-size: 60px; }
+
+.transitioning > * {
+  -webkit-transition: opacity .2s;
+  transition: opacity .2s;
+  opacity: 0; }

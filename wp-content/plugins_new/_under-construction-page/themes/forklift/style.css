@@ -1,0 +1,77 @@
+/*
+ * UnderConstructionPage
+ * Forklift theme CSS
+ * (c) WebFactory Ltd, 2015 - 2021
+ */
+
+
+html {
+   height: 100%;
+   padding: 0;
+   margin: 0;
+}
+
+body {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 120%;
+  color: #414042;
+  background: #fd6439 ; /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #fd6439 0%,#fd6438 67%,#000000 139%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #fd6439 0%,#fd6438 67%,#000000 139%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #fd6439 0%,#fd6438 67%,#000000 139%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fd6439', endColorstr='#fafafa',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  padding: 0;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#hero-image {
+  text-align: center;
+  margin: 20px auto 40px auto;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.24);
+}
+
+#hero-image img {
+  max-width: 80%;
+}
+
+h1 {
+  font-size: 34px;
+  color: #414042;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  margin: 60px 0 30px 0;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+#social {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#social a i {
+  color: #414042;
+  margin: 10px;
+  box-sizing: content-box;
+}
+
+#social a:hover i {
+  color: #ffffff;
+}
+
+@media(max-width:767px){
+  h1 {
+     font-size: 30px;
+     margin: 10px 0 30px 0;
+  }
+  #hero-image img {
+    max-width: 95%;
+  }
+}

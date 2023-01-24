@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2019-07-17 07:15:31+00:00\n"
+"PO-Revision-Date: 2015-06-12 01:51+0800\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: buddypress-global-search.php:71
+msgid "Couldn't load main class at:<br/>%s"
+msgstr "Não foi possível carregar a classe principal em: <br/>%s"
+
+#: buddypress-global-search.php:75
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Erro crítico</h1><hr/><pre>%s</pre>"
+
+#: includes/admin.php:189
+msgid "General Settings"
+msgstr "Configurações gerais"
+
+#: includes/admin.php:192
+#, fuzzy
+msgid "Items to Search"
+msgstr "Ítens a incluir na busca"
+
+#: includes/admin.php:193
+#, fuzzy
+msgid "Autosuggest"
+msgstr "AutoSugerir"
+
+#: includes/admin.php:194
+msgid "Autosuggest number of items"
+msgstr ""
+
+#: includes/admin.php:198
+msgid "Support"
+msgstr ""
+
+# Plugin name.. wont translate
+#: includes/admin.php:241
+msgid "BuddyPress Global Search"
+msgstr ""
+
+#: includes/admin.php:249
+msgid "Settings updated."
+msgstr "Configurações atualizadas."
+
+#: includes/admin.php:256
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: includes/admin.php:327
+msgid "Enable AutoSuggest dropdown in search inputs."
+msgstr "Habilitar AutoSugerir nos campos de busca."
+
+#: includes/admin.php:340
+msgid "Search the following components:"
+msgstr "Buscar nos seguintes componentes:"
+
+#: includes/admin.php:379 includes/admin.php:420
+msgid "Settings"
+msgstr "Configurações"
+
+#: includes/admin.php:422
+msgid ""
+"Hey! BuddyPress Global Search has better integration with multisite now. "
+"Your settings might have been reset to defaults after update. Please check "
+"your %s."
+msgstr ""
+"Ei! Agora o BuddyPress Global Search tem integração otimizada com multisite. "
+"Suas configurações deve ter sido resetadas para as configurações padrão após "
+"a atualização. Por favor, verifique %s."
+
+#: includes/admin.php:426
+msgid "Hide this notice"
+msgstr "Esconder esta notificação"
+
+#: includes/class.BBoss_Global_Search_Helper.php:95
+#: includes/class.BBoss_Global_Search_Helper.php:104
+#: includes/main-class.php:180 includes/main-class.php:189
+#: includes/search-types/class.BBoss_Global_Search_Type.php:39
+#: includes/search-types/class.BBoss_Global_Search_Type.php:48
+msgid "Cheatin&#8217; huh?"
+msgstr "Trapaceando, ein?"
+
+#: includes/class.BBoss_Global_Search_Helper.php:306
+msgid "View all results for '%s'"
+msgstr "Veja todos os resultados para ‘%s’"
+
+#: includes/class.BBoss_Global_Search_Helper.php:314
+msgid "Nothing found for '%s'"
+msgstr "Nada encontrado para ‘%s’"
+
+#: includes/class.BBoss_Global_Search_Helper.php:722
+msgid "All"
+msgstr ""
+
+#: includes/filters.php:126
+msgid "Search Results"
+msgstr "Resultados da busca"
+
+#: includes/functions.php:303
+msgid "Blog Posts"
+msgstr "Posts do blog"
+
+#: includes/functions.php:304
+#, fuzzy
+msgid "Pages"
+msgstr "Mensagens"
+
+#: includes/functions.php:305
+msgid "Post Comments"
+msgstr ""
+
+#: includes/functions.php:306
+msgid "Members"
+msgstr "Membros"
+
+#: includes/functions.php:311
+msgid "Forums"
+msgstr "Fóruns"
+
+#: includes/functions.php:312
+#, fuzzy
+msgid "Forums Topics"
+msgstr "Fóruns"
+
+#: includes/functions.php:313
+#, fuzzy
+msgid "Forums Replies"
+msgstr "Fóruns"
+
+#: includes/functions.php:318
+msgid "Groups"
+msgstr "Grupos"
+
+#: includes/functions.php:319
+msgid "Activity"
+msgstr "Atividades"
+
+#: includes/functions.php:320
+msgid "Messages"
+msgstr "Mensagens"
+
+#: includes/functions.php:331
+#, fuzzy
+msgid "Activity Comment"
+msgstr "Atividades"
+
+#: includes/help-support.php:5
+msgid "Here is a video tutorial to get you started:"
+msgstr ""
+
+#: includes/help-support.php:15
+msgid "Unleash the power of BuddyPress."
+msgstr ""
+
+#: includes/help-support.php:17
+msgid ""
+"BuddyPress Global Search is built by the experienced developers at BuddyBoss "
+"who also offer premium <a href=\"https://www.buddyboss.com/themes/\" target=_"
+"\"blank\">themes</a>, <a href=\"https://www.buddyboss.com/plugin/\" target=_"
+"\"blank\">plugins</a> and <a href=\"https://www.buddyboss.com/solutions/\" "
+"target=_\"blank\">packaged solutions</a> to build your social network."
+msgstr ""
+
+#: includes/main-class.php:449
+msgid "Loading Suggestions"
+msgstr "Carregando sugestões"
+
+#: includes/plugins/awpcp/index.php:65
+msgid "Classifieds"
+msgstr "Classificados"
+
+#: includes/plugins/invite-anyone/index.php:52
+msgid ""
+"Click &ldquo;Send Invites&rdquo; to finish sending your new invitations."
+msgstr ""
+
+#: includes/search-types/class.BBoss_Global_Search_Members.php:254
+msgid "Account"
+msgstr "Conta"
+
+#: includes/search-types/class.BBoss_Global_Search_Members.php:257
+msgid "Username/Login"
+msgstr "Usuário/Senha"
+
+#: includes/search-types/class.BBoss_Global_Search_Members.php:258
+msgid "Display Name"
+msgstr "Nome de exibição"
+
+#: includes/search-types/class.BBoss_Global_Search_Members.php:259
+msgid "Email"
+msgstr "Email"
+
+#: includes/search-types/class.BBoss_Global_Search_Members.php:260
+msgid "User Meta"
+msgstr ""
+
+#: includes/search-types/class.BBoss_Global_Search_Posts.php:181
+msgid "%s Meta"
+msgstr ""
+
+#: templates/loop/activity.php:42 templates/loop/message.php:19
+msgid "View Conversation"
+msgstr "Ver conversa"
+
+#: templates/loop/activity.php:50
+msgid "Comment %s"
+msgstr ""
+
+#: templates/loop/activity.php:58
+msgid "Mark as Favorite"
+msgstr ""
+
+#: templates/loop/activity.php:58
+msgid "Favorite"
+msgstr ""
+
+#: templates/loop/activity.php:62
+msgid "Remove Favorite"
+msgstr ""
+
+#: templates/loop/activity.php:106
+msgid "Comment"
+msgstr ""
+
+#: templates/loop/activity.php:109
+msgid "Post"
+msgstr ""
+
+#: templates/loop/activity.php:109
+msgid "Cancel"
+msgstr ""
+
+#. translators: %s = last activity timestamp (e.g. "active 1 hour ago")
+#: templates/loop/group-nouveau.php:26 templates/loop/group.php:8
+msgid "active %s"
+msgstr "ativo %s"
+
+#: templates/loop/message-ajax.php:9
+msgid "From:"
+msgstr "De:"
+
+#: templates/loop/message.php:5
+msgid "Conversation between"
+msgstr "Conversa entre"
+
+#: templates/loop/message.php:14
+msgid "and you."
+msgstr "e você."
+
+#: templates/loop/post.php:3
+msgid "Permalink to %s"
+msgstr "Link permanente para %s"
+
+#: templates/no-results-groups.php:1
+msgid "No groups found!"
+msgstr "Nenhum grupo encontrado"
+
+#: templates/no-results.php:1
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Desculpe, mas nada foi encontrado com as palavras-chave informadas. Por "
+"favor, tente novamente com outras palavras-chave"
+
+#~ msgid "Need BuddyPress customizations?"
+#~ msgstr "Precisa de customizações BuddyPress?"
+
+#~ msgid "Say hello."
+#~ msgstr "Diga olá."

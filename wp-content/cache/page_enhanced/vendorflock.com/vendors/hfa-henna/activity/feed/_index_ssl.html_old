@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vendor Flock | Kimberly Weinfurter | Activity</title>
+	<link>https://vendorflock.com/vendors/hfa-henna/activity/</link>
+	<atom:link href="https://vendorflock.com/vendors/hfa-henna/activity/feed/" rel="self" type="application/rss+xml" />
+	<description>Activity feed for Kimberly Weinfurter.</description>
+	<lastBuildDate>Wed, 12 Oct 2022 19:48:30 +0000</lastBuildDate>
+	<generator>https://buddypress.org/?v=7.2.1</generator>
+	<language>en-US</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+	
+						<item>
+				<guid isPermaLink="false">411feaa76e00127dcb6363607342d91d</guid>
+				<title>Kimberly Weinfurter changed their profile picture</title>
+				<link>https://vendorflock.com/activity/p/554/</link>
+				<pubDate>Fri, 20 May 2022 18:42:55 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+Database Caching 4/114 queries in 0.022 seconds using disk (Request-wide modification query)
+
+Served from: vendorflock.com @ 2022-12-26 09:16:05 by W3 Total Cache
+-->

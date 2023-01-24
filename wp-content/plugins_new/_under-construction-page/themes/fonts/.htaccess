@@ -1,0 +1,14 @@
+# Due to an increased number of CORS related issues caused by people opening their sites from
+# site.com while having WP configured on www.site.com (and vice-versa) we've implemented this
+# temporary, far-from-ideal fix to make sure FontAwesome still gets loaded.
+# We're working on a different solution that won't use "*".
+# For all security snowflake experts out there - keep your shirt on. Rule is applied to only
+# 6 files. Nobody will die ...
+#
+# Gordan @ WebFactory, 2017/10/10
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(woff|woff2|otf|eot|svg|ttf)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>

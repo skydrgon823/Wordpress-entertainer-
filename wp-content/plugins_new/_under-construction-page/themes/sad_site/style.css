@@ -1,0 +1,67 @@
+/*
+ * UnderConstructionPage
+ * Sad Site theme CSS
+ * (c) WebFactory Ltd, 2015 - 2021
+ */
+
+
+body {
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.65em;
+    color: #bcbec0;
+    background: #f1f2f2;
+    text-rendering: optimizeLegibility;
+}
+
+#header_image {
+  margin: 25px 0;
+  text-align: center;
+}
+
+#header_image img {
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 4.5rem;
+  color: #23272a;
+  font-family: "Montserrat", "Helvetica-Neue", "Helvetica", "Arial", "san-serif";
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: none;
+  padding: 0;
+  margin: 0 0 1.5rem 0;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  font-size: 1.875rem;
+  color: #949697;
+  letter-spacing: 2px;
+  margin-top: 20px;
+  font-family: "Montserrat", "Helvetica-Neue", "Helvetica", "Arial", "sans-serif";
+}
+
+#social {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+#social a i {
+  color: #949697;
+  margin: 10px;
+  box-sizing: content-box;
+}
+
+#social a:hover i {
+  color: #47d2e9;
+}
+
+@media(max-width:767px){
+  h1 {
+     font-size: 4rem;
+     margin: 0 0 1.5rem 0;
+  }
+}

@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress Global Search v1.0.1\n"
+"Report-Msgid-Bugs-To: https://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2019-07-17 07:15:31+00:00\n"
+"PO-Revision-Date: 2015-01-13 22:39+0100\n"
+"Last-Translator: Anton Andreasson <anton@andreasson.org>\n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ buddypress-global-search
+#: buddypress-global-search.php:71
+msgid "Couldn't load main class at:<br/>%s"
+msgstr "Kunde inte hitta huvudklassen:<br/>%s"
+
+# @ buddypress-global-search
+#: buddypress-global-search.php:75
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Allvarligt fel:</h1><hr/><pre>%s</pre>"
+
+# @ buddypress-global-search
+#: includes/admin.php:189
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+# @ buddypress-global-search
+#: includes/admin.php:192
+#, fuzzy
+msgid "Items to Search"
+msgstr "Objekt att söka bland"
+
+#: includes/admin.php:193
+msgid "Autosuggest"
+msgstr ""
+
+#: includes/admin.php:194
+msgid "Autosuggest number of items"
+msgstr ""
+
+#: includes/admin.php:198
+msgid "Support"
+msgstr ""
+
+# @ buddypress-global-search
+#: includes/admin.php:241
+msgid "BuddyPress Global Search"
+msgstr "BuddyPress Global Sök"
+
+# @ buddypress-global-search
+#: includes/admin.php:249
+#, fuzzy
+msgid "Settings updated."
+msgstr "Inställningar"
+
+# @ default
+#: includes/admin.php:256
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: includes/admin.php:327
+msgid "Enable AutoSuggest dropdown in search inputs."
+msgstr ""
+
+# @ buddypress-global-search
+#: includes/admin.php:340
+msgid "Search the following components:"
+msgstr "Sök bland följande komponenter:"
+
+# @ buddypress-global-search
+#: includes/admin.php:379 includes/admin.php:420
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/admin.php:422
+msgid ""
+"Hey! BuddyPress Global Search has better integration with multisite now. "
+"Your settings might have been reset to defaults after update. Please check "
+"your %s."
+msgstr ""
+
+#: includes/admin.php:426
+msgid "Hide this notice"
+msgstr ""
+
+# @ buddypress-global-search
+#: includes/class.BBoss_Global_Search_Helper.php:95
+#: includes/class.BBoss_Global_Search_Helper.php:104
+#: includes/main-class.php:180 includes/main-class.php:189
+#: includes/search-types/class.BBoss_Global_Search_Type.php:39
+#: includes/search-types/class.BBoss_Global_Search_Type.php:48
+msgid "Cheatin&#8217; huh?"
+msgstr "Fuskar du?"
+
+# @ buddypress-global-search
+#: includes/class.BBoss_Global_Search_Helper.php:306
+msgid "View all results for '%s'"
+msgstr "Visa alla träffar på '%s'"
+
+# @ buddypress-global-search
+#: includes/class.BBoss_Global_Search_Helper.php:314
+msgid "Nothing found for '%s'"
+msgstr "Hittade inga träffar på '%s'"
+
+#: includes/class.BBoss_Global_Search_Helper.php:722
+msgid "All"
+msgstr ""
+
+# @ buddypress-global-search
+#: includes/filters.php:126
+msgid "Search Results"
+msgstr "Sökresultat"
+
+# @ buddypress-global-search
+#: includes/functions.php:303
+msgid "Blog Posts"
+msgstr "Blogg-inlägg"
+
+# @ buddypress-global-search
+#: includes/functions.php:304
+#, fuzzy
+msgid "Pages"
+msgstr "Meddelanden"
+
+#: includes/functions.php:305
+msgid "Post Comments"
+msgstr ""
+
+# @ buddypress-global-search
+#: includes/functions.php:306
+msgid "Members"
+msgstr "Medlemmar"
+
+# @ buddypress-global-search
+#: includes/functions.php:311
+msgid "Forums"
+msgstr "Forum"
+
+# @ buddypress-global-search
+#: includes/functions.php:312
+#, fuzzy
+msgid "Forums Topics"
+msgstr "Forum"
+
+# @ buddypress-global-search
+#: includes/functions.php:313
+#, fuzzy
+msgid "Forums Replies"
+msgstr "Forum"
+
+# @ buddypress-global-search
+#: includes/functions.php:318
+msgid "Groups"
+msgstr "Grupper"
+
+# @ buddypress-global-search
+#: includes/functions.php:319
+msgid "Activity"
+msgstr "Aktivitet"
+
+# @ buddypress-global-search
+#: includes/functions.php:320
+msgid "Messages"
+msgstr "Meddelanden"
+
+# @ buddypress-global-search
+#: includes/functions.php:331
+#, fuzzy
+msgid "Activity Comment"
+msgstr "Aktivitet"
+
+#: includes/help-support.php:5
+msgid "Here is a video tutorial to get you started:"
+msgstr ""
+
+#: includes/help-support.php:15
+msgid "Unleash the power of BuddyPress."
+msgstr ""
+
+#: includes/help-support.php:17
+msgid ""
+"BuddyPress Global Search is built by the experienced developers at BuddyBoss "
+"who also offer premium <a href=\"https://www.buddyboss.com/themes/\" target=_"
+"\"blank\">themes</a>, <a href=\"https://www.buddyboss.com/plugin/\" target=_"
+"\"blank\">plugins</a> and <a href=\"https://www.buddyboss.com/solutions/\" "
+"target=_\"blank\">packaged solutions</a> to build your social network."
+msgstr ""
+
+# @ buddypress-global-search
+#: includes/main-class.php:449
+msgid "Loading Suggestions"
+msgstr "Laddar sökförslag…"
+
+#: includes/plugins/awpcp/index.php:65
+msgid "Classifieds"
+msgstr ""
+
+#: includes/plugins/invite-anyone/index.php:52
+msgid ""
+"Click &ldquo;Send Invites&rdquo; to finish sending your new invitations."
+msgstr ""
+
+#: includes/search-types/class.BBoss_Global_Search_Members.php:254
+msgid "Account"
+msgstr ""
+
+#: includes/search-types/class.BBoss_Global_Search_Members.php:257
+msgid "Username/Login"
+msgstr ""
+
+#: includes/search-types/class.BBoss_Global_Search_Members.php:258
+msgid "Display Name"
+msgstr ""
+
+#: includes/search-types/class.BBoss_Global_Search_Members.php:259
+msgid "Email"
+msgstr ""
+
+#: includes/search-types/class.BBoss_Global_Search_Members.php:260
+msgid "User Meta"
+msgstr ""
+
+#: includes/search-types/class.BBoss_Global_Search_Posts.php:181
+msgid "%s Meta"
+msgstr ""
+
+# @ buddypress-global-search
+#: templates/loop/activity.php:42 templates/loop/message.php:19
+msgid "View Conversation"
+msgstr "Visa konversation"
+
+#: templates/loop/activity.php:50
+msgid "Comment %s"
+msgstr ""
+
+#: templates/loop/activity.php:58
+msgid "Mark as Favorite"
+msgstr ""
+
+#: templates/loop/activity.php:58
+msgid "Favorite"
+msgstr ""
+
+#: templates/loop/activity.php:62
+msgid "Remove Favorite"
+msgstr ""
+
+#: templates/loop/activity.php:106
+msgid "Comment"
+msgstr ""
+
+#: templates/loop/activity.php:109
+msgid "Post"
+msgstr ""
+
+#: templates/loop/activity.php:109
+msgid "Cancel"
+msgstr ""
+
+# @ buddypress-global-search
+#. translators: %s = last activity timestamp (e.g. "active 1 hour ago")
+#: templates/loop/group-nouveau.php:26 templates/loop/group.php:8
+msgid "active %s"
+msgstr "aktiv %s"
+
+# @ buddypress-global-search
+#: templates/loop/message-ajax.php:9
+msgid "From:"
+msgstr "Från:"
+
+# @ buddypress-global-search
+#: templates/loop/message.php:5
+msgid "Conversation between"
+msgstr "Konversation mellan"
+
+# @ buddypress-global-search
+#: templates/loop/message.php:14
+msgid "and you."
+msgstr "och dig."
+
+# @ buddypress-global-search
+#: templates/loop/post.php:3
+msgid "Permalink to %s"
+msgstr "Länk till %s"
+
+# @ buddypress-global-search
+#: templates/no-results-groups.php:1
+msgid "No groups found!"
+msgstr "Inga grupper hittades."
+
+# @ buddypress-global-search
+#: templates/no-results.php:1
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Ledsen, men inget matchade dina sökord. Var god försök igen med lite andra "
+"sökord."
+
+# @ buddypress-global-search
+#~ msgid "Need BuddyPress customizations?"
+#~ msgstr "Need BuddyPress customizations?"
+
+# @ buddypress-global-search
+#~ msgid "Say hello."
+#~ msgstr "Say hello."

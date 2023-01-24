@@ -1,0 +1,5087 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Strong Testimonials v1.15.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-02 15:21-0400\n"
+"PO-Revision-Date: 2018-08-02 15:22-0400\n"
+"Last-Translator: Chris Dillon <chris@strongplugins.com>\n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/about/about.php:1
+msgid "Flexible Features. Strong Support."
+msgstr ""
+
+#. translators: %s is a formatted number
+#: ../admin/about/about.php:3
+#, php-format
+msgid ""
+"The highest-rated free testimonials plugin trusted by more than %s people."
+msgstr ""
+
+#: ../admin/about/about.php:6
+msgid ""
+"Designed from the ground up to simplify the process of customizing your "
+"testimonials or reviews."
+msgstr ""
+
+#: ../admin/about/about.php:7
+msgid ""
+"<strong>Custom fields</strong> are deeply integrated into Strong "
+"Testimonials. It even includes a default set of custom fields so you can get "
+"started quickly."
+msgstr ""
+
+#: ../admin/about/about.php:8
+msgid ""
+"Forget about complicated shortcodes. Use <strong>views</strong> to construct "
+"unlimited testimonial displays including grids and slideshows with features "
+"like excerpts and pagination in a variety of templates."
+msgstr ""
+
+#: ../admin/about/about.php:9
+msgid ""
+"Integrate with plugins like Popup Maker or Google Captcha. For developers, "
+"actions and filters allow further customization."
+msgstr ""
+
+#: ../admin/about/addons.php:3
+msgid "Get More Features With Pro Add-ons"
+msgstr ""
+
+#: ../admin/about/class-strong-testimonials-about.php:42
+#: ../admin/about/class-strong-testimonials-about.php:43
+#: ../admin/about/class-strong-testimonials-about.php:73
+msgid "About"
+msgstr ""
+
+#. translators: %s is the plugin version number
+#: ../admin/about/class-strong-testimonials-about.php:61
+#, php-format
+msgid "Welcome to Strong Testimonials %s"
+msgstr ""
+
+#: ../admin/about/class-strong-testimonials-about.php:64
+msgid "Thank you for updating to the latest version!"
+msgstr ""
+
+#. translators: %s is the plugin version number
+#: ../admin/about/class-strong-testimonials-about.php:69
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../admin/about/class-strong-testimonials-about.php:75
+msgid "What&#8217;s New"
+msgstr ""
+
+#: ../admin/about/class-strong-testimonials-about.php:77
+msgid "How To"
+msgstr ""
+
+#: ../admin/about/class-strong-testimonials-about.php:79
+msgid "Privacy"
+msgstr ""
+
+#: ../admin/about/how-to.php:2
+msgid ""
+"Add the view to a page or sidebar using its unique shortcode or the Strong "
+"Testimonials widget."
+msgstr ""
+
+#: ../admin/about/how-to.php:4
+msgid "Let's Get Started"
+msgstr ""
+
+#: ../admin/about/how-to.php:5
+msgid "This plugin is different than others you may have tried."
+msgstr ""
+
+#: ../admin/about/how-to.php:8
+#, php-format
+msgid ""
+"Testimonials are like posts. They can be viewed individually. For example, a "
+"testimonial with the title \"Highly recommended!\" is viewable at <a href=\"#"
+"\" class=\"nogo\">%1$s</a>."
+msgstr ""
+
+#: ../admin/about/how-to.php:17
+msgid ""
+"The more common approach is to display a group of testimonials. Among the "
+"many options, you can select which testimonials to include, what fields to "
+"show, and the layout."
+msgstr ""
+
+#: ../admin/about/how-to.php:19
+msgid ""
+"The plugin provides a tool for configuring those displays: <strong>Views</"
+"strong>."
+msgstr ""
+
+#: ../admin/about/how-to.php:20 ../admin/class-strong-testimonials-help.php:88
+msgid "A view is simply a group of settings with an easy-to-use editor."
+msgstr ""
+
+#: ../admin/about/how-to.php:21
+msgid "You can create <em>unlimited</em> views."
+msgstr ""
+
+#: ../admin/about/how-to.php:22
+msgid "Each view has its own simple shortcode."
+msgstr ""
+
+#: ../admin/about/how-to.php:28
+msgid "How to Add the Form"
+msgstr ""
+
+#: ../admin/about/how-to.php:29
+#, php-format
+msgid ""
+"<a href=\"%s\">Check the custom fields</a>. The default set of fields are "
+"designed to suit most situations. Add or remove fields as you see fit."
+msgstr ""
+
+#: ../admin/about/how-to.php:31 ../admin/about/how-to.php:40
+#: ../admin/about/how-to.php:49
+#, php-format
+msgid "Create a <a href=\"%s\">view</a>."
+msgstr ""
+
+#: ../admin/about/how-to.php:32
+msgid "Select <strong>Form</strong> mode."
+msgstr ""
+
+#: ../admin/about/how-to.php:38
+msgid "How to Display Your Testimonials"
+msgstr ""
+
+#: ../admin/about/how-to.php:39 ../admin/about/how-to.php:48
+#, php-format
+msgid ""
+"<a href=\"%s\">Enter your testimonials</a> if necessary. The plugin will not "
+"read existing testimonials from another plugin or theme. It will not import "
+"testimonials."
+msgstr ""
+
+#: ../admin/about/how-to.php:41
+msgid "Select <strong>Display</strong> mode."
+msgstr ""
+
+#: ../admin/about/how-to.php:47
+msgid "How to Add a Slideshow"
+msgstr ""
+
+#: ../admin/about/how-to.php:50
+msgid "Select <strong>Slideshow</strong> mode."
+msgstr ""
+
+#: ../admin/about/how-to.php:56
+msgid "How to Translate"
+msgstr ""
+
+#: ../admin/about/how-to.php:57
+msgid "Strong Testimonials is compatible with WPML, Polylang and WP Globus."
+msgstr ""
+
+#: ../admin/about/how-to.php:58
+msgid ""
+"In WPML and Polylang, domains are added to the <strong>String Translation</"
+"strong> pages. Those domains encompass the form fields, the form messages, "
+"the notification email, and the \"Read more\" link text in your views. They "
+"are updated automatically when any of those settings change."
+msgstr ""
+
+#: ../admin/about/links.php:5 ../admin/admin.php:195
+msgid "Support"
+msgstr ""
+
+#: ../admin/about/links.php:11
+msgid "Use the public support forum"
+msgstr ""
+
+#: ../admin/about/links.php:13 ../admin/about/links.php:17
+msgid "or"
+msgstr ""
+
+#: ../admin/about/links.php:15
+msgid "submit a private support ticket"
+msgstr ""
+
+#: ../admin/about/links.php:19
+msgid "contact the developer"
+msgstr ""
+
+#: ../admin/about/links.php:29
+msgid "Tutorials"
+msgstr ""
+
+#: ../admin/about/links.php:35
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../admin/about/links.php:39
+msgid "How to add YouTube or Twitter"
+msgstr ""
+
+#: ../admin/about/links.php:43
+msgid "Using custom CSS"
+msgstr ""
+
+#: ../admin/about/links.php:47
+msgid "How to enable comments"
+msgstr ""
+
+#: ../admin/about/links.php:51
+msgid "How to customize the form"
+msgstr ""
+
+#: ../admin/about/links.php:61
+msgid "Demos"
+msgstr ""
+
+#: ../admin/about/links.php:67
+msgid "Display examples"
+msgstr ""
+
+#: ../admin/about/links.php:71
+msgid "Slideshow examples"
+msgstr ""
+
+#: ../admin/about/links.php:75
+msgid "Form examples"
+msgstr ""
+
+#: ../admin/about/privacy.php:1
+msgid "Privacy and GDPR"
+msgstr ""
+
+#: ../admin/about/privacy.php:2
+msgid "Compliance is entirely in your control."
+msgstr ""
+
+#: ../admin/about/privacy.php:5
+msgid ""
+"By default, this plugin does not store any user or visitor data, does not "
+"send any data to remote servers, act as a service or embed content, does not "
+"edit the comments form in any way."
+msgstr ""
+
+#: ../admin/about/privacy.php:6
+msgid ""
+"The plugin also prevents displaying email addresses in your testimonials on "
+"the front end."
+msgstr ""
+
+#: ../admin/about/privacy.php:7
+msgid "However, this plugin provides features that may involve private data."
+msgstr ""
+
+#: ../admin/about/privacy.php:8
+msgid ""
+"If you use the testimonial submission form, the data collected on that form "
+"will be stored in your database."
+msgstr ""
+
+#: ../admin/about/privacy.php:9
+msgid ""
+"If you enable the administrator notification email upon new testimonial "
+"submission, the data collected on your form, at your selection, may be "
+"included in that notification email."
+msgstr ""
+
+#: ../admin/about/privacy.php:10
+msgid ""
+"If you enable comments on testimonials, the plugin will use your theme's "
+"single post template and comment form."
+msgstr ""
+
+#: ../admin/about/privacy.php:11
+msgid ""
+"If you embed third-party posts such as Twitter, YouTube and FaceBook in your "
+"testimonials, you will be agreeing to the Terms of Use of those third-party "
+"sites."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/admin-notices.php:66 ../admin/views.php:36
+msgid "Defaults restored."
+msgstr "تم استعادة الإعدادات الافتراضية"
+
+# @ strong-testimonials
+#: ../admin/admin-notices.php:78
+msgid "Fields saved."
+msgstr "تم حفظ الحقول"
+
+#: ../admin/admin-notices.php:90 ../admin/views.php:35
+msgid "Changes cancelled."
+msgstr ""
+
+#: ../admin/admin-notices.php:101
+#, php-format
+msgid "Please check your <a href=\"%s\">%s</a>."
+msgstr ""
+
+#: ../admin/admin-notices.php:101
+msgid "settings"
+msgstr ""
+
+#: ../admin/admin-notices.php:107
+msgid "Captcha options have changed in <strong>Strong Testimonials</strong>."
+msgstr ""
+
+# @ strong-testimonials
+#. translators: %s is the name of the plugin.
+#: ../admin/admin.php:20
+#, php-format
+msgctxt "installation"
+msgid "Unable to load %s"
+msgstr "فشل جلب %s"
+
+# @ strong-testimonials
+#. translators: %s is a WordPress version number.
+#: ../admin/admin.php:22
+#, php-format
+msgctxt "installation"
+msgid ""
+"This plugin requires <strong>WordPress %s</strong> or higher so it has been "
+"deactivated."
+msgstr "هذه الإضافة تتطلب <strong> وردبريس %s</strong> أو أعلى لذلك تم تعطيلها."
+
+# @ strong-testimonials
+#: ../admin/admin.php:23
+msgctxt "installation"
+msgid "Please upgrade WordPress and try again."
+msgstr "الرجاء تحديث ووردبريس ثم المحاولة لاحقاً"
+
+# @ strong-testimonials
+#: ../admin/admin.php:24
+#, php-format
+msgctxt "installation"
+msgid "Back to the WordPress <a href=\"%s\">Plugins page</a>"
+msgstr "الرجوع <a href=\"%s\"> لصفحة الإضافات </a> في ووردبريس"
+
+#: ../admin/admin.php:165
+msgid "restore default"
+msgstr ""
+
+#: ../admin/admin.php:188
+msgid "For guides and tutorials"
+msgstr ""
+
+#: ../admin/admin.php:189
+msgid "Documentation"
+msgstr ""
+
+#: ../admin/admin.php:194
+msgid "For direct support requests"
+msgstr ""
+
+#: ../admin/admin.php:200
+msgid "Get more features with premium add-ons"
+msgstr ""
+
+#: ../admin/admin.php:201
+msgid "Add-ons"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-admin-category-list.php:39
+#: ../admin/class-strong-views-list-table.php:61
+msgid "ID"
+msgstr "رقم المعرف"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-admin-category-list.php:40
+#: ../admin/class-strong-testimonials-defaults.php:316
+#: ../admin/class-strong-views-list-table.php:64
+#: ../admin/partials/views/view-name.php:10
+#: ../admin/settings/partials/email-from.php:25
+#: ../admin/settings/partials/email-to.php:14 ../admin/views.php:547
+msgid "Name"
+msgstr "الاسم"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-admin-category-list.php:41
+msgid "Slug"
+msgstr "اسم الرابط"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-admin-category-list.php:42
+#: ../admin/partials/views/option-read-more-page.php:42
+msgid "Posts"
+msgstr "مشاركات"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-admin-list.php:80
+msgid "Excerpt"
+msgstr "مقتطف"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-admin-list.php:90
+#: ../admin/class-strong-testimonials-admin-list.php:212
+msgid "Thumbnail"
+msgstr "صورة مصغرة"
+
+#: ../admin/class-strong-testimonials-admin-list.php:92
+msgid "Rating"
+msgstr ""
+
+# @ strong-testimonials
+#. translators: On the Views admin screen.
+#: ../admin/class-strong-testimonials-admin-list.php:104
+#: ../admin/partials/views/option-category.php:4 ../includes/post-types.php:128
+msgid "Categories"
+msgstr "الأقسام"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-admin-list.php:111
+msgid "Date"
+msgstr "اليوم"
+
+#: ../admin/class-strong-testimonials-admin-scripts.php:136
+msgctxt "Field editor: The default label for new fields"
+msgid "New Field"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-admin-scripts.php:137
+msgctxt "Fields editor: To indicate when a field type can only be used once."
+msgid "(in use)"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-admin-scripts.php:138
+msgctxt "Fields editor: To indicate when no categories have been found."
+msgid "(none found)"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-admin-scripts.php:207
+#: ../admin/class-strong-testimonials-defaults.php:72
+msgid "This field is required."
+msgstr "هذا الحقل مطلوب"
+
+#: ../admin/class-strong-testimonials-admin-scripts.php:208
+#: ../admin/edd/Strong_Plugin_Updater.php:105
+#: ../admin/edd/Strong_Plugin_Updater.php:156
+#: ../admin/edd/Strong_Plugin_Updater.php:212
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-admin-scripts.php:209
+msgid "Restore the default settings?"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-admin-scripts.php:242
+msgid "click to insert into message at caret"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:101
+msgid "Testimonial Title"
+msgstr "عنوان الشهادة"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:111
+msgid "Testimonial Content"
+msgstr "محتوى الشهادة"
+
+# @ strong-testimonials
+#. translators: On the Views admin screen.
+#: ../admin/class-strong-testimonials-defaults.php:122
+#: ../admin/partials/views/option-thumbnail.php:5 ../includes/post-types.php:70
+msgid "Featured Image"
+msgstr "صورة بارزة"
+
+#: ../admin/class-strong-testimonials-defaults.php:140 ../admin/views.php:493
+#: ../includes/l10n-wpml.php:152
+msgid "text"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:144
+msgid "email"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:149
+msgid "URL"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:154
+msgid "checkbox"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:172
+msgid "category selector"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:180
+msgid "category checklist"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:188 ../admin/views.php:499
+msgid "shortcode"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:199
+msgid "star rating"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:237
+msgid "Default Form"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:246
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:249
+msgid "What is your full name?"
+msgstr "ماهو اسمك الكامل؟"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:255
+#: ../admin/class-strong-testimonials-defaults.php:325
+#: ../admin/settings/partials/email-from.php:31
+#: ../admin/settings/partials/email-to.php:20
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:258
+msgid "What is your email address?"
+msgstr "ماهو بريدك الإلكتروني؟"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:263
+msgid "Company Name"
+msgstr "اسم الشركة"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:265
+msgid "What is your company name?"
+msgstr "ماهو اسم الشركة؟"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:270
+msgid "Company Website"
+msgstr "موقع الشركة"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:272
+msgid "Does your company have a website?"
+msgstr "هل يوجد موقع لشركتك؟"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:280
+msgid "Heading"
+msgstr "عنوان"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:283
+msgid "A headline for your testimonial."
+msgstr "عنوان لشهادتك"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:288
+#: ../admin/class-strong-testimonials-defaults.php:336
+#: ../admin/partials/views/option-title.php:15
+#: ../admin/settings/class-strong-testimonials-settings.php:51
+msgid "Testimonial"
+msgstr "شهادة"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:291
+msgid "What do you think about us?"
+msgstr "ماذا تشعر تجاهنا؟"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:296
+msgid "Photo"
+msgstr "صورة"
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:298
+msgid "Would you like to include a photo?"
+msgstr "هل تود إضافة صورة؟"
+
+#: ../admin/class-strong-testimonials-defaults.php:307
+msgid "Minimal Form"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:369
+msgid "Custom Form"
+msgstr ""
+
+#. translators: Settings > Form > Messages tab
+#: ../admin/class-strong-testimonials-defaults.php:392
+msgctxt "setting description"
+msgid "Required"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:393
+msgctxt "Default message for required notice at top of form."
+msgid "Required"
+msgstr ""
+
+#. translators: Settings > Form > Messages tab
+#: ../admin/class-strong-testimonials-defaults.php:399
+msgctxt "description"
+msgid "Captcha Label"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:400
+msgctxt "Default label for Captcha field on submission form."
+msgid "Captcha"
+msgstr ""
+
+#. translators: Settings > Form > Messages tab
+#: ../admin/class-strong-testimonials-defaults.php:406
+msgctxt "description"
+msgid "Submit Button"
+msgstr ""
+
+# @ strong-testimonials
+#. translators: Default label for the Submit button on testimonial form.
+#: ../admin/class-strong-testimonials-defaults.php:408
+msgctxt "the Submit button"
+msgid "Add Testimonial"
+msgstr "إضافة شهادة"
+
+#. translators: Settings > Form > Messages tab
+#: ../admin/class-strong-testimonials-defaults.php:413
+msgctxt "description"
+msgid "Submission Error"
+msgstr ""
+
+# @ strong-testimonials
+#. translators: Default message for submission form error.
+#: ../admin/class-strong-testimonials-defaults.php:415
+msgctxt "error message"
+msgid "There was a problem processing your testimonial."
+msgstr "حدث خطأ أثناء معالجة شهادتك"
+
+#. translators: Settings > Form > Messages tab
+#: ../admin/class-strong-testimonials-defaults.php:420
+msgctxt "description"
+msgid "Submission Success"
+msgstr ""
+
+#. translators: Default message for submission form success message.
+#: ../admin/class-strong-testimonials-defaults.php:422
+msgctxt "success message"
+msgid "Thank you! Your testimonial is waiting to be approved."
+msgstr ""
+
+# @ strong-testimonials
+#. translators: Default subject line for new testimonial notification email.
+#: ../admin/class-strong-testimonials-defaults.php:448
+msgid "New testimonial for %BLOGNAME%"
+msgstr "شهادة جديدة لـ %BLOGNAME%"
+
+# @ strong-testimonials
+#. translators: Default message for new testimonial notification email.
+#: ../admin/class-strong-testimonials-defaults.php:450
+msgid ""
+"New testimonial submission for %BLOGNAME%. This is awaiting action from the "
+"website administrator."
+msgstr "شهادة جديدة لـ %BLOGNAME% في انتظار القبول من إدارة الموقع."
+
+#: ../admin/class-strong-testimonials-defaults.php:480
+msgid "Display"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:481
+msgid "Display your testimonials in a list or a grid."
+msgstr ""
+
+# @ strong-testimonials
+#. translators: In the view editor.
+#: ../admin/class-strong-testimonials-defaults.php:485
+#: ../admin/partials/views/group-slideshow.php:14
+msgid "Slideshow"
+msgstr "العرض التقديمي"
+
+#: ../admin/class-strong-testimonials-defaults.php:486
+msgid "Create a slideshow of your testimonials."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:490
+#: ../admin/settings/class-strong-testimonials-settings-form.php:49
+msgid "Form"
+msgstr "نموذج"
+
+#: ../admin/class-strong-testimonials-defaults.php:491
+msgid "Display a testimonial submission form."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:495
+msgid "Single Template"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:496
+msgid "When viewing the testimonial using a theme's single post template."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:501
+msgctxt "display order"
+msgid "random"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:502
+msgctxt "display order"
+msgid "menu order"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:503
+msgctxt "display order"
+msgid "newest first"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:504
+msgctxt "display order"
+msgid "oldest first"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:508
+msgctxt "slideshow transition option"
+msgid "no transition effect"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:509
+msgctxt "slideshow transition option"
+msgid "fade"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:510
+msgctxt "slideshow transition option"
+msgid "scroll horizontally"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:511
+msgctxt "slideshow transition option"
+msgid "scroll vertically"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:515
+msgctxt "slideshow option"
+msgid "Adjust height for each slide"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:516
+msgctxt "slideshow option"
+msgid "Set height to match the tallest slide"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:522
+msgctxt "slideshow controls option"
+msgid "none"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:530
+msgctxt "slideshow controls option"
+msgid "Bottom: previous / play-pause / next"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:542
+msgctxt "slideshow controls option"
+msgid "Bottom: previous / next"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:551
+msgctxt "slideshow controls option"
+msgid "Sides: previous / next"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:564
+msgctxt "slideshow navigation option"
+msgid "none"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:568
+msgctxt "slideshow navigation option"
+msgid "full"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:581
+msgctxt "slideshow navigation option"
+msgid "buttons 1"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:591
+msgctxt "slideshow navigation option"
+msgid "buttons 2"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:601
+msgctxt "slideshow navigation option"
+msgid "buttons 3"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:611
+#: ../admin/class-strong-testimonials-defaults.php:631
+msgctxt "slideshow navigation option"
+msgid "text"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:614
+msgctxt "slideshow control"
+msgid "Play"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:615
+msgctxt "slideshow control"
+msgid "Pause"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:616
+msgctxt "slideshow_control"
+msgid "Previous"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:617
+msgctxt "slideshow_control"
+msgid "Next"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:623
+msgctxt "slideshow navigation option"
+msgid "buttons"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:643
+msgctxt "slideshow navigation option"
+msgid "inside"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:644
+msgctxt "slideshow navigation option"
+msgid "outside"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-defaults.php:707
+msgctxt "link"
+msgid "Read more"
+msgstr "قراءة المزيد"
+
+#: ../admin/class-strong-testimonials-defaults.php:711
+msgctxt "link"
+msgid "Read more testimonials"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:809
+msgid ""
+"<strong>Recommended.</strong> The best choice for both Invisible reCAPTCHA "
+"and reCAPTCHA V2 (\"I'm not a robot\" checkbox)."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-defaults.php:820
+msgid "An excellent plugin for math- and image-based captchas."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:30
+msgid ""
+"Normally, a web page will load its stylesheets (font, color, size, etc.) "
+"before the content. When the content is displayed, the style is ready and the "
+"page appears as it was designed."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:31
+msgid ""
+"When a browser displays the content before all the stylesheets have been "
+"loaded, a flash of unstyled content can occur."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:33
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Explained further here</a>"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:35
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Demonstrated here</a>"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:37
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">An expert's observations here</a>"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:39
+msgid ""
+"When this occurs with plugins that use shortcodes, it means the plugin's "
+"stylesheet was enqueued when the shortcode was rendered so it gets loaded "
+"after the content instead of in the normal sequence."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:40
+msgid ""
+"The prerender option ensures this plugin's stylesheets are loaded before the "
+"content."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:46
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:368
+msgid "Prerender"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:57
+msgid ""
+"These fields let you customize your testimonials to gather the information "
+"you need."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:58
+msgid ""
+"This editor serves two purposes: (1) to modify the form as it appears on your "
+"site, and (2) to modify the custom fields added to each testimonial."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:59
+msgid ""
+"The default fields are designed to fit most situations. You can quickly add "
+"or remove fields and change several display properties."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-help.php:60
+msgid "Fields will appear in this order on the form."
+msgstr "ستظهر الحقول بهذا الترتيب على النموذج"
+
+#: ../admin/class-strong-testimonials-help.php:60
+#, php-format
+msgid "Reorder by grabbing the %s icon."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:61
+msgid "To display this form, create a view and select Form mode."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:68
+#: ../admin/settings/partials/general.php:134
+#: ../admin/settings/partials/general.php:155
+msgid "Tutorial"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:69
+msgid "Form settings"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:76
+msgid "Form Fields"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:89
+msgid "You can create an <strong>unlimited</strong> number of views."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:90
+msgid "For example:"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:92
+msgid ""
+"Create a view to display your testimonials in a list, grid, or slideshow."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:93
+msgid "Create a view to show a testimonial submission form"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:94
+msgid ""
+"Create a view to append your custom fields to the individual testimonial "
+"using your theme single post template."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:97
+msgid ""
+"Add a view to a page with its unique shortcode or add it to a sidebar with "
+"the Strong Testimonials widget."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:104
+msgid "About Views"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:120
+msgid ""
+"Optional shortcode attributes will override the view settings. Use this to "
+"create reusable view <strong>patterns</strong>."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:121
+msgid ""
+"Overridable settings: <code>post_ids</code>, <code>category</code>, "
+"<code>order</code>, <code>count</code>."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:122
+msgid ""
+"For example, imagine you have five services, a sales page for each service, "
+"and a testimonial category for each service. To display the testimonials on "
+"each service page, you can create five duplicate views, one for each category."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:123
+msgid ""
+"Or you can configure one view as a pattern and add it to each service page "
+"with the <code>category</code> attribute."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:125
+msgid "<code>[testimonial_view id=\"1\" category=\"service-1\"]</code>"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:126
+msgid "<code>[testimonial_view id=\"1\" category=\"service-2\"]</code>"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:129
+msgid "Attributes may be used in combination. For example:"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:130
+msgid ""
+"<code>[testimonial_view id=\"1\" category=\"service-3\" order=\"random\" "
+"count=\"5\"]</code>"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:132
+msgid ""
+"Using <code>post_ids</code> is the most specific method and it will override "
+"category and count (whether settings or attributes)."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:139
+msgid "Shortcode Attributes"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:154
+msgid "Some of the features and drawbacks for each method."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-help.php:160
+msgid "Simple"
+msgstr "بسيط"
+
+#: ../admin/class-strong-testimonials-help.php:161
+msgid "Standard"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:166
+msgid "best use"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:167
+msgid "ten pages or less"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:168
+msgid "more than ten pages"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:171
+msgid "URLs"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:172
+msgid "does not change the URL"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:173
+msgid "uses paged URLs just like standard WordPress posts"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:176
+msgid "the Back button"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:177
+msgid ""
+"It does not remember which page of testimonials you are on. If you click away "
+"&ndash; for example, on a \"Read more\" link &ndash; then click back, you "
+"will return to page one."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:178
+msgid ""
+"You will return the last page you were on so this works well with \"Read more"
+"\" links."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:181
+msgid "works with random order option"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:182
+#: ../admin/class-strong-testimonials-help.php:187
+#: ../admin/class-strong-testimonials-post-editor.php:169
+#: ../admin/partials/views/option-boilerplate.php:11
+msgid "yes"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:183
+#: ../admin/class-strong-testimonials-help.php:188
+#: ../admin/class-strong-testimonials-post-editor.php:170
+#: ../admin/partials/views/option-boilerplate.php:14
+msgid "no"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:186
+msgid "works in a widget"
+msgstr ""
+
+# @ strong-testimonials
+#. translators: On the Views admin screen.
+#: ../admin/class-strong-testimonials-help.php:197
+#: ../admin/partials/views/option-pagination.php:13
+#: ../admin/partials/views/option-slideshow-navigation.php:46
+msgid "Pagination"
+msgstr "ترقيم الصفحات"
+
+#: ../admin/class-strong-testimonials-help.php:212
+msgid ""
+"This will set the height of the <b>slideshow container</b> to match the "
+"tallest slide in order to keep elements below it from bouncing up and down "
+"during slide transitions. With testimonials of uneven length, the result is "
+"whitespace underneath the shorter testimonials."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:213
+msgid ""
+"Select the <b>Stretch</b> option to stretch the borders and background "
+"vertically to compensate."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:214
+msgid ""
+"Use the excerpt or abbreviated content if you want to minimize the whitespace."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-help.php:220
+msgid "Stretch"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:149
+msgid "List View"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:150
+msgid "Excerpt View"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:317
+msgid "No items found."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:443
+msgid "Select bulk action"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:445
+msgid "Bulk Actions"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:455
+msgid "Apply"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:555
+msgid "Filter by date"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:557
+msgid "All dates"
+msgstr ""
+
+#. translators: 1: month name, 2: 4-digit year
+#: ../admin/class-strong-testimonials-list-table.php:570
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:617
+#, php-format
+msgid "%s pending"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:696
+#: ../admin/class-strong-testimonials-list-table.php:1120
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: ../admin/class-strong-testimonials-list-table.php:731
+msgid "Select Page"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:738
+#, php-format
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-list-table.php:886
+msgid "Select All"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-page-shortcodes.php:32
+#: ../admin/menu/class-strong-testimonials-menu-shortcodes.php:45
+#: ../admin/menu/class-strong-testimonials-menu-shortcodes.php:46
+msgid "Shortcodes"
+msgstr "اختصار"
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:34
+#, php-format
+msgid ""
+"Open a <a href=\"%s\" target=\"_blank\">support ticket</a> if you need help."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:36
+msgid "Testimonial Views"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:39
+msgid ""
+"Each view has a unique shortcode like <code>&#91;testimonial_view id="
+"\"1\"&#93;</code>."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:40
+msgid "Go to views"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:43
+msgid "Testimonial Count"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:45
+#, php-format
+msgid "Use %s to display the number of testimonials."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:50
+#: ../admin/class-strong-testimonials-page-shortcodes.php:83
+msgid "Default"
+msgstr ""
+
+#. translators: %s is a shortcode
+#: ../admin/class-strong-testimonials-page-shortcodes.php:55
+#, php-format
+msgid "Read some of our %s testimonials!"
+msgstr ""
+
+#. translators: %s is a shortcode attribute
+#: ../admin/class-strong-testimonials-page-shortcodes.php:62
+#, php-format
+msgid ""
+"To count for a specific category, add the %s attribute with the category slug."
+msgstr ""
+
+#. translators: %s is a shortcode
+#: ../admin/class-strong-testimonials-page-shortcodes.php:67
+#, php-format
+msgid "Here's what %s local clients say"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:73
+msgid "Average Rating"
+msgstr ""
+
+#. translators: %s is a shortcode
+#: ../admin/class-strong-testimonials-page-shortcodes.php:77
+#, php-format
+msgid ""
+"If using a <strong>single</strong> rating field, use %s to display the "
+"average rating."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:84
+msgid ""
+"You must use the closing slash <code>/</code> if using the shortcode with "
+"content elsewhere on your page."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:108
+msgid "Customize using content tags."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:109
+msgid "Default:"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:134
+msgid "Alternate content tags."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:159
+msgid "Insert tags into your custom content."
+msgstr ""
+
+#: ../admin/class-strong-testimonials-page-shortcodes.php:313
+msgid ""
+"The default container element is <code>div</code>. Select another element "
+"using <code>element</code>."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-post-editor.php:38
+msgctxt "post editor"
+msgid "Client Details"
+msgstr "بيانات العميل"
+
+#: ../admin/class-strong-testimonials-post-editor.php:59
+msgctxt "post editor"
+msgid "To add a photo or logo, use the Featured Image option."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-testimonials-post-editor.php:168
+msgid "default"
+msgstr "افتراضي"
+
+#: ../admin/class-strong-testimonials-post-editor.php:214
+msgid "Zero"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-post-editor.php:215
+msgid "OK"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-post-editor.php:216
+msgid "Cancel"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-post-editor.php:232
+#: ../admin/class-strong-views-list-table.php:127
+msgid "Edit"
+msgstr ""
+
+#: ../admin/class-strong-testimonials-post-editor.php:255
+#, php-format
+msgid "shortcode %s not found"
+msgstr ""
+
+#: ../admin/class-strong-views-list-table.php:19
+msgid "No views found."
+msgstr ""
+
+#: ../admin/class-strong-views-list-table.php:65
+#: ../admin/partials/views/view-mode.php:3
+msgid "Mode"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/class-strong-views-list-table.php:66
+#: ../admin/partials/views/option-template-list.php:3
+msgid "Template"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/class-strong-views-list-table.php:67
+#: ../admin/partials/views/view-shortcode.php:26
+msgid "Shortcode"
+msgstr "اختصار"
+
+#: ../admin/class-strong-views-list-table.php:128
+msgid "Duplicate"
+msgstr ""
+
+#: ../admin/class-strong-views-list-table.php:129
+#, php-format
+msgid "Delete \"%s\"?"
+msgstr ""
+
+# @ default
+#: ../admin/class-strong-views-list-table.php:129
+#: ../admin/partials/fields/field-controls.php:9
+msgid "Delete"
+msgstr "حذف"
+
+#: ../admin/class-strong-views-list-table.php:141
+msgid "stick to top of list"
+msgstr ""
+
+#: ../admin/class-strong-views-list-table.php:156
+msgid "theme single post template"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/class-strong-views-list-table.php:182
+#: ../admin/partials/views/template-not-found.php:19
+msgid "not found"
+msgstr ""
+
+#: ../admin/custom-fields-ajax.php:19
+msgid "New Field"
+msgstr ""
+
+# @ default
+#: ../admin/custom-fields.php:147
+#: ../admin/settings/class-strong-testimonials-settings.php:44
+#: ../admin/views.php:17
+msgid "You do not have sufficient permissions to access this page."
+msgstr "ليس لديك الصلاحيات الكافية لدخول هذه الصفحة."
+
+#: ../admin/custom-fields.php:151
+msgid "No fields selected."
+msgstr ""
+
+# @ strong-testimonials
+#. translators: On the Views admin screen.
+#: ../admin/custom-fields.php:159
+#: ../admin/menu/class-strong-testimonials-menu-fields.php:45
+#: ../admin/menu/class-strong-testimonials-menu-fields.php:46
+#: ../admin/partials/views/group-fields.php:14
+msgid "Fields"
+msgstr "الحقول"
+
+#: ../admin/custom-fields.php:165
+msgid "Editor"
+msgstr ""
+
+#: ../admin/custom-fields.php:167
+msgid "Click a field to open its options panel."
+msgstr ""
+
+#: ../admin/custom-fields.php:168 ../admin/partials/views/group-query.php:24
+#: ../admin/partials/views/option-pagination.php:3
+#: ../admin/partials/views/option-slideshow-behavior.php:82
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:373
+#: ../admin/views.php:73
+msgid "Help"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/custom-fields.php:189
+msgid "Add New Field"
+msgstr "إضافة حقل جديد"
+
+#: ../admin/custom-fields.php:194 ../admin/views.php:262
+msgid "Cancel Changes"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/custom-fields.php:195 ../admin/views.php:263
+msgid "Restore Defaults"
+msgstr "استعادة الإعدادات الافتراضية"
+
+#: ../admin/custom-fields.php:202
+msgid "Basic Preview"
+msgstr ""
+
+#: ../admin/custom-fields.php:203
+msgid "Only to demonstrate the fields. May look different in your theme."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/custom-fields.php:285
+msgid "Required"
+msgstr "مطلوب"
+
+# @ strong-testimonials
+#: ../admin/custom-fields.php:303
+msgid "Placeholder"
+msgstr "قيمة أولية"
+
+#: ../admin/custom-fields.php:317
+msgid "Text"
+msgstr ""
+
+#: ../admin/custom-fields.php:318 ../admin/partials/fields/field-text.php:12
+msgid "next to the checkbox"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/custom-fields.php:327 ../admin/settings/partials/form.php:307
+#: ../admin/views.php:595
+msgid "Before"
+msgstr "قبل"
+
+# @ strong-testimonials
+#: ../admin/custom-fields.php:335 ../admin/settings/partials/form.php:315
+msgid "After"
+msgstr "بعد"
+
+#: ../admin/custom-fields.php:345
+msgid "Default Form Value"
+msgstr ""
+
+#: ../admin/custom-fields.php:352 ../admin/custom-fields.php:388
+msgid "stars"
+msgstr ""
+
+#: ../admin/custom-fields.php:353 ../admin/custom-fields.php:365
+msgid "Populate the field with this value."
+msgstr ""
+
+#: ../admin/custom-fields.php:359
+msgid "Checked by default."
+msgstr ""
+
+#: ../admin/custom-fields.php:382
+msgid "Default Display Value"
+msgstr ""
+
+#: ../admin/custom-fields.php:393
+msgid "Display this on the testimonial if no value is submitted."
+msgstr ""
+
+#: ../admin/custom-fields.php:406
+msgid "Shortcode on form"
+msgstr ""
+
+#: ../admin/custom-fields.php:414
+msgid "Shortcode on display"
+msgstr ""
+
+#: ../admin/custom-fields.php:439
+msgid "Admin List"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/custom-fields.php:444
+msgid "required"
+msgstr "مطلوب"
+
+#: ../admin/custom-fields.php:447
+msgid "Show this field in the admin list table."
+msgstr ""
+
+#: ../admin/edd/EDD_SL_Plugin_Updater.php:210
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ../admin/edd/EDD_SL_Plugin_Updater.php:218
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: ../admin/edd/EDD_SL_Plugin_Updater.php:408
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../admin/edd/EDD_SL_Plugin_Updater.php:408
+msgid "Error"
+msgstr ""
+
+#: ../admin/edd/Strong_Plugin_Updater.php:114
+msgid "An error occurred, please contact support."
+msgstr ""
+
+#: ../admin/edd/Strong_Plugin_Updater.php:123
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ../admin/edd/Strong_Plugin_Updater.php:130
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ../admin/edd/Strong_Plugin_Updater.php:135
+msgid "Invalid license."
+msgstr ""
+
+#: ../admin/edd/Strong_Plugin_Updater.php:141
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ../admin/edd/Strong_Plugin_Updater.php:146
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ../admin/edd/Strong_Plugin_Updater.php:151
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/menu/class-strong-testimonials-menu-settings.php:47
+#: ../admin/menu/class-strong-testimonials-menu-settings.php:48
+#: ../admin/settings/class-strong-testimonials-settings.php:51
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: ../admin/menu/class-strong-testimonials-menu-views.php:45
+#: ../admin/menu/class-strong-testimonials-menu-views.php:46
+#: ../admin/views.php:71
+msgid "Views"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/partials/fields/field-controls.php:11
+msgctxt "verb"
+msgid "Close"
+msgstr "إغلاق"
+
+#: ../admin/partials/fields/field-header.php:8 ../admin/views.php:524
+#: ../admin/views.php:537
+msgid "click to open or close"
+msgstr ""
+
+#: ../admin/partials/fields/field-header.php:10 ../admin/views.php:530
+msgid "drag and drop to reorder"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/partials/fields/field-label.php:7
+msgctxt "noun"
+msgid "Label"
+msgstr "العنوان"
+
+#: ../admin/partials/fields/field-label.php:12
+msgid "Show this label on the form."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/partials/fields/field-name.php:9
+msgctxt "noun"
+msgid "Name"
+msgstr "الاسم"
+
+# @ strong-testimonials
+#: ../admin/partials/fields/field-name.php:15
+msgid "Use only lowercase letters, numbers, and underscores."
+msgstr "الرجاء استخدام أحرف صغيرة، أرقام أو  الشرطة السفلية _ ."
+
+#: ../admin/partials/fields/field-name.php:16
+msgid "Cannot be \"name\" or \"date\"."
+msgstr ""
+
+#: ../admin/partials/fields/field-text.php:7
+msgctxt "noun"
+msgid "Text"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/partials/fields/field-type.php:9
+msgctxt "noun"
+msgid "Type"
+msgstr "النوع"
+
+# @ strong-testimonials
+#: ../admin/partials/fields/field-type.php:20
+msgid "Post Fields"
+msgstr "حقل المشاركة"
+
+# @ strong-testimonials
+#. translators: On the Views admin screen.
+#: ../admin/partials/fields/field-type.php:27
+#: ../admin/partials/views/option-client-section.php:3
+msgid "Custom Fields"
+msgstr "حقل مخصص"
+
+#: ../admin/partials/fields/field-type.php:34
+msgid "Special Fields"
+msgstr ""
+
+#: ../admin/partials/fields/field-type.php:43
+msgid "Select a field type or delete this field."
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/group-compat.php:10
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:46
+msgid "Compatibility"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/group-extra.php:14
+msgid "Extra"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/group-form.php:14
+msgid "Actions"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/group-query.php:14
+msgid "Query"
+msgstr ""
+
+#: ../admin/partials/views/group-query.php:18
+msgid "Option"
+msgstr ""
+
+#: ../admin/partials/views/group-query.php:19
+msgid "Setting"
+msgstr ""
+
+#: ../admin/partials/views/group-query.php:21
+msgid "or Shortcode Attribute"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/group-style.php:14
+#: ../admin/partials/views/option-slideshow-navigation.php:29
+#: ../admin/partials/views/option-slideshow-navigation.php:60
+msgid "Style"
+msgstr ""
+
+#: ../admin/partials/views/option-background.php:2
+msgid "Background"
+msgstr ""
+
+#: ../admin/partials/views/option-background.php:16
+#: ../admin/partials/views/option-color.php:15
+msgid "inherit from theme"
+msgstr ""
+
+#: ../admin/partials/views/option-background.php:25
+msgid "single color"
+msgstr ""
+
+#: ../admin/partials/views/option-background.php:34
+msgid "gradient"
+msgstr ""
+
+#: ../admin/partials/views/option-background.php:43
+msgid "preset"
+msgstr ""
+
+#: ../admin/partials/views/option-background.php:55
+#: ../admin/partials/views/option-color.php:34
+#: ../admin/partials/views/template-options.php:16
+msgid "No options"
+msgstr ""
+
+#: ../admin/partials/views/option-background.php:79
+msgid "From top"
+msgstr ""
+
+#: ../admin/partials/views/option-background.php:95
+msgid "To bottom"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/option-boilerplate.php:4
+msgid "Option Name"
+msgstr ""
+
+#: ../admin/partials/views/option-boilerplate.php:17
+msgid "maybe"
+msgstr ""
+
+#: ../admin/partials/views/option-boilerplate.php:24
+msgid "Yes"
+msgstr ""
+
+#: ../admin/partials/views/option-boilerplate.php:30
+msgid "No"
+msgstr ""
+
+#: ../admin/partials/views/option-boilerplate.php:36
+msgid "Maybe"
+msgstr ""
+
+#: ../admin/partials/views/option-category.php:14
+#: ../admin/partials/views/option-limit.php:12
+msgid "all"
+msgstr ""
+
+#: ../admin/partials/views/option-category.php:15
+msgctxt "verb"
+msgid "select"
+msgstr ""
+
+#: ../admin/partials/views/option-category.php:44
+#: ../admin/partials/views/option-form-category.php:26
+msgid "No categories found"
+msgstr ""
+
+#: ../admin/partials/views/option-category.php:49
+msgid "<code>category</code>"
+msgstr ""
+
+#: ../admin/partials/views/option-category.php:52
+msgid "a comma-separated list of category slugs or ID's"
+msgstr ""
+
+#: ../admin/partials/views/option-category.php:55
+msgid "<code>category=\"accounting\"</code>"
+msgstr ""
+
+#: ../admin/partials/views/option-classes.php:3
+msgid "CSS Classes"
+msgstr ""
+
+#: ../admin/partials/views/option-classes.php:10
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:582
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:674
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:717
+#: ../admin/settings/partials/general.php:57
+msgid "For advanced users."
+msgstr ""
+
+#: ../admin/partials/views/option-classes.php:11
+msgid "Separate class names by spaces."
+msgstr ""
+
+#: ../admin/partials/views/option-client-section.php:23
+msgid "Add Field"
+msgstr ""
+
+#: ../admin/partials/views/option-color.php:2
+msgid "Font Color"
+msgstr ""
+
+#: ../admin/partials/views/option-color.php:24 ../admin/views.php:485
+msgid "custom"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/option-content.php:4
+msgid "Content"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:18
+msgctxt "display setting"
+msgid "entire content"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:21
+msgctxt "display setting"
+msgid "automatic excerpt"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:24
+msgctxt "display setting"
+msgid "manual excerpt"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:33
+msgid "This will strip tags like &lt;em&gt; and &lt;strong&gt;."
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:39
+#, php-format
+msgid ""
+"To create manual excerpts, you may need to enable them in the post editor "
+"like in this <a href=\"%s\" class=\"thickbox\">screenshot</a>."
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:58
+msgid "If no manual excerpt, create an excerpt using"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:67
+msgctxt "display setting"
+msgid "default length"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:70
+msgctxt "display setting"
+msgid "custom length"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:79
+msgid "The default length is 55 words but your theme may override that."
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:86
+#, php-format
+msgctxt "the excerpt length"
+msgid "the first %s words"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:100
+msgid "\"Read more\" link"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:110
+msgctxt "display setting"
+msgid "default link text"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:113
+msgctxt "display setting"
+msgid "custom link text (recommended)"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:125
+msgid "enter a phrase"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:137
+msgid "ellipsis"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:141
+msgid "(automatic excerpt only)"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:152
+msgid ""
+"If you only see [&hellip;] without a link then your theme<br> does not "
+"provide this. Use the custom link text instead."
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:164
+msgctxt "display setting"
+msgid "for automatic excerpt only"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:167
+msgctxt "display setting"
+msgid "for both automatic and manual excerpts"
+msgstr ""
+
+#: ../admin/partials/views/option-content.php:181
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Learn more about WordPress excerpts</a>"
+msgstr ""
+
+#: ../admin/partials/views/option-divi.php:6
+msgid "Divi Builder"
+msgstr ""
+
+#: ../admin/partials/views/option-divi.php:14
+msgid ""
+"Check this if adding this view (via shortcode or widget) using the Visual "
+"Builder in <b>Divi Builder version 2</b>."
+msgstr ""
+
+#: ../admin/partials/views/option-divi.php:17
+msgid "Not required if simply adding this view in the default editor."
+msgstr ""
+
+#: ../admin/partials/views/option-divi.php:20
+msgid ""
+"Not required if simply adding this view in the <b>Divi theme</b> using either "
+"the default editor or Divi Builder."
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/option-form-ajax.php:6
+msgid "Submit form without reloading the page (Ajax)"
+msgstr ""
+
+#: ../admin/partials/views/option-form-ajax.php:11
+msgid "This will override the <strong>Success Redirect</strong> setting."
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/option-form-category.php:3
+msgid "Assign to a category"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/option-id.php:7
+#: ../admin/partials/views/option-read-more-page.php:22
+msgid "&mdash; select &mdash;"
+msgstr ""
+
+#: ../admin/partials/views/option-id.php:10
+msgid "(untitled)"
+msgstr ""
+
+#: ../admin/partials/views/option-id.php:18
+msgctxt "to select a testimonial"
+msgid "or enter its ID or slug"
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:2
+msgid "Layout"
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:16
+msgid "normal"
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:25
+msgid "Masonry"
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:34
+msgid "columns"
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:43
+msgid "grid"
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:54
+msgid "A single column."
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:58
+#, php-format
+msgid ""
+"A cascading, responsive grid using the jQuery plugin <a href=\"%s\" target="
+"\"_blank\">Masonry</a>."
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:59
+msgid ""
+"The universal solution that works well regardless of testimonial lengths."
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:60
+msgid "Not compatible with pagination."
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:64
+#, php-format
+msgid ""
+"Using <a href=\"%s\" target=\"_blank\">CSS multi-column</a>. Fill from top to "
+"bottom, then over to next column."
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:65
+msgid "Works well with both long and short testimonials."
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:66
+#: ../admin/partials/views/option-layout.php:75
+msgid "Compatible with pagination."
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:72
+#, php-format
+msgid "Using <a href=\"%s\" target=\"_blank\">CSS flexbox</a>."
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:74
+msgid ""
+"Testimonials will be equal height so this works best when they are about the "
+"same length either naturally or using excerpts."
+msgstr ""
+
+#: ../admin/partials/views/option-layout.php:83
+msgid "Number of columns"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/option-limit.php:4
+msgid "Quantity"
+msgstr ""
+
+#: ../admin/partials/views/option-limit.php:15
+msgctxt "noun"
+msgid "count"
+msgstr ""
+
+#: ../admin/partials/views/option-limit.php:28
+msgid "<code>count</code>"
+msgstr ""
+
+#: ../admin/partials/views/option-limit.php:32
+msgid "<code>count=5</code>"
+msgstr ""
+
+# @ strong-testimonials
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/option-order.php:4
+msgctxt "noun"
+msgid "Order"
+msgstr "الترتيب"
+
+#: ../admin/partials/views/option-order.php:19
+msgid "<code>order</code>"
+msgstr ""
+
+#: ../admin/partials/views/option-order.php:22
+msgid "oldest | newest | random | menu_order"
+msgstr ""
+
+#: ../admin/partials/views/option-order.php:25
+msgid "<code>order=\"random\"</code>"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:5
+msgid "Compare methods"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:23
+msgid "simple"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:26
+msgid "WordPress standard"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:33
+msgid "Using JavaScript. Intended for small scale."
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:39
+msgid "Using paged URLs: /page/2, /page/3, etc. Best for large scale."
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:50
+msgctxt "quantity"
+msgid "Per page"
+msgstr ""
+
+#. translators: In the view editor.
+#: ../admin/partials/views/option-pagination.php:60
+#: ../admin/partials/views/option-slideshow-navigation.php:4
+msgid "Navigation"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:64
+#: ../includes/l10n-polylang.php:62 ../includes/l10n-wpml.php:140
+msgid "before"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:67
+#: ../includes/l10n-polylang.php:59 ../includes/l10n-wpml.php:136
+msgid "after"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:70
+msgid "before & after"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:83
+msgid "Show all page numbers"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:87
+msgid "Show condensed page numbers"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:95
+msgctxt "quantity"
+msgid "End size"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:104
+msgctxt "quantity"
+msgid "Middle size"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:122
+msgid "Show previous/next links"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:127
+msgid "Previous text"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:135
+msgid "Next text"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:148
+msgid "Before page number"
+msgstr ""
+
+#: ../admin/partials/views/option-pagination.php:156
+msgid "After page number"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/option-read-more-page.php:10
+msgid "\"Read more\" link to a page or post"
+msgstr ""
+
+#: ../admin/partials/views/option-read-more-page.php:27
+#: ../includes/class-strong-templates.php:63
+msgid "Custom"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/partials/views/option-read-more-page.php:37
+msgid "Pages"
+msgstr "صفحات"
+
+#: ../admin/partials/views/option-read-more-page.php:50
+msgctxt "to select a target page"
+msgid "or enter its ID or slug"
+msgstr ""
+
+#: ../admin/partials/views/option-read-more-page.php:61
+msgid "with link text"
+msgstr ""
+
+#: ../admin/partials/views/option-read-more-page.php:75
+msgctxt "display setting"
+msgid "after the last testimonial"
+msgstr ""
+
+#: ../admin/partials/views/option-read-more-page.php:78
+msgctxt "display setting"
+msgid "in each testimonial"
+msgstr ""
+
+#. translators: On the Views admin screen.
+#: ../admin/partials/views/option-select.php:3
+msgctxt "verb"
+msgid "Select"
+msgstr ""
+
+#: ../admin/partials/views/option-select.php:10
+msgid "one or more testimonials"
+msgstr ""
+
+#: ../admin/partials/views/option-select.php:11
+msgid "a specific testimonial"
+msgstr ""
+
+#: ../admin/partials/views/option-select.php:22
+msgid "<code>post_ids</code>"
+msgstr ""
+
+#: ../admin/partials/views/option-select.php:25
+msgid "a comma-separated list of post ID's"
+msgstr ""
+
+#: ../admin/partials/views/option-select.php:28
+msgid "<code>post_ids=\"123,456\"</code>"
+msgstr ""
+
+#. translators: In the view editor.
+#: ../admin/partials/views/option-slideshow-behavior.php:3
+msgid "Behavior"
+msgstr ""
+
+#: ../admin/partials/views/option-slideshow-behavior.php:12
+msgctxt "slideshow setting"
+msgid "Start automatically"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/partials/views/option-slideshow-behavior.php:22
+msgctxt "slideshow setting"
+msgid "Pause on hover"
+msgstr "ايقاف عند وضع مؤشر الفأرة"
+
+#: ../admin/partials/views/option-slideshow-behavior.php:33
+msgctxt "slideshow setting"
+msgid "Stop on interaction"
+msgstr ""
+
+#: ../admin/partials/views/option-slideshow-behavior.php:37
+msgid "Recommended if using navigation."
+msgstr ""
+
+#: ../admin/partials/views/option-slideshow-behavior.php:66
+msgid "Duration"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/partials/views/option-slideshow-behavior.php:71
+#: ../admin/partials/views/option-slideshow-transition.php:15
+#: ../admin/partials/views/option-slideshow-transition.php:38
+msgctxt "time setting"
+msgid "seconds"
+msgstr "ثواني"
+
+#: ../admin/partials/views/option-slideshow-behavior.php:78
+msgid "Stretch slides vertically"
+msgstr ""
+
+#: ../admin/partials/views/option-slideshow-behavior.php:90
+msgid "The slideshow will pause if the browser window becomes inactive."
+msgstr ""
+
+#: ../admin/partials/views/option-slideshow-navigation.php:15
+msgid "Controls"
+msgstr ""
+
+#: ../admin/partials/views/option-slideshow-navigation.php:76
+msgid "Position"
+msgstr ""
+
+#: ../admin/partials/views/option-slideshow-navigation.php:82
+msgid "the testimonial frame"
+msgstr ""
+
+#. translators: In the view editor.
+#: ../admin/partials/views/option-slideshow-transition.php:3
+msgid "Transition"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/partials/views/option-slideshow-transition.php:10
+msgctxt "slideshow setting"
+msgid "Show each for"
+msgstr "إظهار الكل لـ"
+
+#: ../admin/partials/views/option-slideshow-transition.php:20
+msgid "then"
+msgstr ""
+
+#: ../admin/partials/views/option-slideshow-transition.php:33
+msgid "for"
+msgstr ""
+
+#: ../admin/partials/views/option-thumbnail.php:26
+msgid "width"
+msgstr ""
+
+#: ../admin/partials/views/option-thumbnail.php:31
+msgid "height"
+msgstr ""
+
+#: ../admin/partials/views/option-thumbnail.php:44
+msgid "Open full-size image in a lightbox"
+msgstr ""
+
+#: ../admin/partials/views/option-thumbnail.php:48
+msgid "Requires a lightbox provided by your theme or another plugin."
+msgstr ""
+
+#: ../admin/partials/views/option-thumbnail.php:57
+msgid "CSS class"
+msgstr ""
+
+#: ../admin/partials/views/option-thumbnail.php:61
+msgid "To add a class to the image link."
+msgstr ""
+
+#: ../admin/partials/views/option-thumbnail.php:71
+msgid "If no Featured Image"
+msgstr ""
+
+#: ../admin/partials/views/option-thumbnail.php:74
+msgid "show nothing"
+msgstr ""
+
+#: ../admin/partials/views/option-thumbnail.php:75
+msgid "show Gravatar"
+msgstr ""
+
+#: ../admin/partials/views/option-thumbnail.php:76
+msgid "show Gravatar only if found"
+msgstr ""
+
+#: ../admin/partials/views/option-thumbnail.php:82
+msgid "Gravatar settings"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/partials/views/option-title.php:5
+msgid "Title"
+msgstr "العنوان"
+
+#: ../admin/partials/views/option-title.php:15
+#, php-format
+msgctxt "The name of this post type. \"Testimonial\" by default."
+msgid "Link to full %s"
+msgstr ""
+
+#: ../admin/partials/views/template-options.php:9
+msgid "no description"
+msgstr ""
+
+#: ../admin/partials/views/template-options.php:18
+msgid "Options"
+msgstr ""
+
+#: ../admin/partials/views/view-shortcode.php:10
+msgctxt "The shortcode for a new View."
+msgid "will be available after you save this"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:177
+msgid "Common Scenarios"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:185
+msgid "Symptom"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:188
+msgid "Possible Cause"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:191
+msgid "Try"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:197
+msgid "Views not working"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:198
+msgid ""
+"A testimonial view does not appear correctly the <strong>first time</strong> "
+"you view the page but it does when you <strong>refresh</strong> the page."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:199
+msgid ""
+"For example, it has no style, no pagination, or the slider has not started."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:202
+msgid ""
+"Your site uses <strong>Ajax page loading</strong> &ndash; also known as page "
+"animations, transition effects or Pjax (pushState Ajax) &ndash; provided by "
+"your theme or another plugin."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:203
+msgid ""
+"Instead of loading the entire page, this technique fetches only the new "
+"content."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:206
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:261
+msgid "Ajax Page Loading"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:206
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:323
+msgid "General"
+msgstr ""
+
+#. translators: link text on Settings > Compatibility tab
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:209
+msgid "Set this now"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:217
+msgid "Slider never starts"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:218
+msgid "A testimonial slider does not start or is missing navigation controls."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:221
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:234
+msgid ""
+"The page is very busy loading image galleries, other sliders or third-party "
+"resources like social media posts."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:224
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:237
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:751
+msgid "Load Event"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:224
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:237
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:808
+msgid "window load"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:230
+msgid "Masonry layout not working"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:231
+msgid ""
+"A testimonial view with the Masonry layout has only one column or works "
+"inconsistently in different browsers or devices."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:246
+msgid "Compatibility Settings"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:248
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Start a support ticket</a> if you need help "
+"with these options."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:266
+msgid "This does not perform Ajax page loading."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:267
+msgid ""
+"It provides compatibility with themes and plugins that use Ajax to load "
+"pages, also known as page animation or transition effects."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:296
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:455
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:507
+msgid "None"
+msgstr "لاشيء"
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:297
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:403
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:508
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:783
+msgid "(default)"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:301
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:512
+msgid "No compatibility needed."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:302
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:408
+msgid "This works well for most themes."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:327
+msgid "Be ready to render any view at any time."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:328
+msgid "This works well with common Ajax methods."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:350
+msgid "Advanced"
+msgstr "مخصص"
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:354
+msgid "For specific configurations."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:372
+msgid "Load stylesheets and populate script variables up front."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:402
+msgid "Current page"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:407
+msgid "For the current page only."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:429
+msgid "All views"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:433
+msgid "For all views. Required for Ajax page loading."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:434
+msgid "Then select an option for <strong>Monitor</strong> below."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:459
+msgid ""
+"When the shortcode is rendered. May result in a flash of unstyled content."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:473
+msgid "Monitor"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:477
+msgid "Initialize sliders, pagination and form validation as pages change."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:534
+msgid "Universal"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:538
+msgid "Watch for page changes on a timer."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:545
+msgctxt "timer setting"
+msgid "Check every"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:555
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:604
+msgctxt "timer setting"
+msgid "seconds"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:577
+msgid "Observer"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:581
+msgid "React to changes in specific page elements."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:594
+msgctxt "timer setting"
+msgid "Check once after"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:616
+msgid "Container ID"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:626
+msgid "the element to observe"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:638
+msgid "Added node ID"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:648
+msgid "the element being added"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:669
+msgid "Custom event"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:673
+msgid "Listen for specific events."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:681
+msgid "Event name"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:712
+msgid "Specific script"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:716
+msgid "Register a callback for a specific Ajax script."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:724
+msgid "Script name"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:730
+#: ../includes/widget2.php:96
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:755
+msgid "When to start sliders, Masonry, pagination and form validation."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:782
+msgid "document ready"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:787
+msgid "This works well if your page load time is less than a few seconds."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:812
+msgid "Try this if your page load time is more than a few seconds."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:828
+msgid "Lazy Loading Images"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:832
+msgid "Watch for lazy loading images in themes and plugins."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:860
+msgid "Enable watcher"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:864
+msgid ""
+"Most lazy loading techniques use one or two CSS class names to indicate which "
+"images to lazy load and when the lazy loading is finished."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:865
+msgid ""
+"Contact support for your theme or plugin to ask if it uses CSS class names."
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:881
+msgid "CSS Class Names"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:912
+msgctxt "noun"
+msgid "start"
+msgstr ""
+
+#: ../admin/settings/class-strong-testimonials-settings-compat.php:920
+msgctxt "noun"
+msgid "finish"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/settings/class-strong-testimonials-settings-general.php:44
+msgctxt "adjective"
+msgid "General"
+msgstr "عام"
+
+#: ../admin/settings/class-strong-testimonials-settings-licenses.php:54
+msgid "Licenses"
+msgstr ""
+
+# @ default
+#: ../admin/settings/class-strong-testimonials-settings.php:55
+msgid "Settings saved."
+msgstr "تم حفظ الإعدادات"
+
+#: ../admin/settings/partials/email-from.php:7
+msgid "Use mail queue. For services like Mandrill. Off by default."
+msgstr ""
+
+#: ../admin/settings/partials/email-from.php:16
+msgid "From"
+msgstr ""
+
+#: ../admin/settings/partials/email-from.php:47
+#: ../admin/settings/partials/recipient.php:15
+msgid "(optional)"
+msgstr ""
+
+#: ../admin/settings/partials/email-from.php:63
+#: ../admin/settings/partials/recipient.php:32
+msgid "admin:"
+msgstr ""
+
+#: ../admin/settings/partials/email-from.php:82
+#: ../admin/settings/partials/recipient.php:49
+#: ../admin/settings/partials/recipient.php:61
+msgid "email address"
+msgstr ""
+
+#: ../admin/settings/partials/email-to.php:5
+msgid "To"
+msgstr ""
+
+#: ../admin/settings/partials/email.php:5
+msgid "Subject"
+msgstr ""
+
+#: ../admin/settings/partials/email.php:16
+msgid "subject line"
+msgstr ""
+
+#: ../admin/settings/partials/email.php:27
+msgid "Message"
+msgstr ""
+
+#: ../admin/settings/partials/email.php:37
+msgid "message text"
+msgstr ""
+
+#: ../admin/settings/partials/email.php:46
+msgid "Tags for Subject and Message"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:50
+msgid "Form Labels & Messages"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:89
+msgid "Display required notice at top of form"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/settings/partials/form.php:101
+msgctxt "singular"
+msgid "restore default"
+msgstr "إستعادة الافتراضيات"
+
+#: ../admin/settings/partials/form.php:112
+msgid "Restore Default Messages"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:120
+msgid "Scroll"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:128
+#, php-format
+msgid "If errors, scroll to the first error minus %s pixels. On by default."
+msgstr ""
+
+#: ../admin/settings/partials/form.php:135
+#, php-format
+msgid ""
+"If success, scroll to the success message minus %s pixels. On by default."
+msgstr ""
+
+#: ../admin/settings/partials/form.php:151
+msgid "Form Actions"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:157
+msgid "Upon Successful Submission"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:165
+msgid "display message"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:173
+msgid "redirect to a page"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:178
+msgid "&mdash; select a page &mdash;"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:192
+msgctxt "to select a redirect page"
+msgid "or enter its ID or slug"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:206
+msgid "redirect to a URL"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:221
+msgid "Post Status"
+msgstr ""
+
+# @ default
+#: ../admin/settings/partials/form.php:230
+msgid "Pending"
+msgstr "في الانتظار"
+
+# @ default
+#: ../admin/settings/partials/form.php:237
+msgid "Published"
+msgstr "منشورة"
+
+#: ../admin/settings/partials/form.php:247
+msgid "Notification Email"
+msgstr ""
+
+#: ../admin/settings/partials/form.php:257
+msgid "Send an email upon new testimonial submission."
+msgstr ""
+
+#: ../admin/settings/partials/form.php:282
+msgid "Form Spam Control"
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/settings/partials/form.php:288
+msgctxt "spam control techniques"
+msgid "Honeypot"
+msgstr "المصيدة"
+
+#: ../admin/settings/partials/form.php:293
+msgid ""
+"These methods for trapping spambots are both time-tested and widely used. May "
+"be used simultaneously for more protection."
+msgstr ""
+
+#: ../admin/settings/partials/form.php:296
+msgid ""
+"However, honeypots may not be compatible with WP-SpamShield, Ajax page "
+"loading, caching or minification."
+msgstr ""
+
+#: ../admin/settings/partials/form.php:299
+msgid "If your form is not working properly, try disabling these."
+msgstr ""
+
+#: ../admin/settings/partials/form.php:309
+msgid ""
+"Adds a new empty field that is invisible to humans. Spambots tend to fill in "
+"every field they find in the form. Empty field = human. Not empty = spambot."
+msgstr ""
+
+#: ../admin/settings/partials/form.php:317
+msgid ""
+"Adds a new field as soon as the form is submitted. Spambots cannot run "
+"JavaScript so the new field never gets added. New field = human. Missing = "
+"spambot."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/settings/partials/form.php:325
+msgid "Captcha"
+msgstr "كابتشا"
+
+#: ../admin/settings/partials/form.php:330
+msgid ""
+"Enable Captcha using one of these plugins. Be sure to configure any plugins "
+"first, if necessary."
+msgstr ""
+
+#: ../admin/settings/partials/form.php:331
+msgid "May be used alongside honeypot methods."
+msgstr ""
+
+#: ../admin/settings/partials/form.php:334
+msgid "May not be compatible with Ajax page loading."
+msgstr ""
+
+# @ strong-testimonials
+#: ../admin/settings/partials/form.php:359
+msgctxt "link"
+msgid "settings"
+msgstr "الإعدادات"
+
+# @ strong-testimonials
+#: ../admin/settings/partials/form.php:361
+msgid "no settings"
+msgstr "لا يوجد إعدادات"
+
+# @ strong-testimonials
+#: ../admin/settings/partials/form.php:366
+msgctxt "adjective"
+msgid "inactive"
+msgstr "غير مفعل"
+
+# @ strong-testimonials
+#: ../admin/settings/partials/form.php:373
+msgid "not installed"
+msgstr "غير محملة"
+
+# @ strong-testimonials
+#: ../admin/settings/partials/form.php:376
+msgctxt "link"
+msgid "install plugin"
+msgstr "تحميل إضافة"
+
+# @ strong-testimonials
+#: ../admin/settings/partials/form.php:382
+msgctxt "link"
+msgid "plugin page"
+msgstr "صفحة الإضافات"
+
+#: ../admin/settings/partials/general.php:11
+msgid "Admin"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:17
+msgid "Pending Indicator"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:23
+msgid "Show indicator bubble when new submissions are awaiting moderation."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:24
+#: ../admin/settings/partials/general.php:78
+#: ../admin/settings/partials/general.php:94
+#: ../admin/settings/partials/general.php:109
+#: ../admin/settings/partials/general.php:173
+#: ../admin/settings/partials/general.php:222
+msgid "On by default."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:32
+msgid "Reordering"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:38
+msgid "Enable drag-and-drop reordering in the testimonial list."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:39
+#: ../admin/settings/partials/general.php:55
+#: ../admin/settings/partials/general.php:124
+#: ../admin/settings/partials/general.php:201
+msgid "Off by default."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:41
+msgid "Then set <b>Order</b> to \"menu order\" in the View."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:48
+msgid "Custom Fields Meta Box"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:54
+msgid ""
+"Show the <strong>Custom Fields</strong> meta box in the testimonial post "
+"editor. This does not affect the <strong>Client Details</strong> meta box."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:65
+msgid "Output"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:71
+msgid "Enable Touch"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:77
+msgid "Enable touch swipe navigation in slideshows."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:80
+msgid ""
+"If you are having trouble scrolling long testimonials on a small screen, try "
+"disabling this."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:87
+msgid "Scroll Top"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:93
+#, php-format
+msgid ""
+"When a new page is selected in paginated Views, scroll to the top of the "
+"container minus %s pixels."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:102
+msgid "Remove Whitespace"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:108
+msgid ""
+"Remove space between HTML tags in View output to prevent double paragraphs "
+"<em>(wpautop)</em>."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:117
+msgid "Comments"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:123
+msgid ""
+"Allow comments on testimonials. Requires using your theme's single post "
+"template."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:127
+msgid "To enable comments:"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:129
+msgid ""
+"For individual testimonials, use the <strong>Discussion</strong> meta box in "
+"the post editor or <strong>Quick Edit</strong> in the testimonial list."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:130
+msgid ""
+"For multiple testimonials, use <strong>Bulk Edit</strong> in the testimonial "
+"list."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:140
+msgid "Embed Width"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:146
+#, php-format
+msgid ""
+"For embedded links (YouTube, Twitter, etc.) set the frame width to %s pixels."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:148
+#, php-format
+msgid ""
+"Leave empty for default width (usually 100% for videos). Height will be "
+"calculated automatically. This setting only applies to Views."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:152
+msgid "More on embeds"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:163
+msgid "Load Font Awesome"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:169
+#, php-format
+msgid ""
+"Load the icon font necessary for star ratings %s, slideshow controls %s, and "
+"some template quotation marks %s. "
+msgstr ""
+
+#: ../admin/settings/partials/general.php:176
+msgid "Some reasons to disable this:"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:180
+msgid ""
+"Your theme or another plugin also loads Font Awesome and you want to make "
+"your site more efficient by only loading one copy."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:183
+msgid "Better Font Awesome"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:184
+msgid "You are overriding the icon CSS with images or another icon font."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:185
+msgid "You have no need for stars, slideshow controls, or quotation mark icons."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:186
+msgid "You know what you're doing."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:194
+msgid "Nofollow Links"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:200
+msgid "Add <code>rel=\"nofollow\"</code> to URL custom fields."
+msgstr ""
+
+#: ../admin/settings/partials/general.php:206
+msgid "Custom Field Bulk Editor"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:215
+msgid "No Lazy Loading"
+msgstr ""
+
+#: ../admin/settings/partials/general.php:221
+#, php-format
+msgid ""
+"Exclude from <a href=\"%s\" target=\"_blank\">Lazy Loading Responsive Images</"
+"a> plugin."
+msgstr ""
+
+#: ../admin/settings/partials/licenses.php:11
+msgid "Add-on Licenses"
+msgstr ""
+
+#: ../admin/settings/partials/licenses.php:13
+msgid ""
+"Valid license keys allow you to receive automatic updates and priority "
+"support."
+msgstr ""
+
+#: ../admin/settings/partials/licenses.php:14
+msgid ""
+"To transfer a license to another site or to uninstall the add-on, please "
+"deactivate the license here first."
+msgstr ""
+
+#: ../admin/settings/partials/licenses.php:15
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Access your downloads and license keys</a>."
+msgstr ""
+
+#: ../admin/settings/partials/licenses.php:20
+msgid "Add-on"
+msgstr ""
+
+#: ../admin/settings/partials/licenses.php:21
+msgid "License Key"
+msgstr ""
+
+#: ../admin/settings/partials/licenses.php:22
+msgid "Status"
+msgstr ""
+
+#: ../admin/views.php:37
+msgid "View saved."
+msgstr ""
+
+#: ../admin/views.php:38
+msgid "View deleted."
+msgstr ""
+
+#: ../admin/views.php:49 ../admin/views.php:208
+msgid "Edit View"
+msgstr ""
+
+#: ../admin/views.php:51 ../includes/functions-views.php:38
+msgid "An error occurred."
+msgstr ""
+
+#: ../admin/views.php:51 ../includes/functions-activation.php:34
+#: ../includes/functions-views.php:40
+#, php-format
+msgid "Please <a href=\"%s\" target=\"_blank\">open a support ticket</a>."
+msgstr ""
+
+#: ../admin/views.php:72 ../admin/views.php:209 ../includes/post-types.php:56
+msgid "Add New"
+msgstr ""
+
+#: ../admin/views.php:114
+msgid "Invalid request. Please try again."
+msgstr ""
+
+#: ../admin/views.php:208
+msgid "Add View"
+msgstr ""
+
+#: ../admin/views.php:210
+msgid "Return To List"
+msgstr ""
+
+#: ../admin/views.php:212
+msgid "Duplicate This View"
+msgstr ""
+
+#: ../admin/views.php:486
+msgid "built-in"
+msgstr ""
+
+#: ../admin/views.php:494
+msgid "link with another field"
+msgstr ""
+
+#: ../admin/views.php:495
+msgid "link (must be URL type)"
+msgstr ""
+
+#: ../admin/views.php:496
+msgid "date"
+msgstr ""
+
+#: ../admin/views.php:497
+msgid "category"
+msgstr ""
+
+#: ../admin/views.php:498
+msgid "rating"
+msgstr ""
+
+#: ../admin/views.php:532
+msgid "remove this field"
+msgstr ""
+
+#: ../admin/views.php:570
+msgid "Display Type"
+msgstr ""
+
+#: ../admin/views.php:603
+msgid "CSS Class"
+msgstr ""
+
+#: ../admin/views.php:650
+msgid "Link Text"
+msgstr ""
+
+#: ../admin/views.php:652
+msgid "this field's value"
+msgstr ""
+
+#: ../admin/views.php:653
+msgid "this field's label"
+msgstr ""
+
+#: ../admin/views.php:654
+msgid "custom text"
+msgstr ""
+
+#: ../admin/views.php:673
+msgid "URL Field"
+msgstr ""
+
+#: ../admin/views.php:690
+msgid "new tab"
+msgstr ""
+
+#: ../admin/views.php:715
+msgid "Format"
+msgstr ""
+
+#: ../admin/views.php:723
+msgid "more about date formats"
+msgstr ""
+
+#: ../admin/views.php:772 ../admin/views.php:800
+msgid "filter categories"
+msgstr ""
+
+#: ../includes/class-strong-form.php:498
+msgid "Unknown error."
+msgstr ""
+
+#: ../includes/class-strong-form.php:643
+msgid "star"
+msgid_plural "stars"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: ../includes/class-strong-templates.php:32
+msgid "Child Theme"
+msgstr ""
+
+#: ../includes/class-strong-templates.php:38
+msgid "Parent Theme"
+msgstr ""
+
+#: ../includes/class-strong-templates.php:44
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-strong-testimonials-privacy.php:31
+msgid "Strong Testimonials Plugin"
+msgstr ""
+
+#: ../includes/class-strong-testimonials-privacy.php:62
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/class-strong-testimonials-shortcode-average.php:139
+msgid "Average Rating:"
+msgstr ""
+
+#. translators: %s is a number
+#: ../includes/class-strong-testimonials-shortcode-average.php:143
+#, php-format
+msgid "Average of %s Rating:"
+msgid_plural "Average of %s Ratings:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: %s is a number
+#: ../includes/class-strong-testimonials-shortcode-average.php:166
+#: ../includes/class-strong-testimonials-shortcode-average.php:173
+#, php-format
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: ../includes/class-strong-testimonials-shortcode-average.php:167
+#, php-format
+msgid "(based on %s rating)"
+msgid_plural "(based on %s ratings)"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: ../includes/class-strong-testimonials-shortcode.php:77
+#, php-format
+msgid "Testimonial view %s not found."
+msgstr ""
+
+#: ../includes/class-strong-testimonials-shortcode.php:78
+#: ../includes/class-strong-view.php:78
+msgid "(Only administrators see this message.)"
+msgstr ""
+
+#: ../includes/class-strong-view.php:77
+msgid "No testimonials found. Check your view settings."
+msgstr ""
+
+#: ../includes/functions-activation.php:30
+msgid "An error occurred:"
+msgstr ""
+
+#: ../includes/functions-activation.php:31 ../includes/functions-views.php:39
+msgid "The plugin has been deactivated."
+msgstr ""
+
+#: ../includes/functions-activation.php:35 ../includes/functions-views.php:41
+#, php-format
+msgid "<a href=\"%s\">Go back to Dashboard</a>"
+msgstr ""
+
+#: ../includes/functions-content.php:47
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
+#: ../includes/functions-content.php:167 ../includes/functions-content.php:211
+msgid "&hellip;"
+msgstr ""
+
+#. translators: If your word count is based on single characters (e.g. East Asian characters),
+#. enter 'characters_excluding_spaces' or 'characters_including_spaces'. Otherwise, enter 'words'.
+#. Do not translate into your own language.
+#.
+#: ../includes/functions-content.php:221
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr ""
+
+#: ../includes/functions-template.php:543
+msgid "&laquo; Previous"
+msgstr ""
+
+#: ../includes/functions-template.php:544
+msgid "Next &raquo;"
+msgstr ""
+
+#. translators: Publish box date format, see https://secure.php.net/date
+#: ../includes/functions.php:534 ../includes/post-types.php:202
+msgid "M j, Y @ H:i"
+msgstr ""
+
+#: ../includes/functions.php:566
+msgid "light blue gradient"
+msgstr ""
+
+#: ../includes/functions.php:571
+msgid "light gray gradient"
+msgstr ""
+
+#: ../includes/functions.php:576
+msgid "light green mist gradient"
+msgstr ""
+
+#: ../includes/functions.php:581
+msgid "light latte gradient"
+msgstr ""
+
+#: ../includes/functions.php:586
+msgid "light plum gradient"
+msgstr ""
+
+#: ../includes/functions.php:591
+msgid "sky blue gradient"
+msgstr ""
+
+#: ../includes/integrations/class-integration-captcha-pro.php:19
+#: ../includes/integrations/class-integration-google-captcha.php:18
+#: ../includes/integrations/class-integration-really-simple-captcha.php:29
+msgid "The Captcha failed. Please try again."
+msgstr ""
+
+# @ strong-testimonials
+#: ../includes/integrations/class-integration-really-simple-captcha.php:14
+msgctxt "Captcha"
+msgid "Input this code:"
+msgstr "أدخل هذا الكود"
+
+#: ../includes/l10n-polylang.php:65 ../includes/l10n-wpml.php:144
+msgid "placeholder"
+msgstr ""
+
+#: ../includes/l10n-polylang.php:68 ../includes/l10n-wpml.php:148
+msgid "label"
+msgstr ""
+
+#: ../includes/l10n-polylang.php:71 ../includes/l10n-wpml.php:156
+msgid "default form value"
+msgstr ""
+
+#: ../includes/l10n-polylang.php:74 ../includes/l10n-wpml.php:160
+msgid "default display value"
+msgstr ""
+
+#: ../includes/l10n-polylang.php:95 ../includes/l10n-wpml.php:185
+msgid "Email subject"
+msgstr ""
+
+#: ../includes/l10n-polylang.php:96 ../includes/l10n-wpml.php:184
+msgid "Email message"
+msgstr ""
+
+#: ../includes/l10n-polylang.php:120 ../includes/l10n-wpml.php:199
+#, php-format
+msgid "View %s : Read more (testimonial)"
+msgstr ""
+
+#: ../includes/l10n-polylang.php:123 ../includes/l10n-wpml.php:202
+#, php-format
+msgid "View %s : Read more (page or post)"
+msgstr ""
+
+#: ../includes/l10n-polylang.php:165
+#, php-format
+msgid ""
+"Translate these fields in <a href=\"%s\">Polylang String Translations</a>"
+msgstr ""
+
+#: ../includes/l10n-wpml.php:231
+#, php-format
+msgid "Translate these fields in <a href=\"%s\">WPML String Translations</a>"
+msgstr ""
+
+# @ strong-testimonials
+#: ../includes/post-types.php:54
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr "الشهادات"
+
+# @ strong-testimonials
+#: ../includes/post-types.php:55
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr "شهادة"
+
+# @ strong-testimonials
+#: ../includes/post-types.php:57
+msgid "Add New Testimonial"
+msgstr "إضافة شهادة جديدة"
+
+# @ strong-testimonials
+#: ../includes/post-types.php:58
+msgid "Edit Testimonial"
+msgstr "تعديل الشهادة"
+
+# @ strong-testimonials
+#: ../includes/post-types.php:59
+msgid "New Testimonial"
+msgstr "شهادة جديدة"
+
+# @ strong-testimonials
+#: ../includes/post-types.php:60
+msgid "View Testimonial"
+msgstr "عرض الشهادات"
+
+#: ../includes/post-types.php:61
+msgid "View Testimonials"
+msgstr ""
+
+# @ strong-testimonials
+#: ../includes/post-types.php:62
+msgid "Search Testimonials"
+msgstr "البحث في الشهادات"
+
+# @ strong-testimonials
+#: ../includes/post-types.php:63
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+# @ strong-testimonials
+#: ../includes/post-types.php:64
+msgid "Nothing found in Trash"
+msgstr "لم يتم إيجاد شيء في المهملات"
+
+# @ strong-testimonials
+#: ../includes/post-types.php:65
+msgid "All Testimonials"
+msgstr "كافة الشهادات"
+
+#: ../includes/post-types.php:66
+msgid "Testimonial Archives"
+msgstr ""
+
+#: ../includes/post-types.php:67
+msgid "Attributes"
+msgstr ""
+
+#: ../includes/post-types.php:68
+msgid "Insert into testimonial"
+msgstr ""
+
+#: ../includes/post-types.php:69
+msgid "Uploaded to this testimonial"
+msgstr ""
+
+#: ../includes/post-types.php:71
+msgid "Set featured image"
+msgstr ""
+
+#: ../includes/post-types.php:72
+msgid "Remove featured image"
+msgstr ""
+
+#: ../includes/post-types.php:73
+msgid "Use as featured image"
+msgstr ""
+
+#: ../includes/post-types.php:74
+msgid "Filter testimonials list"
+msgstr ""
+
+#: ../includes/post-types.php:75
+msgid "Testimonials list navigation"
+msgstr ""
+
+#: ../includes/post-types.php:76
+msgid "Testimonials list"
+msgstr ""
+
+#: ../includes/post-types.php:77
+msgctxt "admin menu name"
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/post-types.php:78
+msgctxt "admin bar menu name"
+msgid "Testimonial"
+msgstr ""
+
+# @ strong-testimonials
+#: ../includes/post-types.php:105
+msgctxt "slug"
+msgid "testimonial"
+msgstr "شهادة"
+
+#: ../includes/post-types.php:126
+msgid "Testimonial Categories"
+msgstr ""
+
+#: ../includes/post-types.php:127
+msgid "Testimonial Category"
+msgstr ""
+
+# @ strong-testimonials
+#: ../includes/post-types.php:129
+msgid "All categories"
+msgstr "كل الأقسام"
+
+#: ../includes/post-types.php:135
+msgctxt "slug"
+msgid "testimonial-category"
+msgstr ""
+
+#: ../includes/post-types.php:186 ../includes/post-types.php:198
+msgid "Preview testimonial"
+msgstr ""
+
+#: ../includes/post-types.php:192
+msgid "View testimonial"
+msgstr ""
+
+#: ../includes/post-types.php:206 ../includes/post-types.php:209
+msgid "Testimonial updated."
+msgstr ""
+
+#: ../includes/post-types.php:207
+msgid "Custom field updated."
+msgstr ""
+
+#: ../includes/post-types.php:208
+msgid "Custom field deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: ../includes/post-types.php:211
+#, php-format
+msgid "Testimonial restored to revision from %s."
+msgstr ""
+
+#: ../includes/post-types.php:212
+msgid "Testimonial published."
+msgstr ""
+
+#: ../includes/post-types.php:213
+msgid "Testimonial saved."
+msgstr ""
+
+#: ../includes/post-types.php:214
+msgid "Testimonial submitted."
+msgstr ""
+
+#: ../includes/post-types.php:215
+#, php-format
+msgid "Testimonial scheduled for: %s."
+msgstr ""
+
+#: ../includes/post-types.php:216
+msgid "Testimonial draft updated."
+msgstr ""
+
+#: ../includes/post-types.php:239
+#, php-format
+msgid "%s testimonial updated."
+msgid_plural "%s testimonials updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: ../includes/post-types.php:240
+msgid "1 testimonial not updated, somebody is editing it."
+msgstr ""
+
+#: ../includes/post-types.php:240
+#, php-format
+msgid "%s testimonial not updated, somebody is editing it."
+msgid_plural "%s testimonials not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: ../includes/post-types.php:241
+#, php-format
+msgid "%s testimonial permanently deleted."
+msgid_plural "%s testimonials permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: ../includes/post-types.php:242
+#, php-format
+msgid "%s testimonial moved to the Trash."
+msgid_plural "%s testimonials moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: ../includes/post-types.php:243
+#, php-format
+msgid "%s testimonial restored from the Trash."
+msgid_plural "%s testimonials restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: ../includes/widget2.php:14
+msgctxt "widget description"
+msgid "Add one of your testimonial views."
+msgstr ""
+
+#: ../includes/widget2.php:21
+msgctxt "widget label"
+msgid "Strong Testimonials View"
+msgstr ""
+
+# @ strong-testimonials
+#: ../includes/widget2.php:27
+msgctxt "widget title"
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#: ../includes/widget2.php:78
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widget2.php:84
+msgid "Content:"
+msgstr ""
+
+#: ../includes/widget2.php:88
+msgid "Automatically add paragraphs to above Content only"
+msgstr ""
+
+#: ../includes/widget2.php:92
+msgctxt "widget setting"
+msgid "View:"
+msgstr ""
+
+#: ../strong-testimonials.php:126 ../strong-testimonials.php:138
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+# @ strong-testimonials
+#~ msgid "Changes undone."
+#~ msgstr "التغييرات غير مكتملة"
+
+# @ strong-testimonials
+#~ msgid "Click the field name to expand its options panel."
+#~ msgstr "اضغط على اسم الحقل لعرض لوحة التحكم الخاصة به"
+
+# @ strong-testimonials
+#~ msgctxt "link"
+#~ msgid "Full tutorial"
+#~ msgstr "شرح كامل"
+
+# @ strong-testimonials
+#~ msgid "Undo Changes"
+#~ msgstr "التراجع عن التغييرات"
+
+# @ strong-testimonials
+#~ msgid "This appears on the form."
+#~ msgstr "هذه الخانة تظهر على النموذج"
+
+# @ strong-testimonials
+#~ msgid "Admin Table"
+#~ msgstr "جدول المدير"
+
+# @ strong-testimonials
+#~ msgid "Strong Testimonials Guide"
+#~ msgstr "دليل شهادات قوي"
+
+# @ strong-testimonials
+#~ msgid "Getting Started"
+#~ msgstr "البدء بالعمل"
+
+# @ strong-testimonials
+#~ msgid "custom fields"
+#~ msgstr "خانات مخصصة"
+
+# @ strong-testimonials
+#~ msgctxt "noun"
+#~ msgid "Guide"
+#~ msgstr "الدليل"
+
+# @ strong-testimonials
+#~ msgid "Testimonial Settings"
+#~ msgstr "إعدادات الشهادة"
+
+# @ strong-testimonials
+#~ msgid "From:"
+#~ msgstr "من:"
+
+# @ strong-testimonials
+#~ msgid "To:"
+#~ msgstr "إلى:"
+
+# @ strong-testimonials
+#~ msgid "Template tags for Subject and Message:"
+#~ msgstr "قالب الأوسمة للعنوان والرسالة:"
+
+# @ strong-testimonials
+#~ msgid "Subject:"
+#~ msgstr "العنوان:"
+
+# @ strong-testimonials
+#~ msgid "Message:"
+#~ msgstr "الرسالة:"
+
+# @ strong-testimonials
+#~ msgctxt "multiple"
+#~ msgid "Restore Defaults"
+#~ msgstr "إستعادة الافتراضيات"
+
+# @ strong-testimonials
+#~ msgid "Post status"
+#~ msgstr "حالة المشاركة"
+
+# @ strong-testimonials
+#~ msgid "Notification"
+#~ msgstr "تنبيهات"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "These methods are both time-tested and widely used. They can be used "
+#~ "simultaneously for more protection."
+#~ msgstr ""
+#~ "هذه الأساليب اجتازت اختبار الزمن وهي مستخدمة على نطاق واسع. كما يمكن "
+#~ "استخدامها في وقت واحد للمزيد من الحماية."
+
+# @ strong-testimonials
+#~ msgid "Recommended."
+#~ msgstr "موصى به"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Traps spambots by adding an extra empty field that is invisible to humans "
+#~ "but not to spambots which tend to fill in every field they find in the "
+#~ "form code. Empty field = human. Not empty = spambot."
+#~ msgstr ""
+#~ "فخ للمتطفلين و برامج التطفل (السبام) وذلك بإضافة حقل فارغ اضافي لا يمكن "
+#~ "رؤيته من قبل المستخدم و لكن يمكن رؤيته من قبل هذه البرامج التي تميل إلى "
+#~ "ملء كل خانة فارغة . (حقل فارغ = مستخدم حقيقي . حقل ليس فارغ = سبام)."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Traps spambots by using JavaScript to add a new field as soon as the form "
+#~ "is submitted. Since spambots cannot run JavaScript, the new field never "
+#~ "gets added. New field = human. Missing = spambot."
+#~ msgstr ""
+#~ "فخ للمتطفلين وذلك باستخدام جافا سكريبت لإضافة خانة جديدة بعد الضغط على زر "
+#~ "التقديم. ولأن المتطفلين والسبام لا يمكن أن يستخدمو الجافاسكريبت، لن تظهر "
+#~ "لهم الخانة الجديدة (خانة جديدة: مستخدم حقيقي ، لاتوجد خانة جديدة:سبام)."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Can be used alongside honeypot methods. Be sure to configure any plugins "
+#~ "first, if necessary."
+#~ msgstr ""
+#~ "يمكن استخدامها بالتزامن مع طريقة المصيدة، يجب التأكد من تهيئة أي إضافة "
+#~ "أولاً إذا كان هذا مطلوباً."
+
+# @ strong-testimonials
+#~ msgctxt "verb"
+#~ msgid "Show"
+#~ msgstr "أظهر"
+
+# @ strong-testimonials
+#~ msgid "Required field"
+#~ msgstr "خانة مطلوبة"
+
+# @ strong-testimonials
+#~ msgctxt "description"
+#~ msgid "Captcha label"
+#~ msgstr "عنوان كابتشا"
+
+# @ default
+#~ msgctxt "strong-testimonials"
+#~ msgid "Captcha"
+#~ msgstr "كابتشا"
+
+# @ strong-testimonials
+#~ msgctxt "description"
+#~ msgid "Submit button"
+#~ msgstr "زر الإرسال"
+
+# @ strong-testimonials
+#~ msgctxt "description"
+#~ msgid "Submission error"
+#~ msgstr "خطأ في الإرسال"
+
+# @ strong-testimonials
+#~ msgctxt "description"
+#~ msgid "Submission success"
+#~ msgstr "تم الإرسال بنجاح"
+
+# @ strong-testimonials
+#~ msgctxt "success message"
+#~ msgid "Thank you! Your testimonial is awaiting moderation."
+#~ msgstr "شكراً لك ، الشهادة في انتظار القبول من الإدارة."
+
+# @ strong-testimonials
+#~ msgctxt "post type"
+#~ msgid "Add New"
+#~ msgstr "إضافة جديد"
+
+# @ strong-testimonials
+#~ msgctxt "post type singular label"
+#~ msgid "testimonial"
+#~ msgstr "شهادة"
+
+# @ strong-testimonials
+#~ msgid "Category"
+#~ msgstr "قسم"
+
+# @ strong-testimonials
+#~ msgid "Will break on a space and add an ellipsis."
+#~ msgstr "سيتم إلغاء المسافات ووضع نقاط"
+
+# @ strong-testimonials
+#~ msgid "Excerpts are hand-crafted summaries of your testimonial."
+#~ msgstr "المقتطف هو مختصر لشهادتك"
+
+# @ strong-testimonials
+#~ msgid "categories"
+#~ msgstr "أقسام"
+
+# @ strong-testimonials
+#~ msgctxt "testimonial"
+#~ msgid "Title"
+#~ msgstr "العنوان"
+
+# @ strong-testimonials
+#~ msgid "Customize other form elements <a href=\"%s\">here</a>."
+#~ msgstr "تعديل عناصر أخرى في الحقل <a href=\"%s\">هنا</a>. "
+
+# @ strong-testimonials
+#~ msgid "Client section shortcodes:"
+#~ msgstr "اختصارات رقم العميل:"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Use these shortcodes to select which client fields appear below each "
+#~ "testimonial."
+#~ msgstr "استخدم هذه الاختصارات لمعرفة أي خانة لعميل تظهر في كل شهادة."
+
+# @ strong-testimonials
+#~ msgid "These shortcodes only work here, not on a page."
+#~ msgstr "هذه الاختصارات تعمل هنا فقط ، وليس في الصفحة."
+
+# @ strong-testimonials
+#~ msgid "Your fields:"
+#~ msgstr "الخانات الخاصة بك:"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "These are the fields used on your testimonial submission form. You can "
+#~ "change these in the Fields editor."
+#~ msgstr ""
+#~ "هذه الخانات المستعملة في نموذج التقديم الخاص بك، يمكنك تعديلها في محرر "
+#~ "الخانات"
+
+# @ strong-testimonials
+#~ msgid "Default shortcodes:"
+#~ msgstr "الاختصارات الافتراضية"
+
+# @ strong-testimonials
+#~ msgid "Restore Default"
+#~ msgstr "استرجاع الخيارات الافتراضية"
+
+# @ strong-testimonials
+#~ msgctxt "quantity"
+#~ msgid "How many?"
+#~ msgstr "كم؟"
+
+# @ strong-testimonials
+#~ msgid "All"
+#~ msgstr "الكل"
+
+# @ strong-testimonials
+#~ msgctxt "the testimonial title"
+#~ msgid "Title <em>(if included in Fields)</em>"
+#~ msgstr "العنوان <em> (إذا كان مضمناً في الخانات) </em>"
+
+# @ strong-testimonials
+#~ msgctxt "the testimonial excerpt"
+#~ msgid "Excerpt"
+#~ msgstr "مقتطف"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "You may need to enable them in the post editor like in this <a id=\"toggle-"
+#~ "screen-options\" href=\"#\">screenshot</a>."
+#~ msgstr ""
+#~ "قد يجب أن تقوم بتفعيلهم من خلال محرر المشاركة كما في هذه الصورة <a id="
+#~ "\"toggle-screen-options\" href=\"#\">screenshot</a>."
+
+# @ strong-testimonials
+#~ msgctxt "display setting"
+#~ msgid "Content up to %s characters"
+#~ msgstr "المحتوى حتى %s حرفاً."
+
+# @ strong-testimonials
+#~ msgctxt "display setting"
+#~ msgid "Entire content"
+#~ msgstr "كل المحتوى"
+
+# @ strong-testimonials
+#~ msgid "Featured Images <em>(if included in Fields)</em>"
+#~ msgstr "صورة بارزة <em> (إذا كانت مضمنة في الخانات)</em>"
+
+# @ strong-testimonials
+#~ msgid "Client Information <em>(if included in Fields)</em>"
+#~ msgstr "معلومات العميل <em> (إذا كانت مضمنة في الخانات)</em>"
+
+# @ strong-testimonials
+#~ msgctxt "no \"Read more\" link"
+#~ msgid "None"
+#~ msgstr "لا يوجد"
+
+# @ strong-testimonials
+#~ msgctxt "the \"Read more\" link"
+#~ msgid "Link to the testimonial"
+#~ msgstr "رابط للشهادة"
+
+# @ strong-testimonials
+#~ msgctxt "the \"Read more\" link"
+#~ msgid "Link to"
+#~ msgstr "رابط لـ"
+
+# @ strong-testimonials
+#~ msgctxt "the \"Read more\" link"
+#~ msgid "— Select a page —"
+#~ msgstr "— اختر الصفحة —"
+
+# @ strong-testimonials
+#~ msgctxt "slideshow effect"
+#~ msgid "Transition"
+#~ msgstr "تحويل"
+
+# @ strong-testimonials
+#~ msgctxt "slideshow setting"
+#~ msgid "Effect duration"
+#~ msgstr "مدة التنفيذ"
+
+# @ strong-testimonials
+#~ msgid "Customize the form fields <a href=\"%s\">here</a>."
+#~ msgstr "عدل الخانة <a href=\"%s\"> هنا </a>."
+
+# @ strong-testimonials
+#~ msgid "Labels & Messages"
+#~ msgstr "العناوين والرسائل"
+
+# @ strong-testimonials
+#~ msgctxt "noun"
+#~ msgid "Actions"
+#~ msgstr "إجراءات"
+
+# @ strong-testimonials
+#~ msgid "Spam Control"
+#~ msgstr "التحكم بالبريد المزعج"
+
+# @ strong-testimonials
+#~ msgid "Load stylesheets"
+#~ msgstr "تحميل صفحات الأنماط (stylesheets)"
+
+# @ strong-testimonials
+#~ msgid "Widget"
+#~ msgstr "ودجت"
+
+# @ strong-testimonials
+#~ msgid "Submission Form"
+#~ msgstr "نموذج التقديم"
+
+# @ strong-testimonials
+#~ msgid "RTL"
+#~ msgstr "اليمين لليسار RTL"
+
+# @ strong-testimonials
+#~ msgid "Show All"
+#~ msgstr "إظهار الكل"
+
+# @ strong-testimonials
+#~ msgid "from all categories"
+#~ msgstr "من كافة الأقسام"
+
+# @ strong-testimonials
+#~ msgid "or a single category"
+#~ msgstr "أو من قسم واحد"
+
+# @ strong-testimonials
+#~ msgid "or multiple categories"
+#~ msgstr "أو عدة أقسام"
+
+# @ strong-testimonials
+#~ msgid "Cycle"
+#~ msgstr "حلقة"
+
+# @ strong-testimonials
+#~ msgctxt "verb"
+#~ msgid "<a href=\"%s\">configure</a>"
+#~ msgstr "<a href=\"%s\">ضبط</a>"
+
+# @ strong-testimonials
+#~ msgctxt "display order"
+#~ msgid "Random"
+#~ msgstr "عشوائي"
+
+# @ strong-testimonials
+#~ msgid "a single random testimonial"
+#~ msgstr "شهادة واحدة عشوائية"
+
+# @ strong-testimonials
+#~ msgctxt "quantity"
+#~ msgid "or a certain number"
+#~ msgstr "أو عدد معين"
+
+# @ strong-testimonials
+#~ msgid "a single testimonial from a single category"
+#~ msgstr "شهادة واحدة من قسم واحد"
+
+# @ strong-testimonials
+#~ msgctxt "quantity"
+#~ msgid "a certain number from a single category"
+#~ msgstr "عدد معين من قسم واحد"
+
+# @ strong-testimonials
+#~ msgctxt "quantity"
+#~ msgid "Single"
+#~ msgstr "واحد"
+
+# @ strong-testimonials
+#~ msgid "one specific testimonial"
+#~ msgstr "شهادة محددة واحدة"
+
+# @ strong-testimonials
+#~ msgid "a form for visitors to submit testimonials"
+#~ msgstr "نموذج للزوار لإضافة شهادة"
+
+# @ strong-testimonials
+#~ msgid "and add them to a single category"
+#~ msgstr "ووضعهم في قسم واحد"
+
+# @ strong-testimonials
+#~ msgctxt "noun"
+#~ msgid "Content"
+#~ msgstr "المحتوى"
+
+# @ strong-testimonials
+#~ msgid "will break on a space and add an ellipsis"
+#~ msgstr "سيتم إلغاء المسافات ووضع نقاط"
+
+# @ strong-testimonials
+#~ msgid "if included in Fields"
+#~ msgstr "إذا كانت مضمنة في الخانات"
+
+# @ strong-testimonials
+#~ msgid "Examples"
+#~ msgstr "نماذج"
+
+# @ strong-testimonials
+#~ msgid "The Form"
+#~ msgstr "المنتدى"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Please use the <a href=\"%s\" target=\"_blank\">support forum</a> or <a "
+#~ "href=\"%s\" target=\"_blank\">contact me</a>."
+#~ msgstr ""
+#~ "الرجاء استعمال <a href=\"%s\" target=\"_blank\"> منتدى الدعم الفني </a>  "
+#~ "أو <a href=\"%s\" target=\"_blank\"> اتصل بي</a>."
+
+# @ strong-testimonials
+#~ msgid "Read More"
+#~ msgstr "قراءة المزيد"
+
+# @ strong-testimonials
+#~ msgid "Selection"
+#~ msgstr "اختيار"
+
+# @ strong-testimonials
+#~ msgid "Template files"
+#~ msgstr "ملفات القالب"
+
+# @ strong-testimonials
+#~ msgid "Cycle Shortcode"
+#~ msgstr "اختصار الحلقة"
+
+# @ strong-testimonials
+#~ msgid "Client Section"
+#~ msgstr "قسم العميل"
+
+# @ strong-testimonials
+#~ msgid "Remember to save changes before switching tabs."
+#~ msgstr "تذكر حفظ التعديلات قبل الانتقال بين التبويبات"
+
+# @ strong-testimonials
+#~ msgctxt "display order"
+#~ msgid "Newest first"
+#~ msgstr "الجديد أولاً"
+
+# @ strong-testimonials
+#~ msgctxt "display order"
+#~ msgid "Oldest first"
+#~ msgstr "القديم أولاً"
+
+# @ strong-testimonials
+#~ msgid "Default Field Group"
+#~ msgstr "مجموعة الخانات الافتراضية"
+
+# @ strong-testimonials
+#~ msgid "Custom Field Group"
+#~ msgstr "مجموعة الخانات المخصصة"
+
+# @ strong-testimonials
+#~ msgid "Please complete the Captcha."
+#~ msgstr "الرجاء اكمال الكود - كابتشا"
+
+# @ strong-testimonials
+#~ msgid "The Captcha was not entered correctly. Please try again."
+#~ msgstr "الكود - كابتشا لم يتم ادخاله بصورة صحيحة، الرجاء المحاولة مرة أخرى"
+
+# @ strong-testimonials
+#~ msgctxt "widget setting"
+#~ msgid "Title"
+#~ msgstr "العنوان"
+
+# @ strong-testimonials
+#~ msgctxt "categories"
+#~ msgid "Show all"
+#~ msgstr "إظهار الكل"
+
+# @ strong-testimonials
+#~ msgctxt "display type"
+#~ msgid "Cycle Mode"
+#~ msgstr "وضع الحلقة"
+
+# @ strong-testimonials
+#~ msgctxt "display type"
+#~ msgid "Static Mode"
+#~ msgstr "الوضع الثابت"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Excerpts are hand-crafted summaries of your testimonial. You may need to "
+#~ "enable them in the post editor."
+#~ msgstr ""
+#~ "المقتطفات هي عبارة عن مختصر للشهادة مجهز يدوياً. يمكن أن تقوم بتفعيلها من "
+#~ "محرر المقال."
+
+# @ strong-testimonials
+#~ msgid "Character limit"
+#~ msgstr "عدد الأحرف المسموحة"
+
+# @ strong-testimonials
+#~ msgid "Entire content"
+#~ msgstr "كافة المحتوى"
+
+# @ strong-testimonials
+#~ msgctxt "display custom fields"
+#~ msgid "Show parts"
+#~ msgstr "إظهار الأجزاء"
+
+# @ strong-testimonials
+#~ msgctxt "tooltip"
+#~ msgid "if included in Fields"
+#~ msgstr "إذا كانت مضمنة في الخانات"
+
+# @ strong-testimonials
+#~ msgctxt "thumbnail"
+#~ msgid "Featured Images"
+#~ msgstr "صور بارزة"
+
+# @ strong-testimonials
+#~ msgid "Client Info"
+#~ msgstr "بيانات العميل"
+
+# @ strong-testimonials
+#~ msgid "Sort by grabbing the %s icon."
+#~ msgstr "الترتيب عن طريق الضغط على الأيقونة %s"
+
+# @ strong-testimonials
+#~ msgctxt "link"
+#~ msgid "Plugin support"
+#~ msgstr "دعم الإضافة"
+
+# @ strong-testimonials
+#~ msgctxt "contact link"
+#~ msgid "Developer"
+#~ msgstr "المطور"
+
+# @ strong-testimonials
+#~ msgctxt "post editor"
+#~ msgid "To add a client's photo, use the Featured Image option."
+#~ msgstr "لوضع صورة للعميل ، الرجاء استخدام خيار صورة بارزة"
+
+# @ strong-testimonials
+#~ msgid "Invalid keys. Please contact the site administrator."
+#~ msgstr "مفاتيح غير صالحة، الرجاء مراسلة المدير"
+
+# @ strong-testimonials
+#~ msgid "Invalid parameter. Please contact the site administrator."
+#~ msgstr "متغيرات غير صالحة، الرجاء مراسلة المدير"
+
+# @ strong-testimonials
+#~ msgid "The process timed out. Please try again."
+#~ msgstr "انتهى وقت العملية ، الرجاء المحاولة مرة أخرى"
+
+# @ default
+#~ msgid "per_page"
+#~ msgstr "per_page"
+
+# @ default
+#~ msgid "default_template"
+#~ msgstr "default_template"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "This shortcode will be deprecated soon. Please migrate to the <a href=\"%s"
+#~ "\"><code>[strong]</code></a> shortcode."
+#~ msgstr ""
+#~ "هذا الاختصار سيتم تجاهله قريباً ، الرجاء الانتقال إلى هذا الاختصار <a href="
+#~ "\"%s\"><code>[strong]</code></a>"
+
+# @ strong-testimonials
+#~ msgid "\"Read More\" link"
+#~ msgstr "\"اقرأ المزيد\" رابط"
+
+# @ default
+#~ msgid "description"
+#~ msgstr "وصف"
+
+# @ strong-testimonials
+#~ msgid "Send email upon new testimonial submission"
+#~ msgstr "إرسال بريد إلكتروني عند وجود شهادة جديدة"
+
+# @ default
+#~ msgid "client_section"
+#~ msgstr "client_section"
+
+# @ strong-testimonials
+#~ msgid "The number of testimonials to show per page"
+#~ msgstr "عدد الشهادات في الصفحة"
+
+# @ strong-testimonials
+#~ msgid "This applies to the %s shortcode."
+#~ msgstr "هذا يطبق على %s اختصار"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "View some examples on the <a href=\"%s\" target=\"_blank\">demo site</a>."
+#~ msgstr ""
+#~ "عرض بعض النماذج على هذا <a href=\"%s\" target=\"_blank\"> الرابط</a>."
+
+# @ strong-testimonials
+#~ msgid "Make your testimonials sing using advanced features."
+#~ msgstr "جعل الشهادات الخاصة بك تغني بواسطة اعدادات متقدمة."
+
+# @ strong-testimonials
+#~ msgctxt "verb"
+#~ msgid "Gather"
+#~ msgstr "جمع"
+
+# @ strong-testimonials
+#~ msgid "Customize the form to meet your needs."
+#~ msgstr "عدل النموذج ليلبي احتياجاتك"
+
+# @ strong-testimonials
+#~ msgid "<a href=\"%s\" target=\"_blank\">Here</a> is a full tutorial."
+#~ msgstr "شرح كامل <a href=\"%s\" target=\"_blank\"> هنا</a>"
+
+# @ strong-testimonials
+#~ msgid "Featured Images"
+#~ msgstr "صور بارزة"
+
+# @ strong-testimonials
+#~ msgid "AKA thumbnails."
+#~ msgstr "الصور المصغرة"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Allow your clients to include a photo or a logo with their testimonial."
+#~ msgstr "السماح للعملاء بوضع صورة أو شعار مع الشهادة."
+
+# @ strong-testimonials
+#~ msgid "Add honeypot and/or Captcha  methods to the form."
+#~ msgstr "وضع طريقة المصيدة أو/و كابتشا في النموذج."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Automatically send an email to the site administrator when a new "
+#~ "testimonial has been submitted and is pending review."
+#~ msgstr ""
+#~ "إرسال رسالة أوتوماتيكياً إلى المدير عند وصول شهادة جديدة بانتظار القبول."
+
+# @ strong-testimonials
+#~ msgctxt "verb"
+#~ msgid "Publish"
+#~ msgstr "نشر"
+
+# @ strong-testimonials
+#~ msgid "Organize your testimonials by year, salesperson, event, etc."
+#~ msgstr "ترتيب الشهادات بحسب السنة، البائع، الحدث ،إلخ."
+
+# @ strong-testimonials
+#~ msgid "Excerpts"
+#~ msgstr "مقتطفات"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Available in the post editor, use excerpts to create attention-grabbing "
+#~ "one-liners for use in widgets and the cycle shortcode."
+#~ msgstr ""
+#~ "متاحة في محرر المقالات، استعمل المقتطفات ذات السطر الواحد لجذب الانتباه في "
+#~ "الودجتات و اختصار الحلقة."
+
+# @ strong-testimonials
+#~ msgid "Skip Loading Stylesheets"
+#~ msgstr "تخطى تحميل صفحات الأنماط (stylesheets)"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "The included stylesheets include a default layout. Skip loading the "
+#~ "stylesheets if you want to style everything in your theme or <a href=\"%s"
+#~ "\" target=\"_blank\">custom CSS</a>."
+#~ msgstr ""
+#~ "صفحة الأنماط المضمنة تتضمن نموذجًا افتراضياً. تخطى تحميل صفحة الأنماط هذه "
+#~ "إذا كنت تريد أن تقوم بصناعة النمط الخاص بك (stylesheets) في الثيم أو <a "
+#~ "href=\"%s\" target=\"_blank\"> سي إس إس مخصص</a>."
+
+# @ strong-testimonials
+#~ msgctxt "verb"
+#~ msgid "Display"
+#~ msgstr "عرض"
+
+# @ strong-testimonials
+#~ msgid "Several ways to show your testimonials."
+#~ msgstr "عدة طرق لعرض شهاداتك"
+
+# @ strong-testimonials
+#~ msgid "Add a testimonial slider to any page."
+#~ msgstr "وضع سلايدر الشهادات في أي صفحة"
+
+# @ strong-testimonials
+#~ msgid "Widgets"
+#~ msgstr "ودجت"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "The widget has the same features as the cycle shortcode. Multiple widgets "
+#~ "can used on the same page."
+#~ msgstr ""
+#~ " الودجت يملك نفس مواصفات الاختصار، يمكن استخدام عدة ودجات في نفس الصفحة."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Select which fields (including your custom fields) appear below the "
+#~ "testimonial content."
+#~ msgstr "اختر أي خانات (بما فيها الخانات المخصصة) تظهر تحت محتوى الشهادات"
+
+# @ strong-testimonials
+#~ msgid "As Posts"
+#~ msgstr "كمقال"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Since a testimonial is a type of post, it can be displayed using your "
+#~ "theme's default post template or a custom template, included pagination."
+#~ msgstr ""
+#~ "بما أن الشهادات هي عبارة عن شكل من أشكال المقال، يمكن إظهارها بنفس خيارات "
+#~ "الثيم الافتراضية أو قالب مخصص يشمل ترقيم الصفحات."
+
+# @ strong-testimonials
+#~ msgid "Here are some features we're planning."
+#~ msgstr "هذه بعض المزايا الإضافية التي نخطط لها"
+
+# @ strong-testimonials
+#~ msgid "The [strong] shortcode uses template files."
+#~ msgstr "اختصار [strong] يستعمل ملفات القالب."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "To create custom templates, copy <code>templates/theme/testimonials.php</"
+#~ "code> from the plugin directory to your theme directory. This template "
+#~ "file contains both the loop and the testimonial layout."
+#~ msgstr ""
+#~ "لصناعة قالب مخصص، انسخ <code>templates/theme/testimonials.php</code> من "
+#~ "ملف الإضافات في ملف الثيم. هذا القالب يحمل الحلقة ونموذج الشهادة"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "The plugin will search for that template file in this order: (1) your "
+#~ "child theme (if using one), (2) your parent theme, (3) the plugin "
+#~ "templates directory."
+#~ msgstr ""
+#~ "هذه الإضافة سوف تبحث عن ملف هذا القالب بهذا الترتيب: (1) ملف الـchild "
+#~ "theme إذا كنت تستعمله ، (2) ملف الثيم ، (3) ملف الإضافة."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Additional template files can be created such as <code>testimonials-narrow."
+#~ "php</code> and found by adding the shortcode attribute <code>template="
+#~ "\"narrow\"</code>."
+#~ msgstr ""
+#~ "ملفات إضافية للتمبلت يمكن أن تصنع مثل <code>testimonials-narrow.php</code> "
+#~ "و تظهر بواسطة وضع هذا الاختصار <code>template=\"narrow\"</code>."
+
+# @ strong-testimonials
+#~ msgid "Template functions"
+#~ msgstr "وظائف القالب"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Use <code>wpmtst_field( $field_name )</code> to get one of your custom "
+#~ "fields."
+#~ msgstr ""
+#~ "استعمل <code>wpmtst_field( $field_name )</code> لتحصل على أحد الخانات "
+#~ "المخصصة التي صنعتها"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Use <code>wpmtst_field( 'truncated', array( 'char_limit' => 200 ) )</code> "
+#~ "to get the truncated testimonial content."
+#~ msgstr "استعمل لتحصل على محتوى شهادة مقتطع."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Use <code>wpmtst_field( 'client', array( 'content' => "
+#~ "$shortcode_content )</code> to get <code>[strong]</code> child shortcodes "
+#~ "for the client section (more <a href=\"edit.php?post_type=wpm-"
+#~ "testimonial&page=shortcodes\">here</a>)."
+#~ msgstr ""
+#~ "استعمل <code>wpmtst_field( 'client', array( 'content' => "
+#~ "$shortcode_content )</code> لتحصل على الاختصار الابن لـ <code>[strong]</"
+#~ "code> لقسم العميل، للمزيد من المعلومات <a href=\"edit.php?post_type=wpm-"
+#~ "testimonial&page=shortcodes\"> هنا</a>"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Look at <code>templates/theme/testimonials.php</code> in the plugin "
+#~ "directory for examples."
+#~ msgstr ""
+#~ "اطلع على <code>templates/theme/testimonials.php</code> في ملف الإضافة "
+#~ "للمزيد من النماذج."
+
+# @ strong-testimonials
+#~ msgid "Translations"
+#~ msgstr "ترجمات"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "There is a POT file in the plugin's <code>languages</code> directory. <a "
+#~ "href=\"%s\" target=_blank\">Contact me</a> to submit a translation file."
+#~ msgstr ""
+#~ "هناك ملف POT في ملف <code>languages</code> في ملف الإضافة، <a href=\"%s\" "
+#~ "target=_blank\"> اتصل بي </a> لإضافة ملف ترجمة"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "The field labels on the submission form will not appear in the POT file so "
+#~ "they must be translated manually in the <a href=\"%s\">Fields editor</a>."
+#~ msgstr ""
+#~ "عنوان الخانة في نموذج التقديم لن يظهر في ملف POT ، لذلك يجب ترجمته يدوياً "
+#~ "في <a href=\"%s\"> محرر الخانات</a>."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "The WordPress browser elements like the <button style=\"font-size: smaller;"
+#~ "\">Browse...</button> button and the \"No file chosen\" message are "
+#~ "controlled by the WordPress language and browser language settings."
+#~ msgstr ""
+#~ "محتويات متصفح الوورد بريس مثل زر <button style=\"font-size: smaller;\"> "
+#~ "استعراض... </button> ورسالة \"لم يتم اختيار ملف\" يتم تعديلها من قبل لغة "
+#~ "وورد بريس وإعدادات اللغة في المتصفح."
+
+# @ strong-testimonials
+#~ msgid "Nofollow links"
+#~ msgstr "روابط غير متبعة"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "The Client Details meta box in the post editor now has an option to add "
+#~ "<code>rel=\"nofollow\"</code> to client URLs. There is no global setting "
+#~ "yet so each one must be enabled manually. Future versions will likely have "
+#~ "a global setting with a local override."
+#~ msgstr ""
+#~ "صندوق الميتا لمعلومات العميل في محرر المقال يوجد فيه الآن خيار  <code>rel="
+#~ "\" غير متبع \"</code> لروابط العميل. لايوجد خيار عام حتى الآن، لذلك كل "
+#~ "واحد يجب أن يتم تفعيله يدوياً على حدة. في الإصدارات القادمة سيكون هناك خيار "
+#~ "عام مع إعادة كتابة داخلية. "
+
+# @ strong-testimonials
+#~ msgid "Found a bug? Have an idea? Need help?"
+#~ msgstr "وجدت خطأ؟ لديك فكرة؟ تريد مساعدة؟"
+
+# @ strong-testimonials
+#~ msgid "Add testimonials to your site in three simple steps."
+#~ msgstr "ضع الشهادات في موقعك بثلاث خطوات بسيطة."
+
+# @ strong-testimonials
+#~ msgid "Use the default settings to hit the ground running."
+#~ msgstr "اختر الإعدادات الافتراضية للعمل بسرعة."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "To accept new testimonials, add the shortcode [strong form] to a page."
+#~ msgstr ""
+#~ "للموافقة على الشهادات الجديدة، أضف الاختصار [strong form] إلى الصفحة."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Review and publish new submissions and/or enter existing testimonials "
+#~ "manually."
+#~ msgstr ""
+#~ "راجع وانشر الشهادات المقدمة الجديدة و/أو أدخل شهادات موجودة مسبقًا يدوياً."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Add a shortcode like [strong title random per_page=\"5\"] to a page and/or "
+#~ "add a widget to a sidebar."
+#~ msgstr ""
+#~ "أضف اختصاراً مثل  [strong title random per_page=\"5\"] للصفحة و/أو أضف "
+#~ "الودجت للسايدبار"
+
+# @ strong-testimonials
+#~ msgid "A testimonial is like a blog post."
+#~ msgstr "الشهادة مثل مقالة في المدونة"
+
+# @ strong-testimonials
+#~ msgid "They have many of the same fields and features:"
+#~ msgstr "إنها تملك الكثير من الخانات والخيارات:"
+
+# @ strong-testimonials
+#~ msgid "A Title"
+#~ msgstr "العنوان"
+
+# @ strong-testimonials
+#~ msgid "a permalink"
+#~ msgstr "رابط ثابت"
+
+# @ strong-testimonials
+#~ msgid "Some content."
+#~ msgstr "بعض المحتوى."
+
+# @ strong-testimonials
+#~ msgid "an excerpt"
+#~ msgstr "مقتطف"
+
+# @ strong-testimonials
+#~ msgid "a featured image (thumbnail)"
+#~ msgstr "صورة بارزة"
+
+# @ strong-testimonials
+#~ msgid "like client name and email"
+#~ msgstr "مثل اسم العميل والبريد الإلكتروني"
+
+# @ strong-testimonials
+#~ msgid "How do you want to use testimonials?"
+#~ msgstr "كيف تريد أن تستعمل الشهادات؟"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "The <strong><a href=\"%s\">Simple</a></strong> tab shows you how to "
+#~ "quickly start adding testimonials to your site."
+#~ msgstr ""
+#~ "تبويب <strong><a href=\"%s\"> بسيط </a></strong> يظهر لك كيفية إضافة "
+#~ "الشهادات إلى موقعك بسرعة."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "The <strong><a href=\"%s\">Advanced</a></strong> tab describes more "
+#~ "features like custom fields and excerpts."
+#~ msgstr ""
+#~ "تبويب <strong><a href=\"%s\"> مخصص </a></strong> يشرح لك المزيد من "
+#~ "الخيارات مثل الخانات المخصصة والمقتطفات"
+
+# @ strong-testimonials
+#~ msgid "You are invited to participate."
+#~ msgstr "أنت مدعو للمشاركة والإسهام."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Coming soon, the direction of this plugin will be in your hands as you "
+#~ "will be able to vote on feature requests."
+#~ msgstr ""
+#~ "قريباً، إخراج هذه الإضافة سيكون بين يديك حيث سيمكنك التصويت على الطلبات "
+#~ "المستقبلية."
+
+# @ strong-testimonials
+#~ msgid "Notes"
+#~ msgstr "ملاحظات"
+
+# @ strong-testimonials
+#~ msgid "Future"
+#~ msgstr "المستقبل"
+
+# @ strong-testimonials
+#~ msgid "The new shortcode that does it all."
+#~ msgstr "الاختصار الجديد الذي يصنع كل شيء."
+
+# @ strong-testimonials
+#~ msgid "Child Shortcodes"
+#~ msgstr "اختصار ابن"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "These shortcodes will be deprecated soon. Please migrate to the <a href="
+#~ "\"%s\"><code>[strong]</code></a> shortcode."
+#~ msgstr ""
+#~ "هذا الاختصار سيتم تجاهله قريباً ، الرجاء الانتقال إلى هذا الاختصار <a href="
+#~ "\"%s\"><code>[strong]</code></a>"
+
+# @ strong-testimonials
+#~ msgid "News"
+#~ msgstr "الأخبار"
+
+# @ strong-testimonials
+#~ msgid "Original"
+#~ msgstr "عام"
+
+# @ strong-testimonials
+#~ msgid "must be inside a parent [ strong ] shortcode"
+#~ msgstr "يجب أن تكون داخل اختصار [ strong ]"
+
+# @ strong-testimonials
+#~ msgid "the client section"
+#~ msgstr "قسم العميل"
+
+# @ strong-testimonials
+#~ msgid "required for displaying custom fields"
+#~ msgstr "مطلوب لعرض الخانات المخصصة"
+
+# @ strong-testimonials
+#~ msgid "a custom field"
+#~ msgstr "خانة مخصصة"
+
+# @ strong-testimonials
+#~ msgid "with a CSS class"
+#~ msgstr "مع CSS class"
+
+# @ strong-testimonials
+#~ msgid "as a link with another field<br /> that opens in a new tab"
+#~ msgstr "كرابط لخانة أخرى <br /> تظهر في تبويب جديد"
+
+# @ strong-testimonials
+#~ msgctxt "adjective"
+#~ msgid "minimal"
+#~ msgstr "أدنى"
+
+# @ strong-testimonials
+#~ msgctxt "adjective"
+#~ msgid "full"
+#~ msgstr "كامل"
+
+# @ strong-testimonials
+#~ msgid "the form"
+#~ msgstr "النموذج"
+
+# @ strong-testimonials
+#~ msgid "show all, 5 per page, with pagination above and below"
+#~ msgstr "أظهر الكل ، 5 في الصفحة ، مع الترقيم في الأعلى والأسفل"
+
+# @ strong-testimonials
+#~ msgid "show 3 random, limited to about 200 characters"
+#~ msgstr "أظهر 3 عشوائيًا، محدد إلى 200 حرف"
+
+# @ strong-testimonials
+#~ msgid "a slideshow with excerpts<br /> from categories 2 and 3"
+#~ msgstr "عرض تقديمي مع مقتطفات <br /> من القسمين 2 و3"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "show the full-length testimonial<br />\n"
+#~ "\t\t\t\twith the title and thumbnail,<br />\n"
+#~ "\t\t\t\tin random order,<br />\n"
+#~ "\t\t\t\twith client name, company, and website,<br />\n"
+#~ "\t\t\t\tand a \"read more\" link"
+#~ msgstr ""
+#~ "أظهر الطول الكامل للشهادة<br />\n"
+#~ "\t\t\t\t مع عنوان وصورة مصغرة<br />\n"
+#~ "\t\t\t\t بترتيب عشوائي<br />\n"
+#~ "\t\t\t\t مع اسم العميل، الشركة، والموقع<br />\n"
+#~ "\t\t\t\t ورابط \"قراءة المزيد\"."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Many more examples on the <a href=\"%s\" target=\"_blank\">demo site</a>."
+#~ msgstr ""
+#~ "الكثير من النماذج الأخرى في  <a href=\"%s\" target=\"_blank\"> موقع العرض</"
+#~ "a>."
+
+# @ strong-testimonials
+#~ msgid "add new submissions to a category"
+#~ msgstr "إضافة شهادة جديدة للقسم"
+
+# @ strong-testimonials
+#~ msgctxt "CSS"
+#~ msgid "add classes to <code>div.strong-container</code>"
+#~ msgstr "إضافة كلاس للـ <code>div.strong-container</code>"
+
+# @ strong-testimonials
+#~ msgid "skip plugin stylesheet"
+#~ msgstr "تجاوز ملف النمط (stylesheet)  للإضافة"
+
+# @ strong-testimonials
+#~ msgctxt "adjective"
+#~ msgid "Multiple"
+#~ msgstr "متعدد"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "If a page has multiple <code>[strong]</code>'s, each one must be closed; e."
+#~ "g. <code>[strong ... /]</code> or <code>[strong ...][/strong]</code>."
+#~ msgstr ""
+#~ "إذا كانت الصفحة تحتوي على <code>[strong]</code> متعددة، يجب أن يتم إغلاق "
+#~ "كل واحدة ، مثال: <code>[strong ... /]</code> أو <code>[strong ...][/"
+#~ "strong]</code>."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "There are no settings yet so each <code>[strong]</code> must have every "
+#~ "attribute it needs, except for the default attributes indicated."
+#~ msgstr ""
+#~ "لايوجد إعدادات حتى الآن ، لذلك كل <code>[strong]</code> يجب أن يحتوي كل "
+#~ "السمات التي يحتاجها، عدا تلك السمات المحددة افتراضياً."
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "New elements: <code>div.strong-container</code> wraps <code>div.strong-"
+#~ "content</code> which wraps the collection of <code>.testimonial</code>'s."
+#~ msgstr ""
+#~ "محتوى جديد: <code>div.strong-container</code> يلف <code>div.strong-"
+#~ "content</code> وذلك يلف مجموعة من <code>.testimonial</code>"
+
+# @ strong-testimonials
+#~ msgctxt "noun"
+#~ msgid "Help"
+#~ msgstr "مساعدة"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Please use the <a href=\"%s\" target=\"_blank\">support forum</a> to "
+#~ "report bugs, get help, or make feature requests."
+#~ msgstr ""
+#~ "الرجاء استعمال <a href=\"%s\" target=\"_blank\"> منتدى الدعم الفني </a> "
+#~ "لتقديم تقرير بالأخطاء، الحصول على مساعدة أو إضافة طلب."
+
+# @ strong-testimonials
+#~ msgid "entire post"
+#~ msgstr "كل المقال"
+
+# @ strong-testimonials
+#~ msgid "excerpt"
+#~ msgstr "مقتطف"
+
+# @ strong-testimonials
+#~ msgid "overrides <b>length limit</b>"
+#~ msgstr "تجاوز <b> الطول المحدد</b>"
+
+# @ strong-testimonials
+#~ msgctxt "content"
+#~ msgid "length limit"
+#~ msgstr "الطول المحدد"
+
+# @ strong-testimonials
+#~ msgid "per page"
+#~ msgstr "في الصفحة"
+
+# @ strong-testimonials
+#~ msgid "navigation after"
+#~ msgstr "التنقل بعد"
+
+# @ strong-testimonials
+#~ msgid "navigation before"
+#~ msgstr "التنقل قبل"
+
+# @ strong-testimonials
+#~ msgid "navigation before & after"
+#~ msgstr "التنقل قبل وبعد"
+
+# @ strong-testimonials
+#~ msgctxt "noun"
+#~ msgid "Parts"
+#~ msgstr "الأقسام"
+
+# @ strong-testimonials
+#~ msgid "show the Title"
+#~ msgstr "عرض العنوان"
+
+# @ strong-testimonials
+#~ msgid "show the Featured Image"
+#~ msgstr "عرض الصورة البارزة"
+
+# @ strong-testimonials
+#~ msgid "\"Read more\" link to the full post"
+#~ msgstr "رابط \"قراءة المزيد\" للمقال الكامل."
+
+# @ strong-testimonials
+#~ msgid "for use with <b>excerpt</b> or <b>length limit</b> only"
+#~ msgstr "للاستعمال مع <b> المقتطف </b> أو <b> الطول المحدد </b> فقط"
+
+# @ strong-testimonials
+#~ msgid "\"Read more\" phrase"
+#~ msgstr "جملة \"قراءة المزيد\""
+
+# @ strong-testimonials
+#~ msgid "default text is \"Read more\" (translatable)"
+#~ msgstr "النص الافتراضية لـ\"قراءة المزيد\" (يمكن ترجمته)"
+
+# @ strong-testimonials
+#~ msgid "show all"
+#~ msgstr "عرض الكل"
+
+# @ strong-testimonials
+#~ msgctxt "quantity"
+#~ msgid "show a certain number"
+#~ msgstr "عرض عدد محدد"
+
+# @ noun
+#~ msgid "order"
+#~ msgstr "ترتيب"
+
+# @ strong-testimonials
+#~ msgid "by category"
+#~ msgstr "حسب القسم"
+
+# @ strong-testimonials
+#~ msgid "by post ID"
+#~ msgstr "حسب رقم المقال"
+
+# @ strong-testimonials
+#~ msgctxt "noun"
+#~ msgid "Style"
+#~ msgstr "نمط (ستايل)"
+
+# @ strong-testimonials
+#~ msgid "select a theme template file"
+#~ msgstr "اختيار نموذج للثيم"
+
+# @ strong-testimonials
+#~ msgid "must not be inside another [ strong ] shortcode"
+#~ msgstr "يجب ألا تكون داخل اختصار [ strong ] آخر"
+
+# @ strong-testimonials
+#~ msgid "appears after the loop"
+#~ msgstr "تظهر بعد الحلقة"
+
+# @ strong-testimonials
+#~ msgid "to another page (required)"
+#~ msgstr "لصفحة أخرى (مطلوب)"
+
+# @ strong-testimonials
+#~ msgid "ID or slug"
+#~ msgstr "رقم أو اسم رابط"
+
+# @ strong-testimonials
+#~ msgctxt "CSS"
+#~ msgid "add classes"
+#~ msgstr "إضافة كلاسات"
+
+# @ strong-testimonials
+#~ msgctxt "setting"
+#~ msgid "show each for (in seconds)"
+#~ msgstr "عرض الكل لمدة (بالثواني)"
+
+# @ strong-testimonials
+#~ msgctxt "setting"
+#~ msgid "transition effect (in seconds)"
+#~ msgstr "تأثير التحرك (بالثواني)"
+
+# @ strong-testimonials
+#~ msgctxt "setting"
+#~ msgid "no pause on hover"
+#~ msgstr "لا توقف الحركة عند تمرير الماوس"
+
+# @ strong-testimonials
+#~ msgid "will pause by default"
+#~ msgstr "ستتوقف تلقائياً"
+
+# @ strong-testimonials
+#~ msgctxt "description"
+#~ msgid "Strong Testimonials widget."
+#~ msgstr "ودجت الشهادات القوي"
+
+# @ strong-testimonials
+#~ msgid "Strong Testimonials"
+#~ msgstr "شهادات قوية"
+
+# @ strong-testimonials
+#~ msgid "http://www.wpmission.com/strong-testimonials/"
+#~ msgstr "http://www.wpmission.com/strong-testimonials/"
+
+# @ strong-testimonials
+#~ msgid ""
+#~ "Collect and display testimonials with a plugin that offers strong features "
+#~ "and strong support."
+#~ msgstr "اجمع واعرض الشهادات بواسطة إضافة تسمح بالإضافات القوية والدعم القوي."
+
+# @ strong-testimonials
+#~ msgid "Chris Dillon"
+#~ msgstr "كريس ديلون"
+
+# @ strong-testimonials
+#~ msgid "http://www.wpmission.com/contact"
+#~ msgstr "http://www.wpmission.com/contact"
+
+# @ strong-testimonials
+#~ msgid "All Categories"
+#~ msgstr "كل الأقسام"
+
+# @ strong-testimonials
+#~ msgid "Add New Category"
+#~ msgstr "إضافة قسم جديد"
+
+# @ strong-testimonials
+#~ msgid "Edit Category"
+#~ msgstr "تعديل القسم"
+
+# @ strong-testimonials
+#~ msgid "New Category"
+#~ msgstr "قسم جديد"
+
+# @ strong-testimonials
+#~ msgid "View Category"
+#~ msgstr "عرض القسم"
+
+# @ strong-testimonials
+#~ msgid "Search Category"
+#~ msgstr "البحث في القسم"
+
+# @ strong-testimonials
+#~ msgid "1.15.12"
+#~ msgstr "1.15.12"

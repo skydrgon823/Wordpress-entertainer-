@@ -1,0 +1,264 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'hs-font';
+  src: url('fonts/hs-font.eot');
+  src: url('fonts/hs-font.eot?#iefix') format('embedded-opentype'),
+    url('fonts/hs-font.woff') format('woff'),
+    url('fonts/hs-font.ttf') format('truetype'),
+    url('fonts/hs-font.svg#hs-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#wp-admin-bar-leadin-admin-menu .ab-icon:before,
+.dashicons-sprocket:before {
+  font-family: 'hs-font' !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#wp-admin-bar-leadin-admin-menu .ab-icon:before,
+.dashicons-sprocket:before {
+  content: '\61';
+}
+
+/* Button */
+.leadin-button {
+  font-size: 14px;
+  line-height: 14px;
+  padding: 12px 24px;
+  font-weight: 500;
+  border: 1px solid #ff7a59;
+  border-radius: 3px;
+  transition: all 0.15s;
+  transition-timing-function: ease-out;
+  text-decoration: none;
+}
+
+.leadin-loader-button {
+  position: relative;
+}
+
+.leadin-button.loading {
+  background-color: #fff;
+  color: #ff7a59;
+  transition-timing-function: ease-out;
+}
+
+.leadin-button.loading:hover {
+  background-color: #fff8f6;
+}
+
+.leadin-button.loading:active {
+  background-color: #ffebe6;
+}
+
+.leadin-primary-button {
+  background-color: #ff7a59;
+  color: #fff;
+}
+
+.leadin-primary-button:hover {
+  background-color: #ff8f73;
+  border-color: #ff8f73;
+  color: #fff;
+}
+
+.leadin-primary-button:active {
+  background-color: #e66e50;
+  border-color: #e66e50;
+}
+
+.leadin-secondary-button {
+  background-color: #fff;
+  color: #ff7a53;
+}
+
+.leadin-secondary-button:hover {
+  background-color: #fff8f6;
+}
+
+.leadin-secondary-button:active {
+  background-color: #ffebe6;
+}
+
+/* Notice */
+.leadin-notice {
+  height: fit-content;
+  padding-top: 27px;
+  padding-bottom: 27px;
+}
+
+.leadin-notice__logo {
+  float: left;
+  padding-left: 20px;
+  margin-top: -10px;
+}
+
+.leadin-notice__logo > img {
+  height: 30px;
+}
+
+.leadin-notice__title,
+.leadin-notice__content {
+  margin-left: 25px;
+}
+
+.leadin-notice__title {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.leadin-notice__content {
+  margin-top: 10px;
+}
+
+.leadin-notice__options {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+
+.leadin-notice__footer {
+  display: flex;
+  margin-top: 15px;
+}
+
+.leadin-notice__footer-text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.leadin-notice__footer-image {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.leadin-notice__cta {
+  padding: 6px 14px;
+  font-size: 13px;
+  font-weight: normal;
+}
+
+.leadin-banner.notice-warning {
+  border-left-color: #ff7a59;
+}
+
+.leadin-banner__link {
+  font-weight: 500;
+}
+
+.leadin-review-banner {
+  position: relative;
+  padding: 20px 28px 26px 28px;
+  color: #5f5f5f;
+}
+
+.leadin-review-banner--hide {
+  display: none;
+}
+
+.leadin-review-banner__dismiss {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 22px;
+}
+
+.leadin-review-banner__content {
+  min-height: 74px;
+}
+
+.leadin-review-banner__content-body {
+  margin-top: 8px;
+}
+
+.leadin-review-banner__text {
+  margin: 0 !important;
+  padding: 0 !important;
+
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+}
+
+.leadin-review-banner__author {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.leadin-review-banner__profile {
+  margin-right: 8px;
+}
+
+#toplevel_page_leadin > ul a {
+  display: none;
+}
+
+#toplevel_page_leadin > ul a.visible {
+  display: inherit;
+}
+
+#toplevel_page_leadin a[href*='leadin_settings'],
+#toplevel_page_leadin a[href*='leadin_user_guide'],
+#toplevel_page_leadin a.leadin_pricing_link {
+  display: inherit;
+}
+
+#toplevel_page_leadin a.leadin_pricing_link {
+  color: #ff7a59 !important;
+}
+
+#toplevel_page_leadin a.leadin_pricing_link:hover {
+  color: #ffbcac !important;
+}
+
+/* Needed to prevent the notice banners being shown briefly under the iframe */
+#leadin-iframe-container {
+  position: absolute;
+  top: 0;
+  height: 100% !important;
+  width: 100% !important;
+  left: 0;
+  background: white;
+}
+
+.elementor-element-editable .hubspot-form-edit-mode + .hubspot-widget-empty,
+.elementor-element-editable .hubspot-meeting-edit-mode + .hubspot-widget-empty {
+  display: none;
+}
+
+.hubspot-form-edit-mode ~ .hbspt-form,
+.hubspot-meeting-edit-mode ~ .meetings-iframe-container{
+  pointer-events: none;
+}
+
+.hubspot-widget-empty {
+  background-image: url('../images/hubspot.svg');
+  background-color: #f5f8fa;
+  background-repeat: no-repeat;
+  background-position: center 25px;
+  background-size: 120px;
+  color: #33475b;
+  font-family: Avenir Next,Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  padding: 90px 20% 25px;
+}
+
+.hubspot-widget-empty p{
+  font-size: inherit !important;
+  line-height: 24px;
+  margin: 4px 0;
+}

@@ -1,0 +1,2110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mobile Menu for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-31 11:50+0000\n"
+"PO-Revision-Date: 2019-05-31 13:43+0000\n"
+"Last-Translator: rgadmin <guerreiro.rui@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.1"
+
+#: mobmenu.php:49
+msgid ""
+"\"> Professional Version Features</a> and the <a href=\"http://www."
+"wpmobilemenu.com\" target=\"_blank\" >Demo site</a>"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:193
+msgid "Remove Icon Selection"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:236
+#, php-format
+msgid "%d items total"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:238
+#: includes/class-wp-mobile-menu-core.php:241
+#, php-format
+msgid "%d item total"
+msgid_plural "%d items total"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-wp-mobile-menu-core.php:276
+#: includes/class-wp-mobile-menu-options.php:1131
+msgid "Icon and Text Below"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:277
+#: includes/class-wp-mobile-menu-options.php:1132
+msgid "Icon and Text on Right Side"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:278
+#: includes/class-wp-mobile-menu-options.php:1133
+msgid "Only Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:279
+#: includes/class-wp-mobile-menu-options.php:1134
+msgid "Only Text"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:368
+#: includes/class-wp-mobile-menu-core.php:492
+msgid "Left Menu Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:475
+#: includes/class-wp-mobile-menu-core.php:645
+msgid "Left Menu Button"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:529
+#: includes/class-wp-mobile-menu-core.php:733
+msgid "Right Menu Button"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:546
+msgid "Right Menu Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:617
+msgid "Cart Menu Button"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:907
+#: includes/class-wp-mobile-menu-core.php:914
+msgid "Left Mobile Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:908
+#: includes/class-wp-mobile-menu-core.php:915
+msgid "Right Mobile Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:909
+msgid "Footer Mobile Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:949
+msgid "Product Category"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:950
+msgid "Price"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:975
+msgid "Refine"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1139
+#: includes/class-wp-mobile-menu-core.php:1141
+msgid "Logo Header Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1191
+msgid "% items"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1194
+msgid "0 items"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1196
+msgid "1 item"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1256
+msgid "Cart Menu Button Image"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1261
+msgid "Cart Menu Button Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1309
+msgid "Unit Price:"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1310
+msgid "Quantity:"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1312
+msgid "Remove this item"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1321
+msgid "Total"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1325
+msgid "View cart"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1326
+msgid "Checkout"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1396
+msgid "My Account"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1397
+msgid "Sign Out"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1399
+msgid "Login"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1515
+msgid "Left Menu Top"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1528
+msgid "Left Menu Bottom"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1541
+msgid "Right Menu Top"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1554
+msgid "Right Menu Bottom"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:1567
+msgid "Mobile Filter Shop"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4061
+msgid "The file is empty. Upload a new file and try again."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4069
+msgid "Settings Imported successfully."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4072
+msgid "Something went wrong. Upload a new file and try again."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4076
+msgid ""
+"The settings are exactly the same has the current ones. Nothing was imported."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4085
+msgid "Import the Mobile Menu Official Demos"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4086
+msgid ""
+"This process will import the settings from the official demos. The logos "
+"should be assigned after the import."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4090
+msgid "WooCommerce Shop Demo (Business)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4091
+#: includes/class-wp-mobile-menu-core.php:4105
+#: includes/class-wp-mobile-menu-core.php:4105
+msgid "Import Demo"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4099
+#: includes/class-wp-mobile-menu-core.php:4113
+msgid "See Demo Site"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4104
+msgid "Professional Demo"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4129
+msgid "Import the Mobile Menu settings from a txt file"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4130
+msgid ""
+"This tool allows you to import the settings of WP Mobile Menu that were "
+"previously exported from other website."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4146
+msgid "Choose the settings file from your computer:"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-core.php:4159
+#: includes/class-wp-mobile-menu-options.php:574
+msgid "Import"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:52
+msgid "Choose one menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:63
+#: includes/class-wp-mobile-menu-options.php:126
+msgid "Image"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:64
+#: includes/class-wp-mobile-menu-options.php:127
+msgid "Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:65
+msgid "Animated Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:69
+msgid "Overlay"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:70
+#: includes/class-wp-mobile-menu-options.php:131
+msgid "Slideout Push Content"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:71
+#: includes/class-wp-mobile-menu-options.php:132
+msgid "Slideout Over Content"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:72
+msgid "Slideout from Top"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:76
+#: includes/class-wp-mobile-menu-options.php:812
+#: includes/class-wp-mobile-menu-options.php:947
+#: includes/class-wp-mobile-menu-options.php:1044
+msgid "Left"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:77
+#: includes/class-wp-mobile-menu-options.php:814
+#: includes/class-wp-mobile-menu-options.php:949
+#: includes/class-wp-mobile-menu-options.php:1046
+msgid "Right"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:78
+msgid "Above"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:79
+msgid "Below"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:83
+msgid "3DX"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:84
+msgid "3DY"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:85
+msgid "3DXY"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:86
+msgid "Arrow"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:87
+msgid "Arrow Alt"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:88
+msgid "Arrow Turn"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:89
+msgid "Collapse"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:90
+msgid "Elastic"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:91
+msgid "Emphatic"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:92
+msgid "Minus"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:93
+msgid "Squeeze"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:94
+msgid "Spin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:95
+msgid "Slider"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:96
+msgid "Stand"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:97
+msgid "Spring"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:98
+msgid "Vortex"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:161
+msgid "Mobile Menu Options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:170
+msgid "WP Mobile Menu Meta options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:176
+msgid "Alternative Left Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:179
+msgid "Select the menu that will open in the left side just for this page."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:185
+msgid "Alternative Right Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:188
+msgid "Select the menu that will open in the right side just for this page."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:194
+msgid "Alternative Footer Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:197
+msgid "Select the menu that will appear at the footer."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:203
+msgid "Use page title"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:206
+msgid "Choose if you want to display the page Title in the Header/Banner"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:209
+#: includes/class-wp-mobile-menu-options.php:786
+msgid "Yes - In the Header"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:210
+#: includes/class-wp-mobile-menu-options.php:787
+msgid "Yes - In the Header Banner"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:220
+msgid "General Options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:223
+#: includes/class-wp-mobile-menu-options.php:2726
+msgid "Header"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:227
+msgid "Footer"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:231
+#: includes/class-wp-mobile-menu-options.php:1235
+msgid "Left Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:234
+#: includes/class-wp-mobile-menu-options.php:1631
+msgid "Right Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:246
+msgid "Colors"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:249
+msgid "Fonts"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:252
+msgid "Documentation"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:272
+msgid "Woocommerce Menu Font"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:275
+#: includes/class-wp-mobile-menu-options.php:870
+#: includes/class-wp-mobile-menu-options.php:982
+#: includes/class-wp-mobile-menu-options.php:1187
+#: includes/class-wp-mobile-menu-options.php:1289
+#: includes/class-wp-mobile-menu-options.php:1560
+#: includes/class-wp-mobile-menu-options.php:1594
+#: includes/class-wp-mobile-menu-options.php:1696
+#: includes/class-wp-mobile-menu-options.php:1955
+msgid "Select a style"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:296
+msgid "Mobile Menu Visibility(Width Trigger)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:299
+msgid ""
+"The Mobile menu will appear at this window size. Place it at 5000 to be "
+"always visible. "
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:308
+msgid ""
+"The Width trigger field is very important because it determines the width "
+"that will show the Mobile Menu. If you want it always visible set it to "
+"5000px"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:313
+msgid "Enable only in Mobile devices"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:317
+msgid ""
+"Enable only in Mobiles devices. This will disable the Mobile Menu Visibilty "
+"option above (using resolution width trigger)."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:318
+#: includes/class-wp-mobile-menu-options.php:329
+#: includes/class-wp-mobile-menu-options.php:340
+#: includes/class-wp-mobile-menu-options.php:353
+#: includes/class-wp-mobile-menu-options.php:435
+#: includes/class-wp-mobile-menu-options.php:446
+#: includes/class-wp-mobile-menu-options.php:2674
+#: includes/class-wp-mobile-menu-options.php:2685
+#: includes/class-wp-mobile-menu-options.php:2696
+#: includes/class-wp-mobile-menu-options.php:2707
+msgid "On"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:319
+#: includes/class-wp-mobile-menu-options.php:330
+#: includes/class-wp-mobile-menu-options.php:341
+#: includes/class-wp-mobile-menu-options.php:354
+#: includes/class-wp-mobile-menu-options.php:436
+#: includes/class-wp-mobile-menu-options.php:447
+#: includes/class-wp-mobile-menu-options.php:2675
+#: includes/class-wp-mobile-menu-options.php:2686
+#: includes/class-wp-mobile-menu-options.php:2697
+#: includes/class-wp-mobile-menu-options.php:2708
+msgid "Off"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:324
+msgid "Enable Left Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:328
+msgid "Enable or disable the WP Mobile Menu Left Menu."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:335
+msgid "Enable Right Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:339
+msgid "Enable or disable the WP Mobile Menu without deactivate the plugin."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:348
+msgid "Enable Footer Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:352
+msgid "Enable or disable the Footer Menu."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:359
+msgid "Hide Original Menu/header"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:365
+msgid ""
+"If you need help identifying the correct elements just send us an email to "
+"<a href=\"mailto:support@wpmobilemenu.com\">support@wpmobilemenu.com</a> "
+"with your site url and a screenshot of the element you want to hide. We "
+"reply fast."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:371
+msgid "Hide Elements"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:375
+msgid ""
+"<p>This will hide the desired elements when the Mobile menu is trigerred at "
+"the chosen width.</p><p>You can use css class or IDs.</p><p> Example: .menu ,"
+" #nav</p>"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:379
+msgid "Hide elements by default"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:382
+msgid "Check the desired elements"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:399
+msgid "Miscellaneous Options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:405
+msgid "Menu Display Type"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:408
+msgid "Choose the display type for the mobile menu."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:417
+msgid "Enable Over Effects"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:420
+msgid "Select an option"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:422
+msgid "Enabled"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:423
+#: includes/class-wp-mobile-menu-options.php:2720
+msgid "Disabled"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:430
+msgid "Sliding Submenus."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:433
+msgid "When you open a submenu it automatically slides."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:441
+msgid "Automatically Close Submenus."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:444
+msgid ""
+"When you open a submenu it automatically closes the other submenus that are "
+"open."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:452
+msgid "Menu Items Border Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:456
+msgid ""
+"Choose the size of the menu items border.<a href=\"/wp-admin/admin.php?"
+"page=mobile-menu-options&tab=colors\" target=\"_blank\">Click here</a> to "
+"adjust the color."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:464
+msgid "Close Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:467
+#: includes/class-wp-mobile-menu-options.php:488
+#: includes/class-wp-mobile-menu-options.php:497
+#: includes/class-wp-mobile-menu-options.php:1372
+#: includes/class-wp-mobile-menu-options.php:1768
+#: includes/class-wp-mobile-menu-options.php:2762
+#: includes/class-wp-mobile-menu-options.php:2822
+msgid ""
+"<div class=\"mobmenu-icon-holder\"></div><a href=\"#\" class=\"mobmenu-icon-"
+"picker button\">Select menu icon</a>"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:473
+msgid "Close Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:476
+msgid "Enter the Close Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:485
+msgid "Submenu Open Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:494
+msgid "Submenu Close Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:503
+msgid "Submenu Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:506
+msgid "Enter the Submenu Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:514
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:520
+msgid "Sticky Html Elements"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:524
+msgid ""
+"<p>If you are having issues with sticky elements that dont assume a sticky "
+"behaviour, enter the ids or class name that identify that element.</p>"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:529
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:532
+msgid "Put your custom CSS rules here"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:538
+msgid "Custom JS"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:541
+msgid "Put your custom JS rules here"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:550
+msgid "Disable Mobile Menu on selected pages"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:553
+msgid "Select a page"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:559
+msgid "Import/Export Options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:565
+msgid "Export Settings"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:567
+msgid "Export"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:572
+msgid "Import Settings"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:579
+msgid "Main options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:586
+msgid "Header Elements Position"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:589
+msgid "Drag and Drop to reorder of the icons and logo in the Mobile Header."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:597
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:601
+msgid ""
+"Choose if you want to have the Header Fixed or scrolling with the content."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:602
+#: includes/class-wp-mobile-menu-options.php:613
+#: includes/class-wp-mobile-menu-options.php:623
+#: includes/class-wp-mobile-menu-options.php:635
+#: includes/class-wp-mobile-menu-options.php:724
+#: includes/class-wp-mobile-menu-options.php:905
+#: includes/class-wp-mobile-menu-options.php:1015
+#: includes/class-wp-mobile-menu-options.php:1030
+#: includes/class-wp-mobile-menu-options.php:1125
+#: includes/class-wp-mobile-menu-options.php:1250
+#: includes/class-wp-mobile-menu-options.php:1646
+msgid "Yes"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:603
+#: includes/class-wp-mobile-menu-options.php:614
+#: includes/class-wp-mobile-menu-options.php:624
+#: includes/class-wp-mobile-menu-options.php:636
+#: includes/class-wp-mobile-menu-options.php:725
+#: includes/class-wp-mobile-menu-options.php:785
+#: includes/class-wp-mobile-menu-options.php:906
+#: includes/class-wp-mobile-menu-options.php:1016
+#: includes/class-wp-mobile-menu-options.php:1031
+#: includes/class-wp-mobile-menu-options.php:1126
+#: includes/class-wp-mobile-menu-options.php:1251
+#: includes/class-wp-mobile-menu-options.php:1647
+msgid "No"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:608
+msgid "Naked Header"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:612
+msgid ""
+"Choose if you want to display a naked header with no background "
+"color(transparent)."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:618
+msgid "Disable Logo/Text"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:622
+msgid ""
+"Choose if you want to disable the logo/text so it will only display the menu "
+"icons in the header."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:630
+msgid "Auto-hide Header when scrolling down."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:634
+msgid ""
+"Choose if you want to hide the header when scrolling down. It will reapear "
+"when you scroll up."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:641
+msgid "Logo options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:647
+#: includes/class-wp-mobile-menu-options.php:679
+msgid "Site Logo"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:651
+msgid "Choose if you want to display an image has logo or text instead."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:652
+#: includes/class-wp-mobile-menu-options.php:658
+#: includes/class-wp-mobile-menu-options.php:665
+#: includes/class-wp-mobile-menu-options.php:689
+msgid "Logo"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:653
+#: includes/class-wp-mobile-menu-options.php:659
+#: includes/class-wp-mobile-menu-options.php:666
+msgid "Text"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:660
+msgid "Logo + Text"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:661
+msgid "Text + Logo"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:682
+msgid "Chose the Header Branding ( Logo/Text )."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:692
+msgid "Upload your logo image"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:698
+msgid "Logo Height"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:701
+msgid "Enter the height of the logo"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:710
+msgid "Logo Retina"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:713
+msgid "Upload your logo image for retina devices"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:719
+msgid "Disable Logo URL "
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:723
+msgid ""
+"Choose if you want to disable the logo url to avoid being redirect to the "
+"homepage or alternative home url when touching the header logo."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:730
+msgid "Alternative Logo URL"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:733
+msgid ""
+"Enter you alternative logo URL. If you leave it blank it will use the Site "
+"URL."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:739
+msgid "Logo/Text Top Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:742
+msgid "Enter the logo/text top margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:750
+msgid "Header options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:756
+msgid "Header Height"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:759
+msgid "Enter the height of the header"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:768
+msgid "Header Text"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:771
+msgid ""
+"Enter the desired text for the Mobile Header. If not specified it will use "
+"the site title."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:780
+msgid "Use page title text"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:783
+msgid "Chose if you want to display the page Title in the Header/Banner."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:795
+msgid "Header Text Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:798
+msgid "Enter the header text font size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:813
+#: includes/class-wp-mobile-menu-options.php:948
+#: includes/class-wp-mobile-menu-options.php:1045
+msgid "Center"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:821
+msgid "Header Logo/Text Left Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:824
+msgid ""
+"Enter the header Logo/Text left margin (only used whit Header Left Alignment)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:835
+msgid "Header Logo/Text Spacing"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:838
+msgid ""
+"Enter the header Logo/Text spacing between the Logo and the Text(it only "
+"applies when you have both in the site logo)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:848
+msgid "Header Logo/Text Right Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:851
+msgid ""
+"Enter the header Logo/Text right margin (only used whit Header Right "
+"Alignment)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:867
+msgid "Header Menu Font"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:894
+msgid "Header Banner options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:900
+msgid "Enable Header Banner"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:904
+#: includes/class-wp-mobile-menu-options.php:1014
+msgid "Choose if you want to enable the Header Banner."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:911
+msgid "Header Banner Position"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:915
+msgid "Choose the position of the Header Banner."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:916
+msgid "Above Header"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:917
+msgid "Below Header"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:922
+msgid "Header Banner Content"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:925
+msgid "Enter the banner header content, you can use HTML and Shortcodes."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:930
+msgid "Header Banner Height"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:933
+msgid "Enter the height of the header banner"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:942
+msgid "Header Banner Alignment"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:945
+msgid "Chose the header Banner alignment."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:956
+msgid "Header Banner Left Padding"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:959
+msgid ""
+"Enter the header banner left padding (only used whit Header Banner Left "
+"Alignment)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:968
+msgid "Header Banner Right Padding"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:971
+msgid ""
+"Enter the header banner right padding (only used whit Header Banner Right "
+"Alignment)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:979
+msgid "Header Banner Font"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1004
+msgid "Header Search options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1010
+msgid "Enable Header Search"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1021
+msgid "Header Elements Order "
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1023
+msgid ""
+"<p style=\"font-weight:bold;font-style:italic;color:blue;\">Go to the top of "
+"this page and set the position to the search icon.</p>"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1027
+msgid "Live Search (AJax)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1039
+msgid "Search Results Alignment"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1042
+msgid "Chose the search results alignment."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1053
+msgid "Search Icon Image"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1057
+msgid "Upload your search icon image"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1063
+msgid "Search Icon Top Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1066
+msgid "Enter the Search Icon Top Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1075
+msgid "Search Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1078
+msgid "Enter the Search Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1087
+msgid "Use text instead Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1090
+msgid ""
+"Fill this field with the text that will show up in the submit button of the "
+"search form. Clear this field to use the search icon."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1096
+msgid "Placeholder Text"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1099
+msgid ""
+"Fill this field with the text that will show up in search input field "
+"placeholder."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1100
+msgid "Search"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1110
+msgid "Footer Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1113
+msgid "Select the menu that will appear in the footer."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1120
+msgid "Auto-hide Footer when scrolling Up."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1124
+msgid ""
+"Choose if you want to hide the footer when scrolling up. It will reapear "
+"when you scroll down."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1139
+msgid "Footer Style"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1142
+msgid "Chose the Footer Menu Style ( Icon/Text )."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1148
+msgid "Footer Padding"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1151
+msgid ""
+"This will determine the height of the footer together with the icon and text "
+"size."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1160
+#: includes/class-wp-mobile-menu-options.php:1378
+#: includes/class-wp-mobile-menu-options.php:1774
+#: includes/class-wp-mobile-menu-options.php:2828
+msgid "Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1163
+msgid "Enter the Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1172
+msgid "Text Line Height"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1175
+msgid ""
+"Enter the Text Line Height. Is useful to control the vertical space between "
+"the icon and the text."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1184
+msgid "Footer Text Font"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1209
+msgid "Footer Text Font/Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1220
+msgid "Left Menu Content"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1223
+#: includes/class-wp-mobile-menu-options.php:1619
+msgid "Drag and Drop to reorder of the content of the Left Panel."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1238
+msgid "Select the menu that will open in the left side."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1245
+#: includes/class-wp-mobile-menu-options.php:1641
+msgid "Parent Link open submenu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1249
+#: includes/class-wp-mobile-menu-options.php:1645
+msgid ""
+"Choose if you want to open the submenu by click in the Parent Menu item."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1259
+#: includes/class-wp-mobile-menu-options.php:1655
+msgid "Only visible for logged users"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1263
+msgid "Enable the left menu for logged in users only."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1271
+#: includes/class-wp-mobile-menu-options.php:1667
+msgid "Menu Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1277
+msgid "Text After Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1280
+msgid "Enter the text that will appear after the Icon."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1286
+msgid "Text After Icon Font"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1309
+#: includes/class-wp-mobile-menu-options.php:1682
+msgid "Icon Action"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1313
+msgid "Open the Left Menu Panel or open a Link url."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1314
+#: includes/class-wp-mobile-menu-options.php:1687
+msgid "Open Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1315
+#: includes/class-wp-mobile-menu-options.php:1688
+msgid "Open Link Url"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1320
+#: includes/class-wp-mobile-menu-options.php:1717
+msgid "Icon Link URL"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1323
+#: includes/class-wp-mobile-menu-options.php:1720
+msgid "Enter the Icon Link Url."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1329
+#: includes/class-wp-mobile-menu-options.php:1726
+msgid "Icon Link Url Target"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1333
+#: includes/class-wp-mobile-menu-options.php:1730
+msgid "Choose it the link will open in the same window or in the new window."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1346
+#: includes/class-wp-mobile-menu-options.php:1743
+#: includes/class-wp-mobile-menu-options.php:2808
+msgid "Icon Type"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1350
+#: includes/class-wp-mobile-menu-options.php:1747
+msgid "Choose if you want to display an image, icon or an animated icon."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1358
+#: includes/class-wp-mobile-menu-options.php:1754
+msgid "Icon Animation Type"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1362
+#: includes/class-wp-mobile-menu-options.php:1758
+msgid "Only for the animated icon."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1369
+#: includes/class-wp-mobile-menu-options.php:1765
+#: includes/class-wp-mobile-menu-options.php:2814
+#: includes/class-wp-mobile-menu-options.php:2819
+msgid "Icon Font"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1381
+msgid "Enter the Left Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1390
+#: includes/class-wp-mobile-menu-options.php:1786
+#: includes/class-wp-mobile-menu-options.php:2840
+msgid "Icon Image"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1394
+msgid "Upload your left menu icon image"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1400
+#: includes/class-wp-mobile-menu-options.php:1795
+msgid "Icon Top Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1403
+msgid "Enter the Left Icon Top Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1412
+msgid "Icon Left Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1415
+msgid "Enter the Left Icon Left Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1428
+#: includes/class-wp-mobile-menu-options.php:1823
+msgid ""
+"The icon settings below are related with the icons that will appear next to "
+"the Menu items text."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1433
+#: includes/class-wp-mobile-menu-options.php:1828
+msgid "Menu Item Icons Position"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1438
+#: includes/class-wp-mobile-menu-options.php:1833
+msgid ""
+"Choose if you want the menu item icon to display at the left or right side "
+"of the menu items."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1443
+#: includes/class-wp-mobile-menu-options.php:1838
+msgid "Menu Item Icons Horizontal Padding"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1446
+msgid "Enter the Left Menu Item icons horizontal padding(pixels)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1455
+msgid "Left Panel options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1461
+#: includes/class-wp-mobile-menu-options.php:1857
+#: includes/class-wp-mobile-menu-options.php:2911
+msgid "Panel Background Image"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1464
+msgid ""
+"Upload your left menu background image(this will override the Background "
+"color option)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1469
+#: includes/class-wp-mobile-menu-options.php:1865
+#: includes/class-wp-mobile-menu-options.php:2919
+msgid "Panel Background Image Opacity"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1472
+#: includes/class-wp-mobile-menu-options.php:2922
+msgid "Enter the Left Background image opacity"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1482
+#: includes/class-wp-mobile-menu-options.php:1878
+#: includes/class-wp-mobile-menu-options.php:2932
+msgid "Panel Background Image Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1486
+#: includes/class-wp-mobile-menu-options.php:1881
+#: includes/class-wp-mobile-menu-options.php:2935
+msgid ""
+"Select the Background image size type. <a href=\"https://www.w3schools."
+"com/cssref/css3_pr_background-size.asp\" target=\"_blank\">See the CSS "
+"Documentation</a>"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1488
+#: includes/class-wp-mobile-menu-options.php:1883
+#: includes/class-wp-mobile-menu-options.php:2937
+msgid "Auto"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1489
+#: includes/class-wp-mobile-menu-options.php:1884
+#: includes/class-wp-mobile-menu-options.php:2938
+msgid "Contain"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1490
+#: includes/class-wp-mobile-menu-options.php:1885
+#: includes/class-wp-mobile-menu-options.php:2939
+msgid "Cover"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1491
+#: includes/class-wp-mobile-menu-options.php:1886
+#: includes/class-wp-mobile-menu-options.php:2940
+msgid "Inherit"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1492
+#: includes/class-wp-mobile-menu-options.php:1887
+#: includes/class-wp-mobile-menu-options.php:2941
+msgid "Initial"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1493
+#: includes/class-wp-mobile-menu-options.php:1888
+#: includes/class-wp-mobile-menu-options.php:2942
+msgid "Unset"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1500
+#: includes/class-wp-mobile-menu-options.php:1895
+#: includes/class-wp-mobile-menu-options.php:2949
+msgid "Panel Background Gradient Css"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1503
+#: includes/class-wp-mobile-menu-options.php:1898
+#: includes/class-wp-mobile-menu-options.php:2952
+msgid ""
+"<a href=\"https://webgradients.com/\" target=\"_blank\">Click here</a> to "
+"get your desired Gradient, just press the copy button and paste in this "
+"field."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1509
+#: includes/class-wp-mobile-menu-options.php:1904
+#: includes/class-wp-mobile-menu-options.php:2958
+msgid "Menu Panel Width Units"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1513
+#: includes/class-wp-mobile-menu-options.php:1908
+#: includes/class-wp-mobile-menu-options.php:2962
+msgid "Choose the width units."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1515
+#: includes/class-wp-mobile-menu-options.php:1910
+#: includes/class-wp-mobile-menu-options.php:2964
+msgid "Percentage"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1520
+#: includes/class-wp-mobile-menu-options.php:1915
+#: includes/class-wp-mobile-menu-options.php:2969
+msgid "Menu Panel Width(Pixels)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1523
+#: includes/class-wp-mobile-menu-options.php:1535
+msgid "Enter the Left Menu Panel Width"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1532
+#: includes/class-wp-mobile-menu-options.php:1927
+#: includes/class-wp-mobile-menu-options.php:2981
+msgid "Menu Panel Width(Percentage)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1544
+msgid "Left Menu Content Padding"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1547
+msgid "Enter the Left Menu Content Padding"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1557
+msgid "Left Menu Font"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1583
+msgid "Left Menu Copyright Content"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1586
+#: includes/class-wp-mobile-menu-options.php:1982
+msgid "Enter the Copyright content, you can use HTML and Shortcodes."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1591
+msgid "Copyright Font"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1616
+msgid "Right Menu Content"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1634
+msgid "Select the menu that will open in the right side."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1659
+msgid "Enable the right menu for logged in users only."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1673
+msgid "Text Before Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1676
+msgid "Enter the text that will appear before the Icon."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1686
+msgid "Open the Right Menu Panel or open a Link url."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1693
+msgid "Text Before Icon Font"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1777
+msgid "Enter the Right Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1789
+msgid "Upload your right menu icon image"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1798
+msgid "Enter the Right Icon Top Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1807
+msgid "Icon Right Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1810
+msgid "Enter the Right Icon Right Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1841
+msgid "Enter the Right Menu Item icons horizontal padding(pixels)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1851
+msgid "Right Panel options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1860
+msgid ""
+"upload your right menu background image(this will override the Background "
+"color option)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1868
+msgid "Enter the Right Background image opacity"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1909
+#: includes/class-wp-mobile-menu-options.php:2963
+msgid "Pixels"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1918
+#: includes/class-wp-mobile-menu-options.php:1930
+msgid "Enter the Right Menu Panel Width"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1939
+msgid "Right Menu Content Padding"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1942
+msgid "Enter the Right Menu Content Padding"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1952
+msgid "Right Menu Font"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1979
+msgid "Right Menu Copyright Content"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1987
+msgid "General"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:1993
+msgid "Overlay Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2003
+msgid "Menu Items Border Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2013
+msgid "Highlight Current Page Item"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2027
+msgid "Woocommerce Colors"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2033
+msgid "Cart Icon Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2043
+#: includes/class-wp-mobile-menu-options.php:2415
+#: includes/class-wp-mobile-menu-options.php:2515
+msgid "Text Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2053
+msgid "Woocommerce Panel Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2063
+msgid "Checkout Button Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2073
+msgid "Checkout Button Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2083
+msgid "View Cart Button Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2093
+msgid "View Cart Button Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2106
+msgid "Header Colors"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2112
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2122
+msgid "Header Text Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2135
+msgid "Header Search Colors"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2141
+msgid "Search Icon Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2151
+msgid "Search Form Button Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2161
+msgid "Search Form Button Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2171
+msgid "Search Form Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2181
+msgid "Search Form Text Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2191
+msgid "Search Form Placeholder Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2201
+msgid "Search Results Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2211
+msgid "Search Results Text Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2221
+msgid "Search Results Background Hover Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2231
+msgid "Search Results Text Hover Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2241
+msgid "Header Banner Colors"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2247
+msgid "Header Banner Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2257
+msgid "Header Banner Text Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2267
+msgid "Footer Colors"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2273
+msgid "Footer Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2283
+msgid "Footer Background Color Hover"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2293
+msgid "Footer Icon Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2303
+msgid "Footer Icon Color Hover"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2313
+msgid "Footer Text Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2323
+msgid "Footer Text Color Hover"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2333
+msgid "Highlight Current Page Item Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2343
+msgid "Footer Icon Color Current Page"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2353
+msgid "Footer Text Color Current Page"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2365
+msgid "Left Menu Colors"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2371
+msgid "Left Menu Icon Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2381
+msgid "Text After Left Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2394
+msgid "Left Menu Items Icon Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2405
+#: includes/class-wp-mobile-menu-options.php:2505
+msgid "Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2425
+#: includes/class-wp-mobile-menu-options.php:2525
+msgid "Background Hover Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2435
+#: includes/class-wp-mobile-menu-options.php:2535
+msgid "Hover Text Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2445
+#: includes/class-wp-mobile-menu-options.php:2545
+msgid "Submenu Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2455
+#: includes/class-wp-mobile-menu-options.php:2555
+msgid "Submenu Text Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2465
+msgid "Right Menu Colors"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2471
+msgid "Right Menu Icon Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2481
+msgid "Text Before Right Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2494
+msgid "Right Menu Items Icon Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2565
+msgid "3rd Level Menu Colors"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2571
+msgid "Left Menu Text Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2581
+msgid "Left Menu Text Color Hover"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2591
+msgid "Left Menu Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2601
+msgid "Left Menu Background Color Hover"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2611
+msgid "Right Menu Text Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2621
+msgid "Right Menu Text Color Hover"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2631
+msgid "Right Menu Background Color"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2641
+msgid "Right Menu Background Color Hover"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2665
+msgid "Woocommerce"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2669
+msgid "Enable Woocommerce Menu"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2673
+msgid "Enable or disable the Woocommerce Menu."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2680
+msgid "Open Cart Panel after adding a product"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2684
+msgid "Open Cart Panel after adding a product."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2691
+msgid "Enable Account Links in Mobile Cart Panel"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2695
+msgid "Enable Account(Login/logout) Section in the Mobile Cart Panel."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2702
+msgid "Header Search only in Products"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2706
+msgid "Search Only Products in the Header Search."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2713
+msgid "Header Elements Order"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2715
+msgid ""
+"<p>Click in this link to go to the reorder option. Save the changes first."
+"</p><a href=\"/wp-admin/admin.php?page=mobile-menu-options&tab=header\">"
+"Header Elements Order</a>"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2721
+msgid "Enabled on All Pages"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2722
+msgid "Enabled on Woocommerce Pages"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2727
+msgid "Footer (replacing the Shop Menu Item)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2732
+msgid "Cart Total in Footer"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2735
+msgid "Choose the options to enable the Cart Total in Footer."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2742
+msgid "Product Filter"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2748
+msgid "Enable Mobile Product Filter"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2752
+msgid ""
+"Enable or disable the Mobile Product Filter. The Product Filter will appear "
+"only in the Shop and product category pages."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2759
+msgid "Filter Icon Font"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2768
+msgid "Filter Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2771
+msgid "Enter the Woocommerce Filter Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2780
+msgid "Shop Filter Top Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2783
+msgid "Enter the Shop Filter Top Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2792
+msgid "Shop Filter Location"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2795
+msgid "Choose the location of the Shop Filter."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2802
+msgid "Cart Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2812
+msgid "Choose if you want to display the default cart SVG or an icon."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2813
+msgid "Default Cart SVG Icon"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2831
+msgid "Enter the Woocommerce Menu Icon Font Size"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2844
+msgid "Upload your Woocommerce Menu icon image"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2850
+msgid "Cart Icon Top Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2853
+msgid "Enter the Cart Icon Top Margin"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2862
+msgid "Woocommerce Cart Text/Translations"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2868
+msgid "Cart Header Text"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2871
+msgid "Enter the custom text for the Cart Header Text."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2872
+msgid "Your Cart"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2877
+msgid "Cart No Items Text"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2880
+msgid "Enter the custom text for the Cart No Items Text."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2881
+msgid "No items found."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2886
+msgid "Cart Link to the Shop Page Text"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2889
+msgid "Enter the custom text for the Cart Link to the Shop page."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2890
+msgid "Start Shopping Now"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2895
+msgid "Filter Icon Text"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2898
+msgid "Enter the custom text for the Filter Icon."
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2899
+#: includes/class-wp-mobile-menu-walker-nav-menu.php:88
+msgid "Filter"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2905
+msgid "Woocommerce Panel options"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2914
+msgid ""
+"Upload your Woocommerce menu background image(this will override the "
+"Background color option)"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2972
+#: includes/class-wp-mobile-menu-options.php:2984
+msgid "Enter the Menu Panel Width"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2993
+msgid "Menu Content Padding"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-options.php:2996
+msgid "Enter the Menu Content Padding"
+msgstr ""
+
+#: includes/class-wp-mobile-menu-walker-nav-menu.php:105
+msgid "Back"
+msgstr ""
+
+#. Name of the plugin
+msgid "Mobile Menu"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"An easy to use WordPress responsive mobile menu. Keep your mobile visitors "
+"engaged."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wpmobilemenu.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Takanakui"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.jedipress.com/"
+msgstr ""
